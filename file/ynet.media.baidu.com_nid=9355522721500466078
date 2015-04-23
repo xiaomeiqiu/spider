@@ -1,0 +1,584 @@
+<!doctype html>
+<html>
+<head>
+<!--STATUS OK-->
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+<title>北京青年报_百度传媒</title>
+
+<link rel="dns-prefetch" href="//ns0.bdstatic.com">
+<link rel="dns-prefetch" href="//ns1.bdstatic.com">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="" >
+
+
+
+
+<script>
+  var serverData = {
+    maxseg : '3',
+    total : '600',
+    hasMore : '1',
+    rn : '60',
+    lastNid : '9559740157142212133',
+    logowidth : '144',
+    logoheight : '30',
+    coverlogoheight : '50',
+    menuCount : 9,
+    subscribename : 'ynet',
+    terms : '',
+    menu : [],
+    channelname : '',
+    device: 'pc'
+  }
+  if(!''){
+    serverData.channelname = 'index';
+  }else{
+    serverData.channelname = '';
+  }
+
+  // hunter统计
+  void function(e,t,n,a,o,i,m){e.alogObjectName=o,e[o]=e[o]||function(){(e[o].q=e[o].q||[]).push(arguments)},e[o].l=e[o].l||+new Date,i=t.createElement(n),i.asyn=1,i.src=a,m=t.getElementsByTagName(n)[0],m.parentNode.insertBefore(i,m)}(window,document,"script","http://img.baidu.com/hunter/alog.min.js","alog");
+    </script>
+
+<link rel="stylesheet" type="text/css" href="/static/common/pkg/aio_ec06920.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/css/all_e472514.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/skin/red_6957012.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/mod_page/mod_page_aac155e.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/ap_ulist/ap_ulist_c1b4057.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/header/header_6c174ae.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/cover/cover_1a2721a.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/mod_banner/mod_banner_b7ecfb4.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/footer/footer_1ef9d4d.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/mod_sidebar/mod_sidebar_cb6d93e.css"/></head>
+<body>
+
+<style>
+  body{padding-top:0}
+  #Header{position: relative;}
+</style>
+
+
+<div class="wrap">
+<div id="Cover" class="mod-cover">
+<div class="cover">
+<div class="coverbg"></div>
+<div class="coverlogo"><img src="http://news.baidu.com/resource/r/image/2014-12-29/bb0916415c19acda9a8369830a697242.png"></div>
+<div class="coverslogan">
+<p class="ll"></p>
+<span>新闻是有分量的</span>
+<p class="rl"></p>
+</div>
+</div>
+</div><div id="Header">
+<div class="header">
+<h1 class="test"></h1>
+<div class="logo" style="width:144px;"><a href="/" target="_blank" ><img src="http://news.baidu.com/resource/r/image/2015-02-12/d8c7b8fc93edea505e882a43fad5b8d1.png" style="height:30px"/></a></div>
+<div class="menulist large" style="margin:0 144px">
+<ul></ul>
+</div>
+<div class="menulist medium" style="margin:0 144px">
+<ul></ul>
+</div>
+<div class="headerSearch">
+<p class="searchbar">
+<a href="javascript:;" class="searchA"><i class="i"></i></a>
+<i class="txt"><i class="i nodis"></i><input type="text" class="nodis"></i>
+</p>
+<p class="sub-menu"><i class="icon-submenu"></i></p>
+<p class="baiduLogo"><a href="http://news.baidu.com/" target="_blank"><img src="/static/newsmedia/widget/header/baidu_logo_46a3f92.png"></a></p>
+</div>
+</div>
+
+<script type="text/javascript">
+var menu = [];
+
+            menu.push({
+            'name': '首页',
+            'enname':'',
+            'url': '',
+            'list':[
+            	            ]
+        });
+            menu.push({
+            'name': '要闻',
+            'enname':'news',
+            'url': '',
+            'list':[
+            	            ]
+        });
+            menu.push({
+            'name': '北京',
+            'enname':'beijing',
+            'url': '',
+            'list':[
+            	            ]
+        });
+            menu.push({
+            'name': '国内',
+            'enname':'china',
+            'url': '',
+            'list':[
+            	            ]
+        });
+            menu.push({
+            'name': '国际',
+            'enname':'world',
+            'url': '',
+            'list':[
+            	            ]
+        });
+            menu.push({
+            'name': '财经',
+            'enname':'ecomomy',
+            'url': '',
+            'list':[
+            	            ]
+        });
+            menu.push({
+            'name': '体育',
+            'enname':'sports',
+            'url': '',
+            'list':[
+            	            ]
+        });
+            menu.push({
+            'name': '文娱',
+            'enname':'ent',
+            'url': '',
+            'list':[
+            	            ]
+        });
+            menu.push({
+            'name': '评论',
+            'enname':'opinion',
+            'url': '',
+            'list':[
+            	            ]
+        });
+        serverData.menu = menu;
+
+</script>
+
+</div>
+<div id="Body">
+<div class="body">
+<div class="left">
+<div id="banners">
+<div class="feed_tegao" data-href="http://media.baidu.com/redirect?source=ynet&amp;nid=9355522721500466078&amp;pos=0&amp;layout=2&amp;token=c97ae1af4a1c3bb2f9b2ceb981b1ea87&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F21%2F10009409.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=ynet&amp;nid=9355522721500466078&amp;pos=0&amp;layout=2&amp;token=c97ae1af4a1c3bb2f9b2ceb981b1ea87&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F21%2F10009409.html" target="_blank">嫩模工地拍写真遭大妈驱逐</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=ynet&amp;nid=9355522721500466078&amp;pos=0&amp;layout=2&amp;token=c97ae1af4a1c3bb2f9b2ceb981b1ea87&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F21%2F10009409.html" target="_blank"><img src="http://file.ynet.com/2/1504/21/10009429.jpg"/></a></p>
+<p class="summary">却突然跑出来一位大妈，自称是居委会的，说妹子们穿这么少、衣服还这么破烂太有伤风化，于是就出现了图上的...<a href="http://media.baidu.com/redirect?source=ynet&amp;nid=9355522721500466078&amp;pos=0&amp;layout=2&amp;token=c97ae1af4a1c3bb2f9b2ceb981b1ea87&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F21%2F10009409.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/china">国内</a></p>
+<span class="time">04-21 08:55</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=ynet&amp;nid=9215242419372492093&amp;pos=1&amp;layout=2&amp;token=f646e96cd2a69833638cd4542365703d&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F21%2F10009032.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=ynet&amp;nid=9215242419372492093&amp;pos=1&amp;layout=2&amp;token=f646e96cd2a69833638cd4542365703d&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F21%2F10009032.html" target="_blank">台湾“最美包子妹”成宅男新宠 顾客求合影要电话(图)</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=ynet&amp;nid=9215242419372492093&amp;pos=1&amp;layout=2&amp;token=f646e96cd2a69833638cd4542365703d&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F21%2F10009032.html" target="_blank"><img src="http://file.ynet.com/2/1504/21/10009037.jpg"/></a></p>
+<p class="summary">在高雄又有一位包子店的美女受到网友关...<a href="http://media.baidu.com/redirect?source=ynet&amp;nid=9215242419372492093&amp;pos=1&amp;layout=2&amp;token=f646e96cd2a69833638cd4542365703d&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F21%2F10009032.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/china">国内</a></p>
+<span class="time">04-21 08:14</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=ynet&amp;nid=9043425813193070842&amp;pos=2&amp;layout=2&amp;token=21df9f5d5e1dbadd8165ed1a48747b6f&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F21%2F10009001.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=ynet&amp;nid=9043425813193070842&amp;pos=2&amp;layout=2&amp;token=21df9f5d5e1dbadd8165ed1a48747b6f&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F21%2F10009001.html" target="_blank">王元松国家赔偿案开庭 索赔300万金额不变</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=ynet&amp;nid=9043425813193070842&amp;pos=2&amp;layout=2&amp;token=21df9f5d5e1dbadd8165ed1a48747b6f&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F21%2F10009001.html" target="_blank"><img src="http://file.ynet.com/2/1504/21/10008997-439x450.jpg"/></a></p>
+<p class="summary">在最高法遭遇“立案难”两个月后，王元...<a href="http://media.baidu.com/redirect?source=ynet&amp;nid=9043425813193070842&amp;pos=2&amp;layout=2&amp;token=21df9f5d5e1dbadd8165ed1a48747b6f&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F21%2F10009001.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/china">国内</a></p>
+<span class="time">04-21 08:14</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=ynet&amp;nid=9447864634242349939&amp;pos=3&amp;layout=2&amp;token=ee6fe7998b0316f06bf303f5b1959404&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F21%2F10008721.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=ynet&amp;nid=9447864634242349939&amp;pos=3&amp;layout=2&amp;token=ee6fe7998b0316f06bf303f5b1959404&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F21%2F10008721.html" target="_blank">网曝广东湖南校园暴力群殴 板砖拍头血溅当场(图)</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=ynet&amp;nid=9447864634242349939&amp;pos=3&amp;layout=2&amp;token=ee6fe7998b0316f06bf303f5b1959404&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F21%2F10008721.html" target="_blank"><img src="http://file.ynet.com/2/1504/21/10008753.jpg"/></a></p>
+<p class="summary">几乎与此事件发生同时，湖南红安也发生...<a href="http://media.baidu.com/redirect?source=ynet&amp;nid=9447864634242349939&amp;pos=3&amp;layout=2&amp;token=ee6fe7998b0316f06bf303f5b1959404&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F21%2F10008721.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/china">国内</a></p>
+<span class="time">04-21 07:40</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=ynet&amp;nid=9451101016689532930&amp;pos=4&amp;layout=2&amp;token=c83ad346d256837b9f11d36c07bb599e&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F21%2F10008624.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=ynet&amp;nid=9451101016689532930&amp;pos=4&amp;layout=2&amp;token=c83ad346d256837b9f11d36c07bb599e&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F21%2F10008624.html" target="_blank">沪市成交爆表破1万亿 两市成交创全球纪录</a>
+</h4>
+<p class="summary">昨日沪市以密集的政策、天量的成交和过山车的走势，上冲“5·30”前的历史高点4334点，演绎了中国股市的速度与激情。<a href="http://media.baidu.com/redirect?source=ynet&amp;nid=9451101016689532930&amp;pos=4&amp;layout=2&amp;token=c83ad346d256837b9f11d36c07bb599e&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F21%2F10008624.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/ecomomy">财经</a></p>
+<span class="time">04-21 07:05</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=ynet&amp;nid=9418596772879920210&amp;pos=5&amp;layout=2&amp;token=44f128233d64dfa8b7dddc4e1e8d0273&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F21%2F10008622.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=ynet&amp;nid=9418596772879920210&amp;pos=5&amp;layout=2&amp;token=44f128233d64dfa8b7dddc4e1e8d0273&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F21%2F10008622.html" target="_blank">身份证注销存“致命”缺陷 黑市卖300元一张</a>
+</h4>
+<p class="summary">由于已被挂失的被盗身份证无法注销，大量被盗二代身份证被不法分子冒用。<a href="http://media.baidu.com/redirect?source=ynet&amp;nid=9418596772879920210&amp;pos=5&amp;layout=2&amp;token=44f128233d64dfa8b7dddc4e1e8d0273&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F21%2F10008622.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/china">国内</a></p>
+<span class="time">04-21 07:05</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=ynet&amp;nid=9464254676217220073&amp;pos=6&amp;layout=2&amp;token=17688a6d93e773705b752fb4a195e8c5&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F21%2F10008618.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=ynet&amp;nid=9464254676217220073&amp;pos=6&amp;layout=2&amp;token=17688a6d93e773705b752fb4a195e8c5&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F21%2F10008618.html" target="_blank">北京一雕塑损坏6年未复原 铜“笔记本电脑”需2万</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=ynet&amp;nid=9464254676217220073&amp;pos=6&amp;layout=2&amp;token=17688a6d93e773705b752fb4a195e8c5&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F21%2F10008618.html" target="_blank"><img src="http://file.ynet.com/2/1504/21/10008619.jpg"/></a></p>
+<p class="summary">这件“笔记本电脑”并非被盗，而是被拿...<a href="http://media.baidu.com/redirect?source=ynet&amp;nid=9464254676217220073&amp;pos=6&amp;layout=2&amp;token=17688a6d93e773705b752fb4a195e8c5&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F21%2F10008618.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/beijing">北京</a></p>
+<span class="time">04-21 07:05</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=ynet&amp;nid=9448002554312413713&amp;pos=7&amp;layout=2&amp;token=20a73632a0b854d3d7c6c2e4703bdc28&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F21%2F10008617.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=ynet&amp;nid=9448002554312413713&amp;pos=7&amp;layout=2&amp;token=20a73632a0b854d3d7c6c2e4703bdc28&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F21%2F10008617.html" target="_blank">LV告动批索赔30万 市场：无权要求摊主下架</a>
+</h4>
+<p class="summary">市场方还称，无权要求摊主下架商品，市场方与摊商仅仅是租赁关系，只对出租场地进行管理，不对业务和销售内容进行监管。<a href="http://media.baidu.com/redirect?source=ynet&amp;nid=9448002554312413713&amp;pos=7&amp;layout=2&amp;token=20a73632a0b854d3d7c6c2e4703bdc28&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F21%2F10008617.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/beijing">北京</a></p>
+<span class="time">04-21 06:44</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=ynet&amp;nid=9350489822883575553&amp;pos=8&amp;layout=2&amp;token=aea1f158981922e96f2c9c0c28387a72&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F21%2F10008611.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=ynet&amp;nid=9350489822883575553&amp;pos=8&amp;layout=2&amp;token=aea1f158981922e96f2c9c0c28387a72&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F21%2F10008611.html" target="_blank">私车被租客开走并恶意抵押 103天后终找回</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=ynet&amp;nid=9350489822883575553&amp;pos=8&amp;layout=2&amp;token=aea1f158981922e96f2c9c0c28387a72&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F21%2F10008611.html" target="_blank"><img src="http://file.ynet.com/2/1504/21/10008613.jpg"/></a></p>
+<p class="summary">刘强围着刚从派出所领回的爱车转了一圈...<a href="http://media.baidu.com/redirect?source=ynet&amp;nid=9350489822883575553&amp;pos=8&amp;layout=2&amp;token=aea1f158981922e96f2c9c0c28387a72&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F21%2F10008611.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/china">国内</a></p>
+<span class="time">04-21 06:44</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=ynet&amp;nid=9412399848125681776&amp;pos=9&amp;layout=2&amp;token=07c2b7708a2da004ee38b48597c3973f&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F21%2F10008608.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=ynet&amp;nid=9412399848125681776&amp;pos=9&amp;layout=2&amp;token=07c2b7708a2da004ee38b48597c3973f&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F21%2F10008608.html" target="_blank">货车追尾撞坏车内直升机 车主被判赔67万</a>
+</h4>
+<p class="summary">北京某航空公司雇佣的司机陈某驾驶大货车由西向东行驶在怀柔区京承高速上，货车运送的货物为B-7717型直升机。<a href="http://media.baidu.com/redirect?source=ynet&amp;nid=9412399848125681776&amp;pos=9&amp;layout=2&amp;token=07c2b7708a2da004ee38b48597c3973f&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F21%2F10008608.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/beijing">北京</a></p>
+<span class="time">04-21 06:44</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=ynet&amp;nid=9396147726220875416&amp;pos=10&amp;layout=2&amp;token=85541816a33ea06b2238480ad8bfb31c&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F21%2F10008607.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=ynet&amp;nid=9396147726220875416&amp;pos=10&amp;layout=2&amp;token=85541816a33ea06b2238480ad8bfb31c&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F21%2F10008607.html" target="_blank">北京海淀调整31所学校 5所小学将直升优质中学</a>
+</h4>
+<p class="summary">海淀区5所对口直升校，民族小学等5所薄弱小学，6年后将按40%的比例，升入对口的优质中学。<a href="http://media.baidu.com/redirect?source=ynet&amp;nid=9396147726220875416&amp;pos=10&amp;layout=2&amp;token=85541816a33ea06b2238480ad8bfb31c&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F21%2F10008607.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/beijing">北京</a></p>
+<span class="time">04-21 06:24</span>
+</div>
+</div>
+<div class="feed_tegao" data-href="http://media.baidu.com/redirect?source=ynet&amp;nid=9363643482411262696&amp;pos=11&amp;layout=2&amp;token=63e9bbbd078c14d2129d78041b3a6ba5&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F21%2F10008605.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=ynet&amp;nid=9363643482411262696&amp;pos=11&amp;layout=2&amp;token=63e9bbbd078c14d2129d78041b3a6ba5&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F21%2F10008605.html" target="_blank">“竖中指”公交司机认错：是我没素质</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=ynet&amp;nid=9363643482411262696&amp;pos=11&amp;layout=2&amp;token=63e9bbbd078c14d2129d78041b3a6ba5&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F21%2F10008605.html" target="_blank"><img src="http://file.ynet.com/2/1504/21/10008606.jpg"/></a></p>
+<p class="summary">司机称，当时私家车强行并线还先骂了自己，双方发生口角，自己气急了才竖中指。<a href="http://media.baidu.com/redirect?source=ynet&amp;nid=9363643482411262696&amp;pos=11&amp;layout=2&amp;token=63e9bbbd078c14d2129d78041b3a6ba5&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F21%2F10008605.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/beijing">北京</a></p>
+<span class="time">04-21 06:24</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=ynet&amp;nid=9602023757962265231&amp;pos=12&amp;layout=2&amp;token=a71da404dd91ea6b3b0d8dbfaa5d9a75&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F20%2F10008473.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=ynet&amp;nid=9602023757962265231&amp;pos=12&amp;layout=2&amp;token=a71da404dd91ea6b3b0d8dbfaa5d9a75&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F20%2F10008473.html" target="_blank">美国男子用随身电脑黑掉所乘飞机 FBI将其控制</a>
+</h4>
+<p class="summary">美国计算机安全专家罗伯茨坚信飞机上的技术系统存在漏洞，为了证明自己的理论，他黑掉了所坐客机波音737的安全系统。<a href="http://media.baidu.com/redirect?source=ynet&amp;nid=9602023757962265231&amp;pos=12&amp;layout=2&amp;token=a71da404dd91ea6b3b0d8dbfaa5d9a75&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F20%2F10008473.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/world">国际</a></p>
+<span class="time">04-20 17:43</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=ynet&amp;nid=9611941035042769383&amp;pos=13&amp;layout=2&amp;token=d15cb66424fc0e546a90c424db96ee6b&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F20%2F10008564.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=ynet&amp;nid=9611941035042769383&amp;pos=13&amp;layout=2&amp;token=d15cb66424fc0e546a90c424db96ee6b&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F20%2F10008564.html" target="_blank">国泰伦敦飞香港客机 机师行李藏刀被捕</a>
+</h4>
+<p class="summary">因为一名机师行李中发现藏有刀具而被捕，航空公司未能安排后补机师接替，结果全机乘客在英国滞留一晚，延至昨日下午起飞。<a href="http://media.baidu.com/redirect?source=ynet&amp;nid=9611941035042769383&amp;pos=13&amp;layout=2&amp;token=d15cb66424fc0e546a90c424db96ee6b&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F20%2F10008564.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/world">国际</a></p>
+<span class="time">04-20 20:08</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=ynet&amp;nid=9563184669328350303&amp;pos=14&amp;layout=2&amp;token=e1d7c5bd8499d1c3dd1d743b431d8756&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F20%2F10008561.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=ynet&amp;nid=9563184669328350303&amp;pos=14&amp;layout=2&amp;token=e1d7c5bd8499d1c3dd1d743b431d8756&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F20%2F10008561.html" target="_blank">农用车与奔驰相撞 车主怕赔偿两次下跪道歉</a>
+</h4>
+<p class="summary">令人咋舌的是，农机车主担心面临巨额赔偿，竟当众两次向奔驰车主下跪。<a href="http://media.baidu.com/redirect?source=ynet&amp;nid=9563184669328350303&amp;pos=14&amp;layout=2&amp;token=e1d7c5bd8499d1c3dd1d743b431d8756&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F20%2F10008561.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/china">国内</a></p>
+<span class="time">04-20 20:08</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=ynet&amp;nid=9803246145574179985&amp;pos=15&amp;layout=2&amp;token=65e7978988a136826e35853a5cdcb0c5&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F20%2F10008499.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=ynet&amp;nid=9803246145574179985&amp;pos=15&amp;layout=2&amp;token=65e7978988a136826e35853a5cdcb0c5&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F20%2F10008499.html" target="_blank">日本芷江投降彩照首次曝光 日方代表坐白旗车绕场</a>
+</h4>
+<p class="summary">坐落在湖南芷江侗族自治县的中国人民抗日战争胜利受降纪念馆，是中国人民接受侵华日军投降的旧址。<a href="http://media.baidu.com/redirect?source=ynet&amp;nid=9803246145574179985&amp;pos=15&amp;layout=2&amp;token=65e7978988a136826e35853a5cdcb0c5&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F20%2F10008499.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/world">国际</a></p>
+<span class="time">04-20 18:50</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=ynet&amp;nid=9637626464148997168&amp;pos=16&amp;layout=2&amp;token=1aa8c249bf7c169a9b21552b6e993b2d&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F20%2F10008482.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=ynet&amp;nid=9637626464148997168&amp;pos=16&amp;layout=2&amp;token=1aa8c249bf7c169a9b21552b6e993b2d&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F20%2F10008482.html" target="_blank">河南千余处文物4年间剩200多处 文物部门：真不知道</a>
+</h4>
+<p class="summary">本报A15版刊发了《文物单位卢医庙大殿多处透着天》的报道后，连日来，不断有文物保护志愿者向本报反映。<a href="http://media.baidu.com/redirect?source=ynet&amp;nid=9637626464148997168&amp;pos=16&amp;layout=2&amp;token=1aa8c249bf7c169a9b21552b6e993b2d&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F20%2F10008482.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/china">国内</a></p>
+<span class="time">04-20 09:49</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=ynet&amp;nid=9605122220339384448&amp;pos=17&amp;layout=2&amp;token=b4453e7ee0d62b3492bdb2df294bd60d&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F20%2F10008480.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=ynet&amp;nid=9605122220339384448&amp;pos=17&amp;layout=2&amp;token=b4453e7ee0d62b3492bdb2df294bd60d&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F20%2F10008480.html" target="_blank">习近平抵巴获8架枭龙战机护航 此战机为中巴联合研制</a>
+</h4>
+<p class="summary">本次习主席的来访虽然只有短短两天时间，但可谓是让巴国人民期待已久的时刻。<a href="http://media.baidu.com/redirect?source=ynet&amp;nid=9605122220339384448&amp;pos=17&amp;layout=2&amp;token=b4453e7ee0d62b3492bdb2df294bd60d&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F20%2F10008480.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/news">要闻</a></p>
+<span class="time">04-20 15:25</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=ynet&amp;nid=9291032709483099223&amp;pos=18&amp;layout=2&amp;token=a796a4eec27792a3103ae4b0bc282ae5&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F20%2F10008309.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=ynet&amp;nid=9291032709483099223&amp;pos=18&amp;layout=2&amp;token=a796a4eec27792a3103ae4b0bc282ae5&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F20%2F10008309.html" target="_blank">广告法拟规定：明星为虚假广告代言被罚 3年内不得代言</a>
+</h4>
+<p class="summary">法制晚报讯今天上午，十二届全国人大常委会第十四次会议开幕，广告法修订草案三审稿提交全国人大常委会审议。<a href="http://media.baidu.com/redirect?source=ynet&amp;nid=9291032709483099223&amp;pos=18&amp;layout=2&amp;token=a796a4eec27792a3103ae4b0bc282ae5&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F20%2F10008309.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/china">国内</a></p>
+<span class="time">04-20 17:15</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=ynet&amp;nid=9559740157142212133&amp;pos=19&amp;layout=2&amp;token=3afe2551b928cd85230b869df342860d&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F20%2F10008276.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=ynet&amp;nid=9559740157142212133&amp;pos=19&amp;layout=2&amp;token=3afe2551b928cd85230b869df342860d&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F20%2F10008276.html" target="_blank">男子装环保部领导诈骗 用假函件租政协礼堂致案发</a>
+</h4>
+<p class="summary">法制晚报讯一名林业局下属杂志社外聘员工冒充环保部办公厅主任诈骗，其中在用伪造证件骗租政协礼堂时被识破。<a href="http://media.baidu.com/redirect?source=ynet&amp;nid=9559740157142212133&amp;pos=19&amp;layout=2&amp;token=3afe2551b928cd85230b869df342860d&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F20%2F10008276.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/beijing">北京</a></p>
+<span class="time">04-20 16:56</span>
+</div>
+</div>
+</div>
+<div class="loading"><img src="/static/newsmedia/widget/mod_page/jm_loading_d04a658.gif"><b>正在加载，请稍候...</b></div>
+<div class="pages">
+<a href="javascript:;" class="btn btnP nodis">上一页</a>
+<div class="page"></div>
+<a href="javascript:;" class="btn btnN">下一页</a>
+</div>
+<div id="Footer" class="wp-footer">
+<p class="top-nav">
+<a href="http://news.baidu.com/" target="_blank">百度新闻</a>|<a href="mailto:media_news%40baidu.com" target="_blank">联系我们：media_news@baidu.com</a>
+<strong class="wp-wrap">百度新闻&北京青年报联合出品</strong>
+<a href="http://news.baidu.com/"><img src="/static/newsmedia/widget/footer/baidunews_footer_d9a758b.png"></a>
+<a href="http://www.ynet.com" target="_blank"><img src="http://news.baidu.com/resource/r/image/2014-12-29/feb932e796a90d4c79108f0deee57b8b.png"></a>
+</p>
+<p class="site-info">
+<i>京公网安备110000000001号</i>
+<a href="http://news.baidu.com/licence.html">互联网新闻信息服务许可</a>
+<span>©2014 Baidu</span>
+<a class="wp-wrap" href="http://www.baidu.com/duty/">使用百度前必读</a>
+<a class="wp-hide" target="_blank" href="http://net.china.cn/chinese/index.htm"><img src="http://gimg.baidu.com/img/net.gif"></a>
+<a class="wp-hide" target="_blank" href="http://www.bj.cyberpolice.cn/index.htm"><img alt="首都网络110报警服务" src="http://gimg.baidu.com/img/110.gif"></a>
+<a class="wp-hide" target="_blank" href="http://www.bjjubao.org/"><img src="http://news.baidu.com/resource/img/report_center.png"></a>
+</p>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?d09fe258c88c7015c3e6f8232ee9a563";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</div>
+</div>
+<div class="right">
+<div class="ap apRecommend">
+<div class="apt">
+<h4>热门文章</h4>
+<p class="entit"><span>HOT ARTICLE</span></p>
+</div>
+<div class="apc">
+<ul class="ulist">
+<li>
+<span class="num top3">1</span>
+<a href="http://media.baidu.com/redirect?source=ynet&amp;nid=9448002554312413713&amp;pos=0&amp;layout=4&amp;token=20a73632a0b854d3d7c6c2e4703bdc28&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F21%2F10008617.html" title="LV告动批索赔30万 市场：无权要求摊主下架">LV告动批索赔30万 市场：无权要求摊主下架</a>
+<span class="tm">04-21 06:44</span>
+</li>
+<li>
+<span class="num top3">2</span>
+<a href="http://media.baidu.com/redirect?source=ynet&amp;nid=9637626464148997168&amp;pos=1&amp;layout=4&amp;token=1aa8c249bf7c169a9b21552b6e993b2d&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F20%2F10008482.html" title="河南千余处文物4年间剩200多处 文物部门：真不知道">河南千余处文物4年间剩200多处 文物部门：真不知道</a>
+<span class="tm">04-20 09:49</span>
+</li>
+<li>
+<span class="num top3">3</span>
+<a href="http://media.baidu.com/redirect?source=ynet&amp;nid=9605122220339384448&amp;pos=2&amp;layout=4&amp;token=b4453e7ee0d62b3492bdb2df294bd60d&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F20%2F10008480.html" title="习近平抵巴获8架枭龙战机护航 此战机为中巴联合研制">习近平抵巴获8架枭龙战机护航 此战机为中巴联合研制</a>
+<span class="tm">04-20 15:25</span>
+</li>
+<li>
+<span class="num">4</span>
+<a href="http://media.baidu.com/redirect?source=ynet&amp;nid=9559740157142212133&amp;pos=3&amp;layout=4&amp;token=3afe2551b928cd85230b869df342860d&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F20%2F10008276.html" title="男子装环保部领导诈骗 用假函件租政协礼堂致案发">男子装环保部领导诈骗 用假函件租政协礼堂致案发</a>
+<span class="tm">04-20 16:56</span>
+</li>
+<li>
+<span class="num">5</span>
+<a href="http://media.baidu.com/redirect?source=ynet&amp;nid=9803246145574179985&amp;pos=4&amp;layout=4&amp;token=65e7978988a136826e35853a5cdcb0c5&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F20%2F10008499.html" title="日本芷江投降彩照首次曝光 日方代表坐白旗车绕场">日本芷江投降彩照首次曝光 日方代表坐白旗车绕场</a>
+<span class="tm">04-20 18:50</span>
+</li>
+<li>
+<span class="num">6</span>
+<a href="http://media.baidu.com/redirect?source=ynet&amp;nid=9611941035042769383&amp;pos=5&amp;layout=4&amp;token=d15cb66424fc0e546a90c424db96ee6b&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F20%2F10008564.html" title="国泰伦敦飞香港客机 机师行李藏刀被捕">国泰伦敦飞香港客机 机师行李藏刀被捕</a>
+<span class="tm">04-20 20:08</span>
+</li>
+<li>
+<span class="num">7</span>
+<a href="http://media.baidu.com/redirect?source=ynet&amp;nid=9602023757962265231&amp;pos=6&amp;layout=4&amp;token=a71da404dd91ea6b3b0d8dbfaa5d9a75&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F20%2F10008473.html" title="美国男子用随身电脑黑掉所乘飞机 FBI将其控制">美国男子用随身电脑黑掉所乘飞机 FBI将其控制</a>
+<span class="tm">04-20 17:43</span>
+</li>
+<li>
+<span class="num">8</span>
+<a href="http://media.baidu.com/redirect?source=ynet&amp;nid=9805516031539757122&amp;pos=7&amp;layout=4&amp;token=ab6f9ab454eecc7203a839bfe896c10d&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F20%2F10007959.html" title="IS发布视频称斩首射杀30名基督徒 视频长达29分钟">IS发布视频称斩首射杀30名基督徒 视频长达29分钟</a>
+<span class="tm">04-20 15:49</span>
+</li>
+<li>
+<span class="num">9</span>
+<a href="http://media.baidu.com/redirect?source=ynet&amp;nid=9766192973026759467&amp;pos=8&amp;layout=4&amp;token=b78446fc3ce5e75a33c6ebe86e9d712f&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F20%2F10007873.html" title="斯诺登曝新西兰替美国监听中国领事馆 中方回应">斯诺登曝新西兰替美国监听中国领事馆 中方回应</a>
+<span class="tm">04-20 15:17</span>
+</li>
+<li>
+<span class="num">10</span>
+<a href="http://media.baidu.com/redirect?source=ynet&amp;nid=9523653481076397469&amp;pos=9&amp;layout=4&amp;token=a0ce665554dfb720a8db8c7e96b088d6&amp;url=http%3A%2F%2Fxinwen.ynet.com%2F3.1%2F1504%2F20%2F10008093.html" title="LV告动批卖假货索赔30万 动批：无权要求摊主将商品下架">LV告动批卖假货索赔30万 动批：无权要求摊主将商品下架</a>
+<span class="tm">04-20 16:25</span>
+</li>
+</ul>
+</div>
+</div></div>
+</div>
+</div>
+<div id="Footer">
+<p class="top-nav">
+<a href="http://news.baidu.com/" target="_blank">百度新闻</a>|<a href="mailto:media_news%40baidu.com" target="_blank">联系我们：media_news@baidu.com</a>
+<strong class="wp-wrap">百度新闻&北京青年报联合出品</strong>
+<a href="http://news.baidu.com/"><img src="/static/newsmedia/widget/footer/baidunews_footer_d9a758b.png"></a>
+<a href="http://www.ynet.com" target="_blank"><img src="http://news.baidu.com/resource/r/image/2014-12-29/feb932e796a90d4c79108f0deee57b8b.png"></a>
+</p>
+<p class="site-info">
+<i>京公网安备110000000001号</i>
+<a href="http://news.baidu.com/licence.html">互联网新闻信息服务许可</a>
+<span>©2014 Baidu</span>
+<a class="wp-wrap" href="http://www.baidu.com/duty/">使用百度前必读</a>
+<a class="wp-hide" target="_blank" href="http://net.china.cn/chinese/index.htm"><img src="http://gimg.baidu.com/img/net.gif"></a>
+<a class="wp-hide" target="_blank" href="http://www.bj.cyberpolice.cn/index.htm"><img alt="首都网络110报警服务" src="http://gimg.baidu.com/img/110.gif"></a>
+<a class="wp-hide" target="_blank" href="http://www.bjjubao.org/"><img src="http://news.baidu.com/resource/img/report_center.png"></a>
+</p>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?d09fe258c88c7015c3e6f8232ee9a563";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</div>
+</div>
+<div class="mod-sidebar">
+<ul class="menu">
+<li class="toolbar">
+<a class="search" href="/search"><i class="icon-search"></i>搜索</a>
+|<a class="login" href="javascript:;">登录</a>
+<p class="username"></p>
+</li>
+<li class="item">
+<a href="/">首页</a>
+</li>
+<li class="item">
+<a href="/news">要闻</a>
+</li>
+<li class="item">
+<a href="/beijing">北京</a>
+</li>
+<li class="item">
+<a href="/china">国内</a>
+</li>
+<li class="item">
+<a href="/world">国际</a>
+</li>
+<li class="item">
+<a href="/ecomomy">财经</a>
+</li>
+<li class="item">
+<a href="/sports">体育</a>
+</li>
+<li class="item">
+<a href="/ent">文娱</a>
+</li>
+<li class="item">
+<a href="/opinion">评论</a>
+</li>
+<li class="logo"><a href="http://news.baidu.com"><img src="/static/newsmedia/widget/mod_sidebar/logo-baidu_941ba05.png" height="26px" alt="baidu logo"></a></li>
+</ul>
+</div>
+</body><script type="text/javascript" src="/static/common/js/mod_b818356.js"></script>
+<script type="text/javascript" src="/static/common/js/jquery-1.10.1_77f5e40.js"></script>
+<script type="text/javascript" src="/static/common/pkg/aio_d41d8cd.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/mod_page/mod_page_78338ec.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/ap_ulist/ap_ulist_60537f4.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/header/header_3f34133.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/cover/cover_2e172d2.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/ui/iscroll/iscroll_93ba427.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/ui/velocity/velocity_022bc13.js"></script>
+<script type="text/javascript" src="/static/newsmedia/lessimgindex/lessimgindex_0e2d48b.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/mod_sidebar/mod_sidebar_5cf9d41.js"></script>
+<script type="text/javascript">!function(){    require.async('newsmedia:widget/mod_sidebar/mod_sidebar.js', function(login) {
+      login();
+    })
+  }();
+!function(){    var device = 'pc';
+    // 手机端直接监听每条新闻并跳转
+    if (device !== 'pc') {
+      $(function() {
+        var $banner = $('#banners');
+
+        $banner.delegate('.feed_tegao', 'click', function(ev) {
+          // 判断是否是点击了tag
+          var $target = $(ev.target);
+          if ($target.attr('href') &&
+            /^\/.*/.test($target.attr('href'))) return;
+
+          var $item = $(ev.currentTarget);
+          var href = $item.attr('data-href');
+
+          setTimeout(function() {
+            window.location.href = href;
+          }, 100)
+        });
+      });
+    }
+
+    alog("set", "alias", {
+         monkey: "http://img.baidu.com/hunter/alog/monkey.min.js",
+         element: "http://img.baidu.com/hunter/alog/element.min.js"
+     });
+
+     alog("require", ["monkey", "element"], function(monkey, element){
+         monkey.create({
+             page: "news-ynet",
+             pid: "241",
+             p: "133",
+             hid: "424",
+             postUrl: "http://nsclick.baidu.com/u.gif",
+             reports: {
+                refer: 1,
+                staytime: 1
+             }
+         });
+     });
+
+     alog("monkey.send", "pageview", { now: +new Date });
+  }();</script></html>

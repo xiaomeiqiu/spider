@@ -1,0 +1,542 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<!--STATUS OK-->
+<meta http-equiv="X-UA-Compatible" content="IE=7">
+<meta http-equiv=Content-Type content="text/html; charset=gb2312">
+<title>百度新闻搜索——电视游戏新闻      </title>
+<meta name="description" content="百度新闻是包含海量资讯的新闻服务平台，真实反映每时每刻的新闻热点。您可以搜索新闻事件、热点话题、人物动态、产品资讯等，快速了解它们的最新进展。" >
+<!--ecombegin--><!--ecomend-->
+<script type="text/javascript" src="resource/js/perf_monitor.js"></script>
+<script src="/resource/js/news.js?v=201302261116"></script>
+<script src="resource/js/usertrack.js"></script>
+<link href="resource/css/search_box.css?v=201301051533" rel="stylesheet" type="text/css"></link>
+<link href="resource/css/hot_class_2.css?v=201210182329" rel="stylesheet" type="text/css"></link>
+<link href="resource/css/nav_four.css?v=12120828" rel="stylesheet" type="text/css"></link>
+
+<style type="text/css" rel="stylesheet">
+#page_body #nav_sub a.class_title{background:url(/resource/img/gameback.png) no-repeat;color:white;padding:3px;*padding:3px 2px 2px 2px;}
+</style>
+
+</head>
+<body id="section_2" >
+<script type="text/javascript" language="javascript">
+    ClickMonitor.init('TWO_LEVEL_HOT', 'c=tvgames&cy=0');
+</script>
+
+<div id="usrbar"></div>
+<div id="page">
+<div id="header">
+<form action="http://news.baidu.com/ns" style="postion:relative;" name="fbaidu" class="sbox">
+	<table class="sbox" style="position:relative;">
+		<tr>
+            <td class="logo">
+                <div class="logo"><a href="http://news.baidu.com/view.html"><img src="/resource/img/logo_news_137_46.png" alt="百度新闻"></a></div>
+                <div class="date"><!--datebegin--><!--dateend--></div>
+            </td>
+            <td class="search" style="position:relative;">
+                <div class="tab">
+                    <span class="cur">新闻</span><a href="http://www.baidu.com/" title="web"  mon="col=502&pn=0" onclick="queryTab(this);">网页</a><a href="http://tieba.baidu.com/" title="tieba" mon="col=502&pn=1" onclick="queryTab(this);">贴吧</a><a href="http://zhidao.baidu.com/" title="zhidao" mon="col=502&pn=2" onclick="queryTab(this);">知道</a><a href="http://music.baidu.com/" title="music"  mon="col=502&pn=3" onclick="queryTab(this);">音乐</a><a href="http://image.baidu.com/" title="image" mon="col=502&pn=4" onclick="queryTab(this);">图片</a><a href="http://video.baidu.com/" title="video"  mon="col=502&pn=5" onclick="queryTab(this);">视频</a><a href="http://map.baidu.com/" title="map" mon="col=502&pn=6" onclick="queryTab(this);">地图</a><a href="http://baike.baidu.com/" title="baike" mon="col=502&pn=7" onclick="queryTab(this);">百科</a><a href="http://wenku.baidu.com/" title="wenku"  mon="col=502&pn=8" onclick="queryTab(this);">文库</a></div>
+                </div>
+                <table>
+                    <tr>
+                        <td class="box"><div id="sugarea"><span class="s_ipt_wr" id="s_ipt_wr"><input class="word" id="ww" name="word" size="42"  maxlength="100" tabindex="1"></span><span class="s_btn_wr"><input class="btn" type="submit" value="百度一下" onmousedown="this.className='btn s_btn_h'" onmouseout="this.className='btn'"></span></div></td>
+                        <td class="help" id="top-for-ipad"><a href="http://www.baidu.com/search/news_help.html">帮助</a><span class="sep">|</span><a href="http://news.baidu.com/advanced_news.html">高级搜索</a><span class="sep">|</span><a href="http://news.baidu.com/pianhao.html">设置</a></td>
+                    </tr>
+                </table>
+                <!--ecombegin-->
+                <!--ecomend-->
+                <p class="search-radios">
+					<input type="radio" name="tn" value="news" checked id="news"><label for="news">新闻全文</label>
+					<input type="radio" name="tn" value="newstitle" id="newstitle"><label for="newstitle" style="padding:0px;">新闻标题</label>
+                </p>
+				<input type="hidden" name="from" value="news">
+                <input type="hidden" name="cl" value="2">
+
+                <input type="hidden" name="rn" value="20">
+                <input type="hidden" name="ct" value="1">
+            </td></tr>
+	</table>
+    <a id="searchbox_tuiguang" href="http://app.news.baidu.com/?src=yetou" target="_blank"></a>
+    </form>
+<div id="identifier-pannel" style="display:none"><a href="http://app.news.baidu.com/?src=erweima" target="_blank">百度新闻客户端<img src="http://news.baidu.com/resource/img/video_app_tuiguang/erweima.png" height="90" width="90"/>点击或扫描下载</a></div>
+<style type="text/css">
+#header.for-ipad-style{
+    background:url(http://news.baidu.com/resource/img/video_app_tuiguang/video_ipadapp_header_bg.png) no-repeat right bottom;
+    background-size:210px 68px;
+    -webkit-background-size:210px 68px;
+}
+#identifier-pannel{
+    position:fixed;
+    left: 50%;
+    bottom:0;
+    z-index:9999;
+    width:110px;
+    margin-left:517px;
+	height:156px;
+}
+#identifier-pannel a:link,#identifier-pannel a:visited{
+    display:block;
+    padding:10px;
+    line-height:18px;
+    font-size:12px;
+    color:#333;
+    text-decoration:none;
+    white-space:nowrap;
+    text-align:center;
+    background:#f9f9f9;
+}
+#identifier-pannel a:hover{
+    background:#ccd8db;
+    color:#000;
+}
+#identifier-pannel img{
+    display:block;
+    margin:5px auto;
+    border:none;
+}
+
+
+</style>
+
+<script type="text/javascript" src="resource/js/tangram-1.5.2.2.js?v=20130128"></script>
+<script type="text/javascript">
+(function (){
+    /*temp for ad-for-ipad*/
+    if(navigator.userAgent.match(/(iPad).*OS\s([\d_]+)/)){
+        document.getElementById('header').className = 'for-ipad-style';
+        document.getElementById('searchbox_tuiguang').setAttribute('mon' , 'col=504');
+        document.getElementById('searchbox_tuiguang').href='http://itunes.apple.com/cn/app/bai-du-shi-pinhd/id573885698?mt=8';
+
+    }
+    function __getScrollTop(){
+        var d = document;
+            return window.pageYOffset || d.documentElement.scrollTop || d.body.scrollTop;
+    }
+    function __getHeight() {
+        var doc = document,
+            client = doc.compatMode == 'BackCompat' ? doc.body : doc.documentElement;
+            return client.clientHeight;
+    }
+    function __on(obj, type, func){
+        var t = type.replace(/^on/, '');
+        if(window.attachEvent){
+            obj.attachEvent('on' + t, func);
+        }
+        else if(window.addEventListener){
+            obj.addEventListener(t, func, false);
+        }
+    }
+    function __g(id){
+        return document.getElementById(id);
+        
+    }
+
+   __on(window , 'load', function(){
+    function fixedBar(id, options){
+                /*temp
+                {
+                    addclass : 'string',
+                    top : number,
+                    autoHidden : true,
+                    show : true
+                }
+                */
+         var ele = __g(id);
+             if(!ele) return;
+            var pageHeight=__getHeight();
+            var ieScrollTop=__getScrollTop();
+             if(/msie (\d+\.\d+)/i.test(navigator.userAgent)){
+                    if(options.addclass) ele.className = options.addclass;
+                    ele.style.position= 'absolute';
+                    if(options.show){
+                        ele.style.top = ieScrollTop+pageHeight-options.top + "px";
+                        ele.style.display= 'block';
+                    }
+
+                    __on(window,'scroll' , function (){
+
+                            var ieScrollTop=__getScrollTop();
+                            ele.style.top = ieScrollTop+pageHeight - options.top + "px";
+                            if(options.autoHidden){
+                                    if(ieScrollTop==0){
+                                            ele.style.display="none";
+                                    }else{
+                                            ele.style.display="block";
+                                    }
+                            }
+                    });
+            }else{
+                if(options.show) ele.style.display= 'block';
+                ele.style.top = pageHeight-options.top+'px';
+                __on(window,'scroll',function (){
+                    if(options.autoHidden){
+                            if(__getScrollTop()==0){
+                                    ele.style.display="none";
+                            }else{
+                                    ele.style.display="block";
+                            }
+                    }
+                },false);
+            }
+    }
+
+    fixedBar('backTopBtn' , {autoHidden: true, top : 186});
+    fixedBar('identifier-pannel' , {autoHidden: false , top : 386 , show : true});
+    });
+})();
+</script>
+
+<script src="http://cbjs.baidu.com/js/m.js"></script>
+<script>
+    BAIDU_CLB_addOrientation('newschn', 'tvgames');
+</script>
+
+<script>read_cookie();</script>
+</div>
+<div id="main">
+<div id="nav"><!--ecombegin-->
+        <ul class="nav_aside">
+            <li><a href="http://news.baidu.com/n?cmd=4&class=rolling&pn=1&from=tab&sub=0">最新</a></li>
+            <!--<li><a href="http://news.baidu.com/n?bypass=lamp&m=pagesother&v=newsgx">定制</a></li>
+			<li><a href="http://www.baidu.com/search/news_more.html" style="*line-height:29px;">更多&gt;&gt;</a></li>-->
+        </ul><!--ecomend-->
+        <ul class="nav_main">
+            <li style="background-image:none;padding-left:0px;"><a href="http://news.baidu.com/view.html">首页</a></li>
+
+            <li><a href="http://news.baidu.com/n?cmd=1&class=civilnews&pn=1&from=tab">国内</a></li>
+
+            <li><a href="http://news.baidu.com/n?cmd=1&class=internews&pn=1&from=tab">国际</a></li>
+
+            <li><a href="http://news.baidu.com/n?cmd=1&class=mil&pn=1&from=tab">军事</a></li>
+
+            <li><a href="http://news.baidu.com/n?cmd=1&class=finannews&pn=1&from=tab">财经</a></li>
+
+            <li><a href="http://news.baidu.com/n?cmd=1&class=internet&pn=1&from=tab">互联网</a></li>
+
+            <li><a href="http://news.baidu.com/n?cmd=1&class=housenews&pn=1&from=tab">房产</a></li>
+
+            <li><a href="http://news.baidu.com/n?cmd=1&class=autonews&pn=1&from=tab">汽车</a></li>
+
+            <li><a href="http://news.baidu.com/n?cmd=1&class=sportnews&pn=1&from=tab">体育</a></li>
+
+            <li><a href="http://news.baidu.com/n?cmd=1&class=enternews&pn=1&from=tab">娱乐</a></li>
+
+            <li><div><a href="http://news.baidu.com/n?cmd=1&class=gamenews&pn=1&from=tab">游戏</a></div></li>
+
+            <li><a href="http://news.baidu.com/n?cmd=1&class=edunews&pn=1&from=tab">教育</a></li>
+
+            <li><a href="http://news.baidu.com/n?cmd=1&class=healthnews&pn=1&from=tab">女人</a></li>
+
+            <li><a href="http://news.baidu.com/n?cmd=1&class=technnews&pn=1&from=tab">科技</a></li>
+
+            <li><a href="http://news.baidu.com/n?cmd=1&class=socianews&pn=1&from=tab">社会</a></li>
+            <!--ecombegin-->
+			<li class="new"><a href="http://news.baidu.com/n?cmd=10&class=vid2top&pn=1&from=tab&sub=0">视频</a></li>
+
+            <li><a href="http://news.baidu.com/n?cmd=9&class=pic2top&pn=1&from=tab&sub=0">图片</a></li>
+
+			<li ><a href="http://renwu.baidu.com/">人物</a></li>
+
+            <!--ecomend-->
+        </ul>
+
+		<div class="nav-left-corner"></div><div class="nav-right-corner"></div>
+</div>
+    <div id="page_body">
+	<div id="nav_sub">
+		<a href="/n?cmd=1&class=gamenews&pn=1"  class="subject">游戏新闻</a>
+		<div class="nav_sub_nav_p">
+										<div><a href="/n?cmd=1&class=netgames&pn=1">网络游戏</a></div><span class="sepLine">|</span>
+								<div class="backImg"><div class="leftback"></div><a class="class_title" href="/n?cmd=1&class=tvgames&pn=1">电视游戏</a><div class="rightback"></div></div><span class="sepLine">|</span>
+								<div><a href="/n?cmd=1&class=dianzijingji&pn=1">电子竞技</a></div><span class="sepLine">|</span>
+								<div><a href="/n?cmd=1&class=remenyouxi&pn=1">热门游戏</a></div><span class="sepLine">|</span>
+								<a href="/n?cmd=1&class=WOW&pn=1">魔兽世界</a></span>
+					</div>
+			 <div class="left-border"></div><div class="right-border"></div>
+	</div><!--nav_sub ends-->
+	<div id="content" style="padding:10px">
+	<div class="news top ">
+		<table class="layout">
+			<tr>
+				<td width="90%">
+                            					<div class="hl2">
+				<!--图片数据类型-->
+                    						<a href="http://www.3dmgame.com/news/201504/3487087.html" target="_blank" mon="a=4&p=1"><img class="img-main" src="http://t1.baidu.com/it/u=http%3A%2F%2Fwww.3dmgame.com%2Fuploads%2Fallimg%2F150421%2F153_150421103615_1_lit.jpg&fm=30"></a>
+			        						<div style="float:left;width:75%">
+							<a href="http://www.3dmgame.com/news/201504/3487087.html" class="title" target="_blank" mon="a=1&p=1" style="font-size:16px" >割草大作《战国Basara4：皇》情报 PS4版全程60帧</a><span class="s">10:36</span>							<ul class="relative">
+														</ul>
+						</div>
+					</div>
+                                            				    					<ul class="list">
+											<li>
+							&#8226;&nbsp;<a href="http://xbox360.tgbus.com/zixun/yxxw/201504/20150421103202.shtml" target="_blank"  mon="a=1&p=1&pn=1">官方透露《奇异人生》第三章预计将于5月发售</a><span class="s">10:32</span>						</li>
+						                                            				    						<li>
+							&#8226;&nbsp;<a href="http://android.tgbus.com/lab/gonlv/201504/519447.shtml" target="_blank"  mon="a=1&p=1&pn=2">梦幻西游70级秘境地狱法阵丧气鬼通关攻略 </a><span class="s">09:56</span>						</li>
+						                                            				    						<li>
+							&#8226;&nbsp;<a href="http://news.766.com/dl/2015-04-20/2489603.shtml" target="_blank"  mon="a=1&p=1&pn=3">传统IP争夺白热化 美剧改编手游崛起</a><span class="s">04-20 14:05</span><a href="http://news.baidu.com/n?cmd=2&class=tvgames&page=http%3A%2F%2Fnews.766.com%2Fdl%2F2015-04-20%2F2489603.shtml&cls=tvgames" target="_blank" class="rnews">2条相关&gt;&gt;</a>						</li>
+						                                            				    						<li>
+							&#8226;&nbsp;<a href="http://znzd.cena.com.cn/2015-04/21/content_272623.htm" target="_blank"  mon="a=1&p=1&pn=4">全球首款体感游戏手环问世 </a><span class="s">10:18</span>						</li>
+						                                            				    						<li>
+							&#8226;&nbsp;<a href="http://info.broadcast.hc360.com/2015/04/211005627943.shtml" target="_blank"  mon="a=1&p=1&pn=5">突破障碍 释放想象</a><span class="s">10:05</span>						</li>
+											</ul>
+					<ul class="list">
+						                                            				    						<li>
+							&#8226;&nbsp;<a href="http://news.17173.com/content/2015-04-21/20150421094745409.shtml" target="_blank"  mon="a=1&p=1&pn=6">2014全球上市游戏公司收入排名：腾讯居首</a><span class="s">09:47</span><a href="http://news.baidu.com/n?cmd=2&class=tvgames&page=http%3A%2F%2Fnews.17173.com%2Fcontent%2F2015-04-21%2F20150421094745409.shtml&cls=tvgames" target="_blank" class="rnews">2条相关&gt;&gt;</a>						</li>
+						                                            				    						<li>
+							&#8226;&nbsp;<a href="http://news.766.com/yenei/2015-04-21/2490153.shtml" target="_blank"  mon="a=1&p=1&pn=7">微软Xbox主管宣布E3将公布全新独占第一方游戏</a><span class="s">09:39</span><a href="http://news.baidu.com/n?cmd=2&class=tvgames&page=http%3A%2F%2Fnews.766.com%2Fyenei%2F2015-04-21%2F2490153.shtml&cls=tvgames" target="_blank" class="rnews">3条相关&gt;&gt;</a>						</li>
+						                                            				    						<li>
+							&#8226;&nbsp;<a href="http://android.tgbus.com/lab/gonlv/201504/519441.shtml" target="_blank"  mon="a=1&p=1&pn=8">脑力达人成就攻略 成就任务达成攻略 </a><span class="s">09:37</span>						</li>
+						                                            				    						<li>
+							&#8226;&nbsp;<a href="http://web.131.com/news/newskuaibao/15/0421/1233824_1.html" target="_blank"  mon="a=1&p=1&pn=9">荣耀之路91wan《百战天下》单人独闯千机阵图</a><span class="s">10:29</span><a href="http://news.baidu.com/n?cmd=2&class=tvgames&page=http%3A%2F%2Fweb.131.com%2Fnews%2Fnewskuaibao%2F15%2F0421%2F1233824_1.html&cls=tvgames" target="_blank" class="rnews">2条相关&gt;&gt;</a>						</li>
+											</ul>
+					<ul class="list">
+						                                            				    						<li>
+							&#8226;&nbsp;<a href="http://ng.pcgames.com.cn/504/5040347.html" target="_blank"  mon="a=1&p=1&pn=10">《光环OL》俄服被解锁 公布全球版下载</a><span class="s">09:25</span>						</li>
+						                                            				    						<li>
+							&#8226;&nbsp;<a href="http://news.bufan.com/article/74131.html" target="_blank"  mon="a=1&p=1&pn=11">《全民打街机》今日越狱首发</a><span class="s">09:25</span>						</li>
+						                                            				    						<li>
+							&#8226;&nbsp;<a href="http://chanye.07073.com/guowai/1105155.html" target="_blank"  mon="a=1&p=1&pn=12">PS4与Xbox价格战 捆绑套装售价低于2800元</a><span class="s">09:33</span><a href="http://news.baidu.com/n?cmd=2&class=tvgames&page=http%3A%2F%2Fchanye.07073.com%2Fguowai%2F1105155.html&cls=tvgames" target="_blank" class="rnews">11条相关&gt;&gt;</a>						</li>
+						                                            				    						<li>
+							&#8226;&nbsp;<a href="http://ps3.cngba.com/news/20150421353524.shtml" target="_blank"  mon="a=1&p=1&pn=13">《鬼泣4 特别版》最新截图 经典角色陆续登场 </a><span class="s">09:17</span>						</li>
+						                                            				    						<li>
+							&#8226;&nbsp;<a href="http://www.dvbcn.com/2015/04/20-116793.html" target="_blank"  mon="a=1&p=1&pn=14">电视游戏要热卖 仅有故事情节就够了吗？</a><span class="s">04-20 14:17</span>						</li>
+						                                            				    						<li>
+							&#8226;&nbsp;<a href="http://www.3dmgame.com/news/201504/3486908.html" target="_blank"  mon="a=1&p=1&pn=15">任天堂工程师网络简历透露新神秘新世代主机将至？</a><span class="s">01:14</span>						</li>
+						                            					</ul>
+				</td>
+				<td>
+			<!--若有图片报道，则出图片报道-->
+					<div class="sbar" style="margin-right:3px">
+						<h2>图片报道</h2>
+						<ul>
+												<li>
+						                                <a href="http://game.donews.com/201504/2888058.shtm" target="_blank"  mon="a=12&p=2"><img class="img-aside" src="http://t1.baidu.com/it/u=http%3A%2F%2Fimg2.donews.com%2F2015%2F0420%2F18852787.png.450.jpg&fm=30"></a><br>
+                        							    <a class="news-digest" href="http://game.donews.com/201504/2888058.shtm" target="_blank"   mon="a=9&p=2">豚鼠体感游戏手环发布：技术优于任天堂Wii</a></li>
+												<li>
+						                                <a href="http://news.17173.com/content/2015-04-17/20150417141622236.shtml" target="_blank"  mon="a=12&p=2"><img class="img-aside" src="http://t3.baidu.com/it/u=http%3A%2F%2Fimages.17173.com%2F2015%2Fnews%2F2015%2F04%2F17%2Fgk0417un01s.jpg&fm=30"></a><br>
+                        							    <a class="news-digest" href="http://news.17173.com/content/2015-04-17/20150417141622236.shtml" target="_blank"   mon="a=9&p=2">索尼影业内部邮件泄露神秘海域电影大量细节</a></li>
+												<li>
+						                                <a href="http://news.4399.com/gonglue/tlssdsmzm/xinde/m/506187.html" target="_blank"  mon="a=12&p=2"><img class="img-aside" src="http://t3.baidu.com/it/u=http%3A%2F%2Fnewsimg.5054399.com%2Fuploads%2Fuserup%2F1504%2F20141P12935.jpg&fm=30"></a><br>
+                        							    <a class="news-digest" href="http://news.4399.com/gonglue/tlssdsmzm/xinde/m/506187.html" target="_blank"   mon="a=9&p=2">密室逃脱逃离30道神秘之门第17-18关攻略</a></li>
+											</ul>
+					</div>
+				</td>
+			</tr>
+		</table>
+	</div>
+	<!--三级子分类最新新闻-->
+
+	<div class="col2" style="padding-left: 1px;">
+            <!--10条子分类最新新闻，若不足3条，则不出该子栏目-->
+        	</div>
+
+	<div class="clear"></div>
+	<!--二级焦点页之最新新闻-->
+	<!-- newnews begin -->
+	<div id="update" class="box2" style="margin-right:3px">
+		<h2>最新新闻</h2>
+		<div class="cnt">
+
+			<ul class="list">
+                            <!--为了满足除重需求，空循环10条-->
+                			                <!--为了满足除重需求，空循环10条-->
+                			                <!--为了满足除重需求，空循环10条-->
+                			                <!--为了满足除重需求，空循环10条-->
+                			                <!--为了满足除重需求，空循环10条-->
+                			                <!--为了满足除重需求，空循环10条-->
+                			                <!--为了满足除重需求，空循环10条-->
+                			                <!--为了满足除重需求，空循环10条-->
+                			                <!--为了满足除重需求，空循环10条-->
+                			                <!--为了满足除重需求，空循环10条-->
+                			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://news.pcgames.com.cn/505/5052820.html" mon="a=11&p=1&pn=11" target="_blank">森下一喜：游戏设计和孩子的玩耍是一样的</a><span class="s">09:30</span><a href="http://news.baidu.com/n?cmd=5&class=tvgames&page=http%3A%2F%2Fnews.pcgames.com.cn%2F505%2F5052820.html&cls=tvgames" class="rnews">2条相关&gt;&gt;</a></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://ng.pcgames.com.cn/504/5040347.html" mon="a=11&p=1&pn=12" target="_blank">《光环OL》俄服被解锁 公布全球版下载</a><span class="s">09:25</span></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://news.bufan.com/article/74131.html" mon="a=11&p=1&pn=13" target="_blank">《全民打街机》今日越狱首发</a><span class="s">09:25</span></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://ps3.cngba.com/news/20150421353524.shtml" mon="a=11&p=1&pn=14" target="_blank">《鬼泣4 特别版》最新截图 经典角色陆续登场 </a><span class="s">09:17</span></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://www.3dmgame.com/news/201504/3486908.html" mon="a=11&p=1&pn=15" target="_blank">任天堂工程师网络简历透露新神秘新世代主机将至？</a><span class="s">01:14</span></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://www.3dmgame.com/news/201504/3486907.html" mon="a=11&p=1&pn=16" target="_blank">靠谱报道：索尼影业争取《任天堂大乱斗》电影版权</a><span class="s">01:13</span></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://www.3dmgame.com/news/201504/3486443.html" mon="a=11&p=1&pn=17" target="_blank">多数还在吃老本 索尼第一方游戏工作室现状盘点</a><span class="s">04-20 21:08</span></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://news.4399.com/gonglue/xsd3/gszx/5/m/506548.html" mon="a=11&p=1&pn=18" target="_blank">小时代手游5-4五星攻略 沙滩音乐会五星通关</a><span class="s">04-20 18:55</span><a href="http://news.baidu.com/n?cmd=5&class=tvgames&page=http%3A%2F%2Fnews.4399.com%2Fgonglue%2Fxsd3%2Fgszx%2F5%2Fm%2F506548.html&cls=tvgames" class="rnews">19条相关&gt;&gt;</a></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://news.4399.com/gonglue/tlssdsmzm/xinde/m/506187.html" mon="a=11&p=1&pn=19" target="_blank">密室逃脱逃离30道神秘之门第17-18关攻略</a><span class="s">04-20 18:55</span><a href="http://news.baidu.com/n?cmd=5&class=tvgames&page=http%3A%2F%2Fnews.4399.com%2Fgonglue%2Ftlssdsmzm%2Fxinde%2Fm%2F506187.html&cls=tvgames" class="rnews">5条相关&gt;&gt;</a></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://news.4399.com/gonglue/mtgsq/pingce/m/506510.html" mon="a=11&p=1&pn=20" target="_blank">感受特技飞车的魅力 《摩托车手乔》评测</a><span class="s">04-20 17:59</span></li>
+                    			</ul>
+			<ul class="list">
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://games.sina.com.cn/y/n/2015-04-20/1752862416.shtml" mon="a=11&p=1&pn=21" target="_blank">2015：从发行宿命看手游之殇</a><span class="s">04-20 17:52</span><a href="http://news.baidu.com/n?cmd=5&class=tvgames&page=http%3A%2F%2Fgames.sina.com.cn%2Fy%2Fn%2F2015-04-20%2F1752862416.shtml&cls=tvgames" class="rnews">83条相关&gt;&gt;</a></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://www.juxia.com/news/2015-4-20/138817.html" mon="a=11&p=1&pn=22" target="_blank">开心消消乐567关通关攻略</a><span class="s">04-20 17:32</span></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://www.eeyy.com/news/20150420/60724.html" mon="a=11&p=1&pn=23" target="_blank">《轩辕剑之天之痕》快来定制你的轩辕官网</a><span class="s">04-20 17:30</span></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://www.chinaz.com/game/2015/0420/400044.shtml" mon="a=11&p=1&pn=24" target="_blank">索尼举办PS4满月庆典 小小大星球3将发售</a><span class="s">04-20 16:44</span></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://dnf.pcgames.com.cn/505/5053521.html" mon="a=11&p=1&pn=25" target="_blank">DNF安徒恩攻略分享 流程图展示更直观</a><span class="s">04-20 16:27</span></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://news.17173.com/content/2015-04-20/20150420154101267.shtml" mon="a=11&p=1&pn=26" target="_blank">微软Xbox欧洲副总裁离职 称将寻求新的挑战</a><span class="s">04-20 15:41</span><a href="http://news.baidu.com/n?cmd=5&class=tvgames&page=http%3A%2F%2Fnews.17173.com%2Fcontent%2F2015-04-20%2F20150420154101267.shtml&cls=tvgames" class="rnews">3条相关&gt;&gt;</a></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://www.40407.com/news/201504/506419.html" mon="a=11&p=1&pn=27" target="_blank">不疯不成魔《拳皇97OL》八神庵cos照曝光</a><span class="s">04-20 15:26</span></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://3ds.cngba.com/news/20150420353330.shtml" mon="a=11&p=1&pn=28" target="_blank">值得期待！《任天堂大乱斗》DLC之旅全面展开 </a><span class="s">04-20 15:17</span></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://news.4399.com/gonglue/kdygqhmy/xinde/m/506424.html" mon="a=11&p=1&pn=29" target="_blank">口袋妖怪漆黑的魅影吼吼鲸怎么抓</a><span class="s">04-20 14:53</span></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://chanye.07073.com/guowai/1104727.html" mon="a=11&p=1&pn=30" target="_blank">英国电视台Channel 4将开设手游分部</a><span class="s">04-20 14:34</span><a href="http://news.baidu.com/n?cmd=5&class=tvgames&page=http%3A%2F%2Fchanye.07073.com%2Fguowai%2F1104727.html&cls=tvgames" class="rnews">83条相关&gt;&gt;</a></li>
+                                    						</ul>
+		</div>
+		<p class="more"><a href="http://news.baidu.com/n?cmd=4&class=tvgames&pn=1" target="_blank">更多电视游戏新闻&gt;&gt;</a></p>
+	</div>
+
+	<!--若非国内分类的时政子分类-->
+	<!--ecombegin--><div id="rss">
+		<p><a href="http://news.baidu.com/n?cmd=1&class=tvgames&tn=rss" target="_blank"><img src="http://www.baidu.com/search/img/rss.gif"></a><a href="http://news.baidu.com/n?cmd=1&class=tvgames&tn=rss" target="_blank">RSS订阅<b>电视游戏焦点</b>新闻</a></p>
+		<a href="http://www.baidu.com/search/rss.html#02" style="margin-left:46px;" target="_blank">→更多RSS订阅</a>
+	</div><!--ecomend-->
+		</div><!--content ends-->
+	</div><!-- page_body -->
+</div><!--main ends-->
+<script>
+document.write("<img src='http://news.baidu.com/mp/b.jpg?cmd=1&class=tvgames&cy=0&"+Math.random()+"' style='display:none;'>");
+document.write("<img id='cgif' src='http://c.baidu.com/c.gif?t=5&p=2&"+Math.random()+"' style='display:none'>");
+</script>
+</div>
+ <div id="ft" >
+<p>百度新闻搜索源于互联网新闻网站和频道，系自动分类排列，百度不刊登或转载任何完整的新闻内容</p>
+<font style="color:#7777CC;">&copy;2015 Baidu</font> <a href="http://www.baidu.com/duty/" class="cy">使用百度前必读</a> <a href="http://net.china.cn/chinese/index.htm" target=_blank><img src="http://gimg.baidu.com/img/net.gif"></a>&nbsp;<a href="http://www.bj.cyberpolice.cn/index.htm" target=_blank><img src="http://gimg.baidu.com/img/110.gif" alt="首都网络110报警服务"></a></div>
+
+<div id="backTopBtn" class="toTopOne" style="display:none;">
+<div class="feedback-img" id="feedbackbtn"></div>                                        
+<div class="totop-img" onclick="window.scrollTo(0, 0);"></div>
+</div>
+</div>
+<div id="feedback" style="display:none;">
+<iframe id="postpage" name="postpage" style="height:0;width:0;display:block;border:none;"></iframe>
+<form id="feedbackForm" action="http://api.baiyue.baidu.com/sn/api/feedback" method="post" target="postpage" accept-charset="utf-8" >
+<h2><span>1</span>请选择问题分类：</h2>
+<div id="tab" class="tang-ui tang-tab" tang-param="originalIndex: 0;">
+<ul class="tang-tab-title">
+<li class="tang-tab-title-item">
+<a href="#" onclick="return false;" hidefocus="true"><span>使用不方便</span></a>
+</li>
+<li class="tang-tab-title-item">
+<a href="#" onclick="return false;" hidefocus="true"><span>新闻不好看</span></a>
+</li>
+<li class="tang-tab-title-item">
+<a href="#" onclick="return false;" hidefocus="true"><span>无线与客户端</span></a>
+</li>
+<li class="tang-tab-title-item">
+<a href="#" onclick="return false;" hidefocus="true"><span>新闻源相关</span></a>
+</li>
+<li class="tang-tab-title-item">
+<a href="#" onclick="return false;" hidefocus="true"><span>提建议</span></a>
+</li>
+</ul>
+<div class="tang-tab-body">
+<div class="tang-tab-body-item"><textarea default-value="使用不方便" maxlength="1000"></textarea></div>
+<div class="tang-tab-body-item"><textarea default-value="新闻不好看" maxlength="1000"></textarea></div>
+<div class="tang-tab-body-item"><textarea default-value="无线与客户端" maxlength="1000"></textarea></div>
+<div class="tang-tab-body-item"><textarea default-value="新闻源相关" maxlength="1000"></textarea></div>
+<div class="tang-tab-body-item"><textarea default-value="提建议" maxlength="1000" ></textarea></div>
+</div>
+</div>
+
+<h2><span>2</span>请留下联系方式，您将有机会获得精美礼品！</h2>
+<div class="feedback-contact" id="feedback-contact">
+<div class="box"><input type="text" value="QQ/邮箱/电话" default-value="QQ/邮箱/电话" name="contact" maxlength="50"/></div>
+<div class="des">(可选)</div>
+<div style="clear:both;"></div>
+</div>
+<div class="sub-btn" id="sub-btn"></div>
+<input type="hidden" name="msg" />
+<input type="hidden" name="mid" value="news_pc" />
+</form>
+</div>
+<div id="feedbacklink" style="display:none"></div>
+
+
+<style type="text/css">
+.toTopOne {
+    width: 25px;
+    height: 150px;
+    position: fixed;
+    left: 50%;
+    margin-left: 493px;
+    bottom: 100px;
+    display: none;
+    cursor: pointer;
+    top: 749px;
+}
+.feedback-img{
+    height:74px;
+    background:url(/resource/img/feedback_return.gif) no-repeat 0 0;
+}
+.totop-img{
+    height:74px;
+    margin-top:3px;
+    background:url(/resource/img/feedback_return.gif) no-repeat 0 -77px;
+}
+#ecom_2{
+    font-size:0;
+    line-height:0;
+    width:960px;
+    padding:10px 11px;
+    border:1px solid #ededed;
+}
+</style>
+
+</div>
+
+<link href="http://news.baidu.com/resource/css/focustop_feedback.css?v=201212201032" rel="stylesheet" type="text/css"></link>
+<script type="text/javascript" src="http://news.baidu.com/resource/js/channel_feedback.js?v=201301201816"></script>
+
+<script type="text/javascript">
+/*
+baidu.dom.ready(function(){
+if(baidu.g('nav-hot-link')){
+    baidu.sio.callByBrowser('http://news.baidu.com/z/data/json/cms_page_data.json?v='+new Date().getTime(), function(){
+        baidu.dom.setAttr('nav-hot-link','href',CMS_PAGE_DATA['focustop']['nav_hot_link']);
+
+    });
+}
+});
+*/
+</script>
+<script>
+	if (navigator.cookieEnabled && !/sug?=0/.test(document.cookie)){document.write('<script src=resource/js/browser_sug_new.js><'+'/script>')};
+</script>
+<script>
+if(typeof BAIDU_CLB_fillSlotAsync != 'undefined' && document.getElementById("ecom_2")){
+    BAIDU_CLB_fillSlotAsync('639905', 'ecom_2');
+}
+</script>
+
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fe9e114d958ea263de46e080563e254c4' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+<script type="text/javascript">
+baidu.dom.query('img').each(function(index, item){	
+
+	if(/eiv.baidu.com\/hmt\/icon/.test(baidu.dom.getAttr(item, 'src'))){
+		item.style.display = 'none';		
+	}
+
+});
+</script>
+
+
+</body>
+</html>
+
+
+<!--ecombegin--><script type="text/javascript">enterState("", "");</script><!--ecomend-->

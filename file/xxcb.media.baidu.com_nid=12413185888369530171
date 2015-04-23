@@ -1,0 +1,758 @@
+<!doctype html>
+<html>
+<head>
+<!--STATUS OK-->
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+<title>潇湘晨报_百度传媒</title>
+
+<link rel="dns-prefetch" href="//ns0.bdstatic.com">
+<link rel="dns-prefetch" href="//ns1.bdstatic.com">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="" >
+
+
+
+
+<script>
+  var serverData = {
+    maxseg : '3',
+    total : '600',
+    hasMore : '1',
+    rn : '60',
+    lastNid : '12148170020879414667',
+    logowidth : '144',
+    logoheight : '32',
+    coverlogoheight : '45',
+    menuCount : 9,
+    subscribename : 'xxcb',
+    terms : '',
+    menu : [],
+    channelname : '',
+    device: 'pc'
+  }
+  if(!''){
+    serverData.channelname = 'index';
+  }else{
+    serverData.channelname = '';
+  }
+
+  // hunter统计
+  void function(e,t,n,a,o,i,m){e.alogObjectName=o,e[o]=e[o]||function(){(e[o].q=e[o].q||[]).push(arguments)},e[o].l=e[o].l||+new Date,i=t.createElement(n),i.asyn=1,i.src=a,m=t.getElementsByTagName(n)[0],m.parentNode.insertBefore(i,m)}(window,document,"script","http://img.baidu.com/hunter/alog.min.js","alog");
+    </script>
+
+<link rel="stylesheet" type="text/css" href="/static/common/pkg/aio_ec06920.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/css/all_e472514.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/skin/blue_3491b5a.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/mod_page/mod_page_aac155e.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/ap_ulist/ap_ulist_c1b4057.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/header/header_6c174ae.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/cover/cover_1a2721a.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/mod_banner/mod_banner_b7ecfb4.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/footer/footer_1ef9d4d.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/mod_sidebar/mod_sidebar_cb6d93e.css"/></head>
+<body>
+
+<style>
+  body{padding-top:0}
+  #Header{position: relative;}
+</style>
+
+
+<div class="wrap">
+<div id="Cover" class="mod-cover">
+<div class="cover">
+<div class="coverbg"></div>
+<div class="coverlogo"><img src="http://news.baidu.com/resource/r/image/2015-01-19/93a5b25cb1fa5cd75b22766a4ebf8611.png"></div>
+<div class="coverslogan">
+<p class="ll"></p>
+<span>湖南必看，湖南必用</span>
+<p class="rl"></p>
+</div>
+</div>
+</div><div id="Header">
+<div class="header">
+<h1 class="test"></h1>
+<div class="logo" style="width:144px;"><a href="/" target="_blank" ><img src="http://news.baidu.com/resource/r/image/2015-02-12/7932c793449fc33cadadabee9e904c51.png" style="height:32px"/></a></div>
+<div class="menulist large" style="margin:0 144px">
+<ul></ul>
+</div>
+<div class="menulist medium" style="margin:0 144px">
+<ul></ul>
+</div>
+<div class="headerSearch">
+<p class="searchbar">
+<a href="javascript:;" class="searchA"><i class="i"></i></a>
+<i class="txt"><i class="i nodis"></i><input type="text" class="nodis"></i>
+</p>
+<p class="sub-menu"><i class="icon-submenu"></i></p>
+<p class="baiduLogo"><a href="http://news.baidu.com/" target="_blank"><img src="/static/newsmedia/widget/header/baidu_logo_46a3f92.png"></a></p>
+</div>
+</div>
+
+<script type="text/javascript">
+var menu = [];
+
+            menu.push({
+            'name': '首页',
+            'enname':'',
+            'url': '',
+            'list':[
+            	            ]
+        });
+            menu.push({
+            'name': '现场',
+            'enname':'hunanspot',
+            'url': '',
+            'list':[
+            	            	{'name' : '第一资讯',
+            	'enname' : 'hunanspot\/hndyzx'
+	            },	                        	{'name' : '橙子报料',
+            	'enname' : 'hunanspot\/czblpt'
+	            }	                        ]
+        });
+            menu.push({
+            'name': '湖南',
+            'enname':'hunan',
+            'url': '',
+            'list':[
+            	            	{'name' : '长沙新闻',
+            	'enname' : 'hunan\/csxw'
+	            },	                        	{'name' : '市州新闻',
+            	'enname' : 'hunan\/szxw'
+	            }	                        ]
+        });
+            menu.push({
+            'name': '要闻',
+            'enname':'event',
+            'url': '',
+            'list':[
+            	            	{'name' : '国内新闻',
+            	'enname' : 'event\/gnxw'
+	            },	                        	{'name' : '国际新闻',
+            	'enname' : 'event\/gjxw'
+	            },	                        	{'name' : '娱乐新闻',
+            	'enname' : 'event\/ylxw'
+	            },	                        	{'name' : '体育新闻',
+            	'enname' : 'event\/tyxw'
+	            }	                        ]
+        });
+            menu.push({
+            'name': '态度',
+            'enname':'attitude',
+            'url': '',
+            'list':[
+            	            	{'name' : '晨报观点',
+            	'enname' : 'attitude\/cbgd'
+	            },	                        	{'name' : '晨报角度',
+            	'enname' : 'attitude\/cbjd'
+	            },	                        	{'name' : '首席出品',
+            	'enname' : 'attitude\/sxcp'
+	            },	                        	{'name' : '深水区',
+            	'enname' : 'attitude\/ssq'
+	            },	                        	{'name' : '晨报民调',
+            	'enname' : 'attitude\/cbmd'
+	            },	                        	{'name' : '晨报圆桌',
+            	'enname' : 'attitude\/cbyz'
+	            },	                        	{'name' : '观察家',
+            	'enname' : 'attitude\/gcj'
+	            }	                        ]
+        });
+            menu.push({
+            'name': '文化',
+            'enname':'culture',
+            'url': '',
+            'list':[
+            	            	{'name' : '时间线',
+            	'enname' : 'culture\/sjx'
+	            },	                        	{'name' : '口述历史',
+            	'enname' : 'culture\/ksls'
+	            },	                        	{'name' : '湖湘地理',
+            	'enname' : 'culture\/hxdl'
+	            },	                        	{'name' : '悦读',
+            	'enname' : 'culture\/yd'
+	            },	                        	{'name' : '文艺片',
+            	'enname' : 'culture\/wyp'
+	            }	                        ]
+        });
+            menu.push({
+            'name': '影像',
+            'enname':'portrait',
+            'url': '',
+            'list':[
+            	            	{'name' : '新闻现场',
+            	'enname' : 'portrait\/xwxc'
+	            },	                        	{'name' : '图片故事',
+            	'enname' : 'portrait\/tpgs'
+	            },	                        	{'name' : '摄友圈',
+            	'enname' : 'portrait\/syq'
+	            },	                        	{'name' : '每日视界',
+            	'enname' : 'portrait\/mrsj'
+	            }	                        ]
+        });
+            menu.push({
+            'name': '经济',
+            'enname':'economy',
+            'url': '',
+            'list':[
+            	            	{'name' : '经济要闻',
+            	'enname' : 'economy\/jjyw'
+	            }	                        ]
+        });
+            menu.push({
+            'name': '生活',
+            'enname':'life',
+            'url': '',
+            'list':[
+            	            	{'name' : '旅游',
+            	'enname' : 'life\/ly'
+	            },	                        	{'name' : '财经',
+            	'enname' : 'life\/cj'
+	            },	                        	{'name' : '房产',
+            	'enname' : 'life\/fc'
+	            },	                        	{'name' : '家居',
+            	'enname' : 'life\/jj'
+	            },	                        	{'name' : '健康',
+            	'enname' : 'life\/jk'
+	            },	                        	{'name' : '消费',
+            	'enname' : 'life\/xf'
+	            }	                        ]
+        });
+        serverData.menu = menu;
+
+</script>
+
+</div>
+<div id="Body">
+<div class="body">
+<div class="left">
+<div id="banners">
+<div class="feed_tegao" data-href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12445715352226241719&amp;pos=0&amp;layout=2&amp;token=694b5c214184ffb30bb02b75bbcb4bcd&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981227">
+<h4>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12445715352226241719&amp;pos=0&amp;layout=2&amp;token=694b5c214184ffb30bb02b75bbcb4bcd&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981227" target="_blank">长沙将打造梅溪湖国际医疗健康城 </a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12445715352226241719&amp;pos=0&amp;layout=2&amp;token=694b5c214184ffb30bb02b75bbcb4bcd&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981227" target="_blank"><img src="http://www.xxcb.cn/d/file/house/bdxx/2015-04-22/f09bff9ec6a144c081a6f33fdf0adc96.jpg"/></a></p>
+<p class="summary">高达50亿元的授信将为梅溪湖国际医疗健康城迅速推动提供强大的资金保障。<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12445715352226241719&amp;pos=0&amp;layout=2&amp;token=694b5c214184ffb30bb02b75bbcb4bcd&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981227" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/life">生活</a></p>
+<span class="author">
+<em>潇湘晨报</em>
+</span>
+<span class="time">04-22 14:31</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12399766636737891954&amp;pos=1&amp;layout=2&amp;token=64bd3596668f3ffc18776e25bcc3ddde&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981226">
+<h4>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12399766636737891954&amp;pos=1&amp;layout=2&amp;token=64bd3596668f3ffc18776e25bcc3ddde&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981226" target="_blank">【揭秘】中海利润率为何甩出万科三条街？ </a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12399766636737891954&amp;pos=1&amp;layout=2&amp;token=64bd3596668f3ffc18776e25bcc3ddde&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981226" target="_blank"><img src="http://www.xxcb.cn/d/file/house/zixuntoutiao/2015-04-22/dcced36e20c6dfc7cf5f68e5323f14d9.jpg"/></a></p>
+<p class="summary">为什么在同一市场环境下，两者利润率水...<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12399766636737891954&amp;pos=1&amp;layout=2&amp;token=64bd3596668f3ffc18776e25bcc3ddde&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981226" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/life">生活</a></p>
+<span class="author">
+<em>潇湘晨报</em>
+</span>
+<span class="time">04-22 14:31</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12353817921249542189&amp;pos=2&amp;layout=2&amp;token=113b7cbefb2afb5bfa37d14b31df943a&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981225">
+<h4>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12353817921249542189&amp;pos=2&amp;layout=2&amp;token=113b7cbefb2afb5bfa37d14b31df943a&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981225" target="_blank">政策利好 长沙等中部四省会公积金贷款可跨省 </a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12353817921249542189&amp;pos=2&amp;layout=2&amp;token=113b7cbefb2afb5bfa37d14b31df943a&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981225" target="_blank"><img src="http://www.xxcb.cn/d/file/house/bdxx/2015-04-22/9436456a5af500598c6c637cb6a96f09.jpg "/></a></p>
+<p class="summary">已有8人用公积金跨省购房。<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12353817921249542189&amp;pos=2&amp;layout=2&amp;token=113b7cbefb2afb5bfa37d14b31df943a&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981225" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/life">生活</a></p>
+<span class="author">
+<em>潇湘晨报</em>
+</span>
+<span class="time">04-22 14:31</span>
+</div>
+</div>
+<div class="feed_tegao" data-href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12307869205761192424&amp;pos=3&amp;layout=2&amp;token=88fbf574784e402f62964b71740bf9dc&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981224">
+<h4>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12307869205761192424&amp;pos=3&amp;layout=2&amp;token=88fbf574784e402f62964b71740bf9dc&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981224" target="_blank">新政威力渐显 长沙楼市小有回暖 </a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12307869205761192424&amp;pos=3&amp;layout=2&amp;token=88fbf574784e402f62964b71740bf9dc&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981224" target="_blank"><img src="http://www.xxcb.cn/d/file/house/bdxx/2015-04-22/cc63d32923dad6693c42ccaaa597ed64.jpg "/></a></p>
+<p class="summary">长沙楼市成交出现小幅上涨，楼市新政的威力慢慢显现。<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12307869205761192424&amp;pos=3&amp;layout=2&amp;token=88fbf574784e402f62964b71740bf9dc&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981224" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/life">生活</a></p>
+<span class="author">
+<em>潇湘晨报</em>
+</span>
+<span class="time">04-22 14:31</span>
+</div>
+</div>
+<div class="feed_tegao" data-href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12124074343807793364&amp;pos=4&amp;layout=2&amp;token=e8f961bd63084e5ea4d92402550a4c51&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981220">
+<h4>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12124074343807793364&amp;pos=4&amp;layout=2&amp;token=e8f961bd63084e5ea4d92402550a4c51&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981220" target="_blank">亚洲最大餐饮集群26日亮相长沙 </a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12124074343807793364&amp;pos=4&amp;layout=2&amp;token=e8f961bd63084e5ea4d92402550a4c51&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981220" target="_blank"><img src="http://www.xxcb.cn/d/file/house/bdxx/2015-04-22/a78106ffd261c31a434365ac013f1184.jpg"/></a></p>
+<p class="summary">全球美味尽在德思勤·四季汇购物中心，这个荣誉即将被长沙替代。<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12124074343807793364&amp;pos=4&amp;layout=2&amp;token=e8f961bd63084e5ea4d92402550a4c51&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981220" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/life">生活</a></p>
+<span class="author">
+<em>潇湘晨报</em>
+</span>
+<span class="time">04-22 14:31</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12345920902298933063&amp;pos=5&amp;layout=2&amp;token=beb9af46227887db724d996e69b3e37b&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981065">
+<h4>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12345920902298933063&amp;pos=5&amp;layout=2&amp;token=beb9af46227887db724d996e69b3e37b&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981065" target="_blank">2015年最新二手房交易税费及过户费详解 </a>
+</h4>
+<p class="summary">此项营业税由城市维护建设税、教育费附加、地方教育附加和销售营业税组成，征收税率为5.6%。<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12345920902298933063&amp;pos=5&amp;layout=2&amp;token=beb9af46227887db724d996e69b3e37b&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981065" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/life">生活</a></p>
+<span class="author">
+<em>潇湘晨报</em>
+</span>
+<span class="time">04-21 18:25</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12254023471322233533&amp;pos=6&amp;layout=2&amp;token=65f033516d250814881bec9593bb8461&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981063">
+<h4>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12254023471322233533&amp;pos=6&amp;layout=2&amp;token=65f033516d250814881bec9593bb8461&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981063" target="_blank">二手房交易流程八步走 新政过后远离垃圾房 </a>
+</h4>
+<p class="summary">买卖双方建立信息沟通渠道，买方了解房屋整体现状及产权状况，要求卖方提供合法的证件，包括房屋所有权证书、身份证件及其它证件。<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12254023471322233533&amp;pos=6&amp;layout=2&amp;token=65f033516d250814881bec9593bb8461&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981063" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/life">生活</a></p>
+<span class="author">
+<em>潇湘晨报</em>
+</span>
+<span class="time">04-21 18:18</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12116177324857184238&amp;pos=7&amp;layout=2&amp;token=95a33f7c0890a19051057bce4a6e016c&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981060">
+<h4>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12116177324857184238&amp;pos=7&amp;layout=2&amp;token=95a33f7c0890a19051057bce4a6e016c&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981060" target="_blank">营业税5改2后二手房交易税费发生了哪些变化? </a>
+</h4>
+<p class="summary">二手房交易缴税发生了什么变化。<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12116177324857184238&amp;pos=7&amp;layout=2&amp;token=95a33f7c0890a19051057bce4a6e016c&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981060" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/life">生活</a></p>
+<span class="author">
+<em>潇湘晨报</em>
+</span>
+<span class="time">04-21 18:10</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12461914010347253896&amp;pos=8&amp;layout=2&amp;token=2cd01e00859514b8c496f4b25a2695b4&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981058">
+<h4>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12461914010347253896&amp;pos=8&amp;layout=2&amp;token=2cd01e00859514b8c496f4b25a2695b4&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981058" target="_blank">置业手册：二手房交易不要不看条款就签名 </a>
+</h4>
+<p class="summary">中介费纠纷多源于签合同时的细节问题，律师提醒，签合同需谨慎，严防合同陷阱。<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12461914010347253896&amp;pos=8&amp;layout=2&amp;token=2cd01e00859514b8c496f4b25a2695b4&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981058" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/life">生活</a></p>
+<span class="author">
+<em>潇湘晨报</em>
+</span>
+<span class="time">04-21 18:06</span>
+</div>
+</div>
+<div class="feed_tegao noimgandlong" data-href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12415965294858904131&amp;pos=9&amp;layout=2&amp;token=82c0e76e4beb084505f12c4edb649d26&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981057">
+<h4>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12415965294858904131&amp;pos=9&amp;layout=2&amp;token=82c0e76e4beb084505f12c4edb649d26&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981057" target="_blank">资深置业顾问告诉你：二手房过户如何付款更安全?交易税收如何收? </a>
+</h4>
+<p class="summary">九、个人转让住房计征个人所得税时，如何确定转让房产的财产原值...<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12415965294858904131&amp;pos=9&amp;layout=2&amp;token=82c0e76e4beb084505f12c4edb649d26&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981057" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/life">生活</a></p>
+<span class="author">
+<em>潇湘晨报</em>
+</span>
+<span class="time">04-21 18:03</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12370016579370554366&amp;pos=10&amp;layout=2&amp;token=4e29b3f8021dfb6f05355159a19f2d9c&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981056">
+<h4>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12370016579370554366&amp;pos=10&amp;layout=2&amp;token=4e29b3f8021dfb6f05355159a19f2d9c&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981056" target="_blank">二手房装修前要先验房 水电最好彻底换 </a>
+</h4>
+<p class="summary">购买了二手房，必然要面对一个装修的问题，但面对一套装修过甚至居住过的房子，很多人都觉得无从下手。<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12370016579370554366&amp;pos=10&amp;layout=2&amp;token=4e29b3f8021dfb6f05355159a19f2d9c&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981056" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/life">生活</a></p>
+<span class="author">
+<em>潇湘晨报</em>
+</span>
+<span class="time">04-21 18:02</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12324067863882204601&amp;pos=11&amp;layout=2&amp;token=16a2423354194b0e848dafa63209b007&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981055">
+<h4>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12324067863882204601&amp;pos=11&amp;layout=2&amp;token=16a2423354194b0e848dafa63209b007&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981055" target="_blank">买二手房要慎重 如何选择令人放心的房屋中介 </a>
+</h4>
+<p class="summary">个别不良中介利用购房者对交易流程的不熟悉，在某环节可能会设下陷阱，让购房者防不胜防。<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12324067863882204601&amp;pos=11&amp;layout=2&amp;token=16a2423354194b0e848dafa63209b007&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981055" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/life">生活</a></p>
+<span class="author">
+<em>潇湘晨报</em>
+</span>
+<span class="time">04-21 18:02</span>
+</div>
+</div>
+<div class="feed_tegao" data-href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12170023059296143129&amp;pos=12&amp;layout=2&amp;token=387c54a2091cc3f2df17bdc4163558bd&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981221">
+<h4>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12170023059296143129&amp;pos=12&amp;layout=2&amp;token=387c54a2091cc3f2df17bdc4163558bd&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981221" target="_blank">“抗日神剧”走了 “足球神剧”来了？ </a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12170023059296143129&amp;pos=12&amp;layout=2&amp;token=387c54a2091cc3f2df17bdc4163558bd&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981221" target="_blank"><img src="http://www.xxcb.cn/d/file/depth/diaocha/2015-04-22/9e4e26d9dbe062107f55be04c0234cdf.jpg"/></a></p>
+<p class="summary">有媒体曝出，在中国足球改革浪潮的引领下，不久的将来就会有一大批足球题材的电影、电视剧“攻占”电视机和...<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12170023059296143129&amp;pos=12&amp;layout=2&amp;token=387c54a2091cc3f2df17bdc4163558bd&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981221" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/attitude">态度</a></p>
+<span class="author">
+<em>潇湘晨报</em>
+</span>
+<span class="time">04-22 14:02</span>
+</div>
+</div>
+<div class="feed_tegao" data-href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12310111844416085265&amp;pos=13&amp;layout=2&amp;token=1e1ed4502b7530c5e8677c88992f1c3f&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981205">
+<h4>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12310111844416085265&amp;pos=13&amp;layout=2&amp;token=1e1ed4502b7530c5e8677c88992f1c3f&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981205" target="_blank">你的快乐能被别人闻出来 </a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12310111844416085265&amp;pos=13&amp;layout=2&amp;token=1e1ed4502b7530c5e8677c88992f1c3f&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981205" target="_blank"><img src="http://www.xxcb.cn/d/file/lvyou/youshijie/2015-04-22/ac6cf324023448068577c7cabf65572b.jpg "/></a></p>
+<p class="summary">第二组志愿者“闻到快乐发送人的汗液时，呈现愉悦表情多于闻到害怕或平淡心情发送人的汗液”。<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12310111844416085265&amp;pos=13&amp;layout=2&amp;token=1e1ed4502b7530c5e8677c88992f1c3f&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981205" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/life">生活</a></p>
+<span class="author">
+<em>潇湘晨报</em>
+</span>
+<span class="time">04-22 11:46</span>
+</div>
+</div>
+<div class="feed_tegao" data-href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12126316982462686205&amp;pos=14&amp;layout=2&amp;token=03a82ae1f83bea00ff0810a58c196302&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981201">
+<h4>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12126316982462686205&amp;pos=14&amp;layout=2&amp;token=03a82ae1f83bea00ff0810a58c196302&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981201" target="_blank">免费环游世界有新招 </a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12126316982462686205&amp;pos=14&amp;layout=2&amp;token=03a82ae1f83bea00ff0810a58c196302&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981201" target="_blank"><img src="http://www.xxcb.cn/d/file/lvyou/youshijie/2015-04-22/9383beb6f107cabe3910061bf53df721.jpg"/></a></p>
+<p class="summary">相信很多人都心怀环游世界的梦想，却因为巨额的旅行开支无法做到说走就走。<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12126316982462686205&amp;pos=14&amp;layout=2&amp;token=03a82ae1f83bea00ff0810a58c196302&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981201" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/life">生活</a></p>
+<span class="author">
+<em>潇湘晨报</em>
+</span>
+<span class="time">04-22 11:38</span>
+</div>
+</div>
+<div class="feed_tegao" data-href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12596980750322929231&amp;pos=15&amp;layout=2&amp;token=cb86aaa4319882a1cf2c72e5bac5ddef&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981198">
+<h4>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12596980750322929231&amp;pos=15&amp;layout=2&amp;token=cb86aaa4319882a1cf2c72e5bac5ddef&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981198" target="_blank">日本一水族馆白色海豚激动身体变粉色 </a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12596980750322929231&amp;pos=15&amp;layout=2&amp;token=cb86aaa4319882a1cf2c72e5bac5ddef&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981198" target="_blank"><img src="http://www.xxcb.cn/d/file/lvyou/youshijie/2015-04-22/7a9ad00f90fc40b47bdc2453945e951d.jpg"/></a></p>
+<p class="summary">宽吻海豚通常为灰色，而这只极其罕见的海豚或由于身患白化病而呈现白色。<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12596980750322929231&amp;pos=15&amp;layout=2&amp;token=cb86aaa4319882a1cf2c72e5bac5ddef&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981198" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/life">生活</a></p>
+<span class="author">
+<em>潇湘晨报</em>
+</span>
+<span class="time">04-22 11:35</span>
+</div>
+</div>
+<div class="feed_tegao" data-href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12367237172881180406&amp;pos=16&amp;layout=2&amp;token=0539fa278c210b2e705e570e2aa0cab7&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981193">
+<h4>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12367237172881180406&amp;pos=16&amp;layout=2&amp;token=0539fa278c210b2e705e570e2aa0cab7&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981193" target="_blank">探险者圣地：北美四大壮美峡湾 </a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12367237172881180406&amp;pos=16&amp;layout=2&amp;token=0539fa278c210b2e705e570e2aa0cab7&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981193" target="_blank"><img src="http://www.xxcb.cn/d/file/lvyou/youshijie/2015-04-22/0e61e75273c653621f3fa3eb02ae2c63.jpg"/></a></p>
+<p class="summary">在与久负盛名的峡湾相比之下，北美地区的峡湾更容易到达，且观赏方式更多样、便捷，返程游客更是给予高分推...<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12367237172881180406&amp;pos=16&amp;layout=2&amp;token=0539fa278c210b2e705e570e2aa0cab7&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981193" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/life">生活</a></p>
+<span class="author">
+<em>潇湘晨报</em>
+</span>
+<span class="time">04-22 11:28</span>
+</div>
+</div>
+<div class="feed_tegao" data-href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12229391026416131111&amp;pos=17&amp;layout=2&amp;token=87012b5f4d5fa421ca3634fee597d544&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981190">
+<h4>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12229391026416131111&amp;pos=17&amp;layout=2&amp;token=87012b5f4d5fa421ca3634fee597d544&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981190" target="_blank">美国德州：牛仔生活 冒险文化 </a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12229391026416131111&amp;pos=17&amp;layout=2&amp;token=87012b5f4d5fa421ca3634fee597d544&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981190" target="_blank"><img src="http://www.xxcb.cn/d/file/lvyou/youshijie/2015-04-22/7736d806867a2d45a557df790f35599c.jpg"/></a></p>
+<p class="summary">自19世纪末以来，美国牛仔一直是一个有着特别含义的形象，同样，女牛仔也以她们的角色和成就赢得了同样的...<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12229391026416131111&amp;pos=17&amp;layout=2&amp;token=87012b5f4d5fa421ca3634fee597d544&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981190" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/life">生活</a></p>
+<span class="author">
+<em>潇湘晨报</em>
+</span>
+<span class="time">04-22 11:21</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12515759744786212787&amp;pos=18&amp;layout=2&amp;token=62febed3b2ab57986210120a0dbd203e&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981219">
+<h4>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12515759744786212787&amp;pos=18&amp;layout=2&amp;token=62febed3b2ab57986210120a0dbd203e&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981219" target="_blank">男子阳台量空调尺寸坠楼身亡 家属质疑护栏存隐患 </a>
+</h4>
+<p class="summary">长沙县佳美紫郡小区，一位在10楼空调放置台作业的工人坠楼身亡。<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12515759744786212787&amp;pos=18&amp;layout=2&amp;token=62febed3b2ab57986210120a0dbd203e&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981219" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/life">生活</a></p>
+<span class="author">
+<em>潇湘晨报</em>
+</span>
+<span class="time">04-22 13:32</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12148170020879414667&amp;pos=19&amp;layout=2&amp;token=43403d28f931108d4bd265f3e4e23e33&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981211">
+<h4>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12148170020879414667&amp;pos=19&amp;layout=2&amp;token=43403d28f931108d4bd265f3e4e23e33&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981211" target="_blank">扬州一男子学车半年花6000元 驾照是假的 </a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12148170020879414667&amp;pos=19&amp;layout=2&amp;token=43403d28f931108d4bd265f3e4e23e33&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981211" target="_blank"><img src="http://www.xxcb.cn/d/file/event/guonei/2015-04-22/5785471b8455e2c4106159858d905326.jpg"/></a></p>
+<p class="summary">让他怎么也想不到的是，经过大半年在驾...<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12148170020879414667&amp;pos=19&amp;layout=2&amp;token=43403d28f931108d4bd265f3e4e23e33&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981211" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/event">要闻</a></p>
+<span class="author">
+<em>潇湘晨报</em>
+</span>
+<span class="time">04-22 12:30</span>
+</div>
+</div>
+</div>
+<div class="loading"><img src="/static/newsmedia/widget/mod_page/jm_loading_d04a658.gif"><b>正在加载，请稍候...</b></div>
+<div class="pages">
+<a href="javascript:;" class="btn btnP nodis">上一页</a>
+<div class="page"></div>
+<a href="javascript:;" class="btn btnN">下一页</a>
+</div>
+<div id="Footer" class="wp-footer">
+<p class="top-nav">
+<a href="http://news.baidu.com/" target="_blank">百度新闻</a>|<a href="mailto:media_news%40baidu.com" target="_blank">联系我们：media_news@baidu.com</a>
+<strong class="wp-wrap">百度新闻&潇湘晨报联合出品</strong>
+<a href="http://news.baidu.com/"><img src="/static/newsmedia/widget/footer/baidunews_footer_d9a758b.png"></a>
+<a href="http://www.xxcb.cn" target="_blank"><img src="http://news.baidu.com/resource/r/image/2015-01-19/2b2afda3c70f3354018da043a8390d02.png"></a>
+</p>
+<p class="site-info">
+<i>京公网安备110000000001号</i>
+<a href="http://news.baidu.com/licence.html">互联网新闻信息服务许可</a>
+<span>©2014 Baidu</span>
+<a class="wp-wrap" href="http://www.baidu.com/duty/">使用百度前必读</a>
+<a class="wp-hide" target="_blank" href="http://net.china.cn/chinese/index.htm"><img src="http://gimg.baidu.com/img/net.gif"></a>
+<a class="wp-hide" target="_blank" href="http://www.bj.cyberpolice.cn/index.htm"><img alt="首都网络110报警服务" src="http://gimg.baidu.com/img/110.gif"></a>
+<a class="wp-hide" target="_blank" href="http://www.bjjubao.org/"><img src="http://news.baidu.com/resource/img/report_center.png"></a>
+</p>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?d09fe258c88c7015c3e6f8232ee9a563";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</div>
+</div>
+<div class="right">
+<div class="ap apRecommend">
+<div class="apt">
+<h4>热门文章</h4>
+<p class="entit"><span>HOT ARTICLE</span></p>
+</div>
+<div class="apc">
+<ul class="ulist">
+<li>
+<span class="num top3">1</span>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12447957990881134560&amp;pos=0&amp;layout=4&amp;token=6c4ed8846319807d5c073ed3491b244d&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981208" title="沪指大涨1.78%再创近7年新高 ">沪指大涨1.78%再创近7年新高 </a>
+<span class="tm">04-22 12:30</span>
+</li>
+<li>
+<span class="num top3">2</span>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12575127711906200769&amp;pos=1&amp;layout=4&amp;token=285ec91443e9bcd19fb65bf188082f4f&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981188" title="台湾&quot;最美包子妹&quot;爆红 93年学生妹热裤卖包子 ">台湾&quot;最美包子妹&quot;爆红 93年学生妹热裤卖包子 </a>
+<span class="tm">04-22 12:13</span>
+</li>
+<li>
+<span class="num top3">3</span>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12529178996417851004&amp;pos=2&amp;layout=4&amp;token=84c89f6ac97e0ac92a79f9bfd95c8e60&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981187" title="邱少云纪念馆馆长驳斥质疑声音:大火烧20分钟 ">邱少云纪念馆馆长驳斥质疑声音:大火烧20分钟 </a>
+<span class="tm">04-22 12:13</span>
+</li>
+<li>
+<span class="num">4</span>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12402009275392784795&amp;pos=3&amp;layout=4&amp;token=37c3a7cb6f7fb1de5222323224c685c2&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981207" title="驾考&quot;考霸&quot;2年考19次花1.3万 拿驾照失声痛哭 ">驾考&quot;考霸&quot;2年考19次花1.3万 拿驾照失声痛哭 </a>
+<span class="tm">04-22 12:30</span>
+</li>
+<li>
+<span class="num">5</span>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12321288457392830641&amp;pos=4&amp;layout=4&amp;token=958abe9020294b312d679b963a4dd632&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981192" title="母亲去世前留画作 艺术家5年后拆画泪流满面 ">母亲去世前留画作 艺术家5年后拆画泪流满面 </a>
+<span class="tm">04-22 12:13</span>
+</li>
+<li>
+<span class="num">6</span>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12459134603857879936&amp;pos=5&amp;layout=4&amp;token=c06423aad8cc07b0f7e76d2b454e0e9b&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981195" title="世界最长寿老人将庆祝116岁生日 ">世界最长寿老人将庆祝116岁生日 </a>
+<span class="tm">04-22 12:13</span>
+</li>
+<li>
+<span class="num">7</span>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12413185888369530171&amp;pos=6&amp;layout=4&amp;token=d80d3aa822b3975cb9534c994d633273&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981194" title="湖南省发改委原党组成员杨世芳等3人被调查 ">湖南省发改委原党组成员杨世芳等3人被调查 </a>
+<span class="tm">04-22 11:59</span>
+</li>
+<li>
+<span class="num">8</span>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12621076427394550534&amp;pos=7&amp;layout=4&amp;token=0f71bdcac5a100f55d716202fded8ec3&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981189" title="研究称富家子弟脑容量更大 成绩比穷人孩子高 ">研究称富家子弟脑容量更大 成绩比穷人孩子高 </a>
+<span class="tm">04-22 11:59</span>
+</li>
+<li>
+<span class="num">9</span>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12577370350561093610&amp;pos=8&amp;layout=4&amp;token=e9fcb5d213544845e1a7f30b119588c8&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981169" title="长沙一水泥罐车侧翻在广济桥下 无人伤亡 ">长沙一水泥罐车侧翻在广济桥下 无人伤亡 </a>
+<span class="tm">04-22 12:13</span>
+</li>
+<li>
+<span class="num">10</span>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12485472919584394080&amp;pos=9&amp;layout=4&amp;token=f82616548e5e38530b69ebe6076e2bd3&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981167" title="浏阳市自来水公司短信平台被盗用发送诈骗短信 ">浏阳市自来水公司短信平台被盗用发送诈骗短信 </a>
+<span class="tm">04-22 12:13</span>
+</li>
+</ul>
+</div>
+</div></div>
+</div>
+</div>
+<div id="Footer">
+<p class="top-nav">
+<a href="http://news.baidu.com/" target="_blank">百度新闻</a>|<a href="mailto:media_news%40baidu.com" target="_blank">联系我们：media_news@baidu.com</a>
+<strong class="wp-wrap">百度新闻&潇湘晨报联合出品</strong>
+<a href="http://news.baidu.com/"><img src="/static/newsmedia/widget/footer/baidunews_footer_d9a758b.png"></a>
+<a href="http://www.xxcb.cn" target="_blank"><img src="http://news.baidu.com/resource/r/image/2015-01-19/2b2afda3c70f3354018da043a8390d02.png"></a>
+</p>
+<p class="site-info">
+<i>京公网安备110000000001号</i>
+<a href="http://news.baidu.com/licence.html">互联网新闻信息服务许可</a>
+<span>©2014 Baidu</span>
+<a class="wp-wrap" href="http://www.baidu.com/duty/">使用百度前必读</a>
+<a class="wp-hide" target="_blank" href="http://net.china.cn/chinese/index.htm"><img src="http://gimg.baidu.com/img/net.gif"></a>
+<a class="wp-hide" target="_blank" href="http://www.bj.cyberpolice.cn/index.htm"><img alt="首都网络110报警服务" src="http://gimg.baidu.com/img/110.gif"></a>
+<a class="wp-hide" target="_blank" href="http://www.bjjubao.org/"><img src="http://news.baidu.com/resource/img/report_center.png"></a>
+</p>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?d09fe258c88c7015c3e6f8232ee9a563";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</div>
+</div>
+<div class="mod-sidebar">
+<ul class="menu">
+<li class="toolbar">
+<a class="search" href="/search"><i class="icon-search"></i>搜索</a>
+|<a class="login" href="javascript:;">登录</a>
+<p class="username"></p>
+</li>
+<li class="item">
+<a href="/">首页</a>
+</li>
+<li class="item">
+<a href="/hunanspot">现场</a>
+<ul class="submenu">
+<li class="sub-item"><a href="/hunanspot/hndyzx">第一资讯</a></li>
+<li class="sub-item"><a href="/hunanspot/czblpt">橙子报料</a></li>
+</ul>
+</li>
+<li class="item">
+<a href="/hunan">湖南</a>
+<ul class="submenu">
+<li class="sub-item"><a href="/hunan/csxw">长沙新闻</a></li>
+<li class="sub-item"><a href="/hunan/szxw">市州新闻</a></li>
+</ul>
+</li>
+<li class="item">
+<a href="/event">要闻</a>
+<ul class="submenu">
+<li class="sub-item"><a href="/event/gnxw">国内新闻</a></li>
+<li class="sub-item"><a href="/event/gjxw">国际新闻</a></li>
+<li class="sub-item"><a href="/event/ylxw">娱乐新闻</a></li>
+<li class="sub-item"><a href="/event/tyxw">体育新闻</a></li>
+</ul>
+</li>
+<li class="item">
+<a href="/attitude">态度</a>
+<ul class="submenu">
+<li class="sub-item"><a href="/attitude/cbgd">晨报观点</a></li>
+<li class="sub-item"><a href="/attitude/cbjd">晨报角度</a></li>
+<li class="sub-item"><a href="/attitude/sxcp">首席出品</a></li>
+<li class="sub-item"><a href="/attitude/ssq">深水区</a></li>
+<li class="sub-item"><a href="/attitude/cbmd">晨报民调</a></li>
+<li class="sub-item"><a href="/attitude/cbyz">晨报圆桌</a></li>
+<li class="sub-item"><a href="/attitude/gcj">观察家</a></li>
+</ul>
+</li>
+<li class="item">
+<a href="/culture">文化</a>
+<ul class="submenu">
+<li class="sub-item"><a href="/culture/sjx">时间线</a></li>
+<li class="sub-item"><a href="/culture/ksls">口述历史</a></li>
+<li class="sub-item"><a href="/culture/hxdl">湖湘地理</a></li>
+<li class="sub-item"><a href="/culture/yd">悦读</a></li>
+<li class="sub-item"><a href="/culture/wyp">文艺片</a></li>
+</ul>
+</li>
+<li class="item">
+<a href="/portrait">影像</a>
+<ul class="submenu">
+<li class="sub-item"><a href="/portrait/xwxc">新闻现场</a></li>
+<li class="sub-item"><a href="/portrait/tpgs">图片故事</a></li>
+<li class="sub-item"><a href="/portrait/syq">摄友圈</a></li>
+<li class="sub-item"><a href="/portrait/mrsj">每日视界</a></li>
+</ul>
+</li>
+<li class="item">
+<a href="/economy">经济</a>
+<ul class="submenu">
+<li class="sub-item"><a href="/economy/jjyw">经济要闻</a></li>
+</ul>
+</li>
+<li class="item">
+<a href="/life">生活</a>
+<ul class="submenu">
+<li class="sub-item"><a href="/life/ly">旅游</a></li>
+<li class="sub-item"><a href="/life/cj">财经</a></li>
+<li class="sub-item"><a href="/life/fc">房产</a></li>
+<li class="sub-item"><a href="/life/jj">家居</a></li>
+<li class="sub-item"><a href="/life/jk">健康</a></li>
+<li class="sub-item"><a href="/life/xf">消费</a></li>
+</ul>
+</li>
+<li class="logo"><a href="http://news.baidu.com"><img src="/static/newsmedia/widget/mod_sidebar/logo-baidu_941ba05.png" height="26px" alt="baidu logo"></a></li>
+</ul>
+</div>
+</body><script type="text/javascript" src="/static/common/js/mod_b818356.js"></script>
+<script type="text/javascript" src="/static/common/js/jquery-1.10.1_77f5e40.js"></script>
+<script type="text/javascript" src="/static/common/pkg/aio_d41d8cd.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/mod_page/mod_page_78338ec.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/ap_ulist/ap_ulist_60537f4.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/header/header_3f34133.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/cover/cover_2e172d2.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/ui/iscroll/iscroll_93ba427.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/ui/velocity/velocity_022bc13.js"></script>
+<script type="text/javascript" src="/static/newsmedia/lessimgindex/lessimgindex_0e2d48b.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/mod_sidebar/mod_sidebar_5cf9d41.js"></script>
+<script type="text/javascript">!function(){    require.async('newsmedia:widget/mod_sidebar/mod_sidebar.js', function(login) {
+      login();
+    })
+  }();
+!function(){    var device = 'pc';
+    // 手机端直接监听每条新闻并跳转
+    if (device !== 'pc') {
+      $(function() {
+        var $banner = $('#banners');
+
+        $banner.delegate('.feed_tegao', 'click', function(ev) {
+          // 判断是否是点击了tag
+          var $target = $(ev.target);
+          if ($target.attr('href') &&
+            /^\/.*/.test($target.attr('href'))) return;
+
+          var $item = $(ev.currentTarget);
+          var href = $item.attr('data-href');
+
+          setTimeout(function() {
+            window.location.href = href;
+          }, 100)
+        });
+      });
+    }
+
+    alog("set", "alias", {
+         monkey: "http://img.baidu.com/hunter/alog/monkey.min.js",
+         element: "http://img.baidu.com/hunter/alog/element.min.js"
+     });
+
+     alog("require", ["monkey", "element"], function(monkey, element){
+         monkey.create({
+             page: "news-xxcb",
+             pid: "241",
+             p: "133",
+             hid: "424",
+             postUrl: "http://nsclick.baidu.com/u.gif",
+             reports: {
+                refer: 1,
+                staytime: 1
+             }
+         });
+     });
+
+     alog("monkey.send", "pageview", { now: +new Date });
+  }();</script></html>

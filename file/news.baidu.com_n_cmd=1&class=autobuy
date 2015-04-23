@@ -1,0 +1,544 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<!--STATUS OK-->
+<meta http-equiv="X-UA-Compatible" content="IE=7">
+<meta http-equiv=Content-Type content="text/html; charset=gb2312">
+<title>百度新闻搜索——新车新闻      </title>
+<meta name="description" content="百度新闻是包含海量资讯的新闻服务平台，真实反映每时每刻的新闻热点。您可以搜索新闻事件、热点话题、人物动态、产品资讯等，快速了解它们的最新进展。" >
+<!--ecombegin--><!--ecomend-->
+<script type="text/javascript" src="resource/js/perf_monitor.js"></script>
+<script src="/resource/js/news.js?v=201302261116"></script>
+<script src="resource/js/usertrack.js"></script>
+<link href="resource/css/search_box.css?v=201301051533" rel="stylesheet" type="text/css"></link>
+<link href="resource/css/hot_class_2.css?v=201210182329" rel="stylesheet" type="text/css"></link>
+<link href="resource/css/nav_four.css?v=12120828" rel="stylesheet" type="text/css"></link>
+
+<style type="text/css" rel="stylesheet">
+#page_body #nav_sub .backImg .class_title{color:white;height:17px;line-height:19px;padding:0px 0px 0px 0px;*padding:0px 0px 0px 0px;float:left;}
+ #nav_sub .backImg{background:url(/resource/img/channelBack.png)  0px -151px;margin:8px 0px;overflow:hidden;line-height:17px;height:17px;padding:0px 0px 0px 0px;float:left;*display:inline;}
+ .leftback{width:3px;background:url(/resource/img/channelBack.png) no-repeat -1px -114px;height:17px;}
+ .rightback{width:3px;background:url(/resource/img/channelBack.png) no-repeat 0px -132px;height:17px;}
+</style>
+
+</head>
+<body id="section_2" >
+<script type="text/javascript" language="javascript">
+    ClickMonitor.init('TWO_LEVEL_HOT', 'c=autobuy&cy=0');
+</script>
+
+<div id="usrbar"></div>
+<div id="page">
+<div id="header">
+<form action="http://news.baidu.com/ns" style="postion:relative;" name="fbaidu" class="sbox">
+	<table class="sbox" style="position:relative;">
+		<tr>
+            <td class="logo">
+                <div class="logo"><a href="http://news.baidu.com/view.html"><img src="/resource/img/logo_news_137_46.png" alt="百度新闻"></a></div>
+                <div class="date"><!--datebegin--><!--dateend--></div>
+            </td>
+            <td class="search" style="position:relative;">
+                <div class="tab">
+                    <span class="cur">新闻</span><a href="http://www.baidu.com/" title="web"  mon="col=502&pn=0" onclick="queryTab(this);">网页</a><a href="http://tieba.baidu.com/" title="tieba" mon="col=502&pn=1" onclick="queryTab(this);">贴吧</a><a href="http://zhidao.baidu.com/" title="zhidao" mon="col=502&pn=2" onclick="queryTab(this);">知道</a><a href="http://music.baidu.com/" title="music"  mon="col=502&pn=3" onclick="queryTab(this);">音乐</a><a href="http://image.baidu.com/" title="image" mon="col=502&pn=4" onclick="queryTab(this);">图片</a><a href="http://video.baidu.com/" title="video"  mon="col=502&pn=5" onclick="queryTab(this);">视频</a><a href="http://map.baidu.com/" title="map" mon="col=502&pn=6" onclick="queryTab(this);">地图</a><a href="http://baike.baidu.com/" title="baike" mon="col=502&pn=7" onclick="queryTab(this);">百科</a><a href="http://wenku.baidu.com/" title="wenku"  mon="col=502&pn=8" onclick="queryTab(this);">文库</a></div>
+                </div>
+                <table>
+                    <tr>
+                        <td class="box"><div id="sugarea"><span class="s_ipt_wr" id="s_ipt_wr"><input class="word" id="ww" name="word" size="42"  maxlength="100" tabindex="1"></span><span class="s_btn_wr"><input class="btn" type="submit" value="百度一下" onmousedown="this.className='btn s_btn_h'" onmouseout="this.className='btn'"></span></div></td>
+                        <td class="help" id="top-for-ipad"><a href="http://www.baidu.com/search/news_help.html">帮助</a><span class="sep">|</span><a href="http://news.baidu.com/advanced_news.html">高级搜索</a><span class="sep">|</span><a href="http://news.baidu.com/pianhao.html">设置</a></td>
+                    </tr>
+                </table>
+                <!--ecombegin-->
+                <!--ecomend-->
+                <p class="search-radios">
+					<input type="radio" name="tn" value="news" checked id="news"><label for="news">新闻全文</label>
+					<input type="radio" name="tn" value="newstitle" id="newstitle"><label for="newstitle" style="padding:0px;">新闻标题</label>
+                </p>
+				<input type="hidden" name="from" value="news">
+                <input type="hidden" name="cl" value="2">
+
+                <input type="hidden" name="rn" value="20">
+                <input type="hidden" name="ct" value="1">
+            </td></tr>
+	</table>
+    <a id="searchbox_tuiguang" href="http://app.news.baidu.com/?src=yetou" target="_blank"></a>
+    </form>
+<div id="identifier-pannel" style="display:none"><a href="http://app.news.baidu.com/?src=erweima" target="_blank">百度新闻客户端<img src="http://news.baidu.com/resource/img/video_app_tuiguang/erweima.png" height="90" width="90"/>点击或扫描下载</a></div>
+<style type="text/css">
+#header.for-ipad-style{
+    background:url(http://news.baidu.com/resource/img/video_app_tuiguang/video_ipadapp_header_bg.png) no-repeat right bottom;
+    background-size:210px 68px;
+    -webkit-background-size:210px 68px;
+}
+#identifier-pannel{
+    position:fixed;
+    left: 50%;
+    bottom:0;
+    z-index:9999;
+    width:110px;
+    margin-left:517px;
+	height:156px;
+}
+#identifier-pannel a:link,#identifier-pannel a:visited{
+    display:block;
+    padding:10px;
+    line-height:18px;
+    font-size:12px;
+    color:#333;
+    text-decoration:none;
+    white-space:nowrap;
+    text-align:center;
+    background:#f9f9f9;
+}
+#identifier-pannel a:hover{
+    background:#ccd8db;
+    color:#000;
+}
+#identifier-pannel img{
+    display:block;
+    margin:5px auto;
+    border:none;
+}
+
+
+</style>
+
+<script type="text/javascript" src="resource/js/tangram-1.5.2.2.js?v=20130128"></script>
+<script type="text/javascript">
+(function (){
+    /*temp for ad-for-ipad*/
+    if(navigator.userAgent.match(/(iPad).*OS\s([\d_]+)/)){
+        document.getElementById('header').className = 'for-ipad-style';
+        document.getElementById('searchbox_tuiguang').setAttribute('mon' , 'col=504');
+        document.getElementById('searchbox_tuiguang').href='http://itunes.apple.com/cn/app/bai-du-shi-pinhd/id573885698?mt=8';
+
+    }
+    function __getScrollTop(){
+        var d = document;
+            return window.pageYOffset || d.documentElement.scrollTop || d.body.scrollTop;
+    }
+    function __getHeight() {
+        var doc = document,
+            client = doc.compatMode == 'BackCompat' ? doc.body : doc.documentElement;
+            return client.clientHeight;
+    }
+    function __on(obj, type, func){
+        var t = type.replace(/^on/, '');
+        if(window.attachEvent){
+            obj.attachEvent('on' + t, func);
+        }
+        else if(window.addEventListener){
+            obj.addEventListener(t, func, false);
+        }
+    }
+    function __g(id){
+        return document.getElementById(id);
+        
+    }
+
+   __on(window , 'load', function(){
+    function fixedBar(id, options){
+                /*temp
+                {
+                    addclass : 'string',
+                    top : number,
+                    autoHidden : true,
+                    show : true
+                }
+                */
+         var ele = __g(id);
+             if(!ele) return;
+            var pageHeight=__getHeight();
+            var ieScrollTop=__getScrollTop();
+             if(/msie (\d+\.\d+)/i.test(navigator.userAgent)){
+                    if(options.addclass) ele.className = options.addclass;
+                    ele.style.position= 'absolute';
+                    if(options.show){
+                        ele.style.top = ieScrollTop+pageHeight-options.top + "px";
+                        ele.style.display= 'block';
+                    }
+
+                    __on(window,'scroll' , function (){
+
+                            var ieScrollTop=__getScrollTop();
+                            ele.style.top = ieScrollTop+pageHeight - options.top + "px";
+                            if(options.autoHidden){
+                                    if(ieScrollTop==0){
+                                            ele.style.display="none";
+                                    }else{
+                                            ele.style.display="block";
+                                    }
+                            }
+                    });
+            }else{
+                if(options.show) ele.style.display= 'block';
+                ele.style.top = pageHeight-options.top+'px';
+                __on(window,'scroll',function (){
+                    if(options.autoHidden){
+                            if(__getScrollTop()==0){
+                                    ele.style.display="none";
+                            }else{
+                                    ele.style.display="block";
+                            }
+                    }
+                },false);
+            }
+    }
+
+    fixedBar('backTopBtn' , {autoHidden: true, top : 186});
+    fixedBar('identifier-pannel' , {autoHidden: false , top : 386 , show : true});
+    });
+})();
+</script>
+
+<script src="http://cbjs.baidu.com/js/m.js"></script>
+<script>
+    BAIDU_CLB_addOrientation('newschn', 'autobuy');
+</script>
+
+<script>read_cookie();</script>
+</div>
+<div id="main">
+<div id="nav"><!--ecombegin-->
+        <ul class="nav_aside">
+            <li><a href="http://news.baidu.com/n?cmd=4&class=rolling&pn=1&from=tab&sub=0">最新</a></li>
+            <!--<li><a href="http://news.baidu.com/n?bypass=lamp&m=pagesother&v=newsgx">定制</a></li>
+			<li><a href="http://www.baidu.com/search/news_more.html" style="*line-height:29px;">更多&gt;&gt;</a></li>-->
+        </ul><!--ecomend-->
+        <ul class="nav_main">
+            <li style="background-image:none;padding-left:0px;"><a href="http://news.baidu.com/view.html">首页</a></li>
+
+            <li><a href="http://news.baidu.com/n?cmd=1&class=civilnews&pn=1&from=tab">国内</a></li>
+
+            <li><a href="http://news.baidu.com/n?cmd=1&class=internews&pn=1&from=tab">国际</a></li>
+
+            <li><a href="http://news.baidu.com/n?cmd=1&class=mil&pn=1&from=tab">军事</a></li>
+
+            <li><a href="http://news.baidu.com/n?cmd=1&class=finannews&pn=1&from=tab">财经</a></li>
+
+            <li><a href="http://news.baidu.com/n?cmd=1&class=internet&pn=1&from=tab">互联网</a></li>
+
+            <li><a href="http://news.baidu.com/n?cmd=1&class=housenews&pn=1&from=tab">房产</a></li>
+
+            <li><div><a href="http://news.baidu.com/n?cmd=1&class=autonews&pn=1&from=tab">汽车</a></div></li>
+
+            <li><a href="http://news.baidu.com/n?cmd=1&class=sportnews&pn=1&from=tab">体育</a></li>
+
+            <li><a href="http://news.baidu.com/n?cmd=1&class=enternews&pn=1&from=tab">娱乐</a></li>
+
+            <li><a href="http://news.baidu.com/n?cmd=1&class=gamenews&pn=1&from=tab">游戏</a></li>
+
+            <li><a href="http://news.baidu.com/n?cmd=1&class=edunews&pn=1&from=tab">教育</a></li>
+
+            <li><a href="http://news.baidu.com/n?cmd=1&class=healthnews&pn=1&from=tab">女人</a></li>
+
+            <li><a href="http://news.baidu.com/n?cmd=1&class=technnews&pn=1&from=tab">科技</a></li>
+
+            <li><a href="http://news.baidu.com/n?cmd=1&class=socianews&pn=1&from=tab">社会</a></li>
+            <!--ecombegin-->
+			<li class="new"><a href="http://news.baidu.com/n?cmd=10&class=vid2top&pn=1&from=tab&sub=0">视频</a></li>
+
+            <li><a href="http://news.baidu.com/n?cmd=9&class=pic2top&pn=1&from=tab&sub=0">图片</a></li>
+
+			<li ><a href="http://renwu.baidu.com/">人物</a></li>
+
+            <!--ecomend-->
+        </ul>
+
+		<div class="nav-left-corner"></div><div class="nav-right-corner"></div>
+</div>
+    <div id="page_body">
+	<div id="nav_sub">
+		<a href="/n?cmd=1&class=autonews&pn=1"  class="subject">汽车新闻</a>
+		<div class="nav_sub_nav_p">
+										<div class="backImg"><div class="leftback"></div><a class="class_title" href="/n?cmd=1&class=autobuy&pn=1">新车</a><div class="rightback"></div></div><span class="sepLine">|</span>
+								<div><a href="/n?cmd=1&class=daogou&pn=1">导购</a></div><span class="sepLine">|</span>
+								<div><a href="/n?cmd=1&class=hangqing&pn=1">各地行情</a></div><span class="sepLine">|</span>
+								<a href="/n?cmd=1&class=weixiu&pn=1">维修养护</a></span>
+					</div>
+			 <div class="left-border"></div><div class="right-border"></div>
+	</div><!--nav_sub ends-->
+	<div id="content" style="padding:10px">
+	<div class="news top ">
+		<table class="layout">
+			<tr>
+				<td width="90%">
+                            					<div class="hl2">
+				<!--图片数据类型-->
+                    						<a href="http://auto.rednet.cn/news/20154/3228382.html" target="_blank" mon="a=4&p=1"><img class="img-main" src="http://t1.baidu.com/it/u=http%3A%2F%2Fa0.ifengimg.com%2Fautoimg%2F25%2F80%2F2298025_8.jpg&fm=30"></a>
+			        						<div style="float:left;width:75%">
+							<a href="http://auto.rednet.cn/news/20154/3228382.html" class="title" target="_blank" mon="a=1&p=1" style="font-size:16px" >上海车展十大热门SUV 红旗首款SUV领衔</a><span class="s">09:36</span>							<ul class="relative">
+														</ul>
+						</div>
+					</div>
+                                            				    					<ul class="list">
+											<li>
+							&#8226;&nbsp;<a href="http://finance.chinanews.com/auto/2015/04-21/7221789.shtml" target="_blank"  mon="a=1&p=1&pn=1">e代驾亮相上海车展 开拓汽车后市场服务 </a><span class="s">09:39</span><a href="http://news.baidu.com/n?cmd=2&class=autobuy&page=http%3A%2F%2Ffinance.chinanews.com%2Fauto%2F2015%2F04-21%2F7221789.shtml&cls=autobuy" target="_blank" class="rnews">2条相关&gt;&gt;</a>						</li>
+						                                            				    						<li>
+							&#8226;&nbsp;<a href="http://www.nbd.com.cn/articles/2015-04-21/910813.html" target="_blank"  mon="a=1&p=1&pn=2">孩子安全概念车“守护天使”亮相上海车展</a><span class="s">09:39</span>						</li>
+						                                            				    						<li>
+							&#8226;&nbsp;<a href="http://jsnews.jschina.com.cn/system/2015/04/21/024434071.shtml" target="_blank"  mon="a=1&p=1&pn=3">北汽镇江基地首款车型亮相上海车展</a><span class="s">09:29</span>						</li>
+						                                            				    						<li>
+							&#8226;&nbsp;<a href="http://auto.takungpao.com/q/2015/0421/2977514.html" target="_blank"  mon="a=1&p=1&pn=4">首发新车太多？不如来看看哪些车型比较重点</a><span class="s">07:00</span>						</li>
+						                                            				    						<li>
+							&#8226;&nbsp;<a href="http://newcar.xcar.com.cn/201504/news_1787457_1.html" target="_blank"  mon="a=1&p=1&pn=5">更具时尚和力量感 上海车展新DS 5静评</a><span class="s">06:55</span>						</li>
+											</ul>
+					<ul class="list">
+						                                            				    						<li>
+							&#8226;&nbsp;<a href="http://auto.china.com.cn/special/2015sh/20150421/654905.shtml" target="_blank"  mon="a=1&p=1&pn=6">2015上海国际车展 最值得的关注SUV车型</a><span class="s">06:13</span>						</li>
+						                                            				    						<li>
+							&#8226;&nbsp;<a href="http://auto.hexun.com/2015-04-21/175147189.html" target="_blank"  mon="a=1&p=1&pn=7">新车新在哪？新老款速派车型对比体验</a><span class="s">05:13</span><a href="http://news.baidu.com/n?cmd=2&class=autobuy&page=http%3A%2F%2Fauto.hexun.com%2F2015-04-21%2F175147189.html&cls=autobuy" target="_blank" class="rnews">2条相关&gt;&gt;</a>						</li>
+						                                            				    						<li>
+							&#8226;&nbsp;<a href="http://auto.hexun.com/2015-04-21/175145369.html" target="_blank"  mon="a=1&p=1&pn=8">小幅升级 实拍上海大众新款POLO GTI</a><span class="s">02:52</span><a href="http://news.baidu.com/n?cmd=2&class=autobuy&page=http%3A%2F%2Fauto.hexun.com%2F2015-04-21%2F175145369.html&cls=autobuy" target="_blank" class="rnews">2条相关&gt;&gt;</a>						</li>
+						                                            				    						<li>
+							&#8226;&nbsp;<a href="http://auto.sohu.com/20150421/n411584378.shtml" target="_blank"  mon="a=1&p=1&pn=9">上海车展：15万拼奥迪 众泰Z700新车解码</a><span class="s">02:50</span><a href="http://news.baidu.com/n?cmd=2&class=autobuy&page=http%3A%2F%2Fauto.sohu.com%2F20150421%2Fn411584378.shtml&cls=autobuy" target="_blank" class="rnews">2条相关&gt;&gt;</a>						</li>
+											</ul>
+					<ul class="list">
+						                                            				    						<li>
+							&#8226;&nbsp;<a href="http://auto.hexun.com/2015-04-21/175142834.html" target="_blank"  mon="a=1&p=1&pn=10">迈凯伦540C售225万元 针对亚洲地区开发</a><span class="s">01:59</span>						</li>
+						                                            				    						<li>
+							&#8226;&nbsp;<a href="http://news.hexun.com/2015-04-21/175144223.html" target="_blank"  mon="a=1&p=1&pn=11">豪华品牌竞争加剧浮现产业链机会</a><span class="s">01:55</span><a href="http://news.baidu.com/n?cmd=2&class=autobuy&page=http%3A%2F%2Fnews.hexun.com%2F2015-04-21%2F175144223.html&cls=autobuy" target="_blank" class="rnews">3条相关&gt;&gt;</a>						</li>
+						                                            				    						<li>
+							&#8226;&nbsp;<a href="http://auto.sohu.com/20150421/n411581091.shtml" target="_blank"  mon="a=1&p=1&pn=12">上海车展：第三季度将上市 全新锋范解码</a><span class="s">01:31</span><a href="http://news.baidu.com/n?cmd=2&class=autobuy&page=http%3A%2F%2Fauto.sohu.com%2F20150421%2Fn411581091.shtml&cls=autobuy" target="_blank" class="rnews">2条相关&gt;&gt;</a>						</li>
+						                                            				    						<li>
+							&#8226;&nbsp;<a href="http://news.bitauto.com/cztj/20150420/2306526297.html" target="_blank"  mon="a=1&p=1&pn=13">2015上海车展 马自达新款阿特兹图解</a><span class="s">04-20 23:47</span>						</li>
+						                                            				    						<li>
+							&#8226;&nbsp;<a href="http://info.xcar.com.cn/201504/news_1787811_1.html" target="_blank"  mon="a=1&p=1&pn=14">福田图雅诺上海车展上市 13.58万元起</a><span class="s">04-20 20:47</span><a href="http://news.baidu.com/n?cmd=2&class=autobuy&page=http%3A%2F%2Finfo.xcar.com.cn%2F201504%2Fnews_1787811_1.html&cls=autobuy" target="_blank" class="rnews">2条相关&gt;&gt;</a>						</li>
+						                                            				    						<li>
+							&#8226;&nbsp;<a href="http://news.cheshi.com/20150420/1673810.shtml" target="_blank"  mon="a=1&p=1&pn=15">雪佛兰FNR概念车 2015上海国际车展亮相</a><span class="s">04-20 18:18</span><a href="http://news.baidu.com/n?cmd=2&class=autobuy&page=http%3A%2F%2Fnews.cheshi.com%2F20150420%2F1673810.shtml&cls=autobuy" target="_blank" class="rnews">8条相关&gt;&gt;</a>						</li>
+						                            					</ul>
+				</td>
+				<td>
+			<!--若有图片报道，则出图片报道-->
+					<div class="sbar" style="margin-right:3px">
+						<h2>图片报道</h2>
+						<ul>
+												<li>
+						                                <a href="http://www.cqcb.com/cbnews/cqnews/2015-04/21/content_614623.htm" target="_blank"  mon="a=12&p=2"><img class="img-aside" src="http://t1.baidu.com/it/u=http%3A%2F%2Fwww.cqcb.com%2Fcbnews%2Fcqnews%2Fattachement%2Fjpg%2Fsite2%2F20150421%2Fc0f8da4585b3169fd2671f.jpg&fm=30"></a><br>
+                        							    <a class="news-digest" href="http://www.cqcb.com/cbnews/cqnews/2015-04/21/content_614623.htm" target="_blank"   mon="a=9&p=2">没有车模的上海车展，还是有很多亮点 </a></li>
+												<li>
+						                                <a href="http://auto.ynet.com/cgi/news.php?id=533321" target="_blank"  mon="a=12&p=2"><img class="img-aside" src="http://t1.baidu.com/it/u=http%3A%2F%2Fauto.ynet.com%2Fupload_pub%2F6%2F2015%2F04%2F21%2Fpic1429580488_51.jpg&fm=30"></a><br>
+                        							    <a class="news-digest" href="http://auto.ynet.com/cgi/news.php?id=533321" target="_blank"   mon="a=9&p=2">捷豹新XF中国首秀 直击运动商务座驾领域</a></li>
+												<li>
+						                                <a href="http://news.bitauto.com/dealer/20150421/0906526365.html" target="_blank"  mon="a=12&p=2"><img class="img-aside" src="http://t3.baidu.com/it/u=http%3A%2F%2Fimg3.bitautoimg.com%2Fbitauto%2F2015%2F04%2F21%2Fd969fe3f-2b79-4f0e-a11c-19b2541e3194_630.jpg&fm=30"></a><br>
+                        							    <a class="news-digest" href="http://news.bitauto.com/dealer/20150421/0906526365.html" target="_blank"   mon="a=9&p=2">东风悦达起亚KX3徐州区域跃然上市</a></li>
+											</ul>
+					</div>
+				</td>
+			</tr>
+		</table>
+	</div>
+	<!--三级子分类最新新闻-->
+
+	<div class="col2" style="padding-left: 1px;">
+            <!--10条子分类最新新闻，若不足3条，则不出该子栏目-->
+        	</div>
+
+	<div class="clear"></div>
+	<!--二级焦点页之最新新闻-->
+	<!-- newnews begin -->
+	<div id="update" class="box2" style="margin-right:3px">
+		<h2>最新新闻</h2>
+		<div class="cnt">
+
+			<ul class="list">
+                            <!--为了满足除重需求，空循环10条-->
+                			                <!--为了满足除重需求，空循环10条-->
+                			                <!--为了满足除重需求，空循环10条-->
+                			                <!--为了满足除重需求，空循环10条-->
+                			                <!--为了满足除重需求，空循环10条-->
+                			                <!--为了满足除重需求，空循环10条-->
+                			                <!--为了满足除重需求，空循环10条-->
+                			                <!--为了满足除重需求，空循环10条-->
+                			                <!--为了满足除重需求，空循环10条-->
+                			                <!--为了满足除重需求，空循环10条-->
+                			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://auto.ynet.com/cgi/news.php?id=533319" mon="a=11&p=1&pn=11" target="_blank">国产锐界售价公布 24.98万元起</a><span class="s">09:29</span></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://news.bitauto.com/dealer/20150421/0906526354.html" mon="a=11&p=1&pn=12" target="_blank">7座创客MPV瑞风M3吉林首发上市火爆售卖中</a><span class="s">09:25</span></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://auto.sohu.com/20150421/n411600810.shtml" mon="a=11&p=1&pn=13" target="_blank">PSA唐唯实:中国市场对PSA集团复兴很重要</a><span class="s">09:25</span></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://auto.sohu.com/20150421/n411600941.shtml" mon="a=11&p=1&pn=14" target="_blank">上海车展看设计：悬浮式车顶抬头，Coupe依旧主流</a><span class="s">09:22</span></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://www.chinanews.com/auto/2015/04-21/7221631.shtml" mon="a=11&p=1&pn=15" target="_blank">全新迈凯伦540C Coupé2015上海车展首发 </a><span class="s">09:19</span></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://auto.cnr.cn/jrjd/20150421/t20150421_518364001.shtml" mon="a=11&p=1&pn=16" target="_blank">2015上海车展新车图解：林肯Continental</a><span class="s">09:18</span></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://news.cheshi.com/20150420/1673674.shtml" mon="a=11&p=1&pn=17" target="_blank">2016英菲尼迪QX30谍照曝光 或明年上市</a><span class="s">09:16</span><a href="http://news.baidu.com/n?cmd=5&class=autobuy&page=http%3A%2F%2Fnews.cheshi.com%2F20150420%2F1673674.shtml&cls=autobuy" class="rnews">2条相关&gt;&gt;</a></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://www.chinanews.com/auto/2015/04-21/7221569.shtml" mon="a=11&p=1&pn=18" target="_blank">日产LANNIA蓝鸟全球首秀 新楼兰2015上海车展首发 </a><span class="s">09:13</span><a href="http://news.baidu.com/n?cmd=5&class=autobuy&page=http%3A%2F%2Fwww.chinanews.com%2Fauto%2F2015%2F04-21%2F7221569.shtml&cls=autobuy" class="rnews">11条相关&gt;&gt;</a></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://info.auto.hc360.com/2015/04/210911712190.shtml" mon="a=11&p=1&pn=19" target="_blank">2015上海车展：林肯MKX预售47.9万元起</a><span class="s">09:11</span></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://auto.gasgoo.com/News/2015/04/2109093593560333169388.shtml" mon="a=11&p=1&pn=20" target="_blank">上海有车无模车展华丽转身 与国际接轨？</a><span class="s">09:09</span></li>
+                    			</ul>
+			<ul class="list">
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://finance.chinanews.com/auto/2015/04-21/7221528.shtml" mon="a=11&p=1&pn=21" target="_blank">乐视超级汽车样车拟明年北京车展发布 </a><span class="s">09:08</span><a href="http://news.baidu.com/n?cmd=5&class=autobuy&page=http%3A%2F%2Ffinance.chinanews.com%2Fauto%2F2015%2F04-21%2F7221528.shtml&cls=autobuy" class="rnews">35条相关&gt;&gt;</a></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://finance.chinanews.com/auto/2015/04-21/7221501.shtml" mon="a=11&p=1&pn=22" target="_blank">东风日产新楼兰上海车展全球首发 </a><span class="s">09:05</span><a href="http://news.baidu.com/n?cmd=5&class=autobuy&page=http%3A%2F%2Ffinance.chinanews.com%2Fauto%2F2015%2F04-21%2F7221501.shtml&cls=autobuy" class="rnews">11条相关&gt;&gt;</a></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://news.gmw.cn/newspaper/2015-04/21/content_106086944.htm" mon="a=11&p=1&pn=23" target="_blank">车管所“搬”到了群众身边 </a><span class="s">09:05</span></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://auto.people.com.cn/n/2015/0421/c1005-26878433.html" mon="a=11&p=1&pn=24" target="_blank">人民网直击2015上海车展：全新纳智捷5</a><span class="s">09:02</span></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://economy.gmw.cn/newspaper/2015-04/21/content_106086827.htm" mon="a=11&p=1&pn=25" target="_blank">2015款新劲炫、新劲畅东北区域上市发布会圆满举行 </a><span class="s">09:02</span></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://auto.hsw.cn/system/2015/0421/15185.shtml" mon="a=11&p=1&pn=26" target="_blank">欲媲美红旗H7/皇冠 实拍东风1号量产版</a><span class="s">09:01</span></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://www.cs.com.cn/ssgs/qcgs/201504/t20150421_4692519.html" mon="a=11&p=1&pn=27" target="_blank">“拳头产品”密集上市 自主品牌一季度成绩单超预期</a><span class="s">09:01</span><a href="http://news.baidu.com/n?cmd=5&class=autobuy&page=http%3A%2F%2Fwww.cs.com.cn%2Fssgs%2Fqcgs%2F201504%2Ft20150421_4692519.html&cls=autobuy" class="rnews">2条相关&gt;&gt;</a></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://www.chinanews.com/auto/2015/04-21/7221445.shtml" mon="a=11&p=1&pn=28" target="_blank">上海车展拉开大幕 告别车模车企&quot;真刀实枪&quot;拼实力 </a><span class="s">08:57</span><a href="http://news.baidu.com/n?cmd=5&class=autobuy&page=http%3A%2F%2Fwww.chinanews.com%2Fauto%2F2015%2F04-21%2F7221445.shtml&cls=autobuy" class="rnews">2条相关&gt;&gt;</a></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://news.cheshi.com/seller/4573781.html" mon="a=11&p=1&pn=29" target="_blank">15款丰田塞纳实用商务极致性能心动优惠</a><span class="s">08:55</span><a href="http://news.baidu.com/n?cmd=5&class=autobuy&page=http%3A%2F%2Fnews.cheshi.com%2Fseller%2F4573781.html&cls=autobuy" class="rnews">2条相关&gt;&gt;</a></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://money.163.com/15/0421/08/ANNBVA1V002534NV.html" mon="a=11&p=1&pn=30" target="_blank">吉利明年基于CMA平台投产SUV 将进军欧美市场</a><span class="s">08:55</span><a href="http://news.baidu.com/n?cmd=5&class=autobuy&page=http%3A%2F%2Fmoney.163.com%2F15%2F0421%2F08%2FANNBVA1V002534NV.html&cls=autobuy" class="rnews">6条相关&gt;&gt;</a></li>
+                                    						</ul>
+		</div>
+		<p class="more"><a href="http://news.baidu.com/n?cmd=4&class=autobuy&pn=1" target="_blank">更多新车新闻&gt;&gt;</a></p>
+	</div>
+
+	<!--若非国内分类的时政子分类-->
+	<!--ecombegin--><div id="rss">
+		<p><a href="http://news.baidu.com/n?cmd=1&class=autobuy&tn=rss" target="_blank"><img src="http://www.baidu.com/search/img/rss.gif"></a><a href="http://news.baidu.com/n?cmd=1&class=autobuy&tn=rss" target="_blank">RSS订阅<b>新车焦点</b>新闻</a></p>
+		<a href="http://www.baidu.com/search/rss.html#02" style="margin-left:46px;" target="_blank">→更多RSS订阅</a>
+	</div><!--ecomend-->
+		</div><!--content ends-->
+	</div><!-- page_body -->
+</div><!--main ends-->
+<script>
+document.write("<img src='http://news.baidu.com/mp/b.jpg?cmd=1&class=autobuy&cy=0&"+Math.random()+"' style='display:none;'>");
+document.write("<img id='cgif' src='http://c.baidu.com/c.gif?t=5&p=2&"+Math.random()+"' style='display:none'>");
+</script>
+</div>
+ <div id="ft" >
+<p>百度新闻搜索源于互联网新闻网站和频道，系自动分类排列，百度不刊登或转载任何完整的新闻内容</p>
+<font style="color:#7777CC;">&copy;2015 Baidu</font> <a href="http://www.baidu.com/duty/" class="cy">使用百度前必读</a> <a href="http://net.china.cn/chinese/index.htm" target=_blank><img src="http://gimg.baidu.com/img/net.gif"></a>&nbsp;<a href="http://www.bj.cyberpolice.cn/index.htm" target=_blank><img src="http://gimg.baidu.com/img/110.gif" alt="首都网络110报警服务"></a></div>
+
+<div id="backTopBtn" class="toTopOne" style="display:none;">
+<div class="feedback-img" id="feedbackbtn"></div>                                        
+<div class="totop-img" onclick="window.scrollTo(0, 0);"></div>
+</div>
+</div>
+<div id="feedback" style="display:none;">
+<iframe id="postpage" name="postpage" style="height:0;width:0;display:block;border:none;"></iframe>
+<form id="feedbackForm" action="http://api.baiyue.baidu.com/sn/api/feedback" method="post" target="postpage" accept-charset="utf-8" >
+<h2><span>1</span>请选择问题分类：</h2>
+<div id="tab" class="tang-ui tang-tab" tang-param="originalIndex: 0;">
+<ul class="tang-tab-title">
+<li class="tang-tab-title-item">
+<a href="#" onclick="return false;" hidefocus="true"><span>使用不方便</span></a>
+</li>
+<li class="tang-tab-title-item">
+<a href="#" onclick="return false;" hidefocus="true"><span>新闻不好看</span></a>
+</li>
+<li class="tang-tab-title-item">
+<a href="#" onclick="return false;" hidefocus="true"><span>无线与客户端</span></a>
+</li>
+<li class="tang-tab-title-item">
+<a href="#" onclick="return false;" hidefocus="true"><span>新闻源相关</span></a>
+</li>
+<li class="tang-tab-title-item">
+<a href="#" onclick="return false;" hidefocus="true"><span>提建议</span></a>
+</li>
+</ul>
+<div class="tang-tab-body">
+<div class="tang-tab-body-item"><textarea default-value="使用不方便" maxlength="1000"></textarea></div>
+<div class="tang-tab-body-item"><textarea default-value="新闻不好看" maxlength="1000"></textarea></div>
+<div class="tang-tab-body-item"><textarea default-value="无线与客户端" maxlength="1000"></textarea></div>
+<div class="tang-tab-body-item"><textarea default-value="新闻源相关" maxlength="1000"></textarea></div>
+<div class="tang-tab-body-item"><textarea default-value="提建议" maxlength="1000" ></textarea></div>
+</div>
+</div>
+
+<h2><span>2</span>请留下联系方式，您将有机会获得精美礼品！</h2>
+<div class="feedback-contact" id="feedback-contact">
+<div class="box"><input type="text" value="QQ/邮箱/电话" default-value="QQ/邮箱/电话" name="contact" maxlength="50"/></div>
+<div class="des">(可选)</div>
+<div style="clear:both;"></div>
+</div>
+<div class="sub-btn" id="sub-btn"></div>
+<input type="hidden" name="msg" />
+<input type="hidden" name="mid" value="news_pc" />
+</form>
+</div>
+<div id="feedbacklink" style="display:none"></div>
+
+
+<style type="text/css">
+.toTopOne {
+    width: 25px;
+    height: 150px;
+    position: fixed;
+    left: 50%;
+    margin-left: 493px;
+    bottom: 100px;
+    display: none;
+    cursor: pointer;
+    top: 749px;
+}
+.feedback-img{
+    height:74px;
+    background:url(/resource/img/feedback_return.gif) no-repeat 0 0;
+}
+.totop-img{
+    height:74px;
+    margin-top:3px;
+    background:url(/resource/img/feedback_return.gif) no-repeat 0 -77px;
+}
+#ecom_2{
+    font-size:0;
+    line-height:0;
+    width:960px;
+    padding:10px 11px;
+    border:1px solid #ededed;
+}
+</style>
+
+</div>
+
+<link href="http://news.baidu.com/resource/css/focustop_feedback.css?v=201212201032" rel="stylesheet" type="text/css"></link>
+<script type="text/javascript" src="http://news.baidu.com/resource/js/channel_feedback.js?v=201301201816"></script>
+
+<script type="text/javascript">
+/*
+baidu.dom.ready(function(){
+if(baidu.g('nav-hot-link')){
+    baidu.sio.callByBrowser('http://news.baidu.com/z/data/json/cms_page_data.json?v='+new Date().getTime(), function(){
+        baidu.dom.setAttr('nav-hot-link','href',CMS_PAGE_DATA['focustop']['nav_hot_link']);
+
+    });
+}
+});
+*/
+</script>
+<script>
+	if (navigator.cookieEnabled && !/sug?=0/.test(document.cookie)){document.write('<script src=resource/js/browser_sug_new.js><'+'/script>')};
+</script>
+<script>
+if(typeof BAIDU_CLB_fillSlotAsync != 'undefined' && document.getElementById("ecom_2")){
+    BAIDU_CLB_fillSlotAsync('639905', 'ecom_2');
+}
+</script>
+
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fe9e114d958ea263de46e080563e254c4' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+<script type="text/javascript">
+baidu.dom.query('img').each(function(index, item){	
+
+	if(/eiv.baidu.com\/hmt\/icon/.test(baidu.dom.getAttr(item, 'src'))){
+		item.style.display = 'none';		
+	}
+
+});
+</script>
+
+
+</body>
+</html>
+
+
+<!--ecombegin--><script type="text/javascript">enterState("", "");</script><!--ecomend-->

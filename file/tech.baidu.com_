@@ -1,0 +1,1655 @@
+<!DOCTYPE html> 
+<html>
+<head>
+<!--STATUS OK-->
+<meta http-equiv=Content-Type content="text/html; charset=gb2312">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+<link rel="dns-prefetch" href="//ns0.bdstatic.com">
+<link rel="dns-prefetch" href="//ns1.bdstatic.com">
+
+<title>百度新闻搜索——全球最大的中文新闻平台</title>
+<meta name="description" content="百度新闻是包含海量资讯的新闻服务平台，真实反映每时每刻的新闻热点。您可以搜索新闻事件、热点话题、人物动态、产品资讯等，快速了解它们的最新进展。" >
+
+<script type="text/javascript" src="http://news.baidu.com/resource/js/usermonitor.js?v=1.1"></script>
+
+
+<script type="text/javascript" src="http://ns0.bdstatic.com/static/widget/common/base_js_include/base_js_include_07d218e7.js"></script>
+<script type="text/javascript">
+F._fileMap({'http://ns0.bdstatic.com/static/widget/common/framework_static_include/framework_static_include_7256f561.js' : ['/static/common/lib/magic/Background/Background.js',
+'/static/common/lib/magic/Base/Base.js',
+'/static/common/lib/magic/magic.js',
+'/static/common/lib/tangram/base/base.js',
+'/static/common/lib/magic/control/Dialog/Dialog.js',
+'/static/common/lib/magic/control/Layer/Layer.js',
+'/static/common/lib/magic/control/control.js',
+'/static/common/lib/magic/Dialog/Dialog.js',
+'/static/common/lib/magic/Mask/Mask.js',
+'/static/common/lib/magic/control/Tab/Tab.js',
+'/static/common/lib/magic/_query/_query.js',
+'/static/common/lib/magic/setup/setup.js',
+'/static/common/lib/magic/setup/tab/tab.js']});
+</script>
+
+<script type="text/javascript">
+F._fileMap({'http://ns0.bdstatic.com/static/widget/common/module_static_include/module_static_include_8ce41727.js' : ['/static/widget/common/favorite/favorite.js',
+'/static/widget/common/searchbox/searchbox.js',
+'/static/common/ui/jquery/jquery.js',
+'/static/common/ui/vs/ContentPlayer/ContentPlayer.js',
+'/static/common/ui/vs/DynamicList/DynamicList.js',
+'/static/common/ui/vs/ScrollView/ScrollView.js',
+'/static/common/ui/vs/citylist/citylist.js',
+'/static/common/ui/vs/clickMonitor/clickMonitor.js',
+'/static/common/ui/vs/delayload/delayload.js',
+'/static/common/ui/vs/enterState/enterState.js',
+'/static/common/ui/vs/observer/observer.js',
+'/static/common/ui/vs/slider/slider.js',
+'/static/common/ui/vs/suggestion/suggestion.js',
+'/static/common/ui/vs/utils/utils.js',
+'/static/common/ui/vs/vs.js']});
+</script>
+<link type="text/css" rel="stylesheet" href="http://ns1.bdstatic.com/static/widget/common/module_static_include/module_static_include_584ef63f.css"/>
+
+<script type="text/javascript">F._fileMap({'http://ns0.bdstatic.com/static/technnews/focustechnical/focustechnical/focustechnical_8f84db3d.js' : ['__virsul__']});F.use('__virsul__');</script><link href="http://ns1.bdstatic.com/static/technnews/focustechnical/focustechnical/focustechnical_0392a6d5.css" rel="stylesheet" type="text/css"/>
+
+</head>
+<body>
+    <!--favorite-->
+    
+
+<div id="favoriteTips" style="display: none;"></div>
+<script language="javascript" type="text/javascript">
+F.use("/static/widget/common/favorite/favorite.js", function(favorite) {
+    favorite('favoriteTips');
+});
+</script>
+
+
+
+    <!--events-->
+    <!--userbar-->
+    <div id="usrbar" alog-group="userbar" alog-alias="hunter-userbar-start"></div>
+
+    
+<div id="headerwrapper">
+
+
+	<div id="header" alog-group="header" alog-alias="hunter-header-start">
+  		<!--顶部搜索框-->
+		
+			
+<form action="http://news.baidu.com/ns" name="fbaidu" class="sbox">
+	<table class="sbox" alog-group="search-box">
+		<tr>
+            <td class="logo">
+                <div class="logo">
+                    <a href="http://news.baidu.com/view.html">
+                        <!--ie6下使用带有背景色的logo,其余浏览器使用透明背景的logo-->
+                        <!--[if !IE]><!--><img src="/resource/img/logo_news_276_88.png?date=20150104" alt="百度新闻" height="46px" width="137px"><!--<![endif]-->
+                        <!--[if gt IE 6]><img src="/resource/img/logo_news_276_88.png?date=20150104" alt="百度新闻" height="46px" width="137px"><![endif]-->
+                        <!--[if IE 6]><img src="/resource/img/logo_news_276_88_for_ie6.png" alt="百度新闻" height="46px" width="137px"><![endif]-->
+                    </a>
+                </div>
+                <div class="date"><!--datebegin--><!--dateend--></div>
+            </td>
+            <td class="search">
+				<div class="tab"><span class="cur">新闻</span><a href="http://www.baidu.com/" title='web' mon="col=502&pn=0" onclick="queryTab(this);">网页</a><a href="http://tieba.baidu.com/" title="tieba" mon="col=502&pn=1" onclick="queryTab(this);">贴吧</a><a href="http://zhidao.baidu.com/" title="zhidao" mon="col=502&pn=2" onclick="queryTab(this);">知道</a><a href="http://music.baidu.com/" title="music" mon="col=502&pn=3" onclick="queryTab(this);">音乐</a><a href="http://image.baidu.com/" title="image" mon="col=502&pn=4" onclick="queryTab(this);">图片</a><a href="http://v.baidu.com/" title="video" mon="col=502&pn=5" onclick="queryTab(this);">视频</a><a href="http://map.baidu.com/" title="map" mon="col=502&pn=6" onclick="queryTab(this);">地图</a><a href="http://baike.baidu.com/" title="baike" mon="col=502&pn=7" onclick="queryTab(this);">百科</a><a href="http://wenku.baidu.com/" title="wenku"  mon="col=502&pn=8" onclick="queryTab(this);">文库</a></div>
+				<table>
+                    <tr>
+                        <td class="box"><div id="sugarea"><span class="s_ipt_wr" id="s_ipt_wr"><input class="word" id="ww" name="word" size="42"  maxlength="100" tabindex="1"></span><span class="s_btn_wr"><input class="btn" type="submit" value="百度一下" onmousedown="this.className='btn s_btn_h'" onmouseout="this.className='btn'"></span></div></td>
+                        <td class="help"><a href="http://www.baidu.com/search/news_help.html">帮助</a><span class="sep">|</span><a href="http://news.baidu.com/advanced_news.html">高级搜索</a><span class="sep">|</span><a href="http://news.baidu.com/pianhao.html">设置</a></td>
+                    </tr>
+                </table>
+                <!--ecombegin--><!--ecomend-->
+                <p class="search-radios">
+					<input type="radio" name="tn" value="news" checked="checked" id="news" style="display: none;">
+                    <label for="news" class="checked">新闻全文</label>
+					<input type="radio" name="tn" value="newstitle" id="newstitle" style="display: none;">
+                    <label for="newstitle" class="not-checked">新闻标题</label>
+                </p>
+				<input type="hidden" name="from" value="news">
+                <input type="hidden" name="cl" value="2">
+
+                <input type="hidden" name="rn" value="20">
+                <input type="hidden" name="ct" value="1">
+            </td></tr>
+	</table>
+</form>
+
+<script type="text/javascript">
+    F.use(["/static/common/lib/tangram/base/base.js","/static/widget/common/searchbox/searchbox.js","/static/common/ui/vs/suggestion/suggestion.js"], function(baidu,searchbox,suggestion){
+        baidu.dom.ready(function(){
+            searchbox();
+            if (navigator.cookieEnabled && !/sug?=0/.test(document.cookie)){
+                    suggestion();
+            }
+
+        });
+    });
+</script>
+<script type="text/javascript">F.module('/static/widget/common/searchbox/searchradio.js', function(require, exports){
+/*-----[ /widget/common/searchbox/searchradio.js ]-----*/
+var $ = require('/static/common/ui/jquery/jquery.js');
+
+var searchRadio = function() {
+	$(function() {
+        $('.search-radios').delegate('label', 'click', function() {
+            var $this = $(this);
+
+            if (willChange($this)) {
+                changeBackground($this);
+            }
+            // var checkedId = $(this).attr('for');
+            // var notCheckedId = getNotCheckedId(checkedId);
+
+            // changeCheckedAttr(checkedId, notCheckedId);
+            // changeCheckImg(checkedId, notCheckedId);
+        });
+
+        function willChange($this) {
+            var isChecked = $this.hasClass('checked');
+            var change = false;
+
+            if (!isChecked) {
+                change = true;
+            }
+
+            return change;
+        }
+
+        function changeBackground($this) {
+            var $anotherBtn = getAnotherBtn($this);
+
+            $this
+                .removeClass('not-checked')
+                .addClass('checked');
+
+            $anotherBtn
+                .removeClass('checked')
+                .addClass('not-checked');
+        }
+
+        function getAnotherBtn($this) {
+            var thisRadioId = $this.attr('for');    // label对应的radio的id
+            var $anotherBtn;
+
+            if (thisRadioId.indexOf('newstitle') > -1) {
+                $anotherBtn = $('.search-radios label[for="news"]');   
+            } else {
+                $anotherBtn = $('.search-radios label[for="newstitle"]');
+            }
+
+            return $anotherBtn;
+        }
+
+        // function getNotCheckedId(checkedId) {
+        //     var mark = checkedId.search('newstitle');
+
+        //     if (mark > -1) 
+        //         return 'news';
+        //     else 
+        //         return 'newstitle';
+        // }
+
+        // function changeCheckedAttr(checkedId, notCheckedId) {
+        //     $('#' + checkedId).attr('checked', 'checked');
+        //     $('#' + notCheckedId).removeAttr('checked');
+        // }
+
+        // function changeCheckImg(checkedId, notCheckedId) {
+        //     $('label[for="' + checkedId + '"]').children().eq(0).css('display', '');
+        //     $('label[for="' + checkedId + '"]').children().eq(1).css('display', 'none');
+            
+        //     $('label[for="' + notCheckedId + '"]').children().eq(0).css('display', 'none');
+        //     $('label[for="' + notCheckedId + '"]').children().eq(1).css('display', '');
+        // }
+    });
+};
+
+exports = searchRadio;
+return exports;}, ['/static/common/ui/jquery/jquery.js']);
+F.module('/static/widget/common/searchbox/searchboxActive.js', function(require, exports){
+/*-----[ /widget/common/searchbox/searchboxActive.js ]-----*/
+var $ = require('/static/common/ui/jquery/jquery.js');
+
+// 监听搜索框的focus状态，改变搜索框外层的边框样式
+var searchboxActive = function() {
+
+	var $searchbox = $('#ww');
+	var $searchboxWrap = $('#s_ipt_wr');
+
+	$searchbox
+		.on('focus', function() {
+			$searchboxWrap.addClass('focus-searchbox');
+		})
+		.on('blur', function() {
+			$searchboxWrap.removeClass('focus-searchbox');
+		});
+
+};
+
+exports = searchboxActive;
+
+return exports;}, ['/static/common/ui/jquery/jquery.js']);
+
+    F.use(['/static/widget/common/searchbox/searchradio.js', '/static/widget/common/searchbox/searchboxActive.js'], function(searchRadio, searchboxActive) {
+        searchRadio();
+        searchboxActive();
+    });
+</script>
+
+
+
+		
+		<!--默认首页导航-->
+		
+    
+<div id="menu" alog-group="technology-menu">
+    <div id="channel-shanghai" class="clearfix"  style="display:none" >
+        <div class="menu-list">
+            <ul>
+                <li ><a href="http://news.baidu.com/view.html">首页</a></li>
+                <li><a href="http://baijia.baidu.com/" id="nav-hot-link" target="_blank">百家</a></li>
+                <li class=" icon-new-wrapper"><a href="http://jian.news.baidu.com/" target="_blank"><div class="icon-new"></div>个性推荐</a></li>
+                <li ><a href="http://sh.news.baidu.com/">上海</a></li>
+                <li ><a href="http://internet.baidu.com/">互联网</a></li>
+                <li ><a href="http://yule.baidu.com/">娱乐</a></li>
+                <li ><a href="http://mil.news.baidu.com/">军事</a></li>
+                <li ><a href="http://finance.baidu.com/">财经</a></li>
+                <li ><a href="http://sports.baidu.com/">体育</a></li>
+                <li ><a href="http://guonei.news.baidu.com/">国内</a></li>
+                <li ><a href="http://guoji.news.baidu.com/">国际</a></li>
+                <li ><a href="http://shehui.news.baidu.com/">社会</a></li>
+                <li  class="current"><a href="http://tech.baidu.com/">科技</a></li>
+                <li ><a href="http://lady.baidu.com/">女人</a></li>
+                <li ><a href="http://auto.baidu.com/">汽车</a></li>
+                <li ><a href="http://fangchan.news.baidu.com/">房产</a></li>
+                <li ><a href="http://youxi.news.baidu.com/">游戏</a></li>
+                <li ><a href="http://jiaoyu.news.baidu.com/">教育</a></li>
+                <li ><a href="http://shipin.news.baidu.com/">视频</a></li>
+            </ul>
+        </div>
+    </div>
+    <div id="channel-all" class="clearfix" >
+        <div class="menu-list">
+            <ul>
+                <li ><a href="http://news.baidu.com/view.html">首页</a></li>
+                <li><a href="http://baijia.baidu.com/" id="nav-hot-link" target="_blank">百家</a></li>
+                <li class=" icon-new-wrapper"><a href="http://jian.news.baidu.com/" target="_blank"><div class="icon-new"></div>个性推荐</a></li>
+                <li ><a href="http://internet.baidu.com/">互联网</a></li>
+                <li ><a href="http://yule.baidu.com/">娱乐</a></li>
+                <li ><a href="http://mil.news.baidu.com/">军事</a></li>
+                <li ><a href="http://finance.baidu.com/">财经</a></li>
+                <li ><a href="http://sports.baidu.com/">体育</a></li>
+                <li ><a href="http://guonei.news.baidu.com/">国内</a></li>
+                <li ><a href="http://guoji.news.baidu.com/">国际</a></li>
+                <li ><a href="http://shehui.news.baidu.com/">社会</a></li>
+                <li  class="current"><a href="http://tech.baidu.com/">科技</a></li>
+                <li ><a href="http://lady.baidu.com/">女人</a></li>
+                <li ><a href="http://auto.baidu.com/">汽车</a></li>
+                <li ><a href="http://fangchan.news.baidu.com/">房产</a></li>
+                <li ><a href="http://youxi.news.baidu.com/">游戏</a></li>
+                <li ><a href="http://jiaoyu.news.baidu.com/">教育</a></li>
+                <li ><a href="http://shipin.news.baidu.com/">视频</a></li>
+            </ul>
+        </div>
+        <div class="menu-ext">
+            <ul>
+                <li><a href="http://news.hao123.com/?src=baidunews_1016" mon="toptab=newssite&resouci=1">名站</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+
+
+	</div>
+    
+</div>
+
+
+	<div id="body" alog-alias="b">
+	<!--主体-->
+	
+    
+    <script type="text/javascript" language="javascript">
+        F.use(['/static/common/ui/vs/clickMonitor/clickMonitor.js','/static/common/lib/tangram/base/base.js'], function(clickMonitor, baidu){
+            if(window.on === undefined) window.on = baidu.on;
+            clickMonitor.init('ONE_LEVEL_HOT', 'c=technnews&cy=0');
+        });
+    </script>
+    <script type="text/javascript">
+        void function(e,t,n,a,o,i,m){e.alogObjectName=o,e[o]=e[o]||function(){(e[o].q=e[o].q||[]).push(arguments)},e[o].l=e[o].l||+new Date,i=t.createElement(n),i.asyn=1,i.src=a,m=t.getElementsByTagName(n)[0],m.parentNode.insertBefore(i,m)}(window,document,"script","http://img.baidu.com/hunter/alog.min.js","alog");
+    </script>
+    
+    <!-- start 子菜单-->
+    
+<div id="channel-submenu">
+<div class="submenu">
+<span class="group">
+    <a href="http://internet.baidu.com/" target="_blank" class="group-title">互联网</a>
+    <a href="http://tech.baidu.com/n?cmd=1&class=yejie&pn=1" target="_blank">业界</a>
+    <a href="http://tech.baidu.com/n?cmd=4&class=tele&pn=1" target="_blank">通信</a>
+    <a href="http://tech.baidu.com/n?cmd=4&class=3g&pn=1" target="_blank">3G</a>
+    <a href="http://tech.baidu.com/n?cmd=4&class=it&pn=1" target="_blank">IT</a>
+</span>
+<span class="group">
+    <a href="http://tech.baidu.com/n?cmd=1&class=cell&pn=1" target="_blank" class="group-title">手机</a>
+    <a href="http://tech.baidu.com/n?cmd=4&class=iphone&pn=1" target="_blank">iPhone</a>
+    <a href="http://tech.baidu.com/n?cmd=4&class=android&pn=1" target="_blank">Android</a>
+    <a href="http://tech.baidu.com/n?cmd=4&class=nokia&pn=1" target="_blank">诺基亚</a>
+    <a href="http://tech.baidu.com/n?cmd=4&class=moto&pn=1" target="_blank">摩托罗拉</a>
+</span>
+<span class="group">
+    <a href="http://tech.baidu.com/n?cmd=1&class=digital&pn=1" target="_blank" class="group-title">数码产品</a>
+    <a href="http://tech.baidu.com/n?cmd=4&class=notebook&pn=1" target="_blank">笔记本</a>
+    <a href="http://tech.baidu.com/n?cmd=4&class=pad&pn=1" target="_blank">平板电脑</a>
+    <a href="http://tech.baidu.com/n?cmd=4&class=ebook&pn=1" target="_blank">电子书</a>
+
+</span>
+<span class="group">
+    <a href="http://tech.baidu.com/n?cmd=1&class=elec&pn=1" target="_blank" class="group-title">家电</a>
+</span>
+<span class="group">
+    <a href="http://tech.baidu.com/n?cmd=1&class=discovery&pn=1" target="_blank" class="group-title">科学</a>
+    <a href="http://tech.baidu.com/n?cmd=4&class=universe&pn=1" target="_blank">宇宙探索</a>
+    <a href="http://tech.baidu.com/n?cmd=4&class=civilization&pn=1" target="_blank">历史考古</a>
+</span>
+</div>
+</div>
+
+
+
+
+    <!-- start 头部焦点-->
+    
+<div class="column clearfix" id="col_focus" alog-group="log-technnews-focus">
+        <div class="l-left-col">
+            
+    <div class="toparea-carousel" alog-group="alog-group=log-carousel">
+	<div class="imgplayer clearfix" id="imgplayer">
+        <div id="imgplayer-control">
+        <a href="javascript:void(0);" mon="col=carousel&pos=ctr_l&ct=1&pn=0" id="imgplayer-prev"></a>
+        <a href="javascript:void(0);" mon="col=carousel&pos=ctr_r&ct=1&pn=0" id="imgplayer-next"></a>
+        </div>
+		<div class="imgview" id="imgView">
+			<a href="" target="_blank"><img src="http://news.baidu.com/iphone/img/loading_3.gif" class="firstimg" alt=""></a>
+		</div>
+        <div class="imgnav-mask"></div>
+		<div class="imgnav" id="imgNav">
+            			<a class="navbtn" index="3" mon="col=carousel&pos=dots&a=9pn=3" href="javascript:void(0)">3</a>
+            			<a class="navbtn" index="2" mon="col=carousel&pos=dots&a=9pn=2" href="javascript:void(0)">2</a>
+            			<a class="navbtn" index="1" mon="col=carousel&pos=dots&a=9pn=1" href="javascript:void(0)">1</a>
+                    </div>
+		<div class="imgtit" id="imgTitle">
+			<a href="" target="_blank"></a>
+		</div>
+	</div>
+    </div>
+    
+    <script type="text/javascript" language="javascript">
+        F.use(["/static/common/lib/tangram/base/base.js", "/static/common/ui/vs/ContentPlayer/ContentPlayer.js"], function(T, I) {
+        var G = T.dom.g;
+        var on = T.event.on;
+        var imgList = [];
+        var cpOptions_1 = {
+        getBtns: function(){
+            var a, btns; 
+                btns = G('imgNav').getElementsByTagName('a');
+                a = [];
+                for(var i=btns.length - 1; i>=0; i--){
+                    a.push(btns[i]);
+                }
+                return a;
+            },
+            mainViewContainer: G('imgView'),
+            prevBtn: G('imgplayer-prev'),
+            nextBtn: G('imgplayer-next'),
+            changeAction: 'mouseover',
+            subViewContainer: G('imgTitle'),
+            style: {on: 'active', off: ''},
+            mainViewTpl: '<a href="#{url}" target="_blank" mon="col=carousel&pos=img&pn=#{index}"><img src="#{imgUrl}"></a>',
+            subViewTpl: '<a href="#{url}" target="_blank" mon="col=carousel&pos=title&a=9&ct=1&pn=#{index}"><strong>#{title}</strong></a>',
+            curIndex: 0,
+            data: [],
+            interval: 5000
+            };
+        
+                                                    cpOptions_1.data.push({
+            "index": 1,
+                "title": "人类逐渐放弃的九大身体器官",
+                "url": "http:\/\/www.cnr.cn\/tech\/techgd\/20150417\/t20150417_518340849.shtml",
+                "imgUrl": "http:\/\/www.cnr.cn\/tech\/techgd\/20150417\/W020150417388364068804.jpg",
+                "abs": ""
+            });
+            imgList.push({"url":"http:\/\/www.cnr.cn\/tech\/techgd\/20150417\/t20150417_518340849.shtml"});
+                                                        cpOptions_1.data.push({
+            "index": 2,
+                "title": "盘点自然界你没见过的怪异生物",
+                "url": "http:\/\/www.cnr.cn\/tech\/techgd\/20150416\/t20150416_518332933.shtml",
+                "imgUrl": "http:\/\/www.cnr.cn\/tech\/techgd\/20150416\/W020150416366068641372.jpg",
+                "abs": ""
+            });
+            imgList.push({"url":"http:\/\/www.cnr.cn\/tech\/techgd\/20150416\/t20150416_518332933.shtml"});
+                                                        cpOptions_1.data.push({
+            "index": 3,
+                "title": "最佳科学故事:古老手稿鬼脸浮现",
+                "url": "http:\/\/www.cnr.cn\/tech\/techgd\/20150415\/t20150415_518325870.shtml",
+                "imgUrl": "http:\/\/www.cnr.cn\/tech\/techgd\/20150415\/W020150415502204726979.jpg",
+                "abs": ""
+            });
+            imgList.push({"url":"http:\/\/www.cnr.cn\/tech\/techgd\/20150415\/t20150415_518325870.shtml"});
+                            
+           var index = 0 ; 
+           var url = location.href.substr(location.href.indexOf("?")+1).split("&");
+           var key ;
+           for(var i = 0 ; i < url.length ; i++){
+               var tmp = url[i].split("=");
+               if(tmp&&tmp.length>0&&tmp[0]=="lb"){
+                   key = tmp[1];
+               }
+               }
+           for(var p in imgList){
+               if(imgList[p].url == key){
+                   index = p ;
+               }
+           }
+           cpOptions_1.curIndex = index;
+           var cp_1 = new I.Model(cpOptions_1);
+
+           on(window, 'load', function(){
+               cp_1.play(index+1);
+           });
+
+           var controlers = baidu.dom.query('#imgNav a');
+           baidu.each(controlers,function(item,i){
+                baidu.on(item,'mouseover',function(e){
+                    UserMonitor.send(e, 6, {c : "technnews", col: "carousel", ct: "1", m: "11", pn: 8-i, pos : "dots", ac : "mouseover"});
+                    window.alog && alog("monkey.fire", "record", {
+                        type: "click",
+                        target: item
+                    }); 
+                });
+            });
+        });
+           
+    </script>
+    
+
+
+
+            <div class="mod" id="mod_internet">
+                <div class="hd"><h3><a href="http://tech.baidu.com/n?cmd=1&class=internet&pn=1&from=tab" target="_blank">互联网新闻</a><span class="dec">INTERNET NEWS</span></h3><a href="http://tech.baidu.com/n?cmd=1&class=internet&pn=1&from=tab" target="_blank" class="more"></a></div>
+                <div class="bd">
+                    <div id="internet_news">
+                        
+
+<ul class="ulist mix-ulist"  >
+                                    <li>            <a href="http://bank.hexun.com/2015-04-21/175158796.html" mon="z=internetFocus&amp;col=2&pn=1" target="_blank">Jawbone新Up4内置NFC芯片 支持移动支付功能</a></li>
+							    			                        
+                                        <li>            <a href="http://news.china.com.cn/live/2015-04/21/content_32370543.htm" mon="z=internetFocus&amp;col=2&pn=2" target="_blank">青岛啤酒：互联网“酿”出啤酒新味道 </a></li>
+							    			                        
+                                        <li>            <a href="http://finance.sina.com.cn/hy/20150421/094222007055.shtml" mon="z=internetFocus&amp;col=2&pn=3" target="_blank">刘东华：“互联网+”是一个动词</a></li>
+							    			                        
+                                        <li>            <a href="http://tech.southcn.com/t/2015-04/21/content_122658619.htm" mon="z=internetFocus&amp;col=2&pn=4" target="_blank">探讨“互联网+禅城”的N种可能</a></li>
+							    			                        
+                                        <li>            <a href="http://tech.gmw.cn/newspaper/2015-04/21/content_106080189.htm" mon="z=internetFocus&amp;col=2&pn=5" target="_blank">阿里巴巴“满天星” 开启农产品溯源计划 </a></li>
+							    			                        
+                                        <li>            <a href="http://hznews.hangzhou.com.cn/jingji/content/2015-04/21/content_5738176.htm" mon="z=internetFocus&amp;col=2&pn=6" target="_blank">杭州一影院“速7”的电商出票率达七成</a></li>
+							    			                        
+                                        <li>            <a href="http://www.eepw.com.cn/article/272883.htm" mon="z=internetFocus&amp;col=2&pn=7" target="_blank">FreeWheel宣布原雅虎容力(Li Rong)加入管理团队..</a></li>
+							    			                        
+                                        <li>            <a href="http://info.food.hc360.com/2015/04/210938888517.shtml" mon="z=internetFocus&amp;col=2&pn=8" target="_blank">网销自制食品隐患多 食品机械企业应将自制进行到底</a></li>
+							    			                        
+                                        <li>            <a href="http://www.taizhou.com.cn/news/2015-04/21/content_2160463.htm" mon="z=internetFocus&amp;col=2&pn=9" target="_blank">可以发“弹幕”的声音来分享APP</a></li>
+							    			                        
+                                        <li>            <a href="http://news.timedg.com/2015-04/21/20113201.shtml" mon="z=internetFocus&amp;col=2&pn=10" target="_blank">东莞交警重回榜首 我们的东莞首次第一丨新媒体指..</a></li>
+							    			                                    <!--MONITOR TECHNNEWS_HLWXW OK 10 HOTAREA-->
+            
+</ul>
+
+
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="l-middle-col">
+            
+    <div class="middle-focus-news">
+        
+<ul class="ulist fb-list">
+            <li class="bold-item"><a href="http://www.ithome.com/html/windowsphone/142866.htm" mon="col=3&amp;a=2&amp;z=techfocus&pn=1" target="_blank">Win10之前：微软为何还不放弃Windows Phone？</a></li>
+                
+       
+    <li><a href="http://news.dahe.cn/2015/04-21/104809821.html" mon="col=3&amp;a=2&amp;z=techfocus&pn=2" target="_blank">竞争加剧 中国移动第一季度净利润减少5.6% </a></li>
+
+                
+       
+    <li><a href="http://www.ithome.com/html/next/142889.htm" mon="col=3&amp;a=2&amp;z=techfocus&pn=3" target="_blank">苹果Apple Watch开机视频曝光：等得心塞</a></li>
+
+                
+       
+    <li><a href="http://tech.hexun.com/2015-04-20/175131267.html" mon="col=3&amp;a=2&amp;z=techfocus&pn=4" target="_blank">Apple Watch出货推迟到五月中旬 供应链Q2不妙</a></li>
+
+                
+       
+    <li><a href="http://info.ec.hc360.com/2015/04/210912815204.shtml" mon="col=3&amp;a=2&amp;z=techfocus&pn=5" target="_blank">微软全新手势追踪技术有望投入应用</a></li>
+
+                
+               
+    <li><a href="http://www.chinaz.com/mobile/2015/0421/400120.shtml" mon="col=3&amp;a=2&amp;z=techfocus&pn=6" target="_blank">中国4G用户数量公布：中国移动逆天了 ！</a></li>
+
+                
+            </ul>
+    <ul class="ulist fb-list">
+           
+    <li><a href="http://solar.ofweek.com/2015-04/ART-260009-8440-28950256.html" mon="col=3&amp;a=2&amp;z=techfocus&pn=7" target="_blank">苹果买光伏果然只为“赶考”</a></li>
+
+                
+               
+    <li><a href="http://tech.qq.com/a/20150421/015570.htm" mon="col=3&amp;a=2&amp;z=techfocus&pn=8" target="_blank">壕！碧昂丝的苹果手表连表带都是黄金的</a></li>
+
+                
+               
+    <li><a href="http://www.ithome.com/html/soft/142947.htm" mon="col=3&amp;a=2&amp;z=techfocus&pn=9" target="_blank">全新Xbox玩偶应用登陆Win10系统预览版</a></li>
+
+                
+               
+    <li><a href="http://qy.0532bm.com/2015/0420/36121.html" mon="col=3&amp;a=2&amp;z=techfocus&pn=10" target="_blank">IOS热门搜索词榜单排名给力优化服务</a></li>
+
+                
+               
+    <li><a href="http://www.ithome.com/html/win8/142946.htm" mon="col=3&amp;a=2&amp;z=techfocus&pn=11" target="_blank">四月“加餐”：微软将于明日推送34枚补丁</a></li>
+
+                
+            </ul>
+    <ul class="ulist fb-list">
+           
+    <li><a href="http://news.xinhuanet.com/info/2015-04/21/c_134168325.htm" mon="col=3&amp;a=2&amp;z=techfocus&pn=12" target="_blank">中国移动4G用户增长迅速达1.43亿户 </a></li>
+
+                
+               
+    <li><a href="http://it.scol.com.cn/itsd/201504/10140627.html" mon="col=3&amp;a=2&amp;z=techfocus&pn=13" target="_blank">分析称Apple Watch毛利率超60% 将成苹果最赚钱产品</a></li>
+
+                
+               
+    <li><a href="http://www.ithome.com/html/win10/142939.htm" mon="col=3&amp;a=2&amp;z=techfocus&pn=14" target="_blank">微软开测新版Outlook.com：浓浓Win10风</a></li>
+
+                
+               
+    <li><a href="http://tech.hexun.com/2015-04-20/175123302.html" mon="col=3&amp;a=2&amp;z=techfocus&pn=15" target="_blank">顺应潮流 微软也将带来苹果手表应用</a></li>
+
+                
+               
+    <li><a href="http://www.ithome.com/html/next/142793.htm" mon="col=3&amp;a=2&amp;z=techfocus&pn=16" target="_blank">挺好看！一波第三方Apple Watch表带来袭</a></li>
+
+                
+            </ul>
+    <ul class="ulist fb-list">
+           
+    <li><a href="http://tech.hexun.com/2015-04-21/175154766.html" mon="col=3&amp;a=2&amp;z=techfocus&pn=17" target="_blank">苹果展示Apple Watch Sports智能手表全新表带 </a></li>
+
+                
+               
+    <li><a href="http://tech.sina.com.cn/mobile/n/apple/2015-04-21/075610028262.shtml" mon="col=3&amp;a=2&amp;z=techfocus&pn=18" target="_blank">国外设计师“画出”Apple Watch拆解图</a></li>
+
+                
+               
+    <li><a href="http://www.ithome.com/html/next/142917.htm" mon="col=3&amp;a=2&amp;z=techfocus&pn=19" target="_blank">Apple Watch原来是这样实现心率监测的</a></li>
+
+                
+               
+    <li><a href="http://news.zol.com.cn/516/5169576.html" mon="col=3&amp;a=2&amp;z=techfocus&pn=20" target="_blank">Apple Watch引发新潮流：一句话的短新闻</a></li>
+
+                
+               
+    <li><a href="http://tech.hexun.com/2015-04-21/175149476.html" mon="col=3&amp;a=2&amp;z=techfocus&pn=21" target="_blank">体验最速快感 ZOL定制主机之SSD测试</a></li>
+
+            <!--MONITOR TECHNNEWS_JDXW OK 21 HOTAREA-->
+        </ul>
+
+
+    </div>
+
+
+        </div>
+
+        <div class="l-right-col">
+
+            <div class="mod">
+                <div class="hd"><h3><a href="http://tech.baidu.com/n?cmd=1&class=discovery&pn=1" target="_blank">科学探索</a><span class="dec">SCIENCE DISCOVERY</span></h3><a href="http://tech.baidu.com/n?cmd=1&class=discovery&pn=1" target="_blank" class="more"></a></div>
+                <div class="bd">
+                    <div id="kj_news">
+                        
+
+<ul class="ulist mix-ulist"  >
+                                    <li>            <a href="http://info.plas.hc360.com/2015/04/210839487344.shtml" mon="col=4&amp;z=discovery&pn=1" target="_blank">英国火星巧克力召回一款疑含塑料的巧克力</a></li>
+							    			                        
+                                        <li>            <a href="http://news.dahe.cn/2015/04-21/104808897.html" mon="col=4&amp;z=discovery&pn=2" target="_blank">隋唐城遗址植物园黄冠盛开 790余种19.5万余株牡..</a></li>
+							    			                        
+                                        <li>            <a href="http://news.dahe.cn/2015/04-21/104809578.html" mon="col=4&amp;z=discovery&pn=3" target="_blank">超越哈勃：未来太空望远镜会发现外星生命吗 </a></li>
+							    			                        
+                                        <li>            <a href="http://tech.southcn.com/t/2015-04/21/content_122647702.htm" mon="col=4&amp;z=discovery&pn=4" target="_blank">哈勃望远镜25周年绝美图片精选：太空现诡异笑脸</a></li>
+							    			                        
+                                        <li>            <a href="http://www.chinadaily.com.cn/hqcj/xfly/2015-04-20/content_13571736.html" mon="col=4&amp;z=discovery&pn=5" target="_blank">细节空前的火星3D地图：看水和熔岩曾如何流动</a></li>
+							    			                        
+                                        <li>            <a href="http://news.dahe.cn/2015/04-21/104809174.html" mon="col=4&amp;z=discovery&pn=6" target="_blank">科学家发现暗物质还存在一种未知作用力 </a></li>
+							    			                        
+                                        <li>            <a href="http://www.chinadaily.com.cn/hqcj/zgjj/2015-04-21/content_13576049.html" mon="col=4&amp;z=discovery&pn=7" target="_blank">美宇航局正悄悄考虑重返月球：而后奔赴火星</a></li>
+							    			                        
+                                        <li>            <a href="http://news.dahe.cn/2015/04-20/104802953.html" mon="col=4&amp;z=discovery&pn=8" target="_blank">令人困惑的外太空无线电信号或来自外星文明 </a></li>
+							    			                                    <!--MONITOR TECHNNEWS_KXTS OK 8 HOTAREA-->
+            
+</ul>
+
+
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="mod" id="focus-aside-video">
+                <div class="hd"><h3>科技视频<span class="dec">TECHNOLOGICAL VIDEOS</span></h3></div>
+                <div class="bd">
+                <div id="kj_video">
+                     
+<div class="pic-list">
+    <ul>
+                                                            <li><a href="http://v.cqnews.net/first/2015-04/19/content_33993964.htm" mon="col=5&amp;a=9&amp;z=vtech&pn=1" target="_blank"><img r_src="http://t3.baidu.com/it/u=1326576309,1297826177&amp;fm=20"/><span class="title">重庆市将为贫困户购买大病医疗补充险</span></a></li>
+                            
+
+                                                                    <li><a href="http://v.cqnews.net/first/2015-04/18/content_33993958.htm" mon="col=5&amp;a=9&amp;z=vtech&pn=2" target="_blank"><img r_src="http://t3.baidu.com/it/u=1274477215,1840123180&amp;fm=20"/><span class="title">王乐泉在渝召开座谈会 调研重庆市法学</span></a></li>
+                            
+
+                                                                
+
+                                                                
+
+                                                                
+
+                    </ul>
+</div>
+
+   
+                     
+<ul class="ulist mix-ulist ">
+                                    <li><a href="http://v.cqnews.net/first/2015-04/18/content_33993955.htm" mon="col=5&amp;z=vtech&pn=3" target="_blank">【大众创业 万众创新】未来五年 重庆市将建100个..</a></li>
+                    <li><a href="http://v.cqnews.net/first/2015-04/18/content_33993916.htm" mon="col=5&amp;z=vtech&pn=4" target="_blank">美无人战机获重大突破 中国导弹或被废</a></li>
+                    <li><a href="http://v.cqnews.net/first/2015-04/18/content_33993369.htm" mon="col=5&amp;z=vtech&pn=5" target="_blank">重庆至西昌往返航线恢复运营</a></li>
+            <!--MONITOR TECHNNEWS_KJSP OK 5 HOTAREA-->
+        </ul>
+
+
+                </div>
+                </div>
+            </div>
+        </div>
+</div>
+
+
+
+    <!--start 业界-->
+    
+    <div class="column clearfix" id="col_yejie" alog-group="log-technnews-yejie">
+        
+<div class="column-title" >
+            <div class="column-title-border">
+                                                        <h2><a href="http://tech.baidu.com/n?cmd=1&class=yejie&pn=1" target="_blank">业界</a></h2>
+                                    
+                                <div class="sub-class"><a href="http://tech.baidu.com/n?cmd=4&class=it&pn=1" target="_blank">IT</a>|<a href="http://tech.baidu.com/n?cmd=4&class=tele&pn=1" target="_blank">通信</a>|<a href="http://tech.baidu.com/n?cmd=4&class=3g&pn=1" target="_blank">3G</a>|<a href="http://tech.baidu.com/n?cmd=4&class=renwugongsi&pn=1" target="_blank">人物公司</a></div>
+                                <span class="line"></span>
+                
+            
+            </div>
+    </div>
+
+ 
+        <div class="l-left-col">
+            <div class="mod" id="tongxin_news">
+                <div class="hd"><h3><a href="http://tech.baidu.com/n?cmd=4&class=tele&pn=1" target="_blank">通信</a><span class="dec">COMMUNICATION</span></h3><a href="http://tech.baidu.com/n?cmd=4&class=tele&pn=1" target="_blank" class="more"></a>
+                </div>
+                <div class="bd">
+                    <ul class="ulist mix-ulist">
+                                                                        <li class="topic">
+        <span class="in-topic">
+        <a class="i-t-title" href="http://www.eepw.com.cn/article/272817.htm" target="_blank" mon="col=6&amp;z=tele&amp;pn=1">助力物联网落地,深圳国际嵌入式系统展</a>
+        <span class="i-t-info">无人机、无人驾驶、可穿戴设备、智能家居、智慧城市等物联网相关产业技术产品的创新应用及需求的不断涌现，对基础芯片、软件、嵌入式系统...</span>
+    </span>
+    
+</li>
+                                                                                                                        <li><a href="http://www.jifang360.com/news/2015420/n892967261.html" mon="col=6&z=tele&pn=2" target="_blank">思科携手合作伙伴构建全球最大Intercloud</a></li>
+                                                                                                                        <li><a href="http://www.cnii.com.cn/city/2015-04/20/content_1563758.htm" mon="col=6&z=tele&pn=3" target="_blank">单县联通用“三步法”推荐智慧沃家业务</a></li>
+                                                                                                                        <li><a href="http://www.c114.net/news/119/a893217.html" mon="col=6&z=tele&pn=4" target="_blank">威海联通协同推进全光网改造</a></li>
+                                                                        <!--MONITOR TECHNNEWS_TX OK 4 HOTAREA-->
+                                                                      
+                    </ul>
+
+                </div>
+            </div>
+
+            <div class="mod" id="news_3g">
+                <div class="hd"><h3><a href="http://tech.baidu.com/n?cmd=4&class=3g&pn=1" target="_blank">3G</a><span class="dec">3G</span></h3><a href="http://tech.baidu.com/n?cmd=4&class=3g&pn=1" target="_blank" class="more"></a>
+                </div>
+                <div class="bd">
+                     
+<ul class="ulist mix-ulist ">
+        <li><a href="http://news.rfidworld.com.cn/2015_04/ec8ed438a172a9c6.html" mon="col=7&amp;z=3g&pn=1" target="_blank">ZigBee并非要取代WiFi和蓝牙</a></li>
+            <li><a href="http://www.ebrun.com/20150421/131684.shtml" mon="col=7&amp;z=3g&pn=2" target="_blank">WiFi运营商搅局美国移动通信市场</a></li>
+            <li><a href="http://stock.sohu.com/20150421/n411600858.shtml" mon="col=7&amp;z=3g&pn=3" target="_blank">“云上贵州”领跑大数据产业</a></li>
+            <li><a href="http://zjnews.zjol.com.cn/system/2015/04/21/020613028.shtml" mon="col=7&amp;z=3g&pn=4" target="_blank">宁波春季十大高薪行业出炉 通信、电信运营月薪7..</a></li>
+        <!--MONITOR TECHNNEWS_3G OK 4 HOTAREA-->
+          
+</ul>
+
+
+                </div>
+            </div>
+
+        </div>
+
+        <div class="l-middle-col">
+            
+    <div class="middle-focus-news">
+        
+<ul class="ulist fb-list">
+            <li class="bold-item"><a href="http://bank.hexun.com/2015-04-21/175158806.html" mon="col=8&amp;a=2&amp;z=yejie&pn=1" target="_blank">移动支付技术层出不穷 多种方式拉开技术战</a></li>
+                
+       
+    <li><a href="http://tech.china.com/news/11146420/20150421/19559279.html" mon="col=8&amp;a=2&amp;z=yejie&pn=2" target="_blank">对抗苹果表 你看谷歌的这些大招咋样</a></li>
+
+                
+       
+    <li><a href="http://tech.gmw.cn/newspaper/2015-04/21/content_106087773.htm" mon="col=8&amp;a=2&amp;z=yejie&pn=3" target="_blank">在有效监管中 促进微信营销健康发展 </a></li>
+
+                
+       
+    <li><a href="http://news.rfidworld.com.cn/2015_04/290e0991b48730a1.html" mon="col=8&amp;a=2&amp;z=yejie&pn=4" target="_blank">微信开门硬件助力智慧酒店建设</a></li>
+
+                
+       
+    <li><a href="http://www.c114.net/enterprises/2687/a893431.html" mon="col=8&amp;a=2&amp;z=yejie&pn=5" target="_blank">驱动智能通信创新 潮流网络2015新产品发布会在沪..</a></li>
+
+                
+               
+    <li><a href="http://safe.it168.com/a2015/0421/1721/000001721926.shtml" mon="col=8&amp;a=2&amp;z=yejie&pn=6" target="_blank">来自网络攻击公开信：我们害怕&quot;大安全&quot;</a></li>
+
+                
+            </ul>
+    <ul class="ulist fb-list">
+           
+    <li><a href="http://a.iresearch.cn/onm/20150420/248930.shtml" mon="col=8&amp;a=2&amp;z=yejie&pn=7" target="_blank">EC营客通参加2015中国软件渠道大会,打造企业移动..</a></li>
+
+                
+               
+    <li><a href="http://money.163.com/15/0420/14/ANLBAHGS002526O3.html" mon="col=8&amp;a=2&amp;z=yejie&pn=8" target="_blank">中国移动员工自述：宁少10万年薪 我也要离职</a></li>
+
+                
+               
+    <li><a href="http://hk.stock.hexun.com/2015-04-20/175133306.html" mon="col=8&amp;a=2&amp;z=yejie&pn=9" target="_blank">联通(00762.HK)3月移动宽带净上客加速至81.4万户</a></li>
+
+                
+               
+    <li><a href="http://heilongjiang.dbw.cn/system/2015/04/21/056465152.shtml" mon="col=8&amp;a=2&amp;z=yejie&pn=10" target="_blank">伪基站伪装10086发信息 兑换积分竟要填银行卡号</a></li>
+
+                
+               
+    <li><a href="http://beijing.qianlong.com/3825/2015/04/20/7825@10279088.htm" mon="col=8&amp;a=2&amp;z=yejie&pn=11" target="_blank">三千生僻字将入中华字库 明年10月完成编码</a></li>
+
+                
+            </ul>
+    <ul class="ulist fb-list">
+           
+    <li><a href="http://tech.southcn.com/t/2015-04/21/content_122656467.htm" mon="col=8&amp;a=2&amp;z=yejie&pn=12" target="_blank">工信部公布两化融合合格企业名单 广东占1/8</a></li>
+
+                
+               
+    <li><a href="http://fiber.ofweek.com/2015-04/ART-210007-8120-28950295.html" mon="col=8&amp;a=2&amp;z=yejie&pn=13" target="_blank">拿下FDD再提光纤4G 三分天下电信有望后来居上</a></li>
+
+                
+               
+    <li><a href="http://www.chinaz.com/mobile/2015/0421/400129.shtml" mon="col=8&amp;a=2&amp;z=yejie&pn=14" target="_blank">金属机身/指纹识别 华为荣耀7后壳曝光</a></li>
+
+                
+               
+    <li><a href="http://news.cnpc.com.cn/system/2015/04/21/001538146.shtml" mon="col=8&amp;a=2&amp;z=yejie&pn=15" target="_blank">西南管道公司设备春检保安全 </a></li>
+
+                
+               
+    <li><a href="http://news.syd.com.cn/system/2015/04/21/010679936.shtml" mon="col=8&amp;a=2&amp;z=yejie&pn=16" target="_blank">科技手段+模式创新 让人们少得病、不得病、延缓..</a></li>
+
+            <!--MONITOR TECHNNEWS_YJ OK 16 HOTAREA-->
+        </ul>
+
+
+    </div>
+
+
+        </div>
+
+        <div class="l-right-col">
+            <div class="mod" id="rwgs_news">
+                <div class="hd"><h3><a href="http://tech.baidu.com/n?cmd=4&class=renwugongsi&pn=1" target="_blank">人物公司</a><span class="dec">FIGURES&COMPANIES</span></h3><a href="http://tech.baidu.com/n?cmd=4&class=renwugongsi&pn=1" target="_blank" class="more"></a>
+                </div>
+                <div class="bd">
+                    <div id="rwgs_news_list">
+                        
+
+        <ol class="olist " id="">
+                                                                                                                        <li> <span class="listnum highlight">01</span><a href="http://news.ccidnet.com/art/1032/20150421/5819231_1.html" target="_blank" title="中国联通3月份移动用户数净减161万户 " mon="col=9&amp;z=renwugongsi&pn=1">中国联通3月份移动用户数净减161万户 </a></li>
+                                                                            
+
+                                                                                                                                                                            <li> <span class="listnum highlight">02</span><a href="http://www.ithome.com/html/it/142926.htm" target="_blank" title="华为发布2015全球网络联接指数：中国好评" mon="col=9&amp;z=renwugongsi&pn=2">华为发布2015全球网络联接指数：中国好</a></li>
+                                                                            
+
+                                                                                                                                                                            <li> <span class="listnum highlight">03</span><a href="http://storage.ctocio.com.cn/264/13349264.shtml" target="_blank" title="惠普闪存全面更换：高性能和高效率存储" mon="col=9&amp;z=renwugongsi&pn=3">惠普闪存全面更换：高性能和高效率存储</a></li>
+                                                                            
+
+                                                                                                                                                                            <li> <span class="listnum">04</span><a href="http://www.pcpop.com/doc/1/1089/1089365.shtml" target="_blank" title="微软会在7月份正式发布Windows 10？" mon="col=9&amp;z=renwugongsi&pn=4">微软会在7月份正式发布Windows 10？</a></li>
+
+                                                                            
+
+                                                                                                                                                                            <li> <span class="listnum">05</span><a href="http://mobile.zol.com.cn/516/5169592.html" target="_blank" title="华为何刚：P8助力高端/亿台目标可完成" mon="col=9&amp;z=renwugongsi&pn=5">华为何刚：P8助力高端/亿台目标可完成</a></li>
+
+                                                                            
+
+                                                                                                                                                                            <li> <span class="listnum">06</span><a href="http://mobile.pconline.com.cn/635/6357637.html" target="_blank" title="华为何刚:P8要卖1千万台，与Mate7不冲突" mon="col=9&amp;z=renwugongsi&pn=6">华为何刚:P8要卖1千万台，与Mate7不冲</a></li>
+
+                                                                            
+
+                                                                                                                                                                            <li> <span class="listnum">07</span><a href="http://oa.zol.com.cn/517/5170288.html" target="_blank" title="技术突破带动产品变革惠普发布商用新品" mon="col=9&amp;z=renwugongsi&pn=7">技术突破带动产品变革惠普发布商用新品</a></li>
+
+                                                                            
+
+                                                                                                                                                                            <li> <span class="listnum">08</span><a href="http://www.techweb.com.cn/tele/2015-04-20/2144215.shtml" target="_blank" title="华为P8邀请函曝光：静静看你流淌 " mon="col=9&amp;z=renwugongsi&pn=8">华为P8邀请函曝光：静静看你流淌 </a></li>
+
+                                                                            
+
+                                                                                                                                                                            <li> <span class="listnum">09</span><a href="http://server.it168.com/a2015/0420/1721/000001721775.shtml" target="_blank" title="惠普为OpenStack云交付推出Helion机架" mon="col=9&amp;z=renwugongsi&pn=9">惠普为OpenStack云交付推出Helion机架</a></li>
+
+                                                                            
+
+                                                                                                                                                                            <li> <span class="listnum">10</span><a href="http://mobile.zol.com.cn/516/5169456.html" target="_blank" title="华为P8中国发布会直播在即 互动还有奖" mon="col=9&amp;z=renwugongsi&pn=10">华为P8中国发布会直播在即 互动还有奖</a></li>
+
+                                                                            
+
+                                                                                                                                                                            <li> <span class="listnum">11</span><a href="http://www.c114.net/news/119/a893249.html" target="_blank" title="高密联通：有力促进农村乡镇营销转型" mon="col=9&amp;z=renwugongsi&pn=11">高密联通：有力促进农村乡镇营销转型</a></li>
+
+                                                                            
+
+                                                                                                                                                                            <li> <span class="listnum">12</span><a href="http://news.bjx.com.cn/html/20150420/609490.shtml" target="_blank" title="华为任正非看好石墨烯？真会颠覆行业？" mon="col=9&amp;z=renwugongsi&pn=12">华为任正非看好石墨烯？真会颠覆行业？</a></li>
+
+                                                                            
+
+                                                            <!--MONITOR TECHNNEWS_RWGS OK 12 HOTAREA-->
+                                                </ol>
+    
+
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="ecom-ad" id="ecom_ad" style="margin-bottom:30px;text-align:center"></div>
+
+
+
+    <!-- start 手机-->
+    
+    <div class="column clearfix" id="col_shouji" alog-group="log-technnews-shouji">
+        
+<div class="column-title" >
+            <div class="column-title-border">
+                                                        <h2><a href="http://tech.baidu.com/n?cmd=1&class=cell&pn=1" target="_blank">手机</a></h2>
+                                    
+                                <div class="sub-class"><a href="http://tech.baidu.com/n?cmd=4&class=cell_xinpin&pn=1" target="_blank">手机新品</a>|<a href="http://tech.baidu.com/n?cmd=4&class=cell_daogou&pn=1" target="_blank">手机导购</a>|<a href="http://tech.baidu.com/n?cmd=4&class=cell_hangqing&pn=1" target="_blank">手机行情</a>|<a href="http://tech.baidu.com/n?cmd=4&class=iphone&pn=1" target="_blank">iPhone</a>|<a href="http://tech.baidu.com/n?cmd=4&class=android&pn=1" target="_blank">Android</a>|<a href="http://tech.baidu.com/n?cmd=4&class=nokia&pn=1" target="_blank">诺基亚</a>|<a href="http://tech.baidu.com/n?cmd=4&class=moto&pn=1" target="_blank">摩托罗拉</a></div>
+                                <span class="line"></span>
+                
+            
+            </div>
+    </div>
+
+ 
+        <div class="l-left-col">
+            <div class="mod" id="cell_iphone">
+                <div class="hd"><h3><a href="http://tech.baidu.com/n?cmd=4&class=iphone&pn=1" target="_blank">iPhone</a><span class="dec">iPhone</span></h3><a href="http://tech.baidu.com/n?cmd=4&class=iphone&pn=1" target="_blank" class="more"></a>
+                </div>
+                <div class="bd">
+                     
+<ul class="ulist mix-ulist ">
+        <li><a href="http://digi.it.sohu.com/20150421/n411600066.shtml" mon="col=10&amp;z=iphone&pn=1" target="_blank">三星Galaxy S6热销中 iPhone 6仅售4200元</a></li>
+            <li><a href="http://www.ithome.com/html/iphone/142949.htm" mon="col=10&amp;z=iphone&pn=2" target="_blank">苹果官方二手iPhone上架：真便宜</a></li>
+            <li><a href="http://tech.hexun.com/2015-04-21/175149559.html" mon="col=10&amp;z=iphone&pn=3" target="_blank">每日超值选 “隐形”的iPhone移动电源</a></li>
+            <li><a href="http://tech.hexun.com/2015-04-21/175147671.html" mon="col=10&amp;z=iphone&pn=4" target="_blank">iPhone 6从迪拜40楼摔下 仅轻微凹陷</a></li>
+            <li><a href="http://www.techweb.com.cn/tele/2015-04-20/2144212.shtml" mon="col=10&amp;z=iphone&pn=5" target="_blank">除了iPhone还有谁? &quot;官翻手机&quot;哪家强 </a></li>
+        <!--MONITOR TECHNNEWS_IPHONE OK 5 HOTAREA-->
+          
+</ul>
+
+
+                </div>
+            </div>
+
+            <div class="mod" id="cell_news">
+                <div class="hd"><h3><a href="http://tech.baidu.com/n?cmd=4&class=android&pn=1" target="_blank">Android</a><span class="dec">Android</span></h3><a href="http://tech.baidu.com/n?cmd=4&class=android&pn=1" target="_blank" class="more"></a>
+                </div>
+                <div class="bd">
+                     
+<ul class="ulist mix-ulist ">
+        <li><a href="http://www.c114.net/news/213/a893444.html" mon="col=11&amp;z=android&pn=1" target="_blank">Android Wear升级:手表连接手机不再受空间限制</a></li>
+            <li><a href="http://tech.hexun.com/2015-04-20/175131310.html" mon="col=11&amp;z=android&pn=2" target="_blank">完全免费 微软推适配Android平板Office</a></li>
+            <li><a href="http://tech.hexun.com/2015-04-20/175123521.html" mon="col=11&amp;z=android&pn=3" target="_blank">民间大神顺利将Cortana移植至Android</a></li>
+            <li><a href="http://tech.hexun.com/2015-04-19/175094937.html" mon="col=11&amp;z=android&pn=4" target="_blank">转战汽车领域 CarPlay与Android Auto</a></li>
+        <!--MONITOR TECHNNEWS_ANDROID OK 4 HOTAREA-->
+          
+</ul>
+
+
+                </div>
+            </div>
+
+        </div>
+
+        <div class="l-middle-col">
+            
+    <div class="middle-focus-news">
+        
+<ul class="ulist fb-list">
+            <li class="bold-item"><a href="http://mobile.zol.com.cn/516/5168993.html" mon="col=12&amp;a=2&amp;z=cell&pn=1" target="_blank">更时尚竹子版 小米Note西安报价2330元</a></li>
+                
+       
+    <li><a href="http://finance.jrj.com.cn/tech/2015/04/21082519125185.shtml" mon="col=12&amp;a=2&amp;z=cell&pn=2" target="_blank">旧手机不要扔 超多创新用途让你想不到 </a></li>
+
+                
+       
+    <li><a href="http://www.cnetnews.com.cn/2015/0421/3050759.shtml" mon="col=12&amp;a=2&amp;z=cell&pn=3" target="_blank">谷歌将停止对老款iOS设备上的YouTube应用支持</a></li>
+
+                
+       
+    <li><a href="http://www.eepw.com.cn/article/272865.htm" mon="col=12&amp;a=2&amp;z=cell&pn=4" target="_blank">生物识别新技术：脑电波、基因识别袭来</a></li>
+
+                
+       
+    <li><a href="http://it.enorth.com.cn/system/2015/04/21/030175315.shtml" mon="col=12&amp;a=2&amp;z=cell&pn=5" target="_blank">精彩尽在掌握 大屏影音手机全搜罗</a></li>
+
+                
+               
+    <li><a href="http://mobile.qudong.com/2015/0420/224140.shtml" mon="col=12&amp;a=2&amp;z=cell&pn=6" target="_blank">疑似廉价版一加手机谍照曝光 重心在外观上</a></li>
+
+                
+            </ul>
+    <ul class="ulist fb-list">
+           
+    <li><a href="http://d.youth.cn/newtech/201504/t20150421_6590013.htm" mon="col=12&amp;a=2&amp;z=cell&pn=7" target="_blank">Mozilla Firefox将首次亮相于iPhone</a></li>
+
+                
+               
+    <li><a href="http://mobile.zol.com.cn/516/5169805.html" mon="col=12&amp;a=2&amp;z=cell&pn=8" target="_blank">时尚新品 三星GALAXY S6衡水仅5088元</a></li>
+
+                
+               
+    <li><a href="http://mobile.zol.com.cn/516/5169111.html" mon="col=12&amp;a=2&amp;z=cell&pn=9" target="_blank">丹东小米M4移动4G带官网正规发票1399</a></li>
+
+                
+               
+    <li><a href="http://photo.cankaoxiaoxi.com/world/2015/0421/749825.shtml" mon="col=12&amp;a=2&amp;z=cell&pn=10" target="_blank">也门电力中断 民众设手机充电站</a></li>
+
+                
+               
+    <li><a href="http://tech.sina.com.cn/i/2015-04-21/doc-iavxeafs5930775.shtml" mon="col=12&amp;a=2&amp;z=cell&pn=11" target="_blank">1＋1＞2 巨头企业并购带来的市场机会</a></li>
+
+                
+            </ul>
+    <ul class="ulist fb-list">
+           
+    <li><a href="http://net.zdnet.com.cn/network_security_zone/2015/0420/3050600.shtml" mon="col=12&amp;a=2&amp;z=cell&pn=12" target="_blank">瞻博合作伙伴向爱立信喊话：离瞻博远点</a></li>
+
+                
+               
+    <li><a href="http://tech.gmw.cn/newspaper/2015-04/21/content_106080171.htm" mon="col=12&amp;a=2&amp;z=cell&pn=13" target="_blank">长虹“智慧家庭”又添“小伙伴” </a></li>
+
+                
+               
+    <li><a href="http://info.ec.hc360.com/2015/04/210927815215.shtml" mon="col=12&amp;a=2&amp;z=cell&pn=14" target="_blank">诺基亚并购阿朗 成全球第二大电信设备供应商</a></li>
+
+                
+               
+    <li><a href="http://www.techweb.com.cn/tele/2015-04-20/2144173.shtml" mon="col=12&amp;a=2&amp;z=cell&pn=15" target="_blank">继格力造手机后 长虹又发布可测血糖的H1健康手机 </a></li>
+
+                
+               
+    <li><a href="http://www.ithome.com/html/it/142887.htm" mon="col=12&amp;a=2&amp;z=cell&pn=16" target="_blank">流言：诺基亚将在2016年秋季“解套”推出新手机</a></li>
+
+            <!--MONITOR TECHNNEWS_SJ OK 16 HOTAREA-->
+        </ul>
+
+
+    </div>
+
+
+        </div>
+
+        <div class="l-right-col">
+            <div class="mod" id="new_cell">
+                <div class="hd"><h3><a href="http://tech.baidu.com/n?cmd=4&class=cell_xinpin&pn=1" target="_blank">手机新品</a><span class="dec">NEW MOBILE PHONE</span></h3><a href="http://tech.baidu.com/n?cmd=4&class=cell_xinpin&pn=1" target="_blank" class="more"></a>
+                </div>
+                <div class="bd">
+                     
+<ul class="ulist mix-ulist ">
+        <li><a href="http://it.southcn.com/9/2015-04/20/content_122594259.htm" mon="col=13&amp;z=cell_xinpin&pn=1" target="_blank">三星Galaxy Tab 5平板手机规格已曝光</a></li>
+            <li><a href="http://mobile.yesky.com/185/59189185.shtml" mon="col=13&amp;z=cell_xinpin&pn=2" target="_blank">关于美的诠释:1499元无边框乐视超级手机 1</a></li>
+            <li><a href="http://www.cs.com.cn/ssgs/kj/201504/t20150421_4692567.html" mon="col=13&amp;z=cell_xinpin&pn=3" target="_blank">无边框+超薄机身？ OPPO R7渲染图曝光</a></li>
+        <!--MONITOR TECHNNEWS_SJXP OK 3 HOTAREA-->
+          
+</ul>
+
+
+                </div>
+            </div>
+
+            <div class="mod" id="cell_aside_price">
+                <div class="hd">
+                    <h3>手机报价排行<span class="dec">PRICE RANKING</span></h3>
+                    <div class="price-search" id="cell_price_search">
+                        <input class="price-search-txt"  type="text" value="产品或型号" onclick="this.value=''" id="cell_txt" />
+                        <a href='javascript:void(0)' class="price-search-btn" id="cell_btn" target="_blank">查询</a>
+                    </div>
+                </div>
+                <div class="bd">
+                    <div id="mobile-price">
+                        
+
+    
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+  
+
+
+    <!-- start 数码产品-->
+    
+    <div class="column clearfix" id="col_shuma" alog-group="log-technnews-shumachanpin">
+        
+<div class="column-title" >
+            <div class="column-title-border">
+                                                        <h2><a href="http://tech.baidu.com/n?cmd=1&class=digital&pn=1" target="_blank">数码产品</a></h2>
+                                    
+                                <div class="sub-class"><a href="http://tech.baidu.com/n?cmd=4&class=digital_xinpin&pn=1" target="_blank">数码新品</a>|<a href="http://tech.baidu.com/n?cmd=4&class=digital_daogou&pn=1" target="_blank">数码导购</a>|<a href="http://tech.baidu.com/n?cmd=4&class=digital_hq&pn=1" target="_blank">数码行情</a>|<a href="http://tech.baidu.com/n?cmd=4&class=pad&pn=1" target="_blank">平板电脑</a>|<a href="http://tech.baidu.com/n?cmd=4&class=ebook&pn=1" target="_blank">电子书</a>|<a href="http://tech.baidu.com/n?cmd=4&class=notebook&pn=1" target="_blank">笔记本</a>|<a href="http://tech.baidu.com/n?cmd=4&class=digi&pn=1" target="_blank">相机</a>|<a href="http://tech.baidu.com/n?cmd=4&class=dv&pn=1" target="_blank">DV</a>|<a href="http://tech.baidu.com/n?cmd=4&class=hardware&pn=1" target="_blank">硬件</a>|<a href="http://tech.baidu.com/n?cmd=4&class=mp3&pn=1" target="_blank">MP3</a></div>
+                                <span class="line"></span>
+                
+            
+            </div>
+    </div>
+
+ 
+        <div class="l-left-col">
+            <div class="mod" id="sm_pbdn">
+                <div class="hd"><h3><a href="http://tech.baidu.com/n?cmd=4&class=pad&pn=1" target="_blank">平板电脑</a><span class="dec">PANEL COMPUTER</span></h3><a href="http://tech.baidu.com/n?cmd=4&class=pad&pn=1" target="_blank" class="more"></a>
+                </div>
+                <div class="bd">
+                     
+<ul class="ulist mix-ulist ">
+        <li><a href="http://tech.sina.com.cn/n/g/2015-04-20/doc-iavxeafs5853986.shtml" mon="col=15&amp;z=pad&pn=1" target="_blank">小鲜肉诱惑挡不住 高颜值平板电脑推荐</a></li>
+            <li><a href="http://tech.hexun.com/2015-04-21/175150355.html" mon="col=15&amp;z=pad&pn=2" target="_blank">轻盈在手强悍性能 苹果iPad Air 2热销</a></li>
+            <li><a href="http://pad.yesky.com/214/59080214.shtml" mon="col=15&amp;z=pad&pn=3" target="_blank">化身为猫去抓狂!iPad Pro因屏幕或延迟发布</a></li>
+            <li><a href="http://software.it168.com/a2015/0420/1721/000001721569.shtml" mon="col=15&amp;z=pad&pn=4" target="_blank">酷音铃声携搜狗 留言就送iPad mini2</a></li>
+            <li><a href="http://art.china.cn/zixun/2015-04/19/content_7839834.htm" mon="col=15&amp;z=pad&pn=5" target="_blank">大卫 霍克尼ipad绘画亮相798 观众挤爆佩斯北京</a></li>
+        <!--MONITOR TECHNNEWS_PBDN OK 5 HOTAREA-->
+          
+</ul>
+
+
+                </div>
+            </div>
+
+            <div class="mod" id="sm_ebook">
+                <div class="hd"><h3><a href="http://tech.baidu.com/n?cmd=4&class=ebook&pn=1" target="_blank">电子书</a><span class="dec">E-BOOK</span></h3><a href="http://tech.baidu.com/n?cmd=4&class=ebook&pn=1" target="_blank" class="more"></a>
+                </div>
+                <div class="bd">
+                     
+<ul class="ulist mix-ulist ">
+        <li><a href="http://www.davinfo.com/article/2015/04/a230394.html" mon="col=16&amp;z=ebook&pn=1" target="_blank">齐普光电高清LED显示屏成为美国NAB展人气王</a></li>
+            <li><a href="http://economy.gmw.cn/newspaper/2015-04/21/content_106074274.htm" mon="col=16&amp;z=ebook&pn=2" target="_blank">买移动电源当心电容量虚高 </a></li>
+            <li><a href="http://lcd.zol.com.cn/517/5170091.html" mon="col=16&amp;z=ebook&pn=3" target="_blank">LED显示屏PH10绿色长沙报价1180元每平</a></li>
+            <li><a href="http://power.it168.com/a2015/0412/1719/000001719277.shtml" mon="col=16&amp;z=ebook&pn=4" target="_blank">开启小机箱时代 爱国者魔盒1售价129元</a></li>
+        <!--MONITOR TECHNNEWS_DZS OK 4 HOTAREA-->
+          
+</ul>
+
+
+                </div>
+            </div>
+
+        </div>
+
+        <div class="l-middle-col">
+            
+    <div class="middle-focus-news">
+        
+<ul class="ulist fb-list">
+            <li class="bold-item"><a href="http://nb.zol.com.cn/516/5164808.html" mon="col=17&amp;a=2&amp;z=digital&pn=1" target="_blank">E神给你游戏新体验 惠普ENVY 15京东热销</a></li>
+                
+       
+    <li><a href="http://www.pjtime.com/2015/4/311945627849.shtml" mon="col=17&amp;a=2&amp;z=digital&pn=2" target="_blank">两岸合作推动平板显示产业集聚 共创市场商机</a></li>
+
+                
+       
+    <li><a href="http://nb.zol.com.cn/516/5169958.html" mon="col=17&amp;a=2&amp;z=digital&pn=3" target="_blank">精彩娱乐更超值 热销家庭娱乐本推荐</a></li>
+
+                
+       
+    <li><a href="http://jsnews.jschina.com.cn/system/2015/04/21/024429656.shtml" mon="col=17&amp;a=2&amp;z=digital&pn=4" target="_blank">我市打造世界级新型显示产业基地</a></li>
+
+                
+       
+    <li><a href="http://www.pcpop.com/doc/1/1089/1089337.shtml" mon="col=17&amp;a=2&amp;z=digital&pn=5" target="_blank">Win8双系统原道M9i 跑分游戏视频评测</a></li>
+
+                
+               
+    <li><a href="http://aio.zol.com.cn/516/5169119.html" mon="col=17&amp;a=2&amp;z=digital&pn=6" target="_blank">大连苹果MF886CH/A精细配备仅16988元</a></li>
+
+                
+            </ul>
+    <ul class="ulist fb-list">
+           
+    <li><a href="http://home.focus.cn/news/2015-04-20/430060.html" mon="col=17&amp;a=2&amp;z=digital&pn=7" target="_blank">质检曲面LED电视 技术与价值几何 </a></li>
+
+                
+               
+    <li><a href="http://gps.zol.com.cn/517/5170061.html" mon="col=17&amp;a=2&amp;z=digital&pn=8" target="_blank">爱国者行车记录仪C700 带后视镜售599元</a></li>
+
+                
+               
+    <li><a href="http://notebook.it168.com/a2015/0421/1721/000001721979.shtml" mon="col=17&amp;a=2&amp;z=digital&pn=9" target="_blank">联想Bigger版V4000千元优惠预约开放</a></li>
+
+                
+               
+    <li><a href="http://pc.it168.com/a2015/0312/1711/000001711011.shtml" mon="col=17&amp;a=2&amp;z=digital&pn=10" target="_blank">外星人Area-51台式机 34英寸曲面屏体验</a></li>
+
+                
+               
+    <li><a href="http://tech.hexun.com/2015-04-20/175130958.html" mon="col=17&amp;a=2&amp;z=digital&pn=11" target="_blank">自充电摄像机问世</a></li>
+
+                
+            </ul>
+    <ul class="ulist fb-list">
+           
+    <li><a href="http://it.scol.com.cn/jd/201504/10140029.html" mon="col=17&amp;a=2&amp;z=digital&pn=12" target="_blank">LG Display联合电视厂商宣告超轻薄电视时代到来 </a></li>
+
+                
+               
+    <li><a href="http://bc.tech-ex.com/2015/ottbusiness/63183.html" mon="col=17&amp;a=2&amp;z=digital&pn=13" target="_blank">Wifi电视 将海量节目搬上荧屏</a></li>
+
+                
+               
+    <li><a href="http://aio.zol.com.cn/517/5170058.html" mon="col=17&amp;a=2&amp;z=digital&pn=14" target="_blank">高性价比 联想启天A7200-B105烟台促销</a></li>
+
+                
+               
+    <li><a href="http://nb.zol.com.cn/516/5169819.html" mon="col=17&amp;a=2&amp;z=digital&pn=15" target="_blank">微软Surface Pro 3哈尔滨只售6288元</a></li>
+
+                
+               
+    <li><a href="http://info.coatings.hc360.com/2015/04/210853603940.shtml" mon="col=17&amp;a=2&amp;z=digital&pn=16" target="_blank">数码彩效果展示：贵州毕节杨总的精心作品</a></li>
+
+            <!--MONITOR TECHNNEWS_SMCP OK 16 HOTAREA-->
+        </ul>
+
+
+    </div>
+
+
+        </div>
+
+        <div class="l-right-col">
+            <div class="mod" id="sm_new">
+                <div class="hd"><h3><a href="http://tech.baidu.com/n?cmd=4&class=comp_xinpin&pn=1" target="_blank">电脑新品</a><span class="dec">NEW COMPUTER</span></h3><a href="http://tech.baidu.com/n?cmd=4&class=comp_xinpin&pn=1" target="_blank" class="more"></a>
+                </div>
+                <div class="bd">
+                     
+<ul class="ulist mix-ulist ">
+        <li><a href="http://tech.sina.com.cn/n/k/2015-04-21/doc-ichmifpy9035875.shtml" mon="col=18&amp;z=comp_xinpin&pn=1" target="_blank">入门级添新成员 三星手机平板规格曝光</a></li>
+            <li><a href="http://tech.hexun.com/2015-04-21/175151280.html" mon="col=18&amp;z=comp_xinpin&pn=2" target="_blank">AMD又一新卡曝光：核心其实是老朋友</a></li>
+            <li><a href="http://tech.hexun.com/2015-04-21/175146435.html" mon="col=18&amp;z=comp_xinpin&pn=3" target="_blank">有钱买不到 2K高分显示器为何一机难求？</a></li>
+        <!--MONITOR TECHNNEWS_DNXP OK 3 HOTAREA-->
+          
+</ul>
+
+
+                </div>
+            </div>
+
+            <div class="mod" id="stock-aside-individua">
+                <div class="hd">
+                    <h3>电脑报价排行<span class="dec">PRICE RANKING</span></h3>
+                    <div class="price-search" id="pc_price_search">
+                        <input class="price-search-txt"  type="text"  value="产品或型号" onclick="this.value=''" id="pc_txt"/>
+                        <a href='javascript:void(0)' class="price-search-btn" id="pc_btn" target="_blank">查询</a>
+                    </div>
+                </div>
+                <div class="bd">
+                    <div id="pc-price">
+                        
+
+    
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+  
+
+
+    <!--start 科学-->
+    
+    <div class="column clearfix" id="col_kexue" alog-group="log-technnews-kexue">
+        
+<div class="column-title" >
+            <div class="column-title-border">
+                                                        <h2><a href="http://tech.baidu.com/n?cmd=1&class=discovery&pn=1" target="_blank">科学</a></h2>
+                                    
+                                <div class="sub-class"><a href="http://tech.baidu.com/n?cmd=4&class=universe&pn=1" target="_blank">宇宙探索</a>|<a href="http://tech.baidu.com/n?cmd=4&class=fun&pn=1" target="_blank">奇闻奇观</a>|<a href="http://tech.baidu.com/n?cmd=4&class=civilization&pn=1" target="_blank">历史考古</a>|<a href="http://tech.baidu.com/n?cmd=4&class=nature&pn=1" target="_blank">自然地理</a></div>
+                                <span class="line"></span>
+                
+            
+            </div>
+    </div>
+
+ 
+        <div class="l-left-col">
+            <div class="mod" id="kx_yzts">
+                <div class="hd"><h3><a href="http://tech.baidu.com/n?cmd=4&class=universe&pn=1" target="_blank">宇宙探索</a><span class="dec">UNIVERSE DISCOVERY</span></h3><a href="http://tech.baidu.com/n?cmd=4&class=universe&pn=1" target="_blank" class="more"></a>
+                </div>
+                <div class="bd">
+                     
+<ul class="ulist mix-ulist ">
+        <li><a href="http://www.chinanews.com/mil/2015/04-20/7219399.shtml" mon="col=20&amp;z=universe&pn=1" target="_blank">日媒：日本将于2018年发射首个月球探测器SLIM </a></li>
+            <li><a href="http://www.chinadaily.com.cn/hqcj/xfly/2015-04-20/content_13574385.html" mon="col=20&amp;z=universe&pn=2" target="_blank">科学家发现一个“怪物”系外行星 其质量超木星11倍</a></li>
+            <li><a href="http://news.qudong.com/2015/0420/224227.shtml" mon="col=20&amp;z=universe&pn=3" target="_blank">科学揭秘：九星连珠真会发生世界末日吗？</a></li>
+            <li><a href="http://news.qudong.com/2015/0420/224107.shtml" mon="col=20&amp;z=universe&pn=4" target="_blank">银河系曾经历恒星“婴儿潮” 太阳是迟来者</a></li>
+            <li><a href="http://tech.southcn.com/t/2015-04/20/content_122582101.htm" mon="col=20&amp;z=universe&pn=5" target="_blank">未来空间站是朵会转的“大蘑菇” 可产生重力</a></li>
+        <!--MONITOR TECHNNEWS_YZTS OK 5 HOTAREA-->
+          
+</ul>
+
+
+                </div>
+            </div>
+
+            <div class="mod" id="kx_lskg">
+                <div class="hd"><h3><a href="http://tech.baidu.com/n?cmd=4&class=civilization&pn=1" target="_blank">历史考古</a><span class="dec">HISTORICAL ARCHAEOLOGY</span></h3><a href="http://tech.baidu.com/n?cmd=4&class=civilization&pn=1" target="_blank" class="more"></a>
+                </div>
+                <div class="bd">
+                     
+<ul class="ulist mix-ulist ">
+        <li><a href="http://tech.gmw.cn/newspaper/2015-04/21/content_106076382.htm" mon="col=21&amp;z=civilization&pn=1" target="_blank">珍贵壁画见证千年前丝路“一家亲” </a></li>
+            <li><a href="http://news.lyd.com.cn/system/2015/04/20/010389869.shtml" mon="col=21&amp;z=civilization&pn=2" target="_blank">隋唐城遗址植物园：第十届万人小手画牡丹活动举行 </a></li>
+            <li><a href="http://tech.gmw.cn/newspaper/2015-04/20/content_106055887.htm" mon="col=21&amp;z=civilization&pn=3" target="_blank">郭家庙曾国墓地考古成果在省博物馆展出 </a></li>
+            <li><a href="http://www.chinanews.com/cul/2015/04-20/7220330.shtml" mon="col=21&amp;z=civilization&pn=4" target="_blank">731部队四方楼遗址完成考古清理 出土1500余文物 </a></li>
+        <!--MONITOR TECHNNEWS_LSKG OK 4 HOTAREA-->
+          
+</ul>
+
+
+                </div>
+            </div>
+
+        </div>
+
+        <div class="l-middle-col">
+            
+    <div class="middle-focus-news">
+        
+<ul class="ulist fb-list">
+            <li class="bold-item"><a href="http://info.plas.hc360.com/2015/04/210839487344.shtml" mon="col=22&amp;a=2&amp;z=discovery&pn=1" target="_blank">英国火星巧克力召回一款疑含塑料的巧克力</a></li>
+                
+       
+    <li><a href="http://news.dahe.cn/2015/04-21/104808897.html" mon="col=22&amp;a=2&amp;z=discovery&pn=2" target="_blank">隋唐城遗址植物园黄冠盛开 790余种19.5万余株牡..</a></li>
+
+                
+       
+    <li><a href="http://news.dahe.cn/2015/04-21/104809578.html" mon="col=22&amp;a=2&amp;z=discovery&pn=3" target="_blank">超越哈勃：未来太空望远镜会发现外星生命吗 </a></li>
+
+                
+       
+    <li><a href="http://tech.southcn.com/t/2015-04/21/content_122647702.htm" mon="col=22&amp;a=2&amp;z=discovery&pn=4" target="_blank">哈勃望远镜25周年绝美图片精选：太空现诡异笑脸</a></li>
+
+                
+       
+    <li><a href="http://www.chinadaily.com.cn/hqcj/xfly/2015-04-20/content_13571736.html" mon="col=22&amp;a=2&amp;z=discovery&pn=5" target="_blank">细节空前的火星3D地图：看水和熔岩曾如何流动</a></li>
+
+                
+               
+    <li><a href="http://news.dahe.cn/2015/04-21/104809174.html" mon="col=22&amp;a=2&amp;z=discovery&pn=6" target="_blank">科学家发现暗物质还存在一种未知作用力 </a></li>
+
+                
+            </ul>
+    <ul class="ulist fb-list">
+           
+    <li><a href="http://www.chinadaily.com.cn/hqcj/zgjj/2015-04-21/content_13576049.html" mon="col=22&amp;a=2&amp;z=discovery&pn=7" target="_blank">美宇航局正悄悄考虑重返月球：而后奔赴火星</a></li>
+
+                
+               
+    <li><a href="http://news.dahe.cn/2015/04-20/104802953.html" mon="col=22&amp;a=2&amp;z=discovery&pn=8" target="_blank">令人困惑的外太空无线电信号或来自外星文明 </a></li>
+
+                
+               
+    <li><a href="http://www.ithome.com/html/discovery/142931.htm" mon="col=22&amp;a=2&amp;z=discovery&pn=9" target="_blank">飞机智能皮肤：自动感知外界伤害</a></li>
+
+                
+               
+    <li><a href="http://www.ebiotrade.com/newsf/2015-4/2015420173228118.htm" mon="col=22&amp;a=2&amp;z=discovery&pn=10" target="_blank">4月9日《自然》杂志精选</a></li>
+
+                
+               
+    <li><a href="http://www.techweb.com.cn/shoujiyouxi/2015-04-20/2143985.shtml" mon="col=22&amp;a=2&amp;z=discovery&pn=11" target="_blank">我的世界天体星球驱逐舰存档下载 </a></li>
+
+                
+            </ul>
+    <ul class="ulist fb-list">
+           
+    <li><a href="http://www.ce.cn/xwzx/kj/201504/21/t20150421_5165568.shtml" mon="col=22&amp;a=2&amp;z=discovery&pn=12" target="_blank">科学家提出惊人理论：宇宙中并不存在“黑洞”</a></li>
+
+                
+               
+    <li><a href="http://tech.gmw.cn/newspaper/2015-04/21/content_106080159.htm" mon="col=22&amp;a=2&amp;z=discovery&pn=13" target="_blank">科学家绘出宇宙尺度暗物质图谱 </a></li>
+
+                
+               
+    <li><a href="http://scitech.people.com.cn/n/2015/0421/c1057-26876251.html" mon="col=22&amp;a=2&amp;z=discovery&pn=14" target="_blank">激光或成为太空垃圾“清道夫”</a></li>
+
+                
+               
+    <li><a href="http://tech.hexun.com/2015-04-21/175148389.html" mon="col=22&amp;a=2&amp;z=discovery&pn=15" target="_blank">图腾AS机柜(AS6042)北京地区报价5004元</a></li>
+
+                
+               
+    <li><a href="http://news.xinhuanet.com/local/2015-04/21/c_127712075.htm" mon="col=22&amp;a=2&amp;z=discovery&pn=16" target="_blank">“芯片蛋”助胚胎研究 </a></li>
+
+            <!--MONITOR TECHNNEWS_KX OK 16 HOTAREA-->
+        </ul>
+
+
+    </div>
+
+
+        </div>
+
+        <div class="l-right-col">
+            <div class="mod" id="kx_video">
+                <div class="hd"><h3>科学探索视频<span class="dec">SCIENCE DISCOVERY VIDEOS</span></h3></div>
+                <div class="bd">
+                <div id="kxts_video">
+                     
+<div class="pic-list">
+    <ul>
+                                                            <li><a href="http://www.chinanews.com/shipin/2015/04-18/news563018.shtml" mon="col=23&amp;z=vdiscovery&pn=1" target="_blank"><img r_src="http://t2.baidu.com/it/u=3305221536,25567623&amp;fm=20"/><span class="title">“龙”飞船抵达国际空间站</span></a></li>
+                            
+
+                                                                    <li><a href="http://v.china.com.cn/news/2015-04/18/content_35356678.htm" mon="col=23&amp;z=vdiscovery&pn=2" target="_blank"><img r_src="http://t1.baidu.com/it/u=4100051574,1968393213&amp;fm=20"/><span class="title">从太空看藻类大爆发：如同漂浮水面上云</span></a></li>
+                            
+
+                                                                
+
+                                                                
+
+                                                                
+
+                    </ul>
+</div>
+
+   
+                     
+<ul class="ulist mix-ulist ">
+                                    <li><a href="http://tv.people.com.cn/n/2015/0417/c79889-26859456.html" mon="col=23&amp;z=vdiscovery&pn=3" target="_blank">惊爆张艺谋巩俐真实分手原因！ 恩怨情仇三十载</a></li>
+                    <li><a href="http://v.cqnews.net/first/2015-04/17/content_33982790.htm" mon="col=23&amp;z=vdiscovery&pn=4" target="_blank">13岁女孩写信给太空里的父亲 大地为纸车轮为笔</a></li>
+                    <li><a href="http://www.chinanews.com/shipin/2015/04-15/news562278.shtml" mon="col=23&amp;z=vdiscovery&pn=5" target="_blank">3D打印技术走进医院 深圳现“铁肩”女</a></li>
+            <!--MONITOR TECHNNEWS_SXTSSP OK 5 HOTAREA-->
+        </ul>
+
+
+                </div>
+                </div>
+            </div>
+
+            <div class="mod" id="hot_tophit">
+                <div class="hd"><h3>热门点击<span class="dec">HOT CLICKS</span></h3></div>
+                <div class="bd">
+                     
+<ul class="ulist mix-ulist ">
+        <li><a href="http://tech.sina.com.cn/d/2012-04-17/07266968442.shtml" mon="col=24&amp;z=techhothit&pn=1" target="_blank">美化学家称外星或存超智能恐龙(图)</a></li>
+            <li><a href="http://www.chinanews.com/tp/2012/04-16/3823678.shtml" mon="col=24&amp;z=techhothit&pn=2" target="_blank">江西一东汉墓葬群出土大量珍贵墓葬品 </a></li>
+            <li><a href="http://tech.sina.com.cn/d/2012-04-17/07396968467.shtml" mon="col=24&amp;z=techhothit&pn=3" target="_blank">八大壮观未来派摩天大楼：诺亚方舟自给自足</a></li>
+        <!--MONITOR TECHNNEWS_RMDJ OK 3 HOTAREA-->
+          
+</ul>
+
+
+                </div>
+            </div>
+
+            
+        </div>
+
+    </div>
+  
+
+
+    <!--start 最新新闻-->
+    
+<div class="column clearfix" id="col_latest">
+    
+<div class="column-title" >
+            <div class="column-title-border">
+                                                        <h2><a href="http://tech.baidu.com/n?cmd=4&amp;class=technnews&amp;pn=1" target="_blank">最新新闻</a></h2>
+                                    
+                                <span class="line"></span>
+                
+            
+            </div>
+    </div>
+
+
+    <div id="latest-news">
+        <ul class="ulist" style="margin-right:150px;">
+                                            <li><a href="http://tech.china.com/news/11146421/20150421/19559178.html" target="_blank" mon="col=25&pn=1">不用害羞 爱车能帮你约妹子</a><span class="time">09:39</span></li>
+                                                                    <li><a href="http://notebook.it168.com/a2015/0421/1721/000001721969.shtml" target="_blank" mon="col=25&pn=2">血手幽灵V8M有线版 国美在线仅售129元</a><span class="time">09:38</span></li>
+                                                                    <li><a href="http://notebook.it168.com/a2015/0421/1721/000001721980.shtml" target="_blank" mon="col=25&pn=3">789元入手无敌！达尔优S600京东首发中</a><span class="time">09:38</span></li>
+                                                                    <li><a href="http://notebook.it168.com/a2015/0421/1721/000001721959.shtml" target="_blank" mon="col=25&pn=4">惊人的3198元 E450C国美在线只玩大手笔</a><span class="time">09:38</span></li>
+                                                                    <li><a href="http://notebook.it168.com/a2015/0421/1721/000001721953.shtml" target="_blank" mon="col=25&pn=5">iMac和RMBP官网延迟发货 没准要升级CPU</a><span class="time">09:38</span></li>
+                                                                    <li><a href="http://it.enorth.com.cn/system/2015/04/21/030175639.shtml" target="_blank" mon="col=25&pn=6">索尼Xperia Z4真机对比Z3 将推国行版</a><span class="time">09:35</span></li>
+                                                                    <li><a href="http://tech.sina.com.cn/i/2015-04-21/doc-iavxeafs5930775.shtml" target="_blank" mon="col=25&pn=7">1＋1＞2 巨头企业并购带来的市场机会</a><span class="time">09:32</span></li>
+                                                                    <li><a href="http://www.tmtpost.com/226566.html" target="_blank" mon="col=25&pn=8">中国制造业之殇，如何撰写中国名片？</a><span class="time">09:32</span></li>
+                                                                    <li><a href="http://jsnews.jschina.com.cn/system/2015/04/21/024434219.shtml" target="_blank" mon="col=25&pn=9">企业享检验检疫区域一体化实惠</a><span class="time">09:32</span></li>
+                                                                    <li><a href="http://fiber.ofweek.com/2015-04/ART-210007-8120-28950295.html" target="_blank" mon="col=25&pn=10">拿下FDD再提光纤4G 三分天下电信有望后来居上</a><span class="time">09:30</span></li>
+                                                        </ul>
+            <ul class="ulist">
+                                    <li><a href="http://tech.southcn.com/t/2015-04/21/content_122656467.htm" target="_blank" mon="col=25&pn=11">工信部公布两化融合合格企业名单 广东占1/8</a><span class="time">09:29</span></li>
+                                                                    <li><a href="http://news.dahe.cn/2015/04-21/104809821.html" target="_blank" mon="col=25&pn=12">竞争加剧 中国移动第一季度净利润减少5.6% </a><span class="time">09:28</span></li>
+                                                                    <li><a href="http://mi.techweb.com.cn/tmt/2015-04-21/2144265.shtml" target="_blank" mon="col=25&pn=13">外媒：诺基亚明年秋天重返手机市场</a><span class="time">09:28</span></li>
+                                                                    <li><a href="http://news.zol.com.cn/517/5170454.html" target="_blank" mon="col=25&pn=14">2000元：年轻人的第一台电视选什么好？</a><span class="time">09:28</span></li>
+                                                                    <li><a href="http://www.techweb.com.cn/ihomeappliances/2015-04-21/2144267.shtml" target="_blank" mon="col=25&pn=15">这些超酷的智能快速干衣设备 让你衣服洗完就能穿 </a><span class="time">09:28</span></li>
+                                                                    <li><a href="http://notebook.it168.com/a2015/0421/1721/000001721979.shtml" target="_blank" mon="col=25&pn=16">联想Bigger版V4000千元优惠预约开放</a><span class="time">09:28</span></li>
+                                                                    <li><a href="http://mi.techweb.com.cn/tmt/2015-04-21/2144264.shtml" target="_blank" mon="col=25&pn=17">两周20亿刀进账？全球穿戴厂商都要给Apple Watc..</a><span class="time">09:26</span></li>
+                                                                    <li><a href="http://news.cnpc.com.cn/system/2015/04/21/001538227.shtml" target="_blank" mon="col=25&pn=18">沈阳龙昌管道检测中心技术创新提升核心竞争力 </a><span class="time">09:26</span></li>
+                                                                    <li><a href="http://news.cnpc.com.cn/system/2015/04/21/001538146.shtml" target="_blank" mon="col=25&pn=19">西南管道公司设备春检保安全 </a><span class="time">09:26</span></li>
+                                                                    <li><a href="http://finance.sina.com.cn/stock/hkstock/ggscyd/20150421/092622006878.shtml" target="_blank" mon="col=25&pn=20">华创拟向公司售资产 股价盘前升59%</a><span class="time">09:26</span></li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <!--MONITOR TECHNNEWS_ZXXW OK 30 HOTAREA-->                </ul>
+    </div>
+</div>
+
+
+
+
+	</div>
+	<!--页脚-->
+	
+    
+<div id="footerwrapper">
+<div class="bottombar" alog-group="log-footer-bottombar" alog-alias="hunter-start-bottombar">
+    <div class="bottombar-inner clearfix">
+        <div class="bot-left">
+            <h4>热门频道推荐</h4>
+            <div class="bot-left-list">
+                <ul>
+                    <li><a href="http://guonei.news.baidu.com/" target="_blank">国内</a></li>
+                    <li><a href="http://finance.baidu.com/" target="_blank">财经</a></li>
+                    <li><a href="http://shehui.news.baidu.com/" target="_blank">社会</a></li>
+                    <li><a href="http://yule.baidu.com/" target="_blank">娱乐八卦</a></li>
+                    <li><a href="http://guoji.news.baidu.com" target="_blank">国际</a></li>
+                    <li><a href="http://sports.baidu.com/" target="_blank">体育</a></li>
+                    <li><a href="http://auto.baidu.com/" target="_blank">汽车</a></li>
+                    <li><a href="http://lady.baidu.com/" target="_blank">女性时尚</a></li>
+                    <li><a href="http://mil.news.baidu.com/" target="_blank">军事</a></li>
+                    <li><a href="http://tech.baidu.com/" target="_blank">科技</a></li>
+                    <li><a href="http://renwu.baidu.com/" target="_blank">人物</a></li>
+                    <li><a href="http://internet.baidu.com/" target="_blank">互联网事</a></li>
+                    <div style="clear:both"></div>
+                </ul>
+            </div>
+        </div>
+        <div class="bot-center">
+            <h4>相关功能</h4>
+            <div class="bot-center-list">
+                <ul>
+                    <li class="center-01"><a href="http://newsalert.baidu.com/na?cmd=0" target="_blank">邮件新闻订阅</a></li>
+                    <li class="center-02"><a href="http://news.baidu.com/newscode.html" target="_blank">新闻免费代码</a></li>
+                    <li class="center-03"><a href="http://news.baidu.com/n?bypass=lamp&m=pagesother&v=newsgx" target="_blank">个性化新闻</a></li>
+                    <li class="center-04"><a href="http://www.baidu.com/search/rss.html" target="_blank">新闻订阅</a></li>
+                    <li class="center-05"><a href="http://news.baidu.com/history.html" target="_blank">历史新闻</a></li>
+                    <li class="center-06"><a href="http://news.baidu.com/n?cmd=6&loc=0&name=%B1%B1%BE%A9" target="_blank">地区新闻</a></li>
+                    <div style="clear:both"></div>
+                </ul>
+            </div>
+        </div>
+        <div class="bot-right">
+            <h4>百度新闻独家出品</h4>
+            <p class="p1">新闻由机器选取每5分钟自动更新</p>
+            <p class="p2">百度新闻搜索源于互联网新闻网站和频道，系自动分类排列，百度不刊登或转载任何完整的新闻内容</p>
+        </div>
+    </div>
+</div>
+
+<div id="footer" alog-group="log-footer" alog-alias="hunter-start-footer"><a href="http://tousu.baidu.com/news/add">投诉中心</a><span> 京公网安备110000000001号 </span><a href="http://news.baidu.com/licence.html">互联网新闻信息服务许可</a>
+    <span style="color:#7777CC;">&copy;2015 Baidu</span> <a class="cy" href="http://www.baidu.com/duty/">使用百度前必读</a> <a target="_blank" href="http://net.china.cn/chinese/index.htm"><img r_src="http://gimg.baidu.com/img/net.gif"></a> <a target="_blank" href="http://www.bj.cyberpolice.cn/index.htm"><img alt="首都网络110报警服务" src="http://gimg.baidu.com/img/110.gif"></a> <a target="_blank" href="http://www.bjjubao.org/"><img src="http://news.baidu.com/resource/img/report_center.png"></a></div>
+</div>
+
+
+    
+
+<style>#headerwrapper {
+    width:100%;
+}
+.olist li {
+    position:relative;
+}
+.olist .price {
+    position:absolute;
+    top:5px;
+    right:0;
+    font-size:12px;
+    color:#222;
+}</style>
+
+<script type="text/javascript">
+F.use('/static/common/lib/tangram/base/base.js',function(baidu){
+    var h_tpl = '<li> <span class="listnum highlight">0#{index}</span><a href="#{link}" target="_blank" title="#{name}" mon="col=#{index}&amp;z=renwugongsi&amp;pn=1">#{name}</a><span class="price">#{price}</span></li>',
+        tpl = '<li> <span class="listnum">0#{index}</span><a href="#{link}" target="_blank" title="#{name}" mon="col=#{index}&amp;z=renwugongsi&amp;pn=1">#{name}</a><span class="price">#{price}</span></li>'; 
+    window.callback = function(oder,opts){
+        var wrapper = oder == 1 ? document.getElementById('mobile-price') : document.getElementById('pc-price'),
+            temp = [],
+            html = '<ul class="olist">';
+            for(var i in opts){
+                if(i < 7){
+                    opts[i]['index'] = i;
+                    opts[i]['name'] = baidu.string.subByte(opts[i]['name'], 28);
+                    temp.push(i > 3 ? baidu.string.format(tpl, opts[i]) : baidu.string.format(h_tpl, opts[i]));
+                }
+            }
+            wrapper.innerHTML = html + temp.join('') + '</ul>';
+    }
+    baidu.sio.callByServer('http://detail.zol.com.cn/corp_CorpBaidu_subcateId=57^showNum=8^type=top.html');
+    baidu.sio.callByServer('http://detail.zol.com.cn/corp_CorpBaidu_subcateId=16%5EshowNum=8%5Etype=top.html');
+    var btns = baidu.dom.query('.price-search-btn'),
+        jk1="http://detail.zol.com.cn/index.php?c=HighSearch&subcateId=57&isCorp=1&keyword=",
+        jk2="http://detail.zol.com.cn/index.php?c=HighSearch&subcateId=16&isCorp=1&keyword=";
+        baidu.each(btns, function(item){
+            baidu.on(item, 'click' , function(){
+                if(/cell/.test(this.id)){
+                    this.href = jk1 + baidu.g('cell_txt').value;
+                }else{
+                    this.href = jk2 + baidu.g('pc_txt').value;
+                }
+                
+            });
+        })
+});
+
+</script>
+
+<script src="http://cbjs.baidu.com/js/m.js"></script>
+<script>
+    BAIDU_CLB_addOrientation('newschn', 'technnews');
+    if(typeof BAIDU_CLB_fillSlotAsync != 'undefined' && document.getElementById("ecom_ad")){
+            BAIDU_CLB_fillSlotAsync('639905', 'ecom_ad');
+    }
+</script>
+
+<script type="text/javascript" language="javascript">
+    document.write("<img src='/nocache/mp/b.jpg?cmd=1&class=technnews&cy=0&"+Math.random()+"' style='display:none;'>");
+    document.write("<img id='cgif' src='http://c.baidu.com/c.gif?t=5&p=2&"+Math.random()+"' style='display:none'>");
+</script>
+
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fe9e114d958ea263de46e080563e254c4' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+<script type="text/javascript">
+F.use('/static/common/lib/tangram/base/base.js',function(baidu){
+    baidu.each(baidu.dom.query('img'),function(item){	
+        if(/eiv.baidu.com\/hmt\/icon/.test(baidu.dom.getAttr(item, 'src'))){
+            item.style.display = 'none';		
+        }
+    });
+});
+</script>
+<script type="text/javascript">
+     alog("set", "alias", {
+         monkey: "http://img.baidu.com/hunter/alog/monkey.min.js",
+         element: "http://img.baidu.com/hunter/alog/element.min.js"
+     });
+
+     alog("require", ["monkey", "element"], function(monkey, element){
+         monkey.create({
+             page: "news-tech",
+             pid: "241",
+             p: "133",
+             hid: "424",
+             postUrl: "http://nsclick.baidu.com/u.gif",
+             reports: {
+                refer: 1, 
+                staytime: 1 
+             }
+         });
+     });
+
+     alog("monkey.send", "pageview", { now: +new Date });
+    
+</script>
+
+
+
+
+	
+</body>
+</html>
+<!--ecombegin--><script type="text/javascript">F.use("/static/common/ui/vs/enterState/enterState.js", function(enterState){enterState("", "")});</script><!--ecomend-->

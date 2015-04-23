@@ -1,0 +1,1223 @@
+<!DOCTYPE html>
+<!--STATUS OK-->
+<html>
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="publishtime" content="2015-04-21 08:17:30" />
+	<title>傅盛：通过做手机来控制用户是幻想--百度百家</title>
+	<script src="/static/js/clickMonitor.js?v=20131212"></script>
+    <script type="text/javascript" src="/static/js/usermonitor.js?v=20131212"></script>
+	<script src="/static/js/baiduTemplate.js?v=20131212"></script>
+    <link href="/static/css/all_7f51415.css" type="text/css" rel="stylesheet"/>
+<script src="/static/js/libs/tangram/tangram-1.5.2.2.js?v=20130128" type="text/javascript"></script>
+<script src="/static/js/libs/jquery/jquery.min.js?v=20131212" type="text/javascript"></script>
+<script src="/static/js/libs/jquery/jquery.cookie.js" type="text/javascript"></script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?7fe4ae9e1d0d01bcf748d066979cd2aa";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+
+    <script>
+    var on=baidu.event.on;
+    Fe = baidu;
+    var serverData = {
+        tokentm : '1429579757',
+        token : ''
+    }
+    </script>
+<style>
+
+#body .l-main-col .mod{border-top:none;}
+.l-right-col{border:none;}
+.l-main-col{border:none;}
+#body{border:none;}
+a:active{outline:0}
+
+.up_down{
+    float:right;
+    margin-right:10px;
+    _margin-right:0px;
+}
+.up_down_btn{
+    position: relative;
+    display: block;
+    text-decoration: none;
+    text-align: left;
+    color: #fff;
+    background: #fff;
+    font-size: 16px;
+    line-height: 25px;
+    font-family: "微软雅黑","Hiragino Sans GB";
+    border-radius: 5px;
+    padding:5px;
+    float:left;
+    margin-right:10px;
+}
+.up_down_icon {
+    position: absolute;
+    top: 3px;
+    left: 10px;
+    width: 27px;
+    height: 27px;
+    display: block;
+}
+.up_down_btn_num{
+    font:14px/24px "宋体","Hiragino Sans GB";
+    margin-left:35px;
+    color:#369;
+}
+.up_down_btn_num_gray{
+    color:#666;
+}
+.up_down_txt{
+    font:14px/24px "宋体","Hiragino Sans GB";
+    color:#666;
+}
+.up_down_txt_hover{
+    color:#369;
+}
+.up_down_btn_gray{ background:#fbfbfb;}
+.up{ background: url(/static/images/article_up.png) no-repeat;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled='true',sizingMethod='scale',src='/static/images/article_up.png');_background:none;}
+.down{ background: url(/static/images/article_down.png) no-repeat;top:6px;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled='true',sizingMethod='scale',src='/static/images/article_down.png');_background:none;}
+.up_gray{ background: url(/static/images/article_up_gray.png) no-repeat;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled='true',sizingMethod='scale',src='/static/images/article_up_gray.png');_background:none;}
+.down_gray{ background: url(/static/images/article_down_gray.png) no-repeat;top:6px;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled='true',sizingMethod='scale',src='/static/images/article_down_gray.png');_background:none;}
+
+
+
+#body{background:none;}
+.l-main-col{background:none;}
+.l-right-col{background:none;padding-right:0px;}
+#page{padding-left:0px;margin-bottom:61px;}
+
+</style>
+<script src="/static/js/ckplayer/ckplayer_c468efa.js" type="text/javascript"></script>
+</head>
+<body>
+<script type="text/javascript" language="javascript">
+        clickMonitor.init('BAIJIA_PAGE', 'c=article');
+</script>
+<style>
+#menu{height:60px;border-right:none;left:240px;}
+#menu a{color:#333;height:21px;width:70px;line-height:21px;position:relative;top:20px;margin:0 10px;border:0!important;}
+#menu a:hover{background: none;text-decoration: none;color:#2393df;}
+#menu a.current{background:none;color:#2393df;}
+#menu a.current:hover{background:none;text-decoration: none;}
+#menu a span{width:70px;height:1px;display:block;margin:19px auto 0px;_margin-top:-4px;}
+#menu a:hover span,#menu a.current span{border-bottom:4px solid #2393df;}
+.top-main{position:relative;width:982px;margin:0 auto;height:0px;}
+.top-main a{display: block;width:192px;height:68px;background: url(/static/images/03.png) no-repeat;text-decoration: none;top:-62px;left:0px;position:absolute;z-index:9999;}
+.search{position:absolute;right:230px;top:15px;height:30px;}
+.search_box{width:auto;height:100%;padding-right:5px;padding-left:28px;overflow:hidden;}
+.search_form{position: relative;width:195px;height:28px;border:1px solid #ccc;background: #FAFAFA;}
+.search_txt{display:block;position: absolute;top:4px;left:28px;font-size:14px;font-family:"宋体","Hiragino Sans GB";color:#c2c2c2;}
+.search_input{width:100%;height:26px;line-height:26px;display:block;border:none;border-width: 0px;background: #FAFAFA;}
+.search_btn{position: absolute;top: 0px;left: 0px;display:block;width:28px;height:28px;text-align:center;line-height: 24px;}
+.search_submit{background: url(/static/images/header_search_icon.png) no-repeat;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled='true',sizingMethod='scale',src='/static/images/header_search_icon.png');_background:none;width:16px;height:16px;border:none;cursor:pointer;*margin-top:5px;}
+#header{background:#fff;border-bottom:2px solid #EEE;height:60px;}
+#usrbar{top:20px}
+#usrbar .header_baidu,
+#usrbar .header_home,
+#usrbar .header_person{color:#666;display:inline-block;*display:inline;*zoom:1;height:18px;padding: 0 3px; vertical-align: top}
+
+.userbox{position:relative;width:100%;height:0px;left:0px;z-index:9999;}
+.userbox ul{position:absolute;top:0px;right:0px;border: 1px solid #999;width:80px;height:60px;background:#fff;padding:0px;overflow:hidden;*clear:both;}
+.userbox li{width:100%;height:30px;margin:0px;}
+#usrbar li a{height:100%;display:block;line-height:30px;padding:0px 0px 0px 5px;}
+#usrbar li a:hover{background:none repeat scroll 0 0 #ebebeb; text-decoration: none}
+#register{width:26px;}
+#usrbar .header_person:hover,
+#usrbar .header_baidu:hover,
+#usrbar .header_home:hover{color:#2393df;cursor:pointer;}
+
+#login_user{display:inline-block;*display:inline;*zoom:1;position:relative; vertical-align: top;width:100px;margin-right:5px;}
+#loged{width:100px; text-align: right;overflow: hidden;white-space: normal;word-wrap: break-word;word-break: break-all;color:#666;display:block;height:18px;padding: 0 6px!important;}
+</style>
+<script type='text/javascript' src='http://passport.baidu.com/passApi/js/uni_login_wrapper.js?cdnversion=201504210929'></script>
+<div id="header" alog-group="log-header">
+	<div class="header-content">
+        <div id="menu"><a href="http://baijia.baidu.com"  style="border-left:0px;">首页<span></span></a><a href="http://baijia.baidu.com/?tn=listauthor" >作家<span></span></a><a href="http://baijia.baidu.com/?tn=listtopic" >争鸣<span></span></a></div>
+
+<div class="search">
+  <form method="get" action="http://baijia.baidu.com/" class="search_form" onSubmit="return chkForm(this);">
+    <span title="搜索" alt="搜索" class="search_btn">
+      <input type="submit" class="search_submit" value="">
+    </span>
+    <div class="search_box" >
+      <label for="search" class="search_txt" id="search_txt"></label>
+      <input type="hidden" name="tn" value="search">
+      <input type="text" id="search" maxlength="50" name="word" autocomplete="off" class="search_input">
+    </div>
+  </form>
+</div>
+        <div id="usrbar">
+                    <a href="javascript:void(0);" id="login" class="header_person" >登录</a>
+          <a href="http://news.baidu.com" class="header_home" target="_blank">新闻首页</a>
+          <a class="header_baidu" target="_blank" href="http://www.baidu.com">百度</a>
+        </div>
+	</div>
+</div>
+<div class="top-main"><a href="http://baijia.baidu.com" ></a></div>
+<script>
+(function(baidu, undefined) {
+    window.instance = passport.pop.init({
+         apiOpt: {
+             staticPage: 'http://'+location.host+'/static/html/v3Jump.html',
+             product: 'xw1',
+             memberPass: true,
+             charset:'utf-8',
+             u:location.href,
+             safeFlag: 0
+         },
+         authsite:['tsina','renren','qzone','tqq'],
+	       authsiteCfg:{act:'implicit'},
+         tangram: true,
+         onLoginSuccess: function (args) {
+            // 发送统计日志统计pc主动登陆用户UV
+            args.returnValue = false;
+            sendLog({
+                m: 52,
+                a: 0,
+                args: args
+            });
+         },
+         onShow: function () {
+            sendLog({
+                m: 52,
+                a: 2
+            });
+         }
+    });
+    baidu.on('login', 'click', function(event) {
+         baidu.event.preventDefault(event || window.event);
+         sendLog({
+            m: 52,
+            a: 1
+         });
+         instance.show();
+    });
+})(window.baidu);
+
+function sendLog(option) {
+  var url = 'http://nsclick.baidu.com/v.gif?pid=107&m=' + option.m + '&a=' + option.a + '&v=' + new Date().getTime();
+
+  $('<img/>')
+    .one('load', function() {
+        if (option.args){
+            location.href = option.args.rsp.data.u;
+        }
+    })
+    .each(function() {
+      if(this.complete) $(this).load();
+    })
+    .attr('src', url);
+}
+</script>
+<script type="text/javascript">
+	var __search = baidu.g("search") ;
+	__search && baidu.on(__search, 'blur', function(e){
+		if(!__search.value){
+			baidu.show('search_txt');
+		}
+	});
+	__search && baidu.on(__search, 'focus', function(e){
+		baidu.hide('search_txt');
+	});
+	function chkForm(e){
+		if(!__search.value){
+			return false;
+		}
+		return true ;
+	};
+</script>
+<script type="text/javascript">
+	var __login_user = baidu.g("login_user");
+	var __userbox = baidu.g("userbox"),myTimeout;
+  var uid="";
+	__login_user && baidu.on(__login_user,'mouseenter',function(e){
+    if(myTimeout){
+      clearTimeout(myTimeout);
+    }
+		baidu.show("userbox");
+	});
+	__login_user && baidu.on(__login_user,'mouseleave',function(e){
+    myTimeout = setTimeout(function(){
+      baidu.hide("userbox");
+    },500);
+
+	});
+	var __logout = baidu.g("logout");
+	if(__logout){
+    var uhref = encodeURIComponent(location.href) ;
+    if(uhref.indexOf("userinfo") > 0 ){
+      __logout.href="http://passport.rdtest.baidu.com/?logout&u="+encodeURIComponent("http://baijia.baidu.com/");
+    }else{
+      __logout.href="http://passport.rdtest.baidu.com/?logout&u="+uhref;
+    }
+
+  }
+  if(!uid){
+    $('#cmtbox textarea') && $('#cmtbox textarea').val('');
+  }
+
+</script>
+
+<div class="l-header-ad" >
+    <script type="text/javascript">
+/*顶部横幅通栏*/
+var cpro_id = "u1525874";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script>
+</div>
+<div id="body" class="clearfix">
+    <div class="l-main-col">
+         <div id="page" style="padding-bottom:0px;">
+             <h1 style="font:bold 34px/40px 微软雅黑;color:#333;padding-left:0px;border-left:0px;margin:30px 0;">傅盛：通过做手机来控制用户是幻想</h1>
+             <div class="article-info">
+                 <div class="article-author-time">
+                     <a href="http://yinsheng.baijia.baidu.com" target="_blank" mon="name=bjarticle&pos=name">尹生</a><span class="time">04月21日 08:17</span>
+                 </div>
+                 <div class="share-area">
+                    <!-- Baidu Button BEGIN -->
+                    <div class="bdsharebuttonbox" data-tag="share_1" style="float:right">
+                        <a class="bds_more" data-cmd="more">分享到：</a>
+                        <a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a>
+                        <a href="#" class="bds_renren" data-cmd="renren" title="分享到人人网"></a>
+                        <a href="#" class="bds_douban" data-cmd="douban" title="分享到豆瓣网"></a>
+                        <a href="#" class="bds_tqq" data-cmd="tqq" title="分享到腾讯微博"></a>
+                        <a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a>
+                        <a class="bds_count" data-cmd="count" style="display:none"></a>
+                    </div>
+                    <!-- Baidu Button END -->
+                 </div>
+                 <div class="article-tags" style="float:left;width:auto;margin-left:10px;">
+                                      <a href="http://baijia.baidu.com/?tn=listarticle&labelid=15278" target="_blank" style="background: #f6f6f6;text-decoration: none;padding: 5px;" mon="name=bjarticle&pos=tag">猎豹移动</a>
+                                      <a href="http://baijia.baidu.com/?tn=listarticle&labelid=10093" target="_blank" style="background: #f6f6f6;text-decoration: none;padding: 5px;" mon="name=bjarticle&pos=tag">傅盛</a>
+                                  </div>
+                 <div style="margin-left:10px;margin-right:10px;float:right;color:#ccc;">分类 : <a href="/?tn=listarticle&labelid=2" style="color:#369;" mon="name=bjarticle&pos=category">互联网</a></div>
+             </div>
+
+                        <!--div class="l-main-top-text-ad"></div-->
+             
+                          <blockquote style="text-indent:0px;color:#333;font-size:14px;line-height:24px;"><span style="color:#999;">摘要 : </span>傅盛认为，那些试图通过控制手机屏幕，来控制用户行为的公司，是生存在幻觉中，未来互联网行业的盈利模式将通过大数据和开放商业在广告上实现天下归一，而猎豹的目标是成为未来全球排名前几名的移动广告平台，这一新目标将是猎豹能否跻身百亿美元俱乐部的关键。</blockquote>
+                          <div class="article-detail" style="letter-spacing: 0.5px;">
+                                                        
+                                                        <p class="image"><img src="http://a.hiphotos.baidu.com/news/crop%3D67%2C68%2C399%2C239%3Bw%3D638/sign=b6c48411f8faaf5190acdbffb162a3c2/8d5494eef01f3a29552af9f99c25bc315c607c22.jpg"/></p>
+                                                                                                                                                                                                                                                                                                                                                    <div  class="l-main-inner-ad"><script type="text/javascript">
+/*正文内嵌图片*/
+var cpro_id = "u1525878";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script></div>
+                                                                                                <p class="text">摘要：傅盛认为，那些试图通过控制手机屏幕，来控制用户行为的公司，是生存在幻觉中，未来互联网行业的盈利模式将通过大数据和开放商业在广告上实现天下归一，而猎豹的目标是成为未来全球排名前几名的移动广告平台，这一新目标将是猎豹能否跻身百亿美元俱乐部的关键。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">在3月底四月初，我先后写过两篇关于猎豹移动的文章：《巨亏的去哪儿与盈利的猎豹，投资者为什么选择了前者》、《猎豹股价暴涨15%，仍严重低估》，对猎豹移动的价值进行了研究，并最终认为其合理估值在39亿美元左右。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">为这两篇文章，我先后和猎豹移动CEO傅盛进行了两次深入交流，现在将其中的精华部分整理出来，作为我的微信公号价值线的“尹生重访谈”的一期发表。猎豹移动是中国互联网领域中第一家真正成功走出去的公司，但傅盛的一些看法所具有的价值，仍然被低估，对猎豹的投资者而言，这些价值也有必要被重估。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">比如，他提到一个正在被掩盖在混乱的短期冲动中的趋势，那就是随着大数据的发展和商业的持续开放，未来也许广告将成为唯一的互联网盈利模式，正是因为专注于这一点，Facebook让谷歌始终保持着高度难受，而如果腾讯能认识到这一点，也许未来游戏将不再是其主要收入来源。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">又比如“我们发现今天在手机端，工具的使用时长比在PC端要长，因为用户有大量的闲暇时间，所以你发现我在手机端不需要三级火箭，我就能实现变现了”，“用户基数就是你的统治力，它和你的功能关系没那么大，因为这个基数才是核心”。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">当然，他也谈到了，为什么说那些试图通过控制手机屏幕，来控制用户行为的公司，是生存在幻觉中，而眼看着曾经不可一世的公司，因为被各种新的机会吸引，丧失了专注，转而成为以量和功能取胜，最终与新的时代失之交臂。而在中国，粗放式的竞争催生了大量这样的陷阱。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">如果说猎豹的1.0是那家凭借免费杀毒软件在国内PC安全领域赢得一席之地的前身——金山网络，2.0是凭借猎豹清理大师在海外赢得数亿用户的移动工具矩阵玩家，成就几十亿美元价值，那么，3.0时代的猎豹将专注于全球广告商业生态构建与运营，冲刺百亿美元价值，就像傅盛所说的——</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">“因为有了广告这件事，其实让我们整个战略会变得简单很多，不需要做太多的事情，这个事情基本想明白了”。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">～～～～～～～～～～</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">尹生：猎豹2014年的年报不错，但年报发布后股价表现并不理想（注：在这次采访发生时，猎豹的股价仅为17美元左右，比现在要低将近四分之一），你自己是怎么看的？</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">傅盛：谁会对自己的股价那么满意呢，我觉得还好吧，肯定会有些波动，因为我们今年采取了更激进的策略，我觉得大家本质上对猎豹这个模式还不太理解。其实我们不管是从增长率还是收入，都超过了很多比我们市值高的公司，我们只是告诉市场我们可能今年会不太关注利润。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">我们觉得移动工具之战，还有全球移动广告平台之战，还没有真正结束，我们不应该成为一家只看重利润的公司。不过，可能我们确实和市场沟通得还不够。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">尹生：你认为国内在工具软件这块，还有机会吗？</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">傅盛：不会有太大机会了。我觉得国内大家都会比较平均，不会像PC时代360那样一枝独秀了。我们在国内还在涨，因为我们之前做的比较少，腾讯、百度、360，还有WIFI万能钥匙类似这样的公司，大概五六家，其实小米本身也算是一个公司，大家都比较平均，伯仲之间不会巨大的差距。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">尹生：当市场结构还处于变化中时，确实一味追求利润是非常危险的事情。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">傅盛：其实我们利润很容易做高，但全球移动互联网用户还在高速增长，这个时候如果你去追求利润，你的利润比你的收入增长还快，我们不觉得是一件好事情。现在大家在移动互联网的前期投资上都在疯狂投入。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">不管是产品体验、品牌，还是整个商业化能力，我们都在这些后来对手之前，他们唯一可能比我们有优势的，就是他们是私有公司，不要利润，或者他们不在乎利润，我们是上市公司，所以要利润，所以我们干脆想激进一些。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">我们不希望像58同城又碰到一个赶集这样的对手（注：几天前两家公司宣布合并），或者像携程跟去哪儿这样的战争，所以我们希望把这个战争更早打起来。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">尹生：你觉得接下来对猎豹而言，最大的变化会是什么？</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">傅盛：比如说去年全年移动在我们营收中的占比，大概26%，第四季度上升到38%，今年第一季度估计会到50%以上。移动占比一旦过了50%，我们整个收入结构将发生逆转，我们将从PC驱动变成移动驱动型的，这时包括你的整个增长模式等什么的都会不一样。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">尹生：目前市场上对于猎豹的主要疑虑是：一是猎豹接连投资或并购了两家移动广告运营商，猎豹到底想成为一家什么样的公司？也许大家过去可能预期，除了广告这种模式，猎豹还能找到其他道路。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">另外一个问题是，在移动端，渠道可能比PC端更为集中，硬件本身在应用的选择中扮演了重要作用，包括他们装什么，不装什么。还有就是基础的操作系统厂商也可能推出自带的工具。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">傅盛：对。这几个问题我拆开来讲。第一个广告。我觉得今天如果中国投资人看不懂广告模式，我觉得也还OK，因为大家都不太理解，其实在我们真正做之前，我们也没有真正理解海外到底怎么变现。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">其实最好的例子是Facebook，他们在上市的时候，股价也跌了一半多。当时大家也不知道移动端该怎么去变现，然后Facebook发明了Native Advertising(Native Ads，又称原生广告)，然后就迅速形成广告盈利能力，现在广告收入占到了70%多。我认为今年即便谷歌加上移动搜索广告，Facebook还会比它多。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">在海外变现，Facebook只做一件事，就是广告，连游戏分发都不做，不做中国的游戏分发，也不做搜索，就是广告。今天在移动端，大APP的广告分发已经变成了巨大市场，形成了一个巨大的商业体系。这个其实我们也不太懂，我们真正进去才知道。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">我们现在也是Facebook的合作伙伴。在他们的F8大会上，我们作为其全球最顶级的合作伙伴受邀，他们早餐会就提了一个伙伴的名字，就是我们，在介绍广告平台时，他们将我们作为第一个例子提到。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">回到我们投资或收购两个广告公司，大家会觉得很奇怪，你可以去看Facebook上市的时候，LiveRail就是它买的，还买了谁我忘了，反正类似这样收购广告公司，推特买了，雅虎买了，谷歌的AdMob也是买的。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">这很正常，因为你在海外唯一的变现，不叫唯一，最容易变现的方式就是广告投放，因为海外不像中国有百度联盟、淘宝联盟，他们把这些事给干了。对吧？没有那种很强大的大厂商联盟，也没有游戏联运模式，所以广告是最简单。而且由于海外公司集中在广告，所以在整个广告销售体系，还有大数据体系上都积累了大量的经验，这是我们正好缺乏的。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">你要做海外的变现，肯定要符合它的游戏规则。但你不能把我们看成一个广告公司，我们是一个大用户的大数据公司，借助广告的方式去实现自己的变现。可能海外的投资者不太相信中国公司能把广告平台做起来，我觉得这个花点时间去证明吧。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">其实你也可以看到，我们海外收入占比从第三季度的10%，到第四季度20%多，这还是发生在整个公司还在环比高增长的情况下实现的，我们海外移动收入应该是百分之百的增长，环比增长的大部分贡献来自于海外广告。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">尹生：所以这也是猎豹决定做大移动广告平台的出发点？你们希望先围绕广告变现建立优势？</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">傅盛：其实广告肯定是要我们投入的，我觉得我们的目标是做一家广告平台，是在和Facebook合作的情况下，完成我们整个广告平台的搭建。今天Facebook在全球也不是百分之百的渗透率，只有在他自己渗透的地方才会放自己的广告，我们跟他合作。我们自己还有很多流量，我们要去变现，这种变现的最好模式其实就是广告。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">但是广告又分成了好几层东西，包括自有流量，大数据分析，投放平台，大客户销售，我们作为一家中国公司，在全球本地化的地方连外国人都没雇几个，你要重新开始雇，然后你通过这些人去进行当地的销售，这多慢啊，他们本来有很强的销售关系和广告投放平台，你拿过来就可以用。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">尹生：一旦建立成这样一个平台，就可以发展中国的客户资源，他们也有需求去国外发展，缺乏一个可控的渠道，一直制约着中国公司的国际化进程。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">傅盛：对。接下来我们谈如果操作系统做工具猎豹怎么办。首先是工具软件粘性怎么样，最近有个第三方报告，用户使用各种应用的时长，社交大概占了20%几的时间，工具是百分之十几。只不过很多投资人用IOS，安卓用的少，不知道安卓都需要这种工具。其实IOS本身也需要，只是不开放。我们的电池医生虽然在IOS上权限很低，但也都很多用户了。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">第二个问题，操作系统会不会做的问题，这个问题一直都在说，这就像说微软会不会做杀毒，如果做，安全公司是不是没有了。其实一个操作系统不是什么都能做得好，本身就是借助一个开放的生态让操作系统变得更有效。比如说三星S6，它就用了猎豹清理大师的SDK作为系统级的一个清理模块。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">三星为什么不自己做一个？因为他们自己做了一个，不好用。最后在全球对我们考察了很久，最后把内部的项目砍了，用了我们。他们认为用了这个，他们硬件的投诉率会降低1到2个点。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">任何一个东西想要做好是没那么容易的，操作系统比如像谷歌，如果投一两百人也做一个清理大师，可能会让我们很难受。但问题是在操作系统的眼里有更多的事情要做，设备兼容性、新的图形界面，游戏性能，和IOS的竞争，所以不如我们作为它的补充，从理论来说，我们比它更专注。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">第二点是，我们整个产品是在不断成长过程中的，以前你可能觉得我们只是一个清理垃圾工具，我真正告诉你，今天的操作系统还真的做不了我们做的事情，因为我们是几千万个APP，上千万个APP的分析，把每个APP的数据分析清楚了，才知道哪些是可以删的，哪些不能删的。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">操作系统要做这件事，也得拿一个巨大的云端，而且我装的用户越多，我看到的APP越多，他们就越难做到我们的水平。而且我们还在不断增长，比如说我们现在有照片相似度辨别，帮你从照片中选出最好的，不要的给你删掉，云端备份，帮你把一些不常用的文件备份到云端，减少你的空间占用。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">最重要的是我们有这么大的用户体量，而且我们在不断新增各种功能，还有我们发布了桌面产品，发布了浏览器，我们只需不断完善用户体验，真正满足用户的需求，始终聚焦。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">尹生：是不是有点像搜索，不完全是技术问题，因为涉及到一个用户使用的积累，用户体验的积累，这些积累又会反过来帮助你改进用户体验，加深对用户的理解？</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">傅盛：最重要的是聚焦，并不是操作系统带了一个工具，用户就一定会用，Windows带了IE，但火狐依然起来了，因为火狐做得更好，结果变成了一个公司和微软的一个部门在打，最后用户会做出自己的选择。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">尹生：这里似乎存在一个幻觉，就像很多公司现在都想通过控制手机屏幕来控制自己的用户使用一样，这个思路本身就有问题。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">傅盛：应该让用户自己去选择。照这么说，是不是所有手机厂商，就把所有别人该干的都可以干了？以前电信运营商可能想把所有网站都干了，也没做到。如果都做到了，那一家公司就能把全世界的事都干了，银行通过钱把所有事都干了。说实话，我对操作系统一点都不担忧，因为我们已经跟谷歌合作的很好，我们帮助整个谷歌体系变得越来越大越有效率，他就没必要自己做。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">所有的手机都有一个自己的系统工具的模块，里面都会有清理，安全，但是从来没有妨碍清理和安全作为第三方的一个重大的应用品类，还有所有手机都有浏览器，对吧？那为什么阿里还买UC，对吧？</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">作为一个操作系统的厂商，他面临着几百个，上千个这样的需求，他怎么可能每个点都做得好呢？我们最近去谷歌，谷歌自己的开发体系里面，工程师都不够，如果我们能够帮助他去完成其中的一些事情，他就没有必要去做。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">就像三星和小米跟我们的合作一样。小米当时仅仅是因为雷军是我们董事长，小米才用我们的产品吗？不是的，他们内部其实也做过，但觉得不行，用户还是要来下载我们的，最后也都用我们的技术方案了，或者预装我们。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">我比他们更聚焦，我有两百多工程师搭建了云端体系，分析上千万个APP，然后做到实时响应，新的APP刚上线，我们就抓下来，抓下来看它会产生哪些垃圾，而且甚至会发现bug，曾经微信的一个安卓版本用久了就特别卡，就是我们先发现的，然后告诉微信，他们才改了过来。大家专注的地方不一样，微信可能专注于语音质量，朋友圈的关系，我们专注于程序效率。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">尹生：企图通过控制终端屏幕来控制用户的选择，这本身就是一种反互联网的思想。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">傅盛：大家都有这种幻想，因为大家都觉得这个终端很重要，所以周鸿祎又开始做手机，但是你最后发现，应用厂商、设备商、操作系统商还有包括社交生活类的，大家其实都是很专注，谁进谁的领域都没有那么容易。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">有的时候你可以看到一两个案例，说谁被谁干掉了，但是很多时候被干掉，可能和自己的团队执行力，战略变化等有关系。微软Windows三十年了，但安全厂商、系统工具商，甚至一些记事本之类的，小的那种生活应用，成长的也都还不错。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">尹生：不要让自己的焦虑影响了自己的专注。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">傅盛：对，就是要专注，这次我去Facebook感触很多，我觉得Facebook就是很专注的公司，他在最强大的时候没有去做搜索，对吧？大家都觉得你应该做搜索，因为你有很大的搜索需求；他也不做手机，虽然他尝试做了FB HOME那种桌面，但发现做的不好立刻停掉，就专注于社交。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">Facebook把所有社交能做的，能买的全都干了，然后社交形成大数据，形成广告，就这两个点，把谷歌搞得很痛苦。谷歌搭建安卓的整个生态系，谷歌和苹果，然后Facebook在上面把这一层给切掉，直接把上面最好的东西全拿走了，他不需要再做操作系统。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">如果Facebook很不安全，花精力去做操作系统，他就分心了，这时候谷歌开始做谷歌+，大家这样打，Facebook在谷歌出了谷歌+以后，没有做操作系统，对吧？就是把我最核心的阵地牢牢守住，你根本打不过来，谷歌+最后打到一直到领导换人，内部实际上承认失败。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">尹生：所以谷歌就在自己擅长的系统级的层面去好好耕耘就行了。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">傅盛：对，包括谷歌当时收购摩托，也是非常想在手机制造领域做成联手，最后高管也是争执不下，最后大家达成一致说做6个月，可能谷歌觉得硬件也没什么难的，那些所谓厂商都做得不怎么样，我也要做一个。结果买了摩托做了这个，做得也很痛苦，最后把摩托卖掉，每一场仗都没那么好打，所以我觉得今天我不是太担忧，或者我基本不担忧。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">安卓的碎片化，在全世界各地的体验不一致，我们在这方面做了大量的积累，其实帮助安卓系统运行更顺滑，更好用，我觉得对他来说，已经这样了，非要把自己的精力再抽过来，做一个和我们差不多的，或者怎么样，就算做了，也不会比我们好用。就像三星是全球最大的手机公司吧，HTC做软件的有600人，HTC清理也不做了，都给我们。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">尹生：接下来产品矩阵这块，是不是还会集中在跟工具相关的产品，还是会在用户层面做一些尝试？</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">傅盛：会，首先工具，像浏览器、桌面我们都在做。其实我们现在投的趣玩这家公司，创始人和CEO会到我们公司任我们的SVP。我们在电商包括在一些方面，我们也在想一些办法，做一些尝试。甚至再往外的一些尝试，也会慢慢做。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">其实我们发现今天在手机端，工具的使用时长比在PC端要长，因为用户有大量的闲暇时间，所以你发现我在手机端不需要三级火箭，我就能实现变现了。因为在PC端，360必须捆一个浏览器，因为用户用完360安全界面就拜拜了，但在手机端不是，每个操作界面都可能成为一个信息的聚集地。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">反正我们觉得工具软件本身就有不错的变现，我们再基于工具软件不停往离用户端更近的一端再慢慢走，我首先有一个很强大的用户基数，这一点已经被证明了，证明什么呢？当时我在上市时就说，你别觉得我们工具类这行不如社交时长长，但是我们头部分发会很强，从哪里证明呢？</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">就说我们从单点到矩阵，我们那个猎豹安全大师发布才一年，下载超过一个亿。也是谷歌商店上成长最快的APP之一了，平均每天三、四十万的下载。几个形成矩阵在一起，我们对生活类的分发也会很强。所以我们肯定会往这方面再走。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">尹生：可能大家关心的是，除了工具以外，你开始越来越往用户这端走的时候，其实你的用户牢固程度和渗透力会越来越强，即使每个产品的生命周期到头了，也不影响你整个用户基数。在PC端360为什么屡“剿”不灭，因为安全这块的用户基数太大，而且不容易换，这群用户始终在用。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">傅盛：其实工具完全是另外一种特点，装了以后一般不换，不像社交，社交有时候图新鲜，你朋友怎么了，你就跑去用那个，对吧？社交在美国非常明显，一种社交应用到了很大基数了，新的社交会出来，大家会尝试着换一个。但工具假如你用了还可以，一般就不会再去下第二个比较一下，所以先到者是非常大的优势。为什么百度和腾讯打360打不下来，用户装了没有必要去换了，对吧？</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">尹生：还有一点，PC换机的时间一般很长，这个周期，一般可能两三年以上。手机可能一年以内就换一部，而换了以后面临着重新又要去下载，这可能会给新的应用提供机会。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">傅盛：但在国外谷歌商店很强大，谷歌商店都有帐号，你换机以后，帐号一登陆，原来的APP都会下下来，我们也在做云存储云备份，这个到时候换机都会很简单。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">尹生：实际上你下一步开始逐步把很多的生态建立在这个工具周围，让它不仅仅是一个工具，而是有很多的价值链在上面去缠绕的时候，就不会有潜在对手轻易把你们给灭掉了。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">傅盛：对。因为你变成一个商业化的闭环的时候，你不管是你自己的用户获取，用户的品牌提升，还有你和整个行业的关系，大家互相连接，就变成生态系的一部分，这时候你就不再是一个很单薄的小工具，这是很重要的一点。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">尹生：现在是否可以说猎豹已经有一块很牢固的根基，就像PC时代的安全之于360一样，这个边界至少在未来一段时间之内是很牢固的，而且还会使这个根基更牢固？</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">傅盛：对，这是为什么今年我们提出全球要做到移动月度活跃6个亿，到时我们才觉得更牢固了。围绕这个定位，我们会一直非常精简，现在我们整个公司的人员，在我们这个规模里面也不算多，才1800人，我估计未来会到两千多人，我们要做一个很精简的公司。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">因为对于我们来说，模式非常简单，没有其他开销，我所谓的激进就是往市场多投费用，说白了在移动用户高速增长的时候，你能花钱买到用户是一件很幸福的事情。对吧？我们在国内的用户量也在猛增，所以我觉得这个时候这个机会我们不应该保守，不管资本市场怎么想，我们做利润太容易了。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">我要那么多钱在帐上干嘛呢，所以我觉得不如把这些钱再投到那里去获取更多的用户，还有用户对你品牌的认知，而且敢在你的对手，真正大规模进入之前，对吧？你把这个壁垒做得更强。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">实际上我们的对手也基本都相信了，中国公司全球化正经历一个大波浪，不管通过什么方式，一定要有全球化，因为中国公司自己内部已经竞争这么激烈。从某种意义上中国现在是一种商业创新的输出地了，中国有很多模式像硅谷也没有，硅谷在技术上有创新性，但在一些商业模式，一些应用模式上，中国已经有自己的创新性了。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">所以中国公司建立全球化品牌的可能性，在互联网这个领域，已经很明显了，华为也算一个，很异类的公司，但不是大规模的，我觉得行业大规模的全球化就是互联网，所以我们希望赶在大家之前把这个做得更好一点。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">其实有几个指标能说明我们的牢固程度，猎豹清理大师在谷歌商店有2千多万个用户投票，评分4.7分。这个远高于Facebook的得分，我们在Facebook上有1500万粉丝，这可是货真价实的粉丝，这不是惯粉，这些都说明我们用户的活跃度。对吧？</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">尹生：你刚才讲了今年猎豹在用户发展方面可能会加大投资，另外一方面是不是也会推出更多的产品？还有哪些投资方向？</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">傅盛：是的，所以我们今年主要增加人，除了收购的公司，增加我们的销售能力，我们其实核心就是这两大块。顺便透露一下，虽然雅虎北研的头儿去了京东，其实最核心的队伍到我们这儿来了，有几十个，反正就是最核心的大数据的队伍（个性化推荐团队）都来了我们这里。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">尹生：非常不错。为什么？</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">傅盛：因为我觉得我们现在要增加产品矩阵，最后猎豹就是一家大的数据公司。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">尹生：其实我在给互联网公司估值时，很少看盈利，我更看重的是战略的牢固性，就是说你不会轻易被对手给替代掉，你能不能在这方面再讲一些？</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">傅盛：是，为什么我们去收购和投资移动广告公司呢，因为我们在海外的盈利能力超出了我们预期，我们的移动广告涨得非常快，而且正是因为这个，也让我们有很多战略思考。比如说我们看上去是客户端公司，事实上我们想变成一家大数据公司。为什么？因为移动广告的核心是精准化投放，在PC端你是完成不了的。为什么？因为一个PC被很多人用。其实只有Facebook和QQ有机会，因为它们有帐号。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">但手机能实现精准化，用户每一个装过的手机对我来说都是有意义的，即便猎豹产品可能会卸载掉了，等到我的广告体系再遇到他的时候，他以前的那些数据都能标识他是谁了，你就可以做到比原来精准得多的投放。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">尹生：就是说现在这两家广告运营商的体系建立起来后，实际上这个用户也许不用你的产品了，但他用别的产品的时候，你又可以辨识出他，因为你这个体系的应用足够丰富，以至于用户总是会和这个体系发生关系？</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">傅盛：对。因为我们在美国有Office，美国已经有好几家公司找我们，买我们的数据。这种数据因为国内大家都不关心，我们在这方面，其实还是有一些思考的。表面上你看是工具，实际最后变成一个以大数据为核心的广告体系。就像今天Facebook，你看到真正变现的只有Facebook本身，但他的Instagram和Whatsapp都是大数据的一个补充，然后就能做到现在Facebook在同样的位置是谷歌两到三倍的变现。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">尹生：谷歌是不是现在遇到一个问题，实际上在操作系统这个层面，虽说每一个手机里面都有，理论上它可以知道每个安卓用户在用什么，在做什么，但是是不能去用的，因为可能会触及隐私保护？</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">傅盛：不一定。只要你的隐私许可协议说明白，你是可以用的。但是谷歌今天是什么问题呢？大公司问题，他的AdMob收购这么久了，和谷歌商店的数据都没打通，还是最近Facebook崛起太厉害了，他们才在去年第四季度开始把谷歌商店的数据跟AdMob打通。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">尹生：这些数据他其实还是可以用的，至少部分？</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">傅盛：我个人认为从法律角度来说都可以，只不过你想怎么用，你要让用户知道你怎么用，披露嘛。Facebook的一些做法也会受到一些质疑，就是你用我数据什么的。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">尹生：对于移动广告运营商对大数据战略的重要性，这块其实很多人是低估了其价值的。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">傅盛：大数据在我们整个中国互联网的行业里面，大家就不是真的深刻理解。硅谷公司的大数据和这方面的理念比我们先进很多。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">尹生：中国更多的还是像以前绿林好汉，我守着这个道，我就能坐地收钱了。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">傅盛：对，我们的变现强是处在一种比较粗糙的方式下。腾讯做了那么久，其实做得更多的也就是游戏，其实以前中国的变现，就是游戏，百度联盟和淘宝联盟，比较起来真正在做大数据的，说实话就是百度。百度在硅谷有一个研发中心，我跟他们美研的经理也聊过。在做大数据这方面硅谷比我们先进。我认为未来分发能力的市场会越来越弱，因为用户去主动找一个APP的探寻会越来越少了。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">尹生：基本上通常需要的都已经找着了。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">傅盛：基本上现在已经是这样，在美国应用商店榜单TOP的很多都不怎么变，用户可能觉得现有的差不多能用了。未来会怎么样呢？一些超级APP会扮演分发者的角色，像Facebook实现了浏览，你在浏览一些信息的时候，给你相关的APP，而这个APP正好是你需要的。但你平时不会说突然想去下个什么APP。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">尹生：可能这种需求更多形成一种长尾化，会结合特定的场景，激发相应的需求。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">傅盛：就是长尾化。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">尹生：过去那种占一块地方，推一个分发平台，然后让用户主动去下载的模式，在增量中占据的比重将越来越小。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">傅盛：对，长尾化不是通过渠道完成的，是通过你当时正在浏览的内容完成的，所以Facebook是拿掉了现在谷歌分发的好大一块，大家在看朋友圈时看到一个信息，而这时你正好有相关的需求，这时候你只要点一下就载下来。所以这时候大数据是最重要，它们的表现形式是广告，但到底什么是移动广告，我觉得现在我们国内对这个概念还是挺模糊的。我认为应用市场这种模式今年会衰竭的很厉害。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">尹生：其实另外一个担忧，你在使用这个工具的时候，你假如是以一种生硬的弹出信息的方式，是不是会影响用户体验？至少在PC时代很多公司就是这样做的，很让人反感。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">傅盛：我们从来不用弹出信息的方式去放广告。移动端工具的频率比在PC端要高很多，以前我在PC端做这么多年，都很少看到有那么高频率，所以我现在不需要去弹出一个什么广告，光靠用户的主动请求次数就已经很高了。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">具体来讲，我们是在用户完成一个动作之后，我们给他一些什么信息，这个会更有效。坦率地讲我们现在做得还不够，这里空间太大了，真正觉得很多事情可以做，所以我们对我们的增长充满信心，因为你有这么多用户，就相当于每天有上亿次的用户对你的触及，这里面机会很多很多。我们才刚刚开始，目前还是个很粗糙的模型。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">而且由于Facebook加入这个战局，今年谷歌也加大开放合作力度。这次F8大会最核心的，就是把一些更开放了，我觉得Facebook是个很了不起的公司，它的开放真的涉及到核心的数据，不光是用户体系开放，商业体系也开放，大家一起，就变成一个用户体系和商业体系共同的虚拟操作系统。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">这样一来，对我们而言，变现就不是问题。而且由于这一两年移动广告的快速增长，广告主也知道，移动广告效果是非常好的，我跟百度美研的人聊，当时百度去切移动广告的时候，也很痛苦，但好在他们有强大的销售体系，但结果客户投了以后觉得比PC端效果还要好，用户看到信息可以直接打电话，PC端还得去抄一个电话号码。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">预计今年整个移动广告市场规模还会涨50%，想一想，大家都不看电视，都在看手机，手机几乎成了广告最核心的载体了。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">尹生：我的理解不知对不对，其实未来商业模式绝大部分都可以理解为是一种广告，过去你要商业化，可能需要建立一个相应的商业体系，比如说像淘宝，可能需要有支付宝，物流，有很多环节都要去介入，现在整个体系已经建立的很完善了，你只需要将用户带给相应的产品和服务提供者。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">傅盛：本质上就是信息导引，因为其他东西都已经简单了。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">尹生：是不是本质上是一种匹配能力。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">傅盛：对，在各种信息里面，不管是朋友圈信息，今日头条的新闻信息，在相关度里面给他一条导引。以前你不是手机这么小屏幕的时候，大家都在把广告和信息分得很开，谷歌和百度竞价排名被人家骂死了，今天大家已经无所谓了，无所谓了以后，为什么Facebook只专注在广告上，他本身就是一个信息导引，他不需要做后端的很多东西，下载什么都可以去做。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">尹生：所以我也慢慢认为，腾讯的微信朋友圈做广告，开始我想可能会短期影响用户体验，从长远来说可能还是要在交易模式上去商业化，实际上现在看来不一定是那种方式，如果它能在用户的需求与满足之间进行推荐引导匹配，这样的商业化可能反而更好，而这反而相对来说是腾讯擅长的。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">傅盛：对啊，Facebook就是把这点做到极致，能做到同样位置是人家好几倍的黏性，好几倍的变现，本质上就是它提供给用户的信息是他需要的。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">尹生：实际上是变相的佣金，因为我给你带来的回报更大，我的定价也可以更高，这相当于是在提成。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">傅盛：对。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">尹生：过去大家觉得广告的模式不如佣金的模式，佣金的模式可能看起来是跟交易额是相关的。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">傅盛：对。但是Facebook已经做到非常细了，他通过大数据颗粒，你可以定位到每一个城市每一个区中年龄是多少岁的，有什么兴趣爱好的这批人，投入极小颗粒度的广告有几百万的广告主。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">尹生：第一是匹配的效率，第二是你自己的定价能力。你知道他在中间能赚多少钱，你中间提一个相对的比例，就非常可观了。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">傅盛：对。由于你的颗粒度可以非常细，实际上就能产生更多的更精准的匹配和投放，对广告主和你自己都是求之不得的，这将大大提高变现能力。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">尹生：未来整个互联网的盈利模式其实有一个归一化趋势，过去都会分成广告、佣金，很多种方式，未来其实就是一种，通过大数据的匹配来赚钱，这实际上你说是广告也好，说是佣金也好。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">傅盛：因为这种信息匹配足够好，都减少了用户搜索，大部分信息在浏览过程中弹出了。朋友圈也是这样，你看那么多信息，你觉得底下有一个相应的广告，你其实不会反感，做得好的是肯定不会反感的。而且你反思一下，如果腾讯他的整个战线能缩得更短，他连游戏都不用做。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">尹生：这是一个很大的拐点，，可能猎豹必须从这个层面上去变化。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">傅盛：所以我说我们的目标是做全球前几大广告平台，广告平台不是理解成一个广告联盟的平台。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">尹生：是，这个很关键。现在可能很多人也想，你们要做的就是广告联盟，因为大家也是觉得广告联盟那种模式可能是已经是一个想象力相对比较小的生意，尤其是跟猎豹这家公司一结合，更加觉得你是因为别的方面探索已经没有出路了，才去做这种退而求其次的选择。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">傅盛：我们看法正相反，我们觉得这才是特别好的商业模式。你需要做的事情特别少，你就源源不断取得营收。推特其实也在做这件事，雅虎也是，这些国外厂商都在做这件事，他们反而没有把自己的整个变现模式铺的极长，现在推特一天是两百万美金到三百万美金，我们现在一天50万美金，我们才做了两个季度。如果我能追上它的那个水平，我就可以了。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">尹生：您觉得猎豹现在这种模式往前走的话，面对的挑战是什么？</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">傅盛：挑战就是对大数据的分析能力，是不是真的能上一个台阶？这里说实话是我们欠缺的，以前没有这个经验，不像我做一个工具软件，要做什么我自己基本想清楚，迅速做好了，为什么雅虎这个裁员我们好高兴，因为我们缺少这方面的人才。我觉得最核心是要把你海量用户的颗粒度划的足够细。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">尹生：但怎么看这样的问题，就是猎豹现在主要是工具软件用户，相对获取的用户信息不一定是很全面的。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">傅盛：其实也还好。我们是一个安全的工具，我们要检测你的安全，会对你的APP使用情况了如指掌。数据的获取能力，我不认为会是一个特别大的瓶颈。但是分析能力会是挑战。我们真的要分析的很好，对吧？真的要世界级的大数据科学家，因为大数据分析不是一个有定式的东西，有探索性在里面。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">说实话在探索性方面中国公司就会弱一些，但是今年我们计划在美国要建研发中心，我们美国有office，但是不做研发。所以你看我们投了Nanigans，我们跟他有很多商业绑定，最核心有很多大数据专家，他们有好几个是以前Facebook出来的，所以他们有大数据的专家，在大数据能力上面我们会有一些需要。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">尹生：是不是广告系统起来以后，也会慢慢去补充你们大数据方面的一些内容？</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">傅盛：会有一部分。但是核心还是我们自己这套体系，我们现在这次财报之后我们大概有3.95亿的月度活跃用户，我们全球每个月有4亿台手机跑我们的APP，我们有比较大的一个脸谱基数。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">尹生：但你们这个脸谱的行为数据主要还是在一般性，他喜欢什么不喜欢什么，没有涉及到具体的行为本身，交易行为这块。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">傅盛：对，现在还没做到，但长期是有机会的。因为H5的东西越来越多，这种直接能够交易，我觉得一步步来吧。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">尹生：H5对你们来说意味着什么？</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">傅盛：H5意味着更广阔的一片天地了，其实今天从全球很多广告平台的数据来看，APP下载的广告只占了收入的30%到40%，我们今天的收入大部分都来自于APP推荐，但APP推荐的下载第一是整体比例低，第二个转化率比较差，H5会降低损耗，大幅提高转化效率。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">尹生：一些人担心H5出来后，传统的APP分发模式会遭遇挑战。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">傅盛：我认为到未来APP和H5一定是互相补充，不会像现在全APP，你看微信为什么那么不遗余力推公众号，公众号就是另一种形式的H5了，而且微信如果再做强，我觉得应该微信外部流量也可以接到公众号，不是非得从微信接。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">腾讯的广点通就是这么个平台，你把更多的要导进来，导进来到一个落地页面，页面就是以前的网站，如果今天是公众号，为什么一定要从微信里关注才有公众号呢？从别的地方搜索引擎来的不也可以吗？大家都是又变成了互相连接。对吧？所以我觉得H5时代，一定是几个头部APP，然后加上一大堆其他的，用户很简单，用户今天下APP下的头都大了，对吧？</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">尹生：在广告领域我们已经收了一家，投了一家，接下来会把这块继续投吗？</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">傅盛：对，这肯定是目标了。但是是不是继续在资本层面，我们现在还没有特别计划。一个是我们自己的销售，基本框架有了，先把这些夯实，今年把这件事做了，就是要把我们买的那个团队融合好，把我们的自有销售和广告主数量上一个台阶，然后是大数据和用户体验继续积累，还要不仅在工具，在浏览器、桌面、云端数据，我们要做的更好。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">因为有了广告这件事，其实让我们整个战略会变得简单很多，不需要做太多的事情，这个事情基本想明白了。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">尹生：你认为未来几年对猎豹而言最大的机会是什么？</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">傅盛：未来三年我觉得猎豹最好的机会就来自于“立足中国，面向海外”，今天我认为整个移动互联网领导力量就是美国和中国，中国有很多创新的模式，其实美国都没有。我只要把这些模式真正往海外搬一般，可能就会是巨大的机会。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">尹生：很多人愿意把你们跟360去比较，认为你们两家公司在PC和移动端存在此消彼涨的关系。现在你们实际上是占据了他们在PC安全上的地位，猎豹清理大师本质上就是移动上的安全软件。你怎么看这种观点？</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">傅盛：360在移动时代丧失了在PC时代的海量用户基础，以前360在PC端是属于一枝独秀，就在那个点谁都撬动不了，所以它去做页游转化等等，今天已经变成几家之一了以后，没有领导能力了。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">尹生：你觉得问题出在哪里？</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">傅盛：本质上还不是他运气不好。他做太多了，一个公司做多了以后，在最专注的领域不能够做到全力，不能全力做最后的结果你只能推出了一个平庸产品，只能推出以量和以功能多取胜的产品，因为我们资源不够多，所以我们就只做清理这一个点，所以就把这个点横拉竖弄打透了。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">其实360安全卫士最早就是清理功能，但是做得不够好。我觉得本质上是战略出问题了，就是他不够聚焦，没有找到那个最关键的点在哪里，在每个点上都跨，而且又去做手机，你的精力太分散以后，你在一个点的高地丧失了，而且又碰到了弯道的时代。但是今天讲也为时尚早了，我觉得还是需要看看老周后面有什么。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">尹生：就是说你认为他可能还是有机会的？</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">傅盛：本质上还是挺难的，的确运气可以再好一点，抓到一个什么再说吧。我觉得其实今天在国内我们清理大师的量都开始追上来了，我们把这个高地建起来，我们相对于360在移动端有了一个巨大的海量和用户基数，在这个用户基数上，其实用户基数就是你的统治力，它和你的功能关系没那么大，因为这个基数才是核心。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">就是说，微信是很强大，但问题是米聊功能也挺强大的。问题是你没有用户基数你光强大是没用的，你说安卓是很强大，是操作系统。但是问题是黑莓，功能也挺强大的，或者是塞班，但是你没有用户基数了，你的统治力就没有了。我们今天的好处就是我们有了这样的用户基数以后，我们其他方面拓展会好很多。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">尹生：你从360那里您学到了哪些经验和教训？</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">傅盛：就是一个小点会改变世界，就像以前我说的，你不要觉得它小，能够被多少人知道，本质上就是一个巨大的事情，就有巨大的机会，360证明了这一点，对吧？我们也在证明。第二个用户对免费还是非常在意的。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">如果说教训，现在你从360体量上来看，360一直到今天，很多的优势都是当年PC端打下来的，就是360安全卫士入住了一个非常高的高点，它像骑兵一样的不断往下冲锋，冲锋浏览器，冲锋搜索，冲锋手机助手。现在由于移动端离PC端越来越远，所以原来那套红利已经吃完了。吃完了以后，我觉得现在360的问题就是还是把自己当成了一个游牧民族。以前只不过是碰巧有了那么一块高地，所以他就不停冲锋。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">今天在移动端的根据地思考太少了，在前两年可能太多机会，啥好就做啥，周鸿祎一句话叫“竞争对手是磨刀石”嘛，但你看今天《从0到1》那本书，你不要去追求竞争，你要去创造一个新的市场，他天天在竞争，结果到处分散精力。所以在这个时代去找到新市场，更聚焦，在这个新市场的聚焦点上做出一个全世界无人能知的东西，才是有战略的核心。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">尹生：在你的成长过程中，你从雷军的身上学到一些什么？</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">傅盛：思考方法吧。关于整个战略，今天早上我们开会讲，过去两年我从英语学了一个最大的词叫strategy，战略，我就是从雷军身上学到了这个关于战略的思考。所谓战略就是你把一件事情的未来三年想清楚，然后这场仗在你真正准备开始之前，你就大概知道他会怎么，或者他有多大了，以前我的产品肯定不是这么做，我的产品肯定想是不是用户需要，我做出来用户会不会喜欢，至于这个行业有多大，这个行业是什么，竞争对手在哪儿，或者往下怎么走，那想得极少。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">其实我是从他做小米的时候看到了这些东西，我觉得这是他对我最大的影响。我的整个思考的路径和格局，反正就是思考的这种纬度跟以前不一样了，以前是产品经理思维，我觉得当时我做360的时候，就是一个产品经理做360，成功有很大的偶然性。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">“尹生重访谈”是尹生原创的深度价值研究与访谈类栏目，首发于尹生的微信公号“价值线”（jia-zhi-xian），此前已经推出三期，分别是窝窝徐茂栋、美团王兴和易到周航。“价值线”专注于互联网价值评估。若需转载，请署名并注明出自价值线，并在标题中保留“尹生重访谈”字样。但申明：尹生的所有文章仅做一般性探讨，不作为投资决策之依据，股市有风险，请慎重决策。</p>
+                                                                    
+                
+             </div>
+        </div>
+        <div style="position:relative;width:100%;height:36px;">
+            <div class="up_down">
+                <a id="up_article" class="up_down_btn" href="javascript:void(0);" style="text-decoration:none;">
+                    <i id="up_icon" class="up_down_icon up_gray"></i>
+                    <span class="up_down_btn_num" id="up_btn_num">0</span>
+                    <span class="up_down_txt" id="up_txt">好文</span>
+                </a>
+                <a id="down_article" class="up_down_btn" href="javascript:void(0);" style="text-decoration:none;">
+                    <i id="down_icon" class="up_down_icon down_gray"></i>
+                    <span class="up_down_btn_num" id="down_btn_num">0</span>
+                    <span class="up_down_txt" id="down_txt">太水</span>
+                </a>
+            </div>
+            <span style="color:#999;font-family:'宋体';font-size:15px;">阅读（305）</span>
+        </div>
+        <div class="bottom-share" style="padding:30px 20px 30px 0px;height:60px" id="share_box">
+            <span>分享 : </span>
+            <!-- Baidu Button BEGIN -->
+            <div id="bdshare" class="bdsharebuttonbox" data-tag="share_2">
+                <a href="#" class="bds bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a>
+                <a href="#" class="bds bds_renren" data-cmd="renren" title="分享到人人网"></a>
+                <a href="#" class="bds bds_douban" data-cmd="douban" title="分享到豆瓣网"></a>
+                <a href="#" class="bds bds_tqq" data-cmd="tqq" title="分享到腾讯微博"></a>
+                <a href="#" class="bds bds_weixin" data-cmd="weixin" title="分享到微信"></a>
+                <a href="#" class="bds bds_more" data-cmd="more"></a>
+                <a class="bds_count" data-cmd="count"></a>
+            </div>
+            <script>
+            window._bd_share_config={
+                "common":{
+                    "bdSnsKey":{},
+                    "bdMini":"2",
+                    "bdMiniList":false,
+                    "bdStyle":"0",
+                    "bdText":"一篇好文,推荐之-【"+baidu.dom.query('#page h1')[0].innerHTML+"】（来自:百度百家）",
+                    "bdPic" : "http://a.hiphotos.baidu.com/news/crop%3D67%2C68%2C399%2C239%3Bw%3D638/sign=b6c48411f8faaf5190acdbffb162a3c2/8d5494eef01f3a29552af9f99c25bc315c607c22.jpg",
+                    "bdUrl": location.href
+                },
+                "share" : [{
+                        "tag" : "share_1",
+                        "bdSize" : "16"
+                    },{
+                        "tag" : "share_2",
+                        "bdSize" : "32"
+                    }]
+            };
+            with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];
+            </script>
+            <!-- Baidu Button END -->
+        </div>
+        <!--拓展阅读-->
+        
+
+        <!--上一篇，下一篇文章-->
+        <div style="padding: 0 20px 0 0;margin-bottom:20px;font-size:12px;height:18px">
+                                        <div style="float:right;color:#999;">下一篇 : <a href="http://yinsheng.baijia.baidu.com/article/51535" style="color:#369;"  mon="name=bjcard&pos=nextarticle">“莆田”事件如何影响百度价值？</a></div>
+                    </div>
+        <div id="mod-comment" class="mod-comment">
+            <h3>精彩评论</h3>
+            <div class="comment-box">
+                <div class="opt">
+                                        <p class="login">
+                        <a href="javascript:;" class="cmtlogin">登录</a>
+                    </p>
+                                    </div>
+                <div class="cmtbox" >
+                    <p class="avt">
+                                                <img src="http://himg.bdimg.com/sys/portrait/item/982f4a616d65736a697869616f6875694206">
+                                            </p>
+                    <i class="tarea">
+                        <textarea placeholder="随便说点什么吧"></textarea>
+                    </i>
+                </div>
+                <p class="btns3">
+                    <span class="checknum">还可以输入<em>250</em>个字</span>
+                    <a href="javascript:;" class="btn btndis cmtbtn">评论</a>
+                </p>
+            </div>
+
+            <!--comment start-->
+            <div class="comments">
+                <div class="cmtlist"></div>
+                <div class="load_more">
+                    <a class="loadLine nocmt" href="javascript:;"><span class="ico"></span><span class="txt">还没有人评论过，赶快抢沙发吧！</span></a>
+                </div>
+            </div>
+            <!--模态弹窗-->
+            <div class="comment-success" ></div>
+            <div class="comment-fail" ></div>
+            <!--end-->
+
+            <script language="javascript" type="text/javascript" src="/static/js/comment_16da2f4.js"></script>
+        </div>
+
+
+        
+            </div>
+
+    <div class="l-right-col" style="padding-top:30px;">
+        <div class="mod authorInfos">
+    <div class="authorInfo">
+        <p class="avt"><a href="http://yinsheng.baijia.baidu.com" mon="name=bjcard&pos=pic"><img src="http://g.hiphotos.baidu.com/news/pic/item/cefc1e178a82b901941dd5ab718da9773812eff2.jpg"></a></p>
+        <div class="info">
+            <a href="http://yinsheng.baijia.baidu.com" title="尹生" class="nm" mon="name=bjcard&pos=name">尹生</a>
+            <p class="label">专注于互联网价值评估</p>
+        </div>
+        <p class="btns">
+                <a href="javascript:;" class="btn authorRssBtn" hidefocus="true" >
+                                        <i class="i iadd"><i class="i1"></i><i class="i2"></i></i>
+                    <b class="b">关注</b>
+                                    </a>
+            </p>
+    </div>
+    <ul class="articleLis">
+                        <li class="articleLi">
+                <a href="http://yinsheng.baijia.baidu.com/article/51363" mon="name=bjcard&pos=article" title="巨亏的去哪儿与盈利的猎豹，投谁？">巨亏的去哪儿与盈利的猎豹，投谁？</a>
+            </li>
+                                <li class="articleLi">
+                <a href="http://yinsheng.baijia.baidu.com/article/50192" mon="name=bjcard&pos=article" title="腾讯财报真相：剔除电商重组影响">腾讯财报真相：剔除电商重组影响</a>
+            </li>
+                                <li class="articleLi">
+                <a href="http://yinsheng.baijia.baidu.com/article/48009" mon="name=bjcard&pos=article" title="京东终成阿里电商够重量级的对手">京东终成阿里电商够重量级的对手</a>
+            </li>
+                </ul>
+    <p class="tip"><a href="http://yinsheng.baijia.baidu.com" mon="name=bjcard&pos=morearticle">TA的更多文章>></a></p>
+</div>
+        <div class="mod" alog-group="log-hotartical">			
+<div class="hd">
+    <div class="title_box" ><div class="title_container"><span class="title">推荐文章</span><span class="sub_title">RECOMMEND</span><div class="line"><div class="left"></div><div class="right"></div></div></div></div>
+</div>
+<div class="bd">
+    <ul class="artical-top">
+                            <li class="first-item hasImg notb" >
+            <p class="artImg">
+                <a href="http://yinsheng.baijia.baidu.com/article/52259" target="_blank" mon="name=bjrecommend&pos=pic">
+                    <img src="http://f.hiphotos.baidu.com/news/crop%3D54%2C87%2C200%2C120%3Bw%3D638/sign=6f32ad6bf6d3572c72adc69cb726570b/54fbb2fb43166d222aa9ef16422309f79152d252.jpg" class="top_hot_img" />
+                </a>
+            </p>
+            <p class="title">
+                <a href="http://yinsheng.baijia.baidu.com/article/52259" target="_blank" title="猎豹股价周四暴涨15%，仍严重低估" mon="name=bjrecommend&pos=title">猎豹股价周四暴涨15%，仍严重低估</a>
+            </p>
+            <p class="text">
+                
+                                    <a href="http://yinsheng.baijia.baidu.com" class="nm" mon="name=bjrecommend&pos=name">尹生</a>
+                                <span class="tip">阅读(2996)</span>
+            </p>
+        </li>
+                                            <li class="first-item hasImg " >
+            <p class="artImg">
+                <a href="http://yinsheng.baijia.baidu.com/article/42791" target="_blank" mon="name=bjrecommend&pos=pic">
+                    <img src="http://e.hiphotos.baidu.com/news/crop%3D50%2C6%2C120%2C72%3Bw%3D638/sign=05bab4a3b351f819e56a590ae7817ac1/0b46f21fbe096b63ca8c6cd80f338744eaf8aca4.jpg" class="top_hot_img" />
+                </a>
+            </p>
+            <p class="title">
+                <a href="http://yinsheng.baijia.baidu.com/article/42791" target="_blank" title="2015：小米与反小米者的决战之年" mon="name=bjrecommend&pos=title">2015：小米与反小米者的决战之年</a>
+            </p>
+            <p class="text">
+                
+                                    <a href="http://yinsheng.baijia.baidu.com" class="nm" mon="name=bjrecommend&pos=name">尹生</a>
+                                <span class="tip">阅读(5万)</span>
+            </p>
+        </li>
+                                            <li class="first-item hasImg " >
+            <p class="artImg">
+                <a href="http://kangsitanding.baijia.baidu.com/article/54210" target="_blank" mon="name=bjrecommend&pos=pic">
+                    <img src="http://f.hiphotos.baidu.com/news/crop%3D8%2C23%2C542%2C325%3Bw%3D638/sign=13fd6c6b0e7b0208188665a15fe1dee1/83025aafa40f4bfb8616da9a074f78f0f636183d.jpg" class="top_hot_img" />
+                </a>
+            </p>
+            <p class="title">
+                <a href="http://kangsitanding.baijia.baidu.com/article/54210" target="_blank" title="我们真的需要智能自行车吗？" mon="name=bjrecommend&pos=title">我们真的需要智能自行车吗？</a>
+            </p>
+            <p class="text">
+                
+                                    <a href="http://kangsitanding.baijia.baidu.com" class="nm" mon="name=bjrecommend&pos=name">康斯坦丁</a>
+                                <span class="tip">阅读(24万)</span>
+            </p>
+        </li>
+                                            <li class="first-item hasImg " >
+            <p class="artImg">
+                <a href="http://fangyu.baijia.baidu.com/article/54251" target="_blank" mon="name=bjrecommend&pos=pic">
+                    <img src="http://a.hiphotos.baidu.com/news/crop%3D4%2C9%2C837%2C502%3Bw%3D638/sign=7333680db6119313d30ca5f0580c20ee/4034970a304e251fb5ba4237a386c9177e3e53ab.jpg" class="top_hot_img" />
+                </a>
+            </p>
+            <p class="title">
+                <a href="http://fangyu.baijia.baidu.com/article/54251" target="_blank" title="哪些微商团队会很快死掉" mon="name=bjrecommend&pos=title">哪些微商团队会很快死掉</a>
+            </p>
+            <p class="text">
+                
+                                    <a href="http://fangyu.baijia.baidu.com" class="nm" mon="name=bjrecommend&pos=name">方雨007</a>
+                                <span class="tip">阅读(22万)</span>
+            </p>
+        </li>
+                                            <li class="first-item hasImg " >
+            <p class="artImg">
+                <a href="http://penghailiang.baijia.baidu.com/article/54013" target="_blank" mon="name=bjrecommend&pos=pic">
+                    <img src="http://c.hiphotos.baidu.com/news/crop%3D0%2C0%2C462%2C277%3Bw%3D638/sign=7984622666d9f2d3345e7eaf94dca623/96dda144ad345982b0c7b85508f431adcaef84a3.jpg" class="top_hot_img" />
+                </a>
+            </p>
+            <p class="title">
+                <a href="http://penghailiang.baijia.baidu.com/article/54013" target="_blank" title="马云要收购中石化5000加油站？" mon="name=bjrecommend&pos=title">马云要收购中石化5000加油站？</a>
+            </p>
+            <p class="text">
+                
+                                    <a href="http://penghailiang.baijia.baidu.com" class="nm" mon="name=bjrecommend&pos=name">电商老..</a>
+                                <span class="tip">阅读(16万)</span>
+            </p>
+        </li>
+                        </ul>
+
+</div>
+</div>
+
+
+        <div class="mod" alog-group="log-hotartical">			
+<div class="hd">
+    <div class="title_box" ><div class="title_container"><span class="title">最新文章</span><span class="sub_title">NEW</span><div class="line"><div class="left"></div><div class="right"></div></div></div></div>
+</div>
+<div class="bd">
+    <ul class="artical-top">
+                            <li class="first-item hasImg notb" >
+            <p class="artImg">
+                <a href="http://tanhaisheng.baijia.baidu.com/article/54393" target="_blank" mon="name=bjnew&pos=pic">
+                    <img src="http://h.hiphotos.baidu.com/news/crop%3D0%2C29%2C500%2C300%3Bw%3D638/sign=323bfacfd4c8a786aa65104e5a39e50f/e4dde71190ef76c6b0cba11e9816fdfaaf5167ed.jpg" class="top_hot_img" />
+                </a>
+            </p>
+            <p class="title">
+                <a href="http://tanhaisheng.baijia.baidu.com/article/54393" target="_blank" title="&quot;妖股&quot;中青宝这些年来出过的幺蛾子" mon="name=bjnew&pos=title">"妖股"中青宝这些年来出过的幺蛾子</a>
+            </p>
+            <p class="text">
+                
+                                    <a href="http://tanhaisheng.baijia.baidu.com" class="nm" mon="name=bjnew&pos=name">爆料汇</a>
+                                <span class="tip">19分钟前</span>
+            </p>
+        </li>
+                                            <li class="first-item ">
+            <p class="title">
+                <a href="http://taoduanfang.baijia.baidu.com/article/54459" target="_blank" title="南非华人怎么变成“法律黑人”的"  mon="name=bjnew&pos=title">南非华人怎么变成“法律黑人”的</a>
+            </p>
+            <p class="desc">BEE政策是南非非国大遵循其“泛非主义”政纲（非洲是非洲人的非洲）所制订...</p>
+            <p class="text">
+                
+                                    <a href="http://taoduanfang.baijia.baidu.com" class="nm"  mon="name=bjnew&pos=name">陶短房</a>
+                                <span class="tip">21分钟前</span>
+            </p>
+        </li>
+                                            <li class="first-item hasImg " >
+            <p class="artImg">
+                <a href="http://hongli.baijia.baidu.com/article/54455" target="_blank" mon="name=bjnew&pos=pic">
+                    <img src="http://d.hiphotos.baidu.com/news/crop%3D0%2C56%2C640%2C384%3Bw%3D638/sign=bf331edaa6cc7cd9ee626e9904310d0a/bf096b63f6246b601fafb743eef81a4c510fa267.jpg" class="top_hot_img" />
+                </a>
+            </p>
+            <p class="title">
+                <a href="http://hongli.baijia.baidu.com/article/54455" target="_blank" title="波马之神" mon="name=bjnew&pos=title">波马之神</a>
+            </p>
+            <p class="text">
+                
+                                    <a href="http://hongli.baijia.baidu.com" class="nm" mon="name=bjnew&pos=name">洪立</a>
+                                <span class="tip">26分钟前</span>
+            </p>
+        </li>
+                                            <li class="first-item hasImg " >
+            <p class="artImg">
+                <a href="http://qijunjie.baijia.baidu.com/article/54454" target="_blank" mon="name=bjnew&pos=pic">
+                    <img src="http://g.hiphotos.baidu.com/news/crop%3D0%2C11%2C298%2C179%3Bw%3D638/sign=75b59b63064f78f09444c0b344012664/3ac79f3df8dcd10034f9fd16778b4710b9122f9b.jpg" class="top_hot_img" />
+                </a>
+            </p>
+            <p class="title">
+                <a href="http://qijunjie.baijia.baidu.com/article/54454" target="_blank" title="三星正在走诺基亚的老路" mon="name=bjnew&pos=title">三星正在走诺基亚的老路</a>
+            </p>
+            <p class="text">
+                
+                                    <a href="http://qijunjie.baijia.baidu.com" class="nm" mon="name=bjnew&pos=name">齐俊杰</a>
+                                <span class="tip">34分钟前</span>
+            </p>
+        </li>
+                                            <li class="first-item hasImg " >
+            <p class="artImg">
+                <a href="http://yangyuliang.baijia.baidu.com/article/54452" target="_blank" mon="name=bjnew&pos=pic">
+                    <img src="http://f.hiphotos.baidu.com/news/crop%3D0%2C21%2C620%2C372%3Bw%3D638/sign=7af9caff1f4c510fba8bb85a5d69091f/1c950a7b02087bf4f76c43def7d3572c11dfcf01.jpg" class="top_hot_img" />
+                </a>
+            </p>
+            <p class="title">
+                <a href="http://yangyuliang.baijia.baidu.com/article/54452" target="_blank" title="上位！谈赚钱，iPhone靠边闪" mon="name=bjnew&pos=title">上位！谈赚钱，iPhone靠边闪</a>
+            </p>
+            <p class="text">
+                
+                                    <a href="http://yangyuliang.baijia.baidu.com" class="nm" mon="name=bjnew&pos=name">杨宇良</a>
+                                <span class="tip">59分钟前</span>
+            </p>
+        </li>
+                        </ul>
+
+</div>
+</div>
+
+
+                <div class="l-right-bottom-cloud-ad"><script type="text/javascript">
+/*标签云*/
+var cpro_id = "u1525879";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script></div>
+                <div class="mod" id="artical" alog-group="log-hotartical-num">
+    <div class="hd">
+        <div class="title_box" ><div class="title_container"><span class="title">热门文章</span><span class="sub_title">HOT NEWS</span><div class="line"><div class="left"></div><div class="right"></div></div></div></div>
+    </div>
+    <div class="bd">
+                <div class="tabs">
+            <span class="tab on" data-id="topArtical"><a href="javascript:;">日榜</a></span>
+            <span class="tab" data-id="topWeekArtical"><a href="javascript:;">周榜</a></span>
+        </div>
+        <ul class="artical-top-num" id="topArtical">
+                                                                            <li class="top-1">
+                        <span class="num">01</span>
+                        <p class="title"><a href="http://chenxinlei.baijia.baidu.com/article/54338" mon="name=bjhotarticle" target="_blank">中国零售业何去何从</a></p>
+                                                <p class="desc">对今天的中国来说，寻找经济转型的突破口，寻找经济权力的新霸主，...</p>
+                                            </li>
+                                                                                                                            <li class="top-2">
+                        <span class="nm">王冠雄</span>
+                        <span class="num">02</span>
+                        <p class="title"><a href="http://wangguanxiong.baijia.baidu.com/article/54337" mon="name=bjhotarticle" target="_blank">重创新：传统企业转型互联网四个坑</a></p>
+                    </li>
+                                                                                                                            <li class="top-3">
+                        <span class="nm">月光博客</span>
+                        <span class="num">03</span>
+                        <p class="title"><a href="http://williamlong.baijia.baidu.com/article/54327" mon="name=bjhotarticle" target="_blank">常用在线支付方式对比</a></p>
+                    </li>
+                                                                                                        <li>
+                        <span class="nm">小编也疯狂</span>
+                        <span class="num">04</span>
+                        <p class="title"><a href="http://heshuai.baijia.baidu.com/article/54357" mon="name=bjhotarticle"  target="_blank">从“华为P8抄袭”看国产手机困局</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm">齐俊杰</span>
+                        <span class="num">05</span>
+                        <p class="title"><a href="http://qijunjie.baijia.baidu.com/article/54380" mon="name=bjhotarticle"  target="_blank">中国版注册制来了 股市要坏菜</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm">慕容散</span>
+                        <span class="num">06</span>
+                        <p class="title"><a href="http://jinzhu.baijia.baidu.com/article/54381" mon="name=bjhotarticle"  target="_blank">摆好姿势，跳一场价值万亿的广场舞</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm">图宾根木匠</span>
+                        <span class="num">07</span>
+                        <p class="title"><a href="http://tubingenmujiang.baijia.baidu.com/article/54353" mon="name=bjhotarticle"  target="_blank">在性与政治中求安全的34届金像奖</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm">俊世太保</span>
+                        <span class="num">08</span>
+                        <p class="title"><a href="http://junstapo.baijia.baidu.com/article/54349" mon="name=bjhotarticle"  target="_blank">为什么我不同意「暴雪已经没落」？</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm">王海涛</span>
+                        <span class="num">09</span>
+                        <p class="title"><a href="http://wanghaitao.baijia.baidu.com/article/54354" mon="name=bjhotarticle"  target="_blank">不买股票，对不起国家</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm">熊雯琳</span>
+                        <span class="num">10</span>
+                        <p class="title"><a href="http://xiongwenlin.baijia.baidu.com/article/54294" mon="name=bjhotarticle"  target="_blank">明年PC啥模样，英特尔IDF15告诉你</a></p>
+                    </li>
+                                            </ul>
+        <ul class="artical-top-num" id="topWeekArtical" style="display:none">
+                                                                            <li class="top-1"  style="height:auto;">
+                        <span class="num">01</span>
+                        <p class="title"><a href="http://kangsitanding.baijia.baidu.com/article/54210" mon="name=bjhotarticle" target="_blank">我们真的需要智能自行车吗？</a></p>
+                                                <p class="desc">作为代步的工具，自行车必然也未能幸免。斑马、洛克菲勒、BICI...</p>
+                                            </li>
+                                                                                                                            <li class="top-2">
+                        <span class="nm">方雨007</span>
+                        <span class="num">02</span>
+                        <p class="title"><a href="http://fangyu.baijia.baidu.com/article/54251" mon="name=bjhotarticle" target="_blank">哪些微商团队会很快死掉</a></p>
+                    </li>
+                                                                                                                            <li class="top-3">
+                        <span class="nm">易宪容</span>
+                        <span class="num">03</span>
+                        <p class="title"><a href="http://yixianrong.baijia.baidu.com/article/53816" mon="name=bjhotarticle" target="_blank">当前国内房地产形势更为严峻</a></p>
+                    </li>
+                                                                                                        <li>
+                        <span class="nm">易宪容</span>
+                        <span class="num">04</span>
+                        <p class="title"><a href="http://yixianrong.baijia.baidu.com/article/54014" mon="name=bjhotarticle"  target="_blank">中国政府为何不愿人民币贬值？</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm">电商老兵斗牛士</span>
+                        <span class="num">05</span>
+                        <p class="title"><a href="http://penghailiang.baijia.baidu.com/article/54013" mon="name=bjhotarticle"  target="_blank">马云要收购中石化5000加油站？</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm">图宾根木匠</span>
+                        <span class="num">06</span>
+                        <p class="title"><a href="http://tubingenmujiang.baijia.baidu.com/article/53620" mon="name=bjhotarticle"  target="_blank">《速度与激情7》：被吹上天的猪</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm">承哲</span>
+                        <span class="num">07</span>
+                        <p class="title"><a href="http://chengzhe.baijia.baidu.com/article/54201" mon="name=bjhotarticle"  target="_blank">从微信逻辑，看58为何选错靠山</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm">林紫玉</span>
+                        <span class="num">08</span>
+                        <p class="title"><a href="http://linziyun.baijia.baidu.com/article/53728" mon="name=bjhotarticle"  target="_blank">注定悲剧：诺基亚-阿朗无奈合并</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm">文庚淼</span>
+                        <span class="num">09</span>
+                        <p class="title"><a href="http://wengengmiao.baijia.baidu.com/article/43690" mon="name=bjhotarticle"  target="_blank">苹果女副总裁薪酬为何达库克8倍?</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm">南七道</span>
+                        <span class="num">10</span>
+                        <p class="title"><a href="http://liluyong.baijia.baidu.com/article/53640" mon="name=bjhotarticle"  target="_blank">为啥大多数创业者都不开心？</a></p>
+                    </li>
+                                            </ul>
+            </div>
+</div>
+
+<script type="text/javascript">
+;$(function(){
+    if($('#artical').find('.tab').length){
+        $('#artical').find('.tab').on('click',switchTab);
+    }
+    
+
+    function switchTab(e){
+        var $e=$(this),
+            tabId = $e.data('id');
+
+        $.each($('#artical').find('.artical-top-num'),function(i,e){
+            $(e).hide();
+        });
+        $.each($('#artical').find('.tab'),function(i,e){
+            $(e).removeClass('on');
+        });
+
+        $e.addClass('on');
+        $('#'+tabId).show();
+    }
+});
+</script>
+                <div class="l-right-bottom-img-ad"><script type="text/javascript">
+/*右侧下方图片*/
+var cpro_id = "u1525881";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script></div>
+            </div>
+</div>
+<script type="text/template" id="new-comment-list">
+
+    <%var data = data.list%>
+    <%for(var i=0 ; i < data.length ;i++){%>
+        <div class="wc_list_nod clearfix">
+            <div class="nod_inner clearfix">
+                <div class="wbavatar">
+                    <a href="<%=data[i]['user_url']%>" title="<%=data[i]['user_name']%>" target="_blank">
+                        <img src="<%=data[i]['user_pic']%>" alt="<%=data[i]['user_name']%>" title="<%=data[i]['user_name']%>">
+                    </a>
+                </div>
+                <div class="wb_cmR comm_main">
+                    <div class="user_info">
+                        <a href="<%=data[i]['user_url']%>" title="<%=data[i]['user_name']%>" target="_blank" class="user_name"><%=data[i]['user_name']%></a>
+                        <span class="pub_time"><%=data[i]['format_ts']%></span>
+                    </div>
+                    <div class="content_txt"><%=data[i]['text']%></div>
+                </div>
+            </div>
+        </div>
+    <%}%>
+
+</script>
+
+<style>
+#footer{width:100%;background:#f0f0f0;height:249px;}
+#footer .site-nav{margin-top:34px;}
+#footer .site-nav a{background:#fff;display: inline-block;border: 1px solid #ececec;padding: 0 22px;margin: 0 5px;height: 30px;line-height: 30px;color: #666;vertical-align: bottom;}
+#footer .site-nav a.bottom-logo{background:none;border: 0;height: 38px;}
+</style>
+<div id="footer" alog-group="log-footer">
+<p class="site-nav"><a href="http://baijia.baidu.com/" target="_blank" class="bottom-logo"><img src="/static/images/baijia_logo_color.png"/></a><a href="http://baijia.baidu.com/?tn=listarticle&labelid=2" target="_blank">互联网</a><a href="http://baijia.baidu.com/?tn=listarticle&labelid=3" target="_blank">文化</a><a href="http://baijia.baidu.com/?tn=listarticle&labelid=4" target="_blank">娱乐</a><a href="http://baijia.baidu.com/?tn=listarticle&labelid=5" target="_blank">体育</a><a href="http://baijia.baidu.com/?tn=listarticle&labelid=6" target="_blank">财经</a><a href="http://baijia.baidu.com/?tn=listarticle&labelid=1" target="_blank">热点</a>
+</p>
+<p class="top-nav">
+<a href="http://baijia.baidu.com/" target="_blank">百家首页</a>|
+<a href="http://news.baidu.com/" target="_blank">百度新闻</a>|
+<a href="mailto:Baijia@baidu.com" target="_blank">联系我们：Baijia@baidu.com</a>
+<strong> 百度新闻独家出品</strong>
+</p>
+<p class="site-info">
+京公网安备110000000001号 <a href="http://news.baidu.com/licence.html">互联网新闻信息服务许可</a><span>&copy;2015 Baidu</span><a href="http://www.baidu.com/duty/">使用百度前必读</a><a target="_blank" href="http://net.china.cn/chinese/index.htm"><img src="http://gimg.baidu.com/img/net.gif"></a><a target="_blank" href="http://www.bj.cyberpolice.cn/index.htm"><img alt="首都网络110报警服务" src="http://gimg.baidu.com/img/110.gif"></a><a target="_blank" href="http://www.bjjubao.org/"><img src="http://news.baidu.com/resource/img/report_center.png"></a> 
+</p>
+</div>
+
+    <script type="text/javascript">
+/*对联*/
+var cpro_id = "u1525876";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/f.js" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+
+var uid="",
+    mid="733361092",
+    articleId = "54449",
+    displayname = "",
+    userImage = "";
+
+var image = new Image(1, 1);
+image.src = '/static/images/b.gif?articleId=' + articleId;
+
+   baidu.dom.ready(function(){
+
+    var __up = baidu.g('up_article') , __down = baidu.g('down_article'), __up_num = baidu.g('up_btn_num') , __down_num = baidu.g('down_btn_num'),up_down_flag = false;
+
+    function num2str(str){
+        var num = (str*1) + 1 ;
+        return num ;
+    }
+    function upvsdown(action){
+        var url = "nid=11991701559013126451&type="+action;
+        baidu.ajax.post("/ajax/newssupport",url,function(h,r){
+            var req = baidu.json.parse(r);
+            if(req.errno == 0 ){
+                if(action == "up"){
+                    __up_num.innerHTML = num2str(__up_num.innerHTML);
+                }else{
+                    __down_num.innerHTML = num2str(__down_num.innerHTML);
+                }
+                up_down_flag = true ;
+                if(action == "up"){
+                    baidu.dom.removeClass('up_icon','up_gray');
+                    baidu.dom.addClass('up_icon','up');
+                }else{
+                    baidu.dom.removeClass('down_icon','down_gray');
+                    baidu.dom.addClass('down_icon','down');
+                }
+                /*baidu.dom.addClass("up_article","up_down_btn_gray");
+                baidu.dom.addClass("down_article","up_down_btn_gray");
+                baidu.dom.addClass("up_btn_num","up_down_btn_num_gray");
+                baidu.dom.addClass("down_btn_num","up_down_btn_num_gray");
+                baidu.dom.removeClass("up_txt","up_down_txt_hover");
+                baidu.dom.removeClass("down_txt","up_down_txt_hover");*/
+            }
+        });
+    }
+    __up&&baidu.event.on(__up,'click',function(e){
+        if(up_down_flag){return false;}
+        upvsdown("up");
+    });
+    __down&&baidu.event.on(__down,'click',function(e){
+        if(up_down_flag){return false;}
+        upvsdown("down");
+    });
+
+    $('.authorRssBtn').click(function(e){
+        if(!$("#login").is(":hidden")){
+            baidu.g("login").click();
+            return false;
+        }
+        var $e = $(this),
+            txt = $e.find('.b').text(),
+            changeTxt,changeClass,status;
+        if(txt == '已关注'){
+            status = 2;
+            changeTxt = '关注';
+            changeClass = 'i iadd';
+        }else if(txt == '关注'){
+            status = 1;
+            changeTxt = '已关注';
+            changeClass = 'i iminus';
+        }
+        if(serverData.token){
+            var url = "/ajax/subscribe?uid="+uid+"&mid="+mid+"&type=1&status="+status+"&token=" + serverData.token + "&time=" + serverData.tokentm;
+        }else{
+            var url = "/ajax/subscribe?uid="+uid+"&mid="+mid+"&type=1&status="+status;
+        }
+        $.ajaxSetup({ cache: false });
+        $.ajax({
+            url: url,
+            type: 'GET',
+            dataType: 'json',
+            success: function(res){
+                if(res.errno == '0'){
+                    $e.find('.b').text(changeTxt);
+                    $e.find('.i').removeClass().addClass(changeClass);
+                }
+            }
+        });
+
+    });
+
+    $.each($('.videoArea'),function(i,e){
+        var $e = $(e),
+            id = $e.attr('id'),
+            name = 'video' + i,
+            width = $e.data('width'),
+            height = $e.data('height'),
+            url = $e.data('url'),
+            flashvars={
+                f:url,
+                c:0,
+                b:1,
+                p:0
+            };
+
+        CKobject.embedSWF('/static/js/ckplayer/ckplayer.swf',id,name,width,height,flashvars,'');
+    });
+
+    new Comment('mod-comment', {
+        url: encodeURIComponent(window.location.href),
+        articleId: '54449',
+        displayname: '',
+        subscribename: 'baijia',
+        userImage: ''
+    });
+
+});
+
+
+</script>
+
+<link href="/static/js/libs/magic/resources/default/magic.control.Dialog/magic.control.Dialog.css?v=20131212" rel="stylesheet" type="text/css"></link>
+<!--用户反馈-->
+<div id="goTop" >
+    <div class="feedback" id="feedbackbtn"><a href="javascript:;">用户反馈</a></div>
+    <div class="gotop"><a id="gotop_btn" style="display:none" onclick="window.scroll(0, 0)"></a></div>
+</div>
+<style>
+#goTop {
+    position:fixed;
+    width:54px;
+    left:50%;
+    margin-left:512px;
+    bottom:10px;
+    *+bottom:10px;
+    _position:absolute;
+    _top:expression(eval(document.documentElement.scrollTop || document.body.scrollTop) +eval(document.documentElement.clientHeight || document.body.clientHeight) -110+'px');
+    z-index:998;
+}
+#goTop div {
+    height:48px;
+    margin-top:3px;
+    position:relative;
+    width:48px;
+}
+#goTop div a,#goTop div a:link {
+    display:inline-block;
+    height  :18px;
+    width:100%;
+    color:#fff;
+    background:#b7c5ca url(http://news.baidu.com/resource/img/gotop.png) no-repeat;
+    font-size:12px;
+    line-height:14px;
+    text-align:center;
+    text-decoration:none;
+    padding-top:30px;
+}
+#goTop div.feedback a {
+    padding:10px;
+    height:28px;
+    width:28px;
+    line-height:14px;
+    background:#b7c5ca;
+}
+#goTop .feedback a:hover {
+    background:#59a9c6;
+}
+#goTop div.gotop a {
+    background-position:-147px -48px;
+}
+#goTop .gotop a:hover {
+    background-position:-147px 0;
+}
+/*UI控件*/
+.tang-dialog{position:fixed;top:100px;_position:absolute;_top:100px;_bottom:100px;}
+.tang-dialog .tang-title{background:#fff;border:none;}
+.tang-dialog .tang-title span{color:#fff;height:35px;line-height: 35px;background:#fff;}
+.tang-dialog .tang-body{border:none;background:#fff;}
+.tang-dialog .tang-body .content{color:#666;font-family: "微软雅黑";}
+.tang-dialog .tang-title .buttons a{background: transparent url(http://baijia.baidu.com/static/js/libs/magic/resources/default/magic.control.Dialog/btns.gif) no-repeat;}
+.tang-dialog .tang-title .buttons a:hover{background: transparent url(http://baijia.baidu.com/static/js/libs/magic/resources/default/magic.control.Dialog/btns.gif) no-repeat;}
+/*用户反馈*/
+.feed_describe{font: 16px "微软雅黑",arial,tahoma;color: #666;font-weight: bold;margin-bottom:10px;float:left;margin-left:20px;_margin-left:10px;}
+.feed_describe span{font: 30px arial;color: #377cca;font-style: italic;margin-right: 8px;}
+.feed_content{width: 630px;_width:630px;height: 170px;resize:none;overflow:auto;font-size:16px;border: 1px solid #ddd;padding-left:10px;font-family: "微软雅黑",arial,tahoma;margin-left:20px;float:left;}
+.feed_contact{clear:left;width:630px;height:40px;margin-left:20px;*margin-left:10px;}
+.feed_contact_txt{width: 286px;height: 32px;overflow: hidden;border: 1px solid #ddd;float: left;margin-right: 10px;padding-left:10px;font:16px/32px "微软雅黑",arial,tahoma;}
+.feed_contact_comment{font-size:16px;line-height:32px;color:#bbb;display: block;float:left;}
+.feed_contact_button{width:120px;height:35px;display:block;margin:15px auto 0px;background: #3F88D2;color: #fff;font-size: 16px;border: 1px solid #3F88D2;*+margin-top:8px;}
+</style>
+<script>var on=baidu.event.on;Fe = baidu;</script>
+<script src="/static/js/libs/magic/magic.js?v=20131212" type="text/javascript"></script>
+<script src="/static/js/utils.js?v=20131212" type="text/javascript"></script>
+<script type="text/javascript">
+    baidu.on(window,'load', function(){
+        var eleTop = baidu.g("gotop_btn");
+        baidu.on(window, 'scroll', function(){
+            baidu.page.getScrollTop() >= 200 ? baidu.show(eleTop) : baidu.hide(eleTop);
+            if(baidu.browser.ie&&baidu.browser.ie < 7){
+                var scrolltop = baidu.page.getScrollTop(),
+                    viewheight = baidu.page.getViewHeight(),
+                    pageheight = baidu.page.getHeight();
+                baidu.dom.setStyle('goTop','top',(scrolltop+viewheight-110));
+            }
+        });
+        var feedback = baidu.g("feedbackbtn");
+        var feedbackDialog = null , feedactionDialog = null ;
+        baidu.on(feedback , "click",function(e){
+            if(!feedbackDialog){
+                feedbackDialog = ZMT.notice({title:'用户反馈',content:'<h2 class="feed_describe"><span>1</span>请描述您遇到的问题或您的意见、建议：</h2><textarea type="text" class="feed_content" id="feed_content"></textarea><h2 class="feed_describe"><span>2</span>请留下联系方式，您将有机会获得精美礼品</h2><div class="feed_contact"><input type="text" class="feed_contact_txt" id="feed_content_txt" value="" placeholder="QQ/邮箱/电话"><span class="feed_contact_comment">(可选)</span></div><input id="submit_feed" type="button" class="feed_contact_button" value="提交反馈">',height:430,width:700});
+                setTimeout(function(){
+                    baidu.on(baidu.g("submit_feed"),"click",function(){
+                        var browser = "";
+                        var content = baidu.g("feed_content").value;
+                        var contactway = baidu.g("feed_content_txt").value; 
+                        if(!content){return false;}
+                        for(var p in baidu.browser){
+                            if(baidu.browser[p]){
+                                browser += " "+p+":"+baidu.browser[p] ;
+                            }
+                        }
+                        var url = 'mid=baijia_pc&content='+content+'&contactway='+contactway+'&browse='+browser; 
+                        baidu.ajax.post('/ajax/feedback',url,function(h,r){
+                            var req = baidu.json.parse(r);
+                            if(req.errno == 0){
+                                feedbackDialog.hide();
+                                feedactionDialog = ZMT.notice({content:'<div style="width:100%;height:100%;text-align:center;">提交成功！</div>',autohide:true});
+                                feedactionDialog.setPosition({top:100});
+                            }
+                        });
+                    });
+                },500);
+                feedbackDialog.setPosition({top:100});
+            }else{
+                baidu.g("feed_content").value = "";
+                baidu.g("feed_content_txt").value = ""; 
+                feedbackDialog.show();
+            }
+        });
+    });
+</script>
+<img src="/static/images/article_up.png" style="display:none;">
+<img src="/static/images/article_down.png" style="display:none;">
+</body>
+</html>

@@ -1,0 +1,623 @@
+<!doctype html>
+<html>
+<head>
+<!--STATUS OK-->
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+<title>财新网_百度传媒</title>
+
+<link rel="dns-prefetch" href="//ns0.bdstatic.com">
+<link rel="dns-prefetch" href="//ns1.bdstatic.com">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="" >
+
+
+
+
+<script>
+  var serverData = {
+    maxseg : '3',
+    total : '600',
+    hasMore : '1',
+    rn : '60',
+    lastNid : '4944329343437655751',
+    logowidth : '144',
+    logoheight : '37',
+    coverlogoheight : '54',
+    menuCount : 7,
+    subscribename : 'caixin',
+    terms : '',
+    menu : [],
+    channelname : '',
+    device: 'pc'
+  }
+  if(!''){
+    serverData.channelname = 'index';
+  }else{
+    serverData.channelname = '';
+  }
+
+  // hunter统计
+  void function(e,t,n,a,o,i,m){e.alogObjectName=o,e[o]=e[o]||function(){(e[o].q=e[o].q||[]).push(arguments)},e[o].l=e[o].l||+new Date,i=t.createElement(n),i.asyn=1,i.src=a,m=t.getElementsByTagName(n)[0],m.parentNode.insertBefore(i,m)}(window,document,"script","http://img.baidu.com/hunter/alog.min.js","alog");
+    </script>
+
+<link rel="stylesheet" type="text/css" href="/static/common/pkg/aio_ec06920.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/css/all_e472514.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/skin/purple_c0f79bc.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/mod_page/mod_page_aac155e.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/ap_ulist/ap_ulist_c1b4057.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/header/header_6c174ae.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/cover/cover_1a2721a.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/mod_banner/mod_banner_b7ecfb4.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/footer/footer_1ef9d4d.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/mod_sidebar/mod_sidebar_cb6d93e.css"/></head>
+<body>
+
+<style>
+  body{padding-top:0}
+  #Header{position: relative;}
+</style>
+
+
+<div class="wrap">
+<div id="Cover" class="mod-cover">
+<div class="cover">
+<div class="coverbg"></div>
+<div class="coverlogo"><img src="http://news.baidu.com/resource/r/image/2014-12-18/b9d8482d2d1b086eb395033e28e5714c.png"></div>
+<div class="coverslogan">
+<p class="ll"></p>
+<span>财经新闻资讯必读网站</span>
+<p class="rl"></p>
+</div>
+</div>
+</div><div id="Header">
+<div class="header">
+<h1 class="test"></h1>
+<div class="logo" style="width:144px;"><a href="/" target="_blank" ><img src="http://news.baidu.com/resource/r/image/2015-02-12/174ae5a593f18d4ec357a022465db9f0.png" style="height:37px"/></a></div>
+<div class="menulist large" style="margin:0 144px">
+<ul></ul>
+</div>
+<div class="menulist medium" style="margin:0 144px">
+<ul></ul>
+</div>
+<div class="headerSearch">
+<p class="searchbar">
+<a href="javascript:;" class="searchA"><i class="i"></i></a>
+<i class="txt"><i class="i nodis"></i><input type="text" class="nodis"></i>
+</p>
+<p class="sub-menu"><i class="icon-submenu"></i></p>
+<p class="baiduLogo"><a href="http://news.baidu.com/" target="_blank"><img src="/static/newsmedia/widget/header/baidu_logo_46a3f92.png"></a></p>
+</div>
+</div>
+
+<script type="text/javascript">
+var menu = [];
+
+            menu.push({
+            'name': '首页',
+            'enname':'',
+            'url': '',
+            'list':[
+            	            ]
+        });
+            menu.push({
+            'name': '金融',
+            'enname':'finance',
+            'url': '',
+            'list':[
+            	            ]
+        });
+            menu.push({
+            'name': '观点',
+            'enname':'opinion',
+            'url': '',
+            'list':[
+            	            ]
+        });
+            menu.push({
+            'name': '经济',
+            'enname':'economy',
+            'url': '',
+            'list':[
+            	            ]
+        });
+            menu.push({
+            'name': '公司',
+            'enname':'companies',
+            'url': '',
+            'list':[
+            	            ]
+        });
+            menu.push({
+            'name': '政经',
+            'enname':'china',
+            'url': '',
+            'list':[
+            	            ]
+        });
+            menu.push({
+            'name': '世界',
+            'enname':'international',
+            'url': '',
+            'list':[
+            	            ]
+        });
+        serverData.menu = menu;
+
+</script>
+
+</div>
+<div id="Body">
+<div class="body">
+<div class="left">
+<div id="banners">
+<div class="feed_tegao" data-href="http://media.baidu.com/redirect?source=caixin&amp;nid=623973560059396755&amp;pos=0&amp;layout=2&amp;token=4e6ff1f0fcff20c0a8cdc517b3d5d5af&amp;url=http%3A%2F%2Fopinion.caixin.com%2F2015-04-22%2F100802509.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo">
+<h4>
+<a href="http://media.baidu.com/redirect?source=caixin&amp;nid=623973560059396755&amp;pos=0&amp;layout=2&amp;token=4e6ff1f0fcff20c0a8cdc517b3d5d5af&amp;url=http%3A%2F%2Fopinion.caixin.com%2F2015-04-22%2F100802509.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo" target="_blank">民法典编纂要警惕“宪法依据”陷阱</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=caixin&amp;nid=623973560059396755&amp;pos=0&amp;layout=2&amp;token=4e6ff1f0fcff20c0a8cdc517b3d5d5af&amp;url=http%3A%2F%2Fopinion.caixin.com%2F2015-04-22%2F100802509.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo" target="_blank"><img src="http://img.caixin.com/2014-11-02/1414986869396195_480_320.jpg"/></a></p>
+<p class="summary">民事立法或者民法典中，制定本法”，实为兹事体大，而不可不慎。<a href="http://media.baidu.com/redirect?source=caixin&amp;nid=623973560059396755&amp;pos=0&amp;layout=2&amp;token=4e6ff1f0fcff20c0a8cdc517b3d5d5af&amp;url=http%3A%2F%2Fopinion.caixin.com%2F2015-04-22%2F100802509.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/opinion">观点</a></p>
+<span class="author">
+<em>龙卫球|文</em>
+</span>
+<span class="time">04-22 12:58</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=caixin&amp;nid=443633032918481385&amp;pos=1&amp;layout=2&amp;token=46dab00222f9cd9a59c1a2afc321619e&amp;url=http%3A%2F%2Fopinion.caixin.com%2F2015-04-22%2F100802506.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo">
+<h4>
+<a href="http://media.baidu.com/redirect?source=caixin&amp;nid=443633032918481385&amp;pos=1&amp;layout=2&amp;token=46dab00222f9cd9a59c1a2afc321619e&amp;url=http%3A%2F%2Fopinion.caixin.com%2F2015-04-22%2F100802506.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo" target="_blank">“我是马勒泽布的后裔”——读《托克维尔传》</a>
+</h4>
+<p class="summary">至少20世纪90年代中后期北大法学院的师生中间托克维尔的名头一直很响，《论美国的民主》和《旧制度与大革命》都是爱读书的法科学生的必读物。<a href="http://media.baidu.com/redirect?source=caixin&amp;nid=443633032918481385&amp;pos=1&amp;layout=2&amp;token=46dab00222f9cd9a59c1a2afc321619e&amp;url=http%3A%2F%2Fopinion.caixin.com%2F2015-04-22%2F100802506.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/opinion">观点</a></p>
+<span class="author">
+<em>专栏作家</em>
+<em>萧瀚</em>
+</span>
+<span class="time">04-22 12:58</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=caixin&amp;nid=7110691071400928048&amp;pos=2&amp;layout=2&amp;token=ad3ea92ccf6fbe07377af5e60dd5c849&amp;url=http%3A%2F%2Fchina.caixin.com%2F2015-04-22%2F100802503.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo">
+<h4>
+<a href="http://media.baidu.com/redirect?source=caixin&amp;nid=7110691071400928048&amp;pos=2&amp;layout=2&amp;token=ad3ea92ccf6fbe07377af5e60dd5c849&amp;url=http%3A%2F%2Fchina.caixin.com%2F2015-04-22%2F100802503.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo" target="_blank">2014土地出让收入3.34万亿 同比降27.4%</a>
+</h4>
+<p class="summary">截至2013年底，全国共有农用地64616.84万公顷，其中耕地13516.34万公顷；建设用地3745.64万公顷，其中城镇村及工矿用地3060.73万公顷。<a href="http://media.baidu.com/redirect?source=caixin&amp;nid=7110691071400928048&amp;pos=2&amp;layout=2&amp;token=ad3ea92ccf6fbe07377af5e60dd5c849&amp;url=http%3A%2F%2Fchina.caixin.com%2F2015-04-22%2F100802503.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/china">政经</a></p>
+<span class="author">
+<em>记者</em>
+<em>汪苏</em>
+</span>
+<span class="time">04-22 12:01</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=caixin&amp;nid=17459604920670873917&amp;pos=3&amp;layout=2&amp;token=61995590fdf44db862877340a08c8fb6&amp;url=http%3A%2F%2Ffinance.caixin.com%2F2015-04-22%2F100802499.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo">
+<h4>
+<a href="http://media.baidu.com/redirect?source=caixin&amp;nid=17459604920670873917&amp;pos=3&amp;layout=2&amp;token=61995590fdf44db862877340a08c8fb6&amp;url=http%3A%2F%2Ffinance.caixin.com%2F2015-04-22%2F100802499.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo" target="_blank">中国银行卡清算市场打开 银联将告别独占时代</a>
+</h4>
+<p class="summary">《决定》的下发意味着，中国的银行卡清算市场终于放开，银联将不再一家独大。<a href="http://media.baidu.com/redirect?source=caixin&amp;nid=17459604920670873917&amp;pos=3&amp;layout=2&amp;token=61995590fdf44db862877340a08c8fb6&amp;url=http%3A%2F%2Ffinance.caixin.com%2F2015-04-22%2F100802499.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/finance">金融</a></p>
+<span class="author">
+<em>记者</em>
+<em>李小晓</em>
+</span>
+<span class="time">04-22 12:01</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=caixin&amp;nid=662171972798103511&amp;pos=4&amp;layout=2&amp;token=05cc148f6949436529c475b20f38c66b&amp;url=http%3A%2F%2Fopinion.caixin.com%2F2015-04-22%2F100802498.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo">
+<h4>
+<a href="http://media.baidu.com/redirect?source=caixin&amp;nid=662171972798103511&amp;pos=4&amp;layout=2&amp;token=05cc148f6949436529c475b20f38c66b&amp;url=http%3A%2F%2Fopinion.caixin.com%2F2015-04-22%2F100802498.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo" target="_blank">【经济学的计算机化（五）】两种常用算法</a>
+</h4>
+<p class="summary">介绍它们对经济理论的影响和应用情况。<a href="http://media.baidu.com/redirect?source=caixin&amp;nid=662171972798103511&amp;pos=4&amp;layout=2&amp;token=05cc148f6949436529c475b20f38c66b&amp;url=http%3A%2F%2Fopinion.caixin.com%2F2015-04-22%2F100802498.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/opinion">观点</a></p>
+<span class="author">
+<em>专栏作家</em>
+<em>李拉亚</em>
+</span>
+<span class="time">04-22 12:01</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=caixin&amp;nid=1064643445375777665&amp;pos=5&amp;layout=2&amp;token=47b8c210e9b1f6585b42b218d82e303e&amp;url=http%3A%2F%2Feconomy.caixin.com%2F2015-04-22%2F100802489.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo">
+<h4>
+<a href="http://media.baidu.com/redirect?source=caixin&amp;nid=1064643445375777665&amp;pos=5&amp;layout=2&amp;token=47b8c210e9b1f6585b42b218d82e303e&amp;url=http%3A%2F%2Feconomy.caixin.com%2F2015-04-22%2F100802489.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo" target="_blank">外汇占款降千亿 机构猜测央行干预汇市</a>
+</h4>
+<p class="summary">3月金融机构外汇占款净减少1500多亿元，今年以来首次与央行外汇占款同向波动，机构认为，央行在一季度可能干预了外汇市场。<a href="http://media.baidu.com/redirect?source=caixin&amp;nid=1064643445375777665&amp;pos=5&amp;layout=2&amp;token=47b8c210e9b1f6585b42b218d82e303e&amp;url=http%3A%2F%2Feconomy.caixin.com%2F2015-04-22%2F100802489.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/economy">经济</a></p>
+<span class="author">
+<em>记者</em>
+<em>李雨谦</em>
+</span>
+<span class="time">04-22 12:01</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=caixin&amp;nid=414464144827657601&amp;pos=6&amp;layout=2&amp;token=8cc81846b09ecdbe892b59a43e1c4617&amp;url=http%3A%2F%2Fopinion.caixin.com%2F2015-04-22%2F100802455.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo">
+<h4>
+<a href="http://media.baidu.com/redirect?source=caixin&amp;nid=414464144827657601&amp;pos=6&amp;layout=2&amp;token=8cc81846b09ecdbe892b59a43e1c4617&amp;url=http%3A%2F%2Fopinion.caixin.com%2F2015-04-22%2F100802455.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo" target="_blank">大型公立医院拆分试点为何不做了</a>
+</h4>
+<p class="summary">在进行改革试点时，应选择一些规模超大的医院进行拆分，将其拆分成独立的、没有任何隶属关系的两家医院。<a href="http://media.baidu.com/redirect?source=caixin&amp;nid=414464144827657601&amp;pos=6&amp;layout=2&amp;token=8cc81846b09ecdbe892b59a43e1c4617&amp;url=http%3A%2F%2Fopinion.caixin.com%2F2015-04-22%2F100802455.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/opinion">观点</a></p>
+<span class="author">
+<em>专栏作家</em>
+<em>曹健</em>
+</span>
+<span class="time">04-22 12:01</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=caixin&amp;nid=7140096852833421551&amp;pos=7&amp;layout=2&amp;token=60d977f016cc2326d7688197b779035a&amp;url=http%3A%2F%2Fchina.caixin.com%2F2015-04-22%2F100802453.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo">
+<h4>
+<a href="http://media.baidu.com/redirect?source=caixin&amp;nid=7140096852833421551&amp;pos=7&amp;layout=2&amp;token=60d977f016cc2326d7688197b779035a&amp;url=http%3A%2F%2Fchina.caixin.com%2F2015-04-22%2F100802453.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo" target="_blank">14岁少年犯罪率上升 报告揭打工家庭风险</a>
+</h4>
+<p class="summary">指出未成年人犯罪虽然得到一定程度的控制，但犯罪趋于低龄化令人忧心。<a href="http://media.baidu.com/redirect?source=caixin&amp;nid=7140096852833421551&amp;pos=7&amp;layout=2&amp;token=60d977f016cc2326d7688197b779035a&amp;url=http%3A%2F%2Fchina.caixin.com%2F2015-04-22%2F100802453.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/china">政经</a></p>
+<span class="author">
+<em>记者</em>
+<em>赵晗</em>
+</span>
+<span class="time">04-22 12:01</span>
+</div>
+</div>
+<div class="feed_tegao" data-href="http://media.baidu.com/redirect?source=caixin&amp;nid=7336902751251675867&amp;pos=8&amp;layout=2&amp;token=3b262ee94e3761cd7aff3107ad87f43d&amp;url=http%3A%2F%2Fchina.caixin.com%2F2015-04-22%2F100802447.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo">
+<h4>
+<a href="http://media.baidu.com/redirect?source=caixin&amp;nid=7336902751251675867&amp;pos=8&amp;layout=2&amp;token=3b262ee94e3761cd7aff3107ad87f43d&amp;url=http%3A%2F%2Fchina.caixin.com%2F2015-04-22%2F100802447.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo" target="_blank">养老并轨各地加紧出细则 设10年过渡期</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=caixin&amp;nid=7336902751251675867&amp;pos=8&amp;layout=2&amp;token=3b262ee94e3761cd7aff3107ad87f43d&amp;url=http%3A%2F%2Fchina.caixin.com%2F2015-04-22%2F100802447.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo" target="_blank"><img src="http://img.caixin.com/2015-01-01/1420174536726321_480_320.jpg"/></a></p>
+<p class="summary">据财新记者了解，其中提出设立10年过渡期，在此期间新老待遇办法对比后给予“保底限高”优惠。<a href="http://media.baidu.com/redirect?source=caixin&amp;nid=7336902751251675867&amp;pos=8&amp;layout=2&amp;token=3b262ee94e3761cd7aff3107ad87f43d&amp;url=http%3A%2F%2Fchina.caixin.com%2F2015-04-22%2F100802447.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/china">政经</a></p>
+<span class="author">
+<em>记者</em>
+<em>石睿</em>
+</span>
+<span class="time">04-22 11:05</span>
+</div>
+</div>
+<div class="feed_tegao noimgandlong" data-href="http://media.baidu.com/redirect?source=caixin&amp;nid=17686820023896794548&amp;pos=9&amp;layout=2&amp;token=96248b726b0fa038bea79a424b80e9c9&amp;url=http%3A%2F%2Finternational.caixin.com%2F2015-04-22%2F100802445.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo">
+<h4>
+<a href="http://media.baidu.com/redirect?source=caixin&amp;nid=17686820023896794548&amp;pos=9&amp;layout=2&amp;token=96248b726b0fa038bea79a424b80e9c9&amp;url=http%3A%2F%2Finternational.caixin.com%2F2015-04-22%2F100802445.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo" target="_blank">【全球新闻速览】日本磁悬浮列车以600公里时速破世界纪录</a>
+</h4>
+<p class="summary">日本磁悬浮中央新干线在富士山附近的行驶试验中最高时速达到了每...<a href="http://media.baidu.com/redirect?source=caixin&amp;nid=17686820023896794548&amp;pos=9&amp;layout=2&amp;token=96248b726b0fa038bea79a424b80e9c9&amp;url=http%3A%2F%2Finternational.caixin.com%2F2015-04-22%2F100802445.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/international">世界</a></p>
+<span class="time">04-22 11:05</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=caixin&amp;nid=337508810573303176&amp;pos=10&amp;layout=2&amp;token=8ca71e3dd5fd6bf713824cc49eb493ae&amp;url=http%3A%2F%2Fopinion.caixin.com%2F2015-04-22%2F100802444.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo">
+<h4>
+<a href="http://media.baidu.com/redirect?source=caixin&amp;nid=337508810573303176&amp;pos=10&amp;layout=2&amp;token=8ca71e3dd5fd6bf713824cc49eb493ae&amp;url=http%3A%2F%2Fopinion.caixin.com%2F2015-04-22%2F100802444.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo" target="_blank">中国食品安全问题能根治吗</a>
+</h4>
+<p class="summary">中国国家质检总局局长支树平在2015年3月博鳌论坛上称，中国的出口食品质量合格率超过99%。<a href="http://media.baidu.com/redirect?source=caixin&amp;nid=337508810573303176&amp;pos=10&amp;layout=2&amp;token=8ca71e3dd5fd6bf713824cc49eb493ae&amp;url=http%3A%2F%2Fopinion.caixin.com%2F2015-04-22%2F100802444.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/opinion">观点</a></p>
+<span class="author">
+<em>专栏作家</em>
+<em>于晓华</em>
+</span>
+<span class="time">04-22 11:05</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=caixin&amp;nid=17665995393899485042&amp;pos=11&amp;layout=2&amp;token=5d8b51f7300b64b5737be66aa600ba0a&amp;url=http%3A%2F%2Finternational.caixin.com%2F2015-04-22%2F100802442.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo">
+<h4>
+<a href="http://media.baidu.com/redirect?source=caixin&amp;nid=17665995393899485042&amp;pos=11&amp;layout=2&amp;token=5d8b51f7300b64b5737be66aa600ba0a&amp;url=http%3A%2F%2Finternational.caixin.com%2F2015-04-22%2F100802442.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo" target="_blank">中国产沃尔沃进军美国</a>
+</h4>
+<p class="summary">将向美国出口由中国西南部一座工厂出产的轿车。<a href="http://media.baidu.com/redirect?source=caixin&amp;nid=17665995393899485042&amp;pos=11&amp;layout=2&amp;token=5d8b51f7300b64b5737be66aa600ba0a&amp;url=http%3A%2F%2Finternational.caixin.com%2F2015-04-22%2F100802442.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/international">世界</a></p>
+<span class="time">04-22 11:05</span>
+</div>
+</div>
+<div class="feed_tegao" data-href="http://media.baidu.com/redirect?source=caixin&amp;nid=561121021553807701&amp;pos=12&amp;layout=2&amp;token=3bf8adf3116c677f6b3fde28c72333c7&amp;url=http%3A%2F%2Fopinion.caixin.com%2F2015-04-22%2F100802438.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo">
+<h4>
+<a href="http://media.baidu.com/redirect?source=caixin&amp;nid=561121021553807701&amp;pos=12&amp;layout=2&amp;token=3bf8adf3116c677f6b3fde28c72333c7&amp;url=http%3A%2F%2Fopinion.caixin.com%2F2015-04-22%2F100802438.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo" target="_blank">增长那么弱，只能搞基建</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=caixin&amp;nid=561121021553807701&amp;pos=12&amp;layout=2&amp;token=3bf8adf3116c677f6b3fde28c72333c7&amp;url=http%3A%2F%2Fopinion.caixin.com%2F2015-04-22%2F100802438.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo" target="_blank"><img src="http://img.caixin.com/2015-04-21/1429669011976844.jpg"/></a></p>
+<p class="summary">我们预计2015年基建投资增速为25%，规模达到14万亿，其中“铁公基”和水利环保是主要增长点。<a href="http://media.baidu.com/redirect?source=caixin&amp;nid=561121021553807701&amp;pos=12&amp;layout=2&amp;token=3bf8adf3116c677f6b3fde28c72333c7&amp;url=http%3A%2F%2Fopinion.caixin.com%2F2015-04-22%2F100802438.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/opinion">观点</a></p>
+<span class="author">
+<em>专栏作家</em>
+<em>管清友</em>
+</span>
+<span class="time">04-22 11:05</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=caixin&amp;nid=17612678735009586542&amp;pos=13&amp;layout=2&amp;token=b0e4d90d2267e52755cf07cc4d5da445&amp;url=http%3A%2F%2Finternational.caixin.com%2F2015-04-22%2F100802430.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo">
+<h4>
+<a href="http://media.baidu.com/redirect?source=caixin&amp;nid=17612678735009586542&amp;pos=13&amp;layout=2&amp;token=b0e4d90d2267e52755cf07cc4d5da445&amp;url=http%3A%2F%2Finternational.caixin.com%2F2015-04-22%2F100802430.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo" target="_blank">美国再次敦促日本妥善处理历史问题</a>
+</h4>
+<p class="summary">历史问题迟迟没有解决，主要应归咎于安倍及其右翼政治盟友。<a href="http://media.baidu.com/redirect?source=caixin&amp;nid=17612678735009586542&amp;pos=13&amp;layout=2&amp;token=b0e4d90d2267e52755cf07cc4d5da445&amp;url=http%3A%2F%2Finternational.caixin.com%2F2015-04-22%2F100802430.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/international">世界</a></p>
+<span class="time">04-22 11:05</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=caixin&amp;nid=17041144598984336522&amp;pos=14&amp;layout=2&amp;token=49f49bb9371493ae588f02cf97c18fec&amp;url=http%3A%2F%2Ffinance.caixin.com%2F2015-04-22%2F100802424.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo">
+<h4>
+<a href="http://media.baidu.com/redirect?source=caixin&amp;nid=17041144598984336522&amp;pos=14&amp;layout=2&amp;token=49f49bb9371493ae588f02cf97c18fec&amp;url=http%3A%2F%2Ffinance.caixin.com%2F2015-04-22%2F100802424.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo" target="_blank">“天威债”违约之一：母公司不兜底 刻意重组弃天威</a>
+</h4>
+<p class="summary">保定天威集团有限公司发布公告称，由于公司发生巨额亏损，无法按期兑付2011年度第二期中期票据本年利息，成为首只违约的国企债券。<a href="http://media.baidu.com/redirect?source=caixin&amp;nid=17041144598984336522&amp;pos=14&amp;layout=2&amp;token=49f49bb9371493ae588f02cf97c18fec&amp;url=http%3A%2F%2Ffinance.caixin.com%2F2015-04-22%2F100802424.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/finance">金融</a></p>
+<span class="author">
+<em>实习记者</em>
+<em>杨巧伶</em>
+</span>
+<span class="time">04-22 10:05</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=caixin&amp;nid=16920917580890392942&amp;pos=15&amp;layout=2&amp;token=81d06968d6ae8fd679c131e6d685517f&amp;url=http%3A%2F%2Ffinance.caixin.com%2F2015-04-22%2F100802422.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo">
+<h4>
+<a href="http://media.baidu.com/redirect?source=caixin&amp;nid=16920917580890392942&amp;pos=15&amp;layout=2&amp;token=81d06968d6ae8fd679c131e6d685517f&amp;url=http%3A%2F%2Ffinance.caixin.com%2F2015-04-22%2F100802422.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo" target="_blank">浙江网商银行高管初建 将整合部分小贷业务</a>
+</h4>
+<p class="summary">浙江网商银行已向浙江省银监局正式提交开业申请，预计将于6月前正式开业。<a href="http://media.baidu.com/redirect?source=caixin&amp;nid=16920917580890392942&amp;pos=15&amp;layout=2&amp;token=81d06968d6ae8fd679c131e6d685517f&amp;url=http%3A%2F%2Ffinance.caixin.com%2F2015-04-22%2F100802422.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/finance">金融</a></p>
+<span class="author">
+<em>记者</em>
+<em>吴红毓然</em>
+</span>
+<span class="time">04-22 10:05</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=caixin&amp;nid=16800690562796449362&amp;pos=16&amp;layout=2&amp;token=5f899494a531e39d8db51078ccb82460&amp;url=http%3A%2F%2Ffinance.caixin.com%2F2015-04-22%2F100802420.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo">
+<h4>
+<a href="http://media.baidu.com/redirect?source=caixin&amp;nid=16800690562796449362&amp;pos=16&amp;layout=2&amp;token=5f899494a531e39d8db51078ccb82460&amp;url=http%3A%2F%2Ffinance.caixin.com%2F2015-04-22%2F100802420.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo" target="_blank">新三板的新入场者</a>
+</h4>
+<p class="summary">大部分想要进军新三板的产品都属于定增产品，但市场基本上处于一种“一票难求”的状态。<a href="http://media.baidu.com/redirect?source=caixin&amp;nid=16800690562796449362&amp;pos=16&amp;layout=2&amp;token=5f899494a531e39d8db51078ccb82460&amp;url=http%3A%2F%2Ffinance.caixin.com%2F2015-04-22%2F100802420.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/finance">金融</a></p>
+<span class="author">
+<em>记者</em>
+<em>刘彩萍</em>
+</span>
+<span class="time">04-22 10:05</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=caixin&amp;nid=7288146385537256787&amp;pos=17&amp;layout=2&amp;token=c44ac19d71c7fc13bc3472c7984e5071&amp;url=http%3A%2F%2Fchina.caixin.com%2F2015-04-22%2F100802417.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo">
+<h4>
+<a href="http://media.baidu.com/redirect?source=caixin&amp;nid=7288146385537256787&amp;pos=17&amp;layout=2&amp;token=c44ac19d71c7fc13bc3472c7984e5071&amp;url=http%3A%2F%2Fchina.caixin.com%2F2015-04-22%2F100802417.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo" target="_blank">中国探索再生资源“互联网+回收”模式</a>
+</h4>
+<p class="summary">截至2013年底，全社会再生资源回收企业10多万家，从业人员超过1800万。<a href="http://media.baidu.com/redirect?source=caixin&amp;nid=7288146385537256787&amp;pos=17&amp;layout=2&amp;token=c44ac19d71c7fc13bc3472c7984e5071&amp;url=http%3A%2F%2Fchina.caixin.com%2F2015-04-22%2F100802417.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/china">政经</a></p>
+<span class="author">
+<em>实习记者</em>
+<em>陈仪方</em>
+</span>
+<span class="time">04-22 10:05</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=caixin&amp;nid=17785481238096123491&amp;pos=18&amp;layout=2&amp;token=31e2ca5b479b4aeb535622dbd26d49ee&amp;url=http%3A%2F%2Finternational.caixin.com%2F2015-04-22%2F100802383.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo">
+<h4>
+<a href="http://media.baidu.com/redirect?source=caixin&amp;nid=17785481238096123491&amp;pos=18&amp;layout=2&amp;token=31e2ca5b479b4aeb535622dbd26d49ee&amp;url=http%3A%2F%2Finternational.caixin.com%2F2015-04-22%2F100802383.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo" target="_blank">中国代表敦促巴以尽快恢复和谈</a>
+</h4>
+<p class="summary">中方敦促巴勒斯坦和以色列以和平为念，相向而行，尽快恢复并推进和谈。<a href="http://media.baidu.com/redirect?source=caixin&amp;nid=17785481238096123491&amp;pos=18&amp;layout=2&amp;token=31e2ca5b479b4aeb535622dbd26d49ee&amp;url=http%3A%2F%2Finternational.caixin.com%2F2015-04-22%2F100802383.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/international">世界</a></p>
+<span class="time">04-22 09:08</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=caixin&amp;nid=4944329343437655751&amp;pos=19&amp;layout=2&amp;token=66f5a210df32381179f250c420e4ce8c&amp;url=http%3A%2F%2Fcompanies.caixin.com%2F2015-04-22%2F100802357.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo">
+<h4>
+<a href="http://media.baidu.com/redirect?source=caixin&amp;nid=4944329343437655751&amp;pos=19&amp;layout=2&amp;token=66f5a210df32381179f250c420e4ce8c&amp;url=http%3A%2F%2Fcompanies.caixin.com%2F2015-04-22%2F100802357.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo" target="_blank">乐视吕征宇：传统车厂会沦为代工者</a>
+</h4>
+<p class="summary">乐视在上海车展表现活跃，不仅与北汽合作展出了互联网智能汽车的概念模型，还与豪车品牌阿斯顿马丁宣布共同研发车联网。<a href="http://media.baidu.com/redirect?source=caixin&amp;nid=4944329343437655751&amp;pos=19&amp;layout=2&amp;token=66f5a210df32381179f250c420e4ce8c&amp;url=http%3A%2F%2Fcompanies.caixin.com%2F2015-04-22%2F100802357.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/companies">公司</a></p>
+<span class="author">
+<em>记者</em>
+<em>周天</em>
+</span>
+<span class="time">04-22 09:08</span>
+</div>
+</div>
+</div>
+<div class="loading"><img src="/static/newsmedia/widget/mod_page/jm_loading_d04a658.gif"><b>正在加载，请稍候...</b></div>
+<div class="pages">
+<a href="javascript:;" class="btn btnP nodis">上一页</a>
+<div class="page"></div>
+<a href="javascript:;" class="btn btnN">下一页</a>
+</div>
+<div id="Footer" class="wp-footer">
+<p class="top-nav">
+<a href="http://news.baidu.com/" target="_blank">百度新闻</a>|<a href="mailto:media_news%40baidu.com" target="_blank">联系我们：media_news@baidu.com</a>
+<strong class="wp-wrap">百度新闻&财新网联合出品</strong>
+<a href="http://news.baidu.com/"><img src="/static/newsmedia/widget/footer/baidunews_footer_d9a758b.png"></a>
+<a href="http://www.caixin.com/" target="_blank"><img src="http://news.baidu.com/resource/r/image/2014-12-18/1b695708b51e28ced7a02c7cd51a0502.png"></a>
+</p>
+<p class="site-info">
+<i>京公网安备110000000001号</i>
+<a href="http://news.baidu.com/licence.html">互联网新闻信息服务许可</a>
+<span>©2014 Baidu</span>
+<a class="wp-wrap" href="http://www.baidu.com/duty/">使用百度前必读</a>
+<a class="wp-hide" target="_blank" href="http://net.china.cn/chinese/index.htm"><img src="http://gimg.baidu.com/img/net.gif"></a>
+<a class="wp-hide" target="_blank" href="http://www.bj.cyberpolice.cn/index.htm"><img alt="首都网络110报警服务" src="http://gimg.baidu.com/img/110.gif"></a>
+<a class="wp-hide" target="_blank" href="http://www.bjjubao.org/"><img src="http://news.baidu.com/resource/img/report_center.png"></a>
+</p>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?d09fe258c88c7015c3e6f8232ee9a563";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</div>
+</div>
+<div class="right">
+<div class="ap apRecommend">
+<div class="apt">
+<h4>热门文章</h4>
+<p class="entit"><span>HOT ARTICLE</span></p>
+</div>
+<div class="apc">
+<ul class="ulist">
+<li>
+<span class="num top3">1</span>
+<a href="http://media.baidu.com/redirect?source=caixin&amp;nid=7336902751251675867&amp;pos=0&amp;layout=4&amp;token=3b262ee94e3761cd7aff3107ad87f43d&amp;url=http%3A%2F%2Fchina.caixin.com%2F2015-04-22%2F100802447.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo" title="养老并轨各地加紧出细则 设10年过渡期">养老并轨各地加紧出细则 设10年过渡期</a>
+<span class="tm">04-22 11:05</span>
+</li>
+<li>
+<span class="num top3">2</span>
+<a href="http://media.baidu.com/redirect?source=caixin&amp;nid=7140096852833421551&amp;pos=1&amp;layout=4&amp;token=60d977f016cc2326d7688197b779035a&amp;url=http%3A%2F%2Fchina.caixin.com%2F2015-04-22%2F100802453.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo" title="14岁少年犯罪率上升 报告揭打工家庭风险">14岁少年犯罪率上升 报告揭打工家庭风险</a>
+<span class="tm">04-22 12:01</span>
+</li>
+<li>
+<span class="num top3">3</span>
+<a href="http://media.baidu.com/redirect?source=caixin&amp;nid=17459604920670873917&amp;pos=2&amp;layout=4&amp;token=61995590fdf44db862877340a08c8fb6&amp;url=http%3A%2F%2Ffinance.caixin.com%2F2015-04-22%2F100802499.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo" title="中国银行卡清算市场打开 银联将告别独占时代">中国银行卡清算市场打开 银联将告别独占时代</a>
+<span class="tm">04-22 12:01</span>
+</li>
+<li>
+<span class="num">4</span>
+<a href="http://media.baidu.com/redirect?source=caixin&amp;nid=7358013378766374542&amp;pos=3&amp;layout=4&amp;token=21827cfe1e0bc6afbd8dbde3ba57e377&amp;url=http%3A%2F%2Fchina.caixin.com%2F2015-04-21%2F100802329.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo" title="三刑辩律师衡阳中院门口遭袭">三刑辩律师衡阳中院门口遭袭</a>
+<span class="tm">04-21 22:12</span>
+</li>
+<li>
+<span class="num">5</span>
+<a href="http://media.baidu.com/redirect?source=caixin&amp;nid=6888688030190055947&amp;pos=4&amp;layout=4&amp;token=75533833e31885e3ee120386fc09ed21&amp;url=http%3A%2F%2Fchina.caixin.com%2F2015-04-21%2F100802190.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo" title="GKN汽车：粉末冶金新厂将落户江苏">GKN汽车：粉末冶金新厂将落户江苏</a>
+<span class="tm">04-21 16:58</span>
+</li>
+<li>
+<span class="num">6</span>
+<a href="http://media.baidu.com/redirect?source=caixin&amp;nid=4905356969083819085&amp;pos=5&amp;layout=4&amp;token=64fc5277e9c967e73a5d68595cafa06c&amp;url=http%3A%2F%2Fcompanies.caixin.com%2F2015-04-21%2F100802178.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo" title="南北车换挡震荡 市盈率近百倍或存泡沫">南北车换挡震荡 市盈率近百倍或存泡沫</a>
+<span class="tm">04-21 16:01</span>
+</li>
+<li>
+<span class="num">7</span>
+<a href="http://media.baidu.com/redirect?source=caixin&amp;nid=4749964605613056840&amp;pos=6&amp;layout=4&amp;token=05e4a4185ff8a33a2adf97fb5dc203ca&amp;url=http%3A%2F%2Fcompanies.caixin.com%2F2015-04-21%2F100802209.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo" title="福特准备加速驶入中国高端市场">福特准备加速驶入中国高端市场</a>
+<span class="tm">04-21 21:14</span>
+</li>
+<li>
+<span class="num">8</span>
+<a href="http://media.baidu.com/redirect?source=caixin&amp;nid=17090209609628200446&amp;pos=7&amp;layout=4&amp;token=db3317c1b17f344be4261cc79b1f2067&amp;url=http%3A%2F%2Ffinance.caixin.com%2F2015-04-21%2F100802128.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo" title="佳兆业两起海外票据违约">佳兆业两起海外票据违约</a>
+<span class="tm">04-21 15:01</span>
+</li>
+<li>
+<span class="num">9</span>
+<a href="http://media.baidu.com/redirect?source=caixin&amp;nid=16950401736868256967&amp;pos=8&amp;layout=4&amp;token=77590bd2c5de3b6687823bad86bb05a4&amp;url=http%3A%2F%2Ffinance.caixin.com%2F2015-04-21%2F100802046.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo" title="11天威MTN2或成首只违约国企债券">11天威MTN2或成首只违约国企债券</a>
+<span class="tm">04-21 12:05</span>
+</li>
+<li>
+<span class="num">10</span>
+<a href="http://media.baidu.com/redirect?source=caixin&amp;nid=16852899390715282679&amp;pos=9&amp;layout=4&amp;token=55da5859b12fa6397914e6acda6ce071&amp;url=http%3A%2F%2Ffinance.caixin.com%2F2015-04-21%2F100802332.html%3Futm_source%3Dbaidu%26utm_medium%3Dcaixin.media.baidu.com%26utm_campaign%3DHezuo" title="积木盒子完成8400万美元C轮融资">积木盒子完成8400万美元C轮融资</a>
+<span class="tm">04-21 22:12</span>
+</li>
+</ul>
+</div>
+</div></div>
+</div>
+</div>
+<div id="Footer">
+<p class="top-nav">
+<a href="http://news.baidu.com/" target="_blank">百度新闻</a>|<a href="mailto:media_news%40baidu.com" target="_blank">联系我们：media_news@baidu.com</a>
+<strong class="wp-wrap">百度新闻&财新网联合出品</strong>
+<a href="http://news.baidu.com/"><img src="/static/newsmedia/widget/footer/baidunews_footer_d9a758b.png"></a>
+<a href="http://www.caixin.com/" target="_blank"><img src="http://news.baidu.com/resource/r/image/2014-12-18/1b695708b51e28ced7a02c7cd51a0502.png"></a>
+</p>
+<p class="site-info">
+<i>京公网安备110000000001号</i>
+<a href="http://news.baidu.com/licence.html">互联网新闻信息服务许可</a>
+<span>©2014 Baidu</span>
+<a class="wp-wrap" href="http://www.baidu.com/duty/">使用百度前必读</a>
+<a class="wp-hide" target="_blank" href="http://net.china.cn/chinese/index.htm"><img src="http://gimg.baidu.com/img/net.gif"></a>
+<a class="wp-hide" target="_blank" href="http://www.bj.cyberpolice.cn/index.htm"><img alt="首都网络110报警服务" src="http://gimg.baidu.com/img/110.gif"></a>
+<a class="wp-hide" target="_blank" href="http://www.bjjubao.org/"><img src="http://news.baidu.com/resource/img/report_center.png"></a>
+</p>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?d09fe258c88c7015c3e6f8232ee9a563";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</div>
+</div>
+<div class="mod-sidebar">
+<ul class="menu">
+<li class="toolbar">
+<a class="search" href="/search"><i class="icon-search"></i>搜索</a>
+|<a class="login" href="javascript:;">登录</a>
+<p class="username"></p>
+</li>
+<li class="item">
+<a href="/">首页</a>
+</li>
+<li class="item">
+<a href="/finance">金融</a>
+</li>
+<li class="item">
+<a href="/opinion">观点</a>
+</li>
+<li class="item">
+<a href="/economy">经济</a>
+</li>
+<li class="item">
+<a href="/companies">公司</a>
+</li>
+<li class="item">
+<a href="/china">政经</a>
+</li>
+<li class="item">
+<a href="/international">世界</a>
+</li>
+<li class="logo"><a href="http://news.baidu.com"><img src="/static/newsmedia/widget/mod_sidebar/logo-baidu_941ba05.png" height="26px" alt="baidu logo"></a></li>
+</ul>
+</div>
+</body><script type="text/javascript" src="/static/common/js/mod_b818356.js"></script>
+<script type="text/javascript" src="/static/common/js/jquery-1.10.1_77f5e40.js"></script>
+<script type="text/javascript" src="/static/common/pkg/aio_d41d8cd.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/mod_page/mod_page_78338ec.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/ap_ulist/ap_ulist_60537f4.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/header/header_3f34133.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/cover/cover_2e172d2.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/ui/iscroll/iscroll_93ba427.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/ui/velocity/velocity_022bc13.js"></script>
+<script type="text/javascript" src="/static/newsmedia/lessimgindex/lessimgindex_0e2d48b.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/mod_sidebar/mod_sidebar_5cf9d41.js"></script>
+<script type="text/javascript">!function(){    require.async('newsmedia:widget/mod_sidebar/mod_sidebar.js', function(login) {
+      login();
+    })
+  }();
+!function(){    var device = 'pc';
+    // 手机端直接监听每条新闻并跳转
+    if (device !== 'pc') {
+      $(function() {
+        var $banner = $('#banners');
+
+        $banner.delegate('.feed_tegao', 'click', function(ev) {
+          // 判断是否是点击了tag
+          var $target = $(ev.target);
+          if ($target.attr('href') &&
+            /^\/.*/.test($target.attr('href'))) return;
+
+          var $item = $(ev.currentTarget);
+          var href = $item.attr('data-href');
+
+          setTimeout(function() {
+            window.location.href = href;
+          }, 100)
+        });
+      });
+    }
+
+    alog("set", "alias", {
+         monkey: "http://img.baidu.com/hunter/alog/monkey.min.js",
+         element: "http://img.baidu.com/hunter/alog/element.min.js"
+     });
+
+     alog("require", ["monkey", "element"], function(monkey, element){
+         monkey.create({
+             page: "news-caixin",
+             pid: "241",
+             p: "133",
+             hid: "424",
+             postUrl: "http://nsclick.baidu.com/u.gif",
+             reports: {
+                refer: 1,
+                staytime: 1
+             }
+         });
+     });
+
+     alog("monkey.send", "pageview", { now: +new Date });
+  }();</script></html>

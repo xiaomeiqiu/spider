@@ -1,0 +1,569 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<!--STATUS OK-->
+<meta http-equiv="X-UA-Compatible" content="IE=7">
+<meta http-equiv=Content-Type content="text/html; charset=gb2312">
+<title>百度新闻搜索——潮流服饰新闻      </title>
+<meta name="description" content="百度新闻是包含海量资讯的新闻服务平台，真实反映每时每刻的新闻热点。您可以搜索新闻事件、热点话题、人物动态、产品资讯等，快速了解它们的最新进展。" >
+<!--ecombegin--><!--ecomend-->
+<script type="text/javascript" src="resource/js/perf_monitor.js"></script>
+<script src="/resource/js/news.js?v=201302261116"></script>
+<script src="resource/js/usertrack.js"></script>
+<link href="resource/css/search_box.css?v=201301051533" rel="stylesheet" type="text/css"></link>
+<link href="resource/css/hot_class_2.css?v=201210182329" rel="stylesheet" type="text/css"></link>
+<link href="resource/css/nav_six.css?v=12120828" rel="stylesheet" type="text/css"></link>
+</head>
+<body id="section_2" >
+<script type="text/javascript" language="javascript">
+    ClickMonitor.init('TWO_LEVEL_HOT', 'c=chaoliufs&cy=0');
+</script>
+
+<div id="usrbar"></div>
+<div id="page">
+<div id="header">
+<form action="http://news.baidu.com/ns" style="postion:relative;" name="fbaidu" class="sbox">
+	<table class="sbox" style="position:relative;">
+		<tr>
+            <td class="logo">
+                <div class="logo"><a href="http://news.baidu.com/view.html"><img src="/resource/img/logo_news_137_46.png" alt="百度新闻"></a></div>
+                <div class="date"><!--datebegin--><!--dateend--></div>
+            </td>
+            <td class="search" style="position:relative;">
+                <div class="tab">
+                    <span class="cur">新闻</span><a href="http://www.baidu.com/" title="web"  mon="col=502&pn=0" onclick="queryTab(this);">网页</a><a href="http://tieba.baidu.com/" title="tieba" mon="col=502&pn=1" onclick="queryTab(this);">贴吧</a><a href="http://zhidao.baidu.com/" title="zhidao" mon="col=502&pn=2" onclick="queryTab(this);">知道</a><a href="http://music.baidu.com/" title="music"  mon="col=502&pn=3" onclick="queryTab(this);">音乐</a><a href="http://image.baidu.com/" title="image" mon="col=502&pn=4" onclick="queryTab(this);">图片</a><a href="http://video.baidu.com/" title="video"  mon="col=502&pn=5" onclick="queryTab(this);">视频</a><a href="http://map.baidu.com/" title="map" mon="col=502&pn=6" onclick="queryTab(this);">地图</a><a href="http://baike.baidu.com/" title="baike" mon="col=502&pn=7" onclick="queryTab(this);">百科</a><a href="http://wenku.baidu.com/" title="wenku"  mon="col=502&pn=8" onclick="queryTab(this);">文库</a></div>
+                </div>
+                <table>
+                    <tr>
+                        <td class="box"><div id="sugarea"><span class="s_ipt_wr" id="s_ipt_wr"><input class="word" id="ww" name="word" size="42"  maxlength="100" tabindex="1"></span><span class="s_btn_wr"><input class="btn" type="submit" value="百度一下" onmousedown="this.className='btn s_btn_h'" onmouseout="this.className='btn'"></span></div></td>
+                        <td class="help" id="top-for-ipad"><a href="http://www.baidu.com/search/news_help.html">帮助</a><span class="sep">|</span><a href="http://news.baidu.com/advanced_news.html">高级搜索</a><span class="sep">|</span><a href="http://news.baidu.com/pianhao.html">设置</a></td>
+                    </tr>
+                </table>
+                <!--ecombegin-->
+                <!--ecomend-->
+                <p class="search-radios">
+					<input type="radio" name="tn" value="news" checked id="news"><label for="news">新闻全文</label>
+					<input type="radio" name="tn" value="newstitle" id="newstitle"><label for="newstitle" style="padding:0px;">新闻标题</label>
+                </p>
+				<input type="hidden" name="from" value="news">
+                <input type="hidden" name="cl" value="2">
+
+                <input type="hidden" name="rn" value="20">
+                <input type="hidden" name="ct" value="1">
+            </td></tr>
+	</table>
+    <a id="searchbox_tuiguang" href="http://app.news.baidu.com/?src=yetou" target="_blank"></a>
+    </form>
+<div id="identifier-pannel" style="display:none"><a href="http://app.news.baidu.com/?src=erweima" target="_blank">百度新闻客户端<img src="http://news.baidu.com/resource/img/video_app_tuiguang/erweima.png" height="90" width="90"/>点击或扫描下载</a></div>
+<style type="text/css">
+#header.for-ipad-style{
+    background:url(http://news.baidu.com/resource/img/video_app_tuiguang/video_ipadapp_header_bg.png) no-repeat right bottom;
+    background-size:210px 68px;
+    -webkit-background-size:210px 68px;
+}
+#identifier-pannel{
+    position:fixed;
+    left: 50%;
+    bottom:0;
+    z-index:9999;
+    width:110px;
+    margin-left:517px;
+	height:156px;
+}
+#identifier-pannel a:link,#identifier-pannel a:visited{
+    display:block;
+    padding:10px;
+    line-height:18px;
+    font-size:12px;
+    color:#333;
+    text-decoration:none;
+    white-space:nowrap;
+    text-align:center;
+    background:#f9f9f9;
+}
+#identifier-pannel a:hover{
+    background:#ccd8db;
+    color:#000;
+}
+#identifier-pannel img{
+    display:block;
+    margin:5px auto;
+    border:none;
+}
+
+
+</style>
+
+<script type="text/javascript" src="resource/js/tangram-1.5.2.2.js?v=20130128"></script>
+<script type="text/javascript">
+(function (){
+    /*temp for ad-for-ipad*/
+    if(navigator.userAgent.match(/(iPad).*OS\s([\d_]+)/)){
+        document.getElementById('header').className = 'for-ipad-style';
+        document.getElementById('searchbox_tuiguang').setAttribute('mon' , 'col=504');
+        document.getElementById('searchbox_tuiguang').href='http://itunes.apple.com/cn/app/bai-du-shi-pinhd/id573885698?mt=8';
+
+    }
+    function __getScrollTop(){
+        var d = document;
+            return window.pageYOffset || d.documentElement.scrollTop || d.body.scrollTop;
+    }
+    function __getHeight() {
+        var doc = document,
+            client = doc.compatMode == 'BackCompat' ? doc.body : doc.documentElement;
+            return client.clientHeight;
+    }
+    function __on(obj, type, func){
+        var t = type.replace(/^on/, '');
+        if(window.attachEvent){
+            obj.attachEvent('on' + t, func);
+        }
+        else if(window.addEventListener){
+            obj.addEventListener(t, func, false);
+        }
+    }
+    function __g(id){
+        return document.getElementById(id);
+        
+    }
+
+   __on(window , 'load', function(){
+    function fixedBar(id, options){
+                /*temp
+                {
+                    addclass : 'string',
+                    top : number,
+                    autoHidden : true,
+                    show : true
+                }
+                */
+         var ele = __g(id);
+             if(!ele) return;
+            var pageHeight=__getHeight();
+            var ieScrollTop=__getScrollTop();
+             if(/msie (\d+\.\d+)/i.test(navigator.userAgent)){
+                    if(options.addclass) ele.className = options.addclass;
+                    ele.style.position= 'absolute';
+                    if(options.show){
+                        ele.style.top = ieScrollTop+pageHeight-options.top + "px";
+                        ele.style.display= 'block';
+                    }
+
+                    __on(window,'scroll' , function (){
+
+                            var ieScrollTop=__getScrollTop();
+                            ele.style.top = ieScrollTop+pageHeight - options.top + "px";
+                            if(options.autoHidden){
+                                    if(ieScrollTop==0){
+                                            ele.style.display="none";
+                                    }else{
+                                            ele.style.display="block";
+                                    }
+                            }
+                    });
+            }else{
+                if(options.show) ele.style.display= 'block';
+                ele.style.top = pageHeight-options.top+'px';
+                __on(window,'scroll',function (){
+                    if(options.autoHidden){
+                            if(__getScrollTop()==0){
+                                    ele.style.display="none";
+                            }else{
+                                    ele.style.display="block";
+                            }
+                    }
+                },false);
+            }
+    }
+
+    fixedBar('backTopBtn' , {autoHidden: true, top : 186});
+    fixedBar('identifier-pannel' , {autoHidden: false , top : 386 , show : true});
+    });
+})();
+</script>
+
+<script src="http://cbjs.baidu.com/js/m.js"></script>
+<script>
+    BAIDU_CLB_addOrientation('newschn', 'chaoliufs');
+</script>
+
+<script>read_cookie();</script>
+</div>
+<div id="main">
+<div id="nav"><!--ecombegin-->
+        <ul class="nav_aside">
+            <li><a href="http://news.baidu.com/n?cmd=4&class=rolling&pn=1&from=tab&sub=0">最新</a></li>
+            <!--<li><a href="http://news.baidu.com/n?bypass=lamp&m=pagesother&v=newsgx">定制</a></li>
+			<li><a href="http://www.baidu.com/search/news_more.html" style="*line-height:29px;">更多&gt;&gt;</a></li>-->
+        </ul><!--ecomend-->
+        <ul class="nav_main">
+            <li style="background-image:none;padding-left:0px;"><a href="http://news.baidu.com/view.html">首页</a></li>
+
+            <li><a href="http://news.baidu.com/n?cmd=1&class=civilnews&pn=1&from=tab">国内</a></li>
+
+            <li><a href="http://news.baidu.com/n?cmd=1&class=internews&pn=1&from=tab">国际</a></li>
+
+            <li><a href="http://news.baidu.com/n?cmd=1&class=mil&pn=1&from=tab">军事</a></li>
+
+            <li><a href="http://news.baidu.com/n?cmd=1&class=finannews&pn=1&from=tab">财经</a></li>
+
+            <li><a href="http://news.baidu.com/n?cmd=1&class=internet&pn=1&from=tab">互联网</a></li>
+
+            <li><a href="http://news.baidu.com/n?cmd=1&class=housenews&pn=1&from=tab">房产</a></li>
+
+            <li><a href="http://news.baidu.com/n?cmd=1&class=autonews&pn=1&from=tab">汽车</a></li>
+
+            <li><a href="http://news.baidu.com/n?cmd=1&class=sportnews&pn=1&from=tab">体育</a></li>
+
+            <li><a href="http://news.baidu.com/n?cmd=1&class=enternews&pn=1&from=tab">娱乐</a></li>
+
+            <li><a href="http://news.baidu.com/n?cmd=1&class=gamenews&pn=1&from=tab">游戏</a></li>
+
+            <li><a href="http://news.baidu.com/n?cmd=1&class=edunews&pn=1&from=tab">教育</a></li>
+
+            <li><div><a href="http://news.baidu.com/n?cmd=1&class=healthnews&pn=1&from=tab">女人</a></div></li>
+
+            <li><a href="http://news.baidu.com/n?cmd=1&class=technnews&pn=1&from=tab">科技</a></li>
+
+            <li><a href="http://news.baidu.com/n?cmd=1&class=socianews&pn=1&from=tab">社会</a></li>
+            <!--ecombegin-->
+			<li class="new"><a href="http://news.baidu.com/n?cmd=10&class=vid2top&pn=1&from=tab&sub=0">视频</a></li>
+
+            <li><a href="http://news.baidu.com/n?cmd=9&class=pic2top&pn=1&from=tab&sub=0">图片</a></li>
+
+			<li ><a href="http://renwu.baidu.com/">人物</a></li>
+
+            <!--ecomend-->
+        </ul>
+
+		<div class="nav-left-corner"></div><div class="nav-right-corner"></div>
+</div>
+    <div id="page_body">
+	<div id="nav_sub">
+		<a href="/n?cmd=1&class=healthnews&pn=1"  class="subject">女人新闻</a>
+		<div class="nav_sub_nav_p">
+										<div class="backImg"><div class="leftback"></div><a class="class_title" href="/n?cmd=1&class=chaoliufs&pn=1">潮流服饰</a><div class="rightback"></div></div><span class="sepLine">|</span>
+								<div><a href="/n?cmd=1&class=meironghf&pn=1">美容护肤</a></div><span class="sepLine">|</span>
+								<div><a href="/n?cmd=1&class=jianfei&pn=1">减肥健身</a></div><span class="sepLine">|</span>
+								<div><a href="/n?cmd=1&class=qinggan&pn=1">情感两性</a></div><span class="sepLine">|</span>
+								<a href="/n?cmd=1&class=jiankang&pn=1">健康养生</a></span>
+					</div>
+			 <div class="left-border"></div><div class="right-border"></div>
+	</div><!--nav_sub ends-->
+	<div id="content" style="padding:10px">
+	<div class="news top ">
+		<table class="layout">
+			<tr>
+				<td width="90%">
+                            					<div class="hl2">
+				<!--图片数据类型-->
+                    						<a href="http://www.hongfen.org/meirong/99246.html" target="_blank" mon="a=4&p=1"><img class="img-main" src="http://t1.baidu.com/it/u=http%3A%2F%2Fwww.hongfen.org%2Fuploads%2F150421%2F224_150421093439_1.jpg&fm=30"></a>
+			        						<div style="float:left;width:75%">
+							<a href="http://www.hongfen.org/meirong/99246.html" class="title" target="_blank" mon="a=1&p=1" style="font-size:16px" >6款长发染发颜色发型图片 总有一款适合你的染发</a><span class="s">09:35</span>							<ul class="relative">
+														</ul>
+						</div>
+					</div>
+                                            				    					<ul class="list">
+											<li>
+							&#8226;&nbsp;<a href="http://info.shoes.hc360.com/2015/04/210930682697.shtml" target="_blank"  mon="a=1&p=1&pn=1">选择合脚的鞋 踏上幸福之旅的第一步 【二】</a><span class="s">09:30</span>						</li>
+						                                            				    						<li>
+							&#8226;&nbsp;<a href="http://info.cloth.hc360.com/2015/04/210929815191.shtml" target="_blank"  mon="a=1&p=1&pn=2">韩版风衣气质搭配 内搭裙装最养眼【图】</a><span class="s">09:29</span>						</li>
+						                                            				    						<li>
+							&#8226;&nbsp;<a href="http://info.cloth.hc360.com/2015/04/210929815192.shtml" target="_blank"  mon="a=1&p=1&pn=3">长袖上衣配短裙 春天就要甜美清新【图】</a><span class="s">09:29</span>						</li>
+						                                            				    						<li>
+							&#8226;&nbsp;<a href="http://news.hexun.com/2015-04-20/175129119.html" target="_blank"  mon="a=1&p=1&pn=4">潮咖示范：春日牛仔主义正流行</a><span class="s">04-20 14:33</span><a href="http://news.baidu.com/n?cmd=2&class=chaoliufs&page=http%3A%2F%2Fnews.hexun.com%2F2015-04-20%2F175129119.html&cls=chaoliufs" target="_blank" class="rnews">42条相关&gt;&gt;</a>						</li>
+						                                            				    						<li>
+							&#8226;&nbsp;<a href="http://fashion.xinmin.cn/gd/2015/04/21/27440400.html" target="_blank"  mon="a=1&p=1&pn=5">春夏实用搭配 7套Look轻松搞定假期穿搭(组图)</a><span class="s">09:22</span>						</li>
+											</ul>
+					<ul class="list">
+						                                            				    						<li>
+							&#8226;&nbsp;<a href="http://news.ef360.com/Articles/2015-4-21/323236.html" target="_blank"  mon="a=1&p=1&pn=6">蒋熙：服装设计师寄情传统工艺</a><span class="s">09:23</span>						</li>
+						                                            				    						<li>
+							&#8226;&nbsp;<a href="http://info.cloth.hc360.com/2015/04/201044815074.shtml" target="_blank"  mon="a=1&p=1&pn=7">风衣搭配紧身裤 经典穿法显气质【图】</a><span class="s">04-20 10:44</span>						</li>
+						                                            				    						<li>
+							&#8226;&nbsp;<a href="http://info.cloth.hc360.com/2015/04/210910815187.shtml" target="_blank"  mon="a=1&p=1&pn=8">小西装+长裤干练 迷人职业范儿【图】</a><span class="s">09:10</span>						</li>
+						                                            				    						<li>
+							&#8226;&nbsp;<a href="http://info.cloth.hc360.com/2015/04/210900815173.shtml" target="_blank"  mon="a=1&p=1&pn=9">针织开衫春季实用 配连衣裙显柔美【图】</a><span class="s">09:00</span>						</li>
+											</ul>
+					<ul class="list">
+						                                            				    						<li>
+							&#8226;&nbsp;<a href="http://yesee.qianlong.com/3910/2015/04/21/2523@10280211.htm" target="_blank"  mon="a=1&p=1&pn=10">一根腰带勒出曼妙腰身</a><span class="s">08:22</span>						</li>
+						                                            				    						<li>
+							&#8226;&nbsp;<a href="http://info.cloth.hc360.com/2015/04/201044815075.shtml" target="_blank"  mon="a=1&p=1&pn=11">春款衬衫+半身裙 淑女气质穿出来【图】</a><span class="s">04-20 10:44</span>						</li>
+						                                            				    						<li>
+							&#8226;&nbsp;<a href="http://www.7y7.com/zhubao/44/135744.html" target="_blank"  mon="a=1&p=1&pn=12">长裙配什么鞋子好看 时髦大咖教你穿出高街范儿</a><span class="s">09:00</span>						</li>
+						                                            				    						<li>
+							&#8226;&nbsp;<a href="http://www.chinanews.com/yl/2015/04-21/7221401.shtml" target="_blank"  mon="a=1&p=1&pn=13">李宇春杂志封面曝光 造型俏皮双腿修长(图) </a><span class="s">08:51</span><a href="http://news.baidu.com/n?cmd=2&class=chaoliufs&page=http%3A%2F%2Fwww.chinanews.com%2Fyl%2F2015%2F04-21%2F7221401.shtml&cls=chaoliufs" target="_blank" class="rnews">8条相关&gt;&gt;</a>						</li>
+						                                            				    						<li>
+							&#8226;&nbsp;<a href="http://news.dahe.cn/2015/04-20/104803666.html" target="_blank"  mon="a=1&p=1&pn=14">把樱花粉穿出优雅气质 关键是要选对表(图) </a><span class="s">04-20 13:13</span>						</li>
+						                                            				    						<li>
+							&#8226;&nbsp;<a href="http://www.7y7.com/fushi/51/135751.html" target="_blank"  mon="a=1&p=1&pn=15">阔腿裤配什么上衣好看 时尚达人教穿出女人味</a><span class="s">08:41</span>						</li>
+						                            					</ul>
+				</td>
+				<td>
+			<!--若有图片报道，则出图片报道-->
+					<div class="sbar" style="margin-right:3px">
+						<h2>图片报道</h2>
+						<ul>
+												<li>
+						                                <a href="http://fz.mina.com.cn/mina/96208.html" target="_blank"  mon="a=12&p=2"><img class="img-aside" src="http://t3.baidu.com/it/u=http%3A%2F%2Fcache.mina.com.cn%2Fuploads%2Fallimg%2F150420%2F7-150420135F4b3-m.jpg&fm=30"></a><br>
+                        							    <a class="news-digest" href="http://fz.mina.com.cn/mina/96208.html" target="_blank"   mon="a=9&p=2">基本通勤单品 同款不同搭展现多变风格</a></li>
+												<li>
+						                                <a href="http://dress.yxlady.com/201504/709194.shtml" target="_blank"  mon="a=12&p=2"><img class="img-aside" src="http://t3.baidu.com/it/u=http%3A%2F%2Fimg3.yxlady.com%2Ffs%2FUploadFiles_2682%2F20150420%2F20150420215548543.jpg&fm=30"></a><br>
+                        							    <a class="news-digest" href="http://dress.yxlady.com/201504/709194.shtml" target="_blank"   mon="a=9&p=2">【图】夏季减龄搭配之 牛仔背带裙最佳扮嫩利器</a></li>
+												<li>
+						                                <a href="http://www.yangtse.com/wenyu/2015-04-20/503098.html" target="_blank"  mon="a=12&p=2"><img class="img-aside" src="http://t1.baidu.com/it/u=http%3A%2F%2Fwww.sinaimg.cn%2Fdy%2Fslidenews%2F4_img%2F2015_17%2F704_1606236_728344.jpg&fm=30"></a><br>
+                        							    <a class="news-digest" href="http://www.yangtse.com/wenyu/2015-04-20/503098.html" target="_blank"   mon="a=9&p=2">李宇春再拍时尚大片 优雅酷帅尽显大长腿</a></li>
+											</ul>
+					</div>
+				</td>
+			</tr>
+		</table>
+	</div>
+	<!--三级子分类最新新闻-->
+
+	<div class="col2" style="padding-left: 1px;">
+            <!--10条子分类最新新闻，若不足3条，则不出该子栏目-->
+                    		<div class="box2 m10 height2" style="position:relative">
+		<h2>女性职场</h2>
+		<ul class="list">
+              			<li><nobr>&#8226;&nbsp;<a href="http://www.cnwnews.com/html/yule/cn_dssh/dsnd/20150421/711425.html" mon="a=1&p=1&z=nvrentx&pn=1" target="_blank">为创作 职场女人和我一晚三部曲</a><span class="s">09:19</span></nobr></li>
+              			<li><nobr>&#8226;&nbsp;<a href="http://info.cloth.hc360.com/2015/04/210929815191.shtml" mon="a=1&p=1&z=nvrentx&pn=2" target="_blank">韩版风衣气质搭配 内搭裙装最养眼【图】</a><span class="s">09:29</span></nobr></li>
+              			<li><nobr>&#8226;&nbsp;<a href="http://www.cnwnews.com/html/yule/cn_dssh/dsnd/20150421/711421.html" mon="a=1&p=1&z=nvrentx&pn=3" target="_blank">职场女白领保住饭碗七大“秘诀”</a><span class="s">09:19</span></nobr></li>
+              			<li><nobr>&#8226;&nbsp;<a href="http://www.cnwnews.com/html/yule/cn_dssh/dsnd/20150421/711422.html" mon="a=1&p=1&z=nvrentx&pn=4" target="_blank">职场与家庭：我和职场女人试衣间的往事</a><span class="s">09:17</span></nobr></li>
+              			<li><nobr>&#8226;&nbsp;<a href="http://www.cnwnews.com/html/yule/cn_dssh/dsnd/20150421/711418.html" mon="a=1&p=1&z=nvrentx&pn=5" target="_blank">职场女人不可缺八大利器</a><span class="s">09:17</span></nobr></li>
+              			<li><nobr>&#8226;&nbsp;<a href="http://www.cnwnews.com/html/yule/cn_dssh/dsnd/20150421/711417.html" mon="a=1&p=1&z=nvrentx&pn=6" target="_blank">经典名言保女人职场不败</a><span class="s">09:17</span></nobr></li>
+              			<li><nobr>&#8226;&nbsp;<a href="http://www.cnwnews.com/html/yule/cn_dssh/dsnd/20150421/711419.html" mon="a=1&p=1&z=nvrentx&pn=7" target="_blank">职场女人：故作矜持的女老师洗澡后很开放</a><span class="s">09:13</span></nobr></li>
+              			<li><nobr>&#8226;&nbsp;<a href="http://news.66wz.com/system/2015/04/20/104422664.shtml" mon="a=1&p=1&z=nvrentx&pn=8" target="_blank">浙江姑娘愿嫁的10种人 第三种非常重要！</a><span class="s">04-20 15:46</span></nobr></li>
+              			<li><nobr>&#8226;&nbsp;<a href="http://eye.39.net/a/150421/4611586.html" mon="a=1&p=1&z=nvrentx&pn=9" target="_blank">夏季眼睛干 多吃润燥食物</a><span class="s">09:25</span></nobr></li>
+              			<li><nobr>&#8226;&nbsp;<a href="http://yesee.qianlong.com/3910/2015/04/21/2523@10280262.htm" mon="a=1&p=1&z=nvrentx&pn=10" target="_blank">希拉里竞选总统还要玩转珠宝</a><span class="s">08:26</span></nobr></li>
+              		</ul>
+			<p class="more" style="position: absolute; top: 280px; width: 96%; text-align: right;"><a href="http://news.baidu.com/n?cmd=4&class=nvrentx&pn=1" target="_blank">更多女性职场新闻&gt;&gt;</a></p>
+		</div>
+                                		<div class="box2 m10 height2" style="position:relative">
+		<h2>型男时尚</h2>
+		<ul class="list">
+              			<li><nobr>&#8226;&nbsp;<a href="http://news.hexun.com/2015-04-20/175137655.html" mon="a=1&p=1&z=xingnanss&pn=1" target="_blank">1700万百姓为什么都喜欢鲜肉李易峰？</a><span class="s">04-20 17:04</span></nobr></li>
+              			<li><nobr>&#8226;&nbsp;<a href="http://jsnews.jschina.com.cn/system/2015/04/21/024432166.shtml" mon="a=1&p=1&z=xingnanss&pn=2" target="_blank">大龄男女闪婚闪离，父母惹的祸？专家：不公平</a><span class="s">08:42</span></nobr></li>
+              			<li><nobr>&#8226;&nbsp;<a href="http://news.k618.cn/pic/top/201504/t20150421_5935317.htm" mon="a=1&p=1&z=xingnanss&pn=3" target="_blank">汤唯白裙素雅精致 </a><span class="s">08:42</span></nobr></li>
+              			<li><nobr>&#8226;&nbsp;<a href="http://care.39.net/a/150421/4611499.html" mon="a=1&p=1&z=xingnanss&pn=4" target="_blank">剃须不正确易得毛囊炎等皮肤病</a><span class="s">09:25</span></nobr></li>
+              			<li><nobr>&#8226;&nbsp;<a href="http://yesee.qianlong.com/3910/2015/04/21/8845@10280027.htm" mon="a=1&p=1&z=xingnanss&pn=5" target="_blank">如何驾驭宽松H廓形背心裙</a><span class="s">07:59</span></nobr></li>
+              			<li><nobr>&#8226;&nbsp;<a href="http://www.sjfzxm.com/news/shishang/201504/20/444093.html" mon="a=1&p=1&z=xingnanss&pn=6" target="_blank">换季造型注重配饰 让你穿出完美形象</a><span class="s">04-20 15:00</span></nobr></li>
+              			<li><nobr>&#8226;&nbsp;<a href="http://news.gmw.cn/newspaper/2015-04/21/content_106078758.htm" mon="a=1&p=1&z=xingnanss&pn=7" target="_blank">公务人员礼仪之仪态握手 </a><span class="s">06:03</span></nobr></li>
+              			<li><nobr>&#8226;&nbsp;<a href="http://fashion.cankaoxiaoxi.com/2015/0421/749795.shtml" mon="a=1&p=1&z=xingnanss&pn=8" target="_blank">四月运动季 选经典款不会错</a><span class="s">06:04</span></nobr></li>
+              			<li><nobr>&#8226;&nbsp;<a href="http://cq.qq.com/a/20150420/019783.htm" mon="a=1&p=1&z=xingnanss&pn=9" target="_blank">大多重庆男不懂 在夏天该怎么穿袜子</a><span class="s">04-20 10:01</span></nobr></li>
+              			<li><nobr>&#8226;&nbsp;<a href="http://www.vogue.com.cn/beauty/fragrance/news_16535cdb4fbf3547.html" mon="a=1&p=1&z=xingnanss&pn=10" target="_blank">趣用香氛 叠“穿”香水的6个准则</a><span class="s">04-20 21:03</span></nobr></li>
+              		</ul>
+			<p class="more" style="position: absolute; top: 280px; width: 96%; text-align: right;"><a href="http://news.baidu.com/n?cmd=4&class=xingnanss&pn=1" target="_blank">更多型男时尚新闻&gt;&gt;</a></p>
+		</div>
+                    	</div>
+
+	<div class="clear"></div>
+	<!--二级焦点页之最新新闻-->
+	<!-- newnews begin -->
+	<div id="update" class="box2" style="margin-right:3px">
+		<h2>最新新闻</h2>
+		<div class="cnt">
+
+			<ul class="list">
+                            <!--为了满足除重需求，空循环10条-->
+                			                <!--为了满足除重需求，空循环10条-->
+                			                <!--为了满足除重需求，空循环10条-->
+                			                <!--为了满足除重需求，空循环10条-->
+                			                <!--为了满足除重需求，空循环10条-->
+                			                <!--为了满足除重需求，空循环10条-->
+                			                <!--为了满足除重需求，空循环10条-->
+                			                <!--为了满足除重需求，空循环10条-->
+                			                <!--为了满足除重需求，空循环10条-->
+                			                <!--为了满足除重需求，空循环10条-->
+                			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://www.jfdaily.com/life/new/201504/t20150421_1436133.html" mon="a=11&p=1&pn=11" target="_blank">阔腿牛仔裤遮小粗腿 巧搭复古范儿</a><span class="s">08:44</span><a href="http://news.baidu.com/n?cmd=5&class=chaoliufs&page=http%3A%2F%2Fwww.jfdaily.com%2Flife%2Fnew%2F201504%2Ft20150421_1436133.html&cls=chaoliufs" class="rnews">3条相关&gt;&gt;</a></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://www.7y7.com/fushi/51/135751.html" mon="a=11&p=1&pn=12" target="_blank">阔腿裤配什么上衣好看 时尚达人教穿出女人味</a><span class="s">08:41</span></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://info.texnet.com.cn/content/2015-04-21/512058.html" mon="a=11&p=1&pn=13" target="_blank">都市白领会穿衣 轻松彰显小资范儿(图)</a><span class="s">08:39</span><a href="http://news.baidu.com/n?cmd=5&class=chaoliufs&page=http%3A%2F%2Finfo.texnet.com.cn%2Fcontent%2F2015-04-21%2F512058.html&cls=chaoliufs" class="rnews">2条相关&gt;&gt;</a></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://info.texnet.com.cn/content/2015-04-21/512053.html" mon="a=11&p=1&pn=14" target="_blank">简单服装巧搭配 一样塑造时尚范儿(图)</a><span class="s">08:34</span><a href="http://news.baidu.com/n?cmd=5&class=chaoliufs&page=http%3A%2F%2Finfo.texnet.com.cn%2Fcontent%2F2015-04-21%2F512053.html&cls=chaoliufs" class="rnews">2条相关&gt;&gt;</a></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://lady.people.com.cn/n/2015/0421/c1014-26877806.html" mon="a=11&p=1&pn=15" target="_blank">衬衫裙的N种时髦 不止显瘦那么简单</a><span class="s">08:31</span><a href="http://news.baidu.com/n?cmd=5&class=chaoliufs&page=http%3A%2F%2Flady.people.com.cn%2Fn%2F2015%2F0421%2Fc1014-26877806.html&cls=chaoliufs" class="rnews">4条相关&gt;&gt;</a></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://info.texnet.com.cn/content/2015-04-21/512047.html" mon="a=11&p=1&pn=16" target="_blank">日常休闲装搭配技巧 简单低调单品穿出高街女王范..</a><span class="s">08:30</span><a href="http://news.baidu.com/n?cmd=5&class=chaoliufs&page=http%3A%2F%2Finfo.texnet.com.cn%2Fcontent%2F2015-04-21%2F512047.html&cls=chaoliufs" class="rnews">2条相关&gt;&gt;</a></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://yesee.qianlong.com/3910/2015/04/21/2523@10280211.htm" mon="a=11&p=1&pn=17" target="_blank">一根腰带勒出曼妙腰身</a><span class="s">08:22</span></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://news.qtv.com.cn/system/2015/04/21/012314499.shtml" mon="a=11&p=1&pn=18" target="_blank">组图：全智贤短裙美腿嫩滑 长发飘飘女人味足</a><span class="s">07:53</span><a href="http://news.baidu.com/n?cmd=5&class=chaoliufs&page=http%3A%2F%2Fnews.qtv.com.cn%2Fsystem%2F2015%2F04%2F21%2F012314499.shtml&cls=chaoliufs" class="rnews">2条相关&gt;&gt;</a></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://lady.people.com.cn/n/2015/0421/c1014-26876809.html" mon="a=11&p=1&pn=19" target="_blank">who is next queen?也许你要跟她们取经!</a><span class="s">07:49</span><a href="http://news.baidu.com/n?cmd=5&class=chaoliufs&page=http%3A%2F%2Flady.people.com.cn%2Fn%2F2015%2F0421%2Fc1014-26876809.html&cls=chaoliufs" class="rnews">3条相关&gt;&gt;</a></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://lady.people.com.cn/n/2015/0421/c1014-26876759.html" mon="a=11&p=1&pn=20" target="_blank">衬衫千万别规矩穿！5tips让衬衫变普通为时髦！</a><span class="s">07:45</span><a href="http://news.baidu.com/n?cmd=5&class=chaoliufs&page=http%3A%2F%2Flady.people.com.cn%2Fn%2F2015%2F0421%2Fc1014-26876759.html&cls=chaoliufs" class="rnews">3条相关&gt;&gt;</a></li>
+                    			</ul>
+			<ul class="list">
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://yesee.qianlong.com/3910/2015/04/21/8845@10279738.htm" mon="a=11&p=1&pn=21" target="_blank">明星告诉你10招瞬间变苗条</a><span class="s">07:13</span></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://fashion.cankaoxiaoxi.com/2015/0421/749798.shtml" mon="a=11&p=1&pn=22" target="_blank">范冰冰女神气场 衣品颜值秒杀baby</a><span class="s">06:11</span><a href="http://news.baidu.com/n?cmd=5&class=chaoliufs&page=http%3A%2F%2Ffashion.cankaoxiaoxi.com%2F2015%2F0421%2F749798.shtml&cls=chaoliufs" class="rnews">4条相关&gt;&gt;</a></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://fashion.cankaoxiaoxi.com/2015/0421/749799.shtml" mon="a=11&p=1&pn=23" target="_blank">还穿基本款牛仔裤就out啦 明星们都在穿这条</a><span class="s">06:11</span><a href="http://news.baidu.com/n?cmd=5&class=chaoliufs&page=http%3A%2F%2Ffashion.cankaoxiaoxi.com%2F2015%2F0421%2F749799.shtml&cls=chaoliufs" class="rnews">3条相关&gt;&gt;</a></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://news.xinhuanet.com/ent/2015-04/21/c_127711238.htm" mon="a=11&p=1&pn=24" target="_blank">苏菲 玛索拍《悦己》时尚大片 展灿烂笑容</a><span class="s">06:10</span><a href="http://news.baidu.com/n?cmd=5&class=chaoliufs&page=http%3A%2F%2Fnews.xinhuanet.com%2Fent%2F2015-04%2F21%2Fc_127711238.htm&cls=chaoliufs" class="rnews">2条相关&gt;&gt;</a></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://fashion.cankaoxiaoxi.com/2015/0421/749795.shtml" mon="a=11&p=1&pn=25" target="_blank">四月运动季 选经典款不会错</a><span class="s">06:04</span><a href="http://news.baidu.com/n?cmd=5&class=chaoliufs&page=http%3A%2F%2Ffashion.cankaoxiaoxi.com%2F2015%2F0421%2F749795.shtml&cls=chaoliufs" class="rnews">2条相关&gt;&gt;</a></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://fashion.27.cn/87/1618043.html" mon="a=11&p=1&pn=26" target="_blank">让你的街拍比明星更耀眼 8条黄金法则(1)</a><span class="s">01:23</span></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://fashion.27.cn/234/1618057.html" mon="a=11&p=1&pn=27" target="_blank">带你酷炫过春天 潮人最爱oversize牛仔外套(1)</a><span class="s">01:23</span><a href="http://news.baidu.com/n?cmd=5&class=chaoliufs&page=http%3A%2F%2Ffashion.27.cn%2F234%2F1618057.html&cls=chaoliufs" class="rnews">2条相关&gt;&gt;</a></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://fashion.27.cn/234/1618065.html" mon="a=11&p=1&pn=28" target="_blank">如何驾驭宽松H廓形背心裙 遮掉你那些不完美(1)</a><span class="s">01:23</span><a href="http://news.baidu.com/n?cmd=5&class=chaoliufs&page=http%3A%2F%2Ffashion.27.cn%2F234%2F1618065.html&cls=chaoliufs" class="rnews">2条相关&gt;&gt;</a></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://www.hongfen.org/fushi/99241.html" mon="a=11&p=1&pn=29" target="_blank">2015春季潮流单品 6款单品让你Hold住各种风格</a><span class="s">04-20 23:19</span></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://www.hongfen.org/fushi/99240.html" mon="a=11&p=1&pn=30" target="_blank">新式百褶裙复古高雅名媛气质 春日穿出仙范十足</a><span class="s">04-20 23:15</span></li>
+                                    						</ul>
+		</div>
+		<p class="more"><a href="http://news.baidu.com/n?cmd=4&class=chaoliufs&pn=1" target="_blank">更多潮流服饰新闻&gt;&gt;</a></p>
+	</div>
+
+	<!--若非国内分类的时政子分类-->
+	<!--ecombegin--><div id="rss">
+		<p><a href="http://news.baidu.com/n?cmd=1&class=chaoliufs&tn=rss" target="_blank"><img src="http://www.baidu.com/search/img/rss.gif"></a><a href="http://news.baidu.com/n?cmd=1&class=chaoliufs&tn=rss" target="_blank">RSS订阅<b>潮流服饰焦点</b>新闻</a></p>
+		<a href="http://www.baidu.com/search/rss.html#02" style="margin-left:46px;" target="_blank">→更多RSS订阅</a>
+	</div><!--ecomend-->
+		</div><!--content ends-->
+	</div><!-- page_body -->
+</div><!--main ends-->
+<script>
+document.write("<img src='http://news.baidu.com/mp/b.jpg?cmd=1&class=chaoliufs&cy=0&"+Math.random()+"' style='display:none;'>");
+document.write("<img id='cgif' src='http://c.baidu.com/c.gif?t=5&p=2&"+Math.random()+"' style='display:none'>");
+</script>
+</div>
+ <div id="ft" >
+<p>百度新闻搜索源于互联网新闻网站和频道，系自动分类排列，百度不刊登或转载任何完整的新闻内容</p>
+<font style="color:#7777CC;">&copy;2015 Baidu</font> <a href="http://www.baidu.com/duty/" class="cy">使用百度前必读</a> <a href="http://net.china.cn/chinese/index.htm" target=_blank><img src="http://gimg.baidu.com/img/net.gif"></a>&nbsp;<a href="http://www.bj.cyberpolice.cn/index.htm" target=_blank><img src="http://gimg.baidu.com/img/110.gif" alt="首都网络110报警服务"></a></div>
+
+<div id="backTopBtn" class="toTopOne" style="display:none;">
+<div class="feedback-img" id="feedbackbtn"></div>                                        
+<div class="totop-img" onclick="window.scrollTo(0, 0);"></div>
+</div>
+</div>
+<div id="feedback" style="display:none;">
+<iframe id="postpage" name="postpage" style="height:0;width:0;display:block;border:none;"></iframe>
+<form id="feedbackForm" action="http://api.baiyue.baidu.com/sn/api/feedback" method="post" target="postpage" accept-charset="utf-8" >
+<h2><span>1</span>请选择问题分类：</h2>
+<div id="tab" class="tang-ui tang-tab" tang-param="originalIndex: 0;">
+<ul class="tang-tab-title">
+<li class="tang-tab-title-item">
+<a href="#" onclick="return false;" hidefocus="true"><span>使用不方便</span></a>
+</li>
+<li class="tang-tab-title-item">
+<a href="#" onclick="return false;" hidefocus="true"><span>新闻不好看</span></a>
+</li>
+<li class="tang-tab-title-item">
+<a href="#" onclick="return false;" hidefocus="true"><span>无线与客户端</span></a>
+</li>
+<li class="tang-tab-title-item">
+<a href="#" onclick="return false;" hidefocus="true"><span>新闻源相关</span></a>
+</li>
+<li class="tang-tab-title-item">
+<a href="#" onclick="return false;" hidefocus="true"><span>提建议</span></a>
+</li>
+</ul>
+<div class="tang-tab-body">
+<div class="tang-tab-body-item"><textarea default-value="使用不方便" maxlength="1000"></textarea></div>
+<div class="tang-tab-body-item"><textarea default-value="新闻不好看" maxlength="1000"></textarea></div>
+<div class="tang-tab-body-item"><textarea default-value="无线与客户端" maxlength="1000"></textarea></div>
+<div class="tang-tab-body-item"><textarea default-value="新闻源相关" maxlength="1000"></textarea></div>
+<div class="tang-tab-body-item"><textarea default-value="提建议" maxlength="1000" ></textarea></div>
+</div>
+</div>
+
+<h2><span>2</span>请留下联系方式，您将有机会获得精美礼品！</h2>
+<div class="feedback-contact" id="feedback-contact">
+<div class="box"><input type="text" value="QQ/邮箱/电话" default-value="QQ/邮箱/电话" name="contact" maxlength="50"/></div>
+<div class="des">(可选)</div>
+<div style="clear:both;"></div>
+</div>
+<div class="sub-btn" id="sub-btn"></div>
+<input type="hidden" name="msg" />
+<input type="hidden" name="mid" value="news_pc" />
+</form>
+</div>
+<div id="feedbacklink" style="display:none"></div>
+
+
+<style type="text/css">
+.toTopOne {
+    width: 25px;
+    height: 150px;
+    position: fixed;
+    left: 50%;
+    margin-left: 493px;
+    bottom: 100px;
+    display: none;
+    cursor: pointer;
+    top: 749px;
+}
+.feedback-img{
+    height:74px;
+    background:url(/resource/img/feedback_return.gif) no-repeat 0 0;
+}
+.totop-img{
+    height:74px;
+    margin-top:3px;
+    background:url(/resource/img/feedback_return.gif) no-repeat 0 -77px;
+}
+#ecom_2{
+    font-size:0;
+    line-height:0;
+    width:960px;
+    padding:10px 11px;
+    border:1px solid #ededed;
+}
+</style>
+
+</div>
+
+<link href="http://news.baidu.com/resource/css/focustop_feedback.css?v=201212201032" rel="stylesheet" type="text/css"></link>
+<script type="text/javascript" src="http://news.baidu.com/resource/js/channel_feedback.js?v=201301201816"></script>
+
+<script type="text/javascript">
+/*
+baidu.dom.ready(function(){
+if(baidu.g('nav-hot-link')){
+    baidu.sio.callByBrowser('http://news.baidu.com/z/data/json/cms_page_data.json?v='+new Date().getTime(), function(){
+        baidu.dom.setAttr('nav-hot-link','href',CMS_PAGE_DATA['focustop']['nav_hot_link']);
+
+    });
+}
+});
+*/
+</script>
+<script>
+	if (navigator.cookieEnabled && !/sug?=0/.test(document.cookie)){document.write('<script src=resource/js/browser_sug_new.js><'+'/script>')};
+</script>
+<script>
+if(typeof BAIDU_CLB_fillSlotAsync != 'undefined' && document.getElementById("ecom_2")){
+    BAIDU_CLB_fillSlotAsync('639905', 'ecom_2');
+}
+</script>
+
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fe9e114d958ea263de46e080563e254c4' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+<script type="text/javascript">
+baidu.dom.query('img').each(function(index, item){	
+
+	if(/eiv.baidu.com\/hmt\/icon/.test(baidu.dom.getAttr(item, 'src'))){
+		item.style.display = 'none';		
+	}
+
+});
+</script>
+
+
+</body>
+</html>
+
+
+<!--ecombegin--><script type="text/javascript">enterState("", "");</script><!--ecomend-->

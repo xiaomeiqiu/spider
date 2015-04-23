@@ -1,0 +1,1112 @@
+<!DOCTYPE html>
+<!--STATUS OK-->
+<html>
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>百度百家--标签列表</title>
+
+	<script src="/static/js/clickMonitor.js?v=20131212"></script>
+	<script type="text/javascript" src="/static/js/usermonitor.js?v=1.1"></script>
+    <script src="/static/js/baiduTemplate.js?v=20131212"></script>
+    <link href="/static/css/all_7f51415.css" type="text/css" rel="stylesheet"/>
+<script src="/static/js/libs/tangram/tangram-1.5.2.2.js?v=20130128" type="text/javascript"></script>
+<script src="/static/js/libs/jquery/jquery.min.js?v=20131212" type="text/javascript"></script>
+<script src="/static/js/libs/jquery/jquery.cookie.js" type="text/javascript"></script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?7fe4ae9e1d0d01bcf748d066979cd2aa";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+
+    <script>
+        var on=baidu.event.on;Fe = baidu;
+        var PAGE_DATA = {
+                page:1,
+                pagesize:20,
+                labelid:'12752',
+                artical_list_num: 20
+             }
+    </script>
+   
+</head>
+<body class="bg">
+<style>
+#menu{height:60px;border-right:none;left:240px;}
+#menu a{color:#333;height:21px;width:70px;line-height:21px;position:relative;top:20px;margin:0 10px;border:0!important;}
+#menu a:hover{background: none;text-decoration: none;color:#2393df;}
+#menu a.current{background:none;color:#2393df;}
+#menu a.current:hover{background:none;text-decoration: none;}
+#menu a span{width:70px;height:1px;display:block;margin:19px auto 0px;_margin-top:-4px;}
+#menu a:hover span,#menu a.current span{border-bottom:4px solid #2393df;}
+.top-main{position:relative;width:982px;margin:0 auto;height:0px;}
+.top-main a{display: block;width:192px;height:68px;background: url(/static/images/03.png) no-repeat;text-decoration: none;top:-62px;left:0px;position:absolute;z-index:9999;}
+.search{position:absolute;right:230px;top:15px;height:30px;}
+.search_box{width:auto;height:100%;padding-right:5px;padding-left:28px;overflow:hidden;}
+.search_form{position: relative;width:195px;height:28px;border:1px solid #ccc;background: #FAFAFA;}
+.search_txt{display:block;position: absolute;top:4px;left:28px;font-size:14px;font-family:"宋体","Hiragino Sans GB";color:#c2c2c2;}
+.search_input{width:100%;height:26px;line-height:26px;display:block;border:none;border-width: 0px;background: #FAFAFA;}
+.search_btn{position: absolute;top: 0px;left: 0px;display:block;width:28px;height:28px;text-align:center;line-height: 24px;}
+.search_submit{background: url(/static/images/header_search_icon.png) no-repeat;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled='true',sizingMethod='scale',src='/static/images/header_search_icon.png');_background:none;width:16px;height:16px;border:none;cursor:pointer;*margin-top:5px;}
+#header{background:#fff;border-bottom:2px solid #EEE;height:60px;}
+#usrbar{top:20px}
+#usrbar .header_baidu,
+#usrbar .header_home,
+#usrbar .header_person{color:#666;display:inline-block;*display:inline;*zoom:1;height:18px;padding: 0 3px; vertical-align: top}
+
+.userbox{position:relative;width:100%;height:0px;left:0px;z-index:9999;}
+.userbox ul{position:absolute;top:0px;right:0px;border: 1px solid #999;width:80px;height:60px;background:#fff;padding:0px;overflow:hidden;*clear:both;}
+.userbox li{width:100%;height:30px;margin:0px;}
+#usrbar li a{height:100%;display:block;line-height:30px;padding:0px 0px 0px 5px;}
+#usrbar li a:hover{background:none repeat scroll 0 0 #ebebeb; text-decoration: none}
+#register{width:26px;}
+#usrbar .header_person:hover,
+#usrbar .header_baidu:hover,
+#usrbar .header_home:hover{color:#2393df;cursor:pointer;}
+
+#login_user{display:inline-block;*display:inline;*zoom:1;position:relative; vertical-align: top;width:100px;margin-right:5px;}
+#loged{width:100px; text-align: right;overflow: hidden;white-space: normal;word-wrap: break-word;word-break: break-all;color:#666;display:block;height:18px;padding: 0 6px!important;}
+</style>
+<script type='text/javascript' src='http://passport.baidu.com/passApi/js/uni_login_wrapper.js?cdnversion=201504212146'></script>
+<div id="header" alog-group="log-header">
+	<div class="header-content">
+        <div id="menu"><a href="http://baijia.baidu.com"  style="border-left:0px;">首页<span></span></a><a href="http://baijia.baidu.com/?tn=listauthor" >作家<span></span></a><a href="http://baijia.baidu.com/?tn=listtopic" >争鸣<span></span></a></div>
+
+<div class="search">
+  <form method="get" action="http://baijia.baidu.com/" class="search_form" onSubmit="return chkForm(this);">
+    <span title="搜索" alt="搜索" class="search_btn">
+      <input type="submit" class="search_submit" value="">
+    </span>
+    <div class="search_box" >
+      <label for="search" class="search_txt" id="search_txt"></label>
+      <input type="hidden" name="tn" value="search">
+      <input type="text" id="search" maxlength="50" name="word" autocomplete="off" class="search_input">
+    </div>
+  </form>
+</div>
+        <div id="usrbar">
+                    <a href="javascript:void(0);" id="login" class="header_person" >登录</a>
+          <a href="http://news.baidu.com" class="header_home" target="_blank">新闻首页</a>
+          <a class="header_baidu" target="_blank" href="http://www.baidu.com">百度</a>
+        </div>
+	</div>
+</div>
+<div class="top-main"><a href="http://baijia.baidu.com" ></a></div>
+<script>
+(function(baidu, undefined) {
+    window.instance = passport.pop.init({
+         apiOpt: {
+             staticPage: 'http://'+location.host+'/static/html/v3Jump.html',
+             product: 'xw1',
+             memberPass: true,
+             charset:'utf-8',
+             u:location.href,
+             safeFlag: 0
+         },
+         authsite:['tsina','renren','qzone','tqq'],
+	       authsiteCfg:{act:'implicit'},
+         tangram: true,
+         onLoginSuccess: function (args) {
+            // 发送统计日志统计pc主动登陆用户UV
+            args.returnValue = false;
+            sendLog({
+                m: 52,
+                a: 0,
+                args: args
+            });
+         },
+         onShow: function () {
+            sendLog({
+                m: 52,
+                a: 2
+            });
+         }
+    });
+    baidu.on('login', 'click', function(event) {
+         baidu.event.preventDefault(event || window.event);
+         sendLog({
+            m: 52,
+            a: 1
+         });
+         instance.show();
+    });
+})(window.baidu);
+
+function sendLog(option) {
+  var url = 'http://nsclick.baidu.com/v.gif?pid=107&m=' + option.m + '&a=' + option.a + '&v=' + new Date().getTime();
+
+  $('<img/>')
+    .one('load', function() {
+        if (option.args){
+            location.href = option.args.rsp.data.u;
+        }
+    })
+    .each(function() {
+      if(this.complete) $(this).load();
+    })
+    .attr('src', url);
+}
+</script>
+<script type="text/javascript">
+	var __search = baidu.g("search") ;
+	__search && baidu.on(__search, 'blur', function(e){
+		if(!__search.value){
+			baidu.show('search_txt');
+		}
+	});
+	__search && baidu.on(__search, 'focus', function(e){
+		baidu.hide('search_txt');
+	});
+	function chkForm(e){
+		if(!__search.value){
+			return false;
+		}
+		return true ;
+	};
+</script>
+<script type="text/javascript">
+	var __login_user = baidu.g("login_user");
+	var __userbox = baidu.g("userbox"),myTimeout;
+  var uid="";
+	__login_user && baidu.on(__login_user,'mouseenter',function(e){
+    if(myTimeout){
+      clearTimeout(myTimeout);
+    }
+		baidu.show("userbox");
+	});
+	__login_user && baidu.on(__login_user,'mouseleave',function(e){
+    myTimeout = setTimeout(function(){
+      baidu.hide("userbox");
+    },500);
+
+	});
+	var __logout = baidu.g("logout");
+	if(__logout){
+    var uhref = encodeURIComponent(location.href) ;
+    if(uhref.indexOf("userinfo") > 0 ){
+      __logout.href="http://passport.rdtest.baidu.com/?logout&u="+encodeURIComponent("http://baijia.baidu.com/");
+    }else{
+      __logout.href="http://passport.rdtest.baidu.com/?logout&u="+uhref;
+    }
+
+  }
+  if(!uid){
+    $('#cmtbox textarea') && $('#cmtbox textarea').val('');
+  }
+
+</script>
+
+
+<div id="body" class="clearfix">
+<style>
+.time_box{position:relative;width:100%;height:0px;}
+.time_box .box{position:absolute;right:0px;top:-60px;height:54px;width:auto;}
+.time_box .time{float:left;padding-right: 10px;}
+.time_box .vline{float:left;height:100%;width:0px;border-right:1px solid #DFDFDF;}
+.time_box .total{float:left;padding-left:10px;}
+.time_box span{display:block;text-align:center;}
+.time_box .num{font-family:"Arial";color:#999;font-size:24px;}
+.time_box .txt{font-family:"Arial";color:#ccc;font-size:10px;}
+.time_box .select{display:block;width:10px;height:6px;background:url(/static/images/label_select.png) no-repeat;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled='true',sizingMethod='scale',src='/static/images/label_select.png');_background:none;position:absolute;top:-40px;left:75px;}
+#page_title{padding:0px;}
+#page_title h1{padding-left:0px;border-left:0px;font-size:30px;color:#333;padding-bottom: 20px;margin-bottom: 0px;border-bottom: 1px solid #DDDDDD;}
+
+
+.l-main-col{border:none;background:none;}
+.l-right-col{border:none;background:none;padding-top:17px;padding-right:0px;}
+.bottomline{border-bottom: 1px solid #e6e6e6;height: 0px;width: 100%;}
+</style>
+    <div class="l-main-col">
+ 		<div id="page_title">
+             <h1>机器人</h1>
+             	 	</div>
+        <div class="feeds" id="feeds">
+                  <div class="feeds-item notb" id="item-53109">
+            <div class="feeds-item-detail clearfix hasImg">
+                                <p class="feeds-item-pic"><a href="http://liurui.baijia.baidu.com/article/53109" target="_blank" class="feeds-item-more" mon="col=13&pn=1&a=12"><img src="http://g.hiphotos.baidu.com/news/pic/item/622762d0f703918f9e93e42f553d269758eec491.jpg"/></a></p>
+                                <h3><a href="http://liurui.baijia.baidu.com/article/53109" target="_blank" mon="col=13&pn=1">机器人时代的5个入口（一）</a></h3>
+                <p class="feeds-item-text">我们自觉或不自觉地从移动互联网开始进入另一个时代，就是智能硬件时代或者说是IOT物联网时代, 其实，为了更好的理解，我们其实正在进入机器人时代，也就是RT时代。<a href="http://liurui.baijia.baidu.com/article/53109" target="_blank" class="feeds-item-more" mon="col=13&pn=1">[详细]</a></p>
+                <div class="feeds-item-info">
+                    <p class="labels">
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=10151" target="_blank">互联网
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=12752" target="_blank">机器人
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=28225" target="_blank">RT时代
+                        </a>
+                                        </p>
+                                        <a href="http://liurui.baijia.baidu.com" class="feeds-item-author" target="_blank">刘二筒</a>
+                                        <span class="tm">04-10</span>
+                    <span class="count">阅读（705）</span>
+                    <a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>
+                </div>
+            </div>
+        </div>
+                  <div class="feeds-item " id="item-52631">
+            <div class="feeds-item-detail clearfix hasImg">
+                                <p class="feeds-item-pic"><a href="http://lishuhang.baijia.baidu.com/article/52631" target="_blank" class="feeds-item-more" mon="col=13&pn=2&a=12"><img src="http://f.hiphotos.baidu.com/news/crop%3D0%2C0%2C750%2C450%3Bw%3D638/sign=d2ddd4321e4c510fba8bb85a5d69091d/f11f3a292df5e0feccbc83fb586034a85fdf72a7.jpg"/></a></p>
+                                <h3><a href="http://lishuhang.baijia.baidu.com/article/52631" target="_blank" mon="col=13&pn=2">人形机器人可能都得向谷歌交授权费</a></h3>
+                <p class="feeds-item-text">丧失自我意识是我们人类最可怕的事情。然而目前我们显然没有把机器人当人，我们把掌握机器人的“精神个性”当做它们的一种必要功能。<a href="http://lishuhang.baijia.baidu.com/article/52631" target="_blank" class="feeds-item-more" mon="col=13&pn=1">[详细]</a></p>
+                <div class="feeds-item-info">
+                    <p class="labels">
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=12752" target="_blank">机器人
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=10213" target="_blank">谷歌
+                        </a>
+                                        </p>
+                                        <a href="http://lishuhang.baijia.baidu.com" class="feeds-item-author" target="_blank">李书航</a>
+                                        <span class="tm">04-07</span>
+                    <span class="count">阅读（5万）</span>
+                    <a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>
+                </div>
+            </div>
+        </div>
+                  <div class="feeds-item " id="item-48973">
+            <div class="feeds-item-detail clearfix hasImg">
+                                <p class="feeds-item-pic"><a href="http://wangguanxiong.baijia.baidu.com/article/48973" target="_blank" class="feeds-item-more" mon="col=13&pn=3&a=12"><img src="http://a.hiphotos.baidu.com/news/crop%3D0%2C91%2C872%2C523%3Bw%3D638/sign=15141f444d540923be26393eaf68fd30/ac345982b2b7d0a29451e5facfef76094b369a39.jpg"/></a></p>
+                                <h3><a href="http://wangguanxiong.baijia.baidu.com/article/48973" target="_blank" mon="col=13&pn=3">浅谈机器人、人工智能及工业4.0</a></h3>
+                <p class="feeds-item-text">1、 
+网上有个比较戏谑的说法“工业4.0时代世界不带中国玩”，可能有些偏颇，那您觉得这种说法有道理吗？您觉得中国发展工业4.0的最大软肋在哪？有哪些国家的具体经验可以借鉴吗？<a href="http://wangguanxiong.baijia.baidu.com/article/48973" target="_blank" class="feeds-item-more" mon="col=13&pn=1">[详细]</a></p>
+                <div class="feeds-item-info">
+                    <p class="labels">
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=12752" target="_blank">机器人
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=10523" target="_blank">人工智能
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=14539" target="_blank">工业4.0
+                        </a>
+                                        </p>
+                                        <a href="http://wangguanxiong.baijia.baidu.com" class="feeds-item-author" target="_blank">王冠雄</a>
+                                        <span class="tm">03-10</span>
+                    <span class="count">阅读（6681）</span>
+                    <a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>
+                </div>
+            </div>
+        </div>
+                  <div class="feeds-item " id="item-48493">
+            <div class="feeds-item-detail clearfix hasImg">
+                                <p class="feeds-item-pic"><a href="http://heshuai.baijia.baidu.com/article/48493" target="_blank" class="feeds-item-more" mon="col=13&pn=4&a=12"><img src="http://b.hiphotos.baidu.com/news/crop%3D29%2C0%2C675%2C405%3Bw%3D638/sign=956bf70beff81a4c327db689ea185975/b151f8198618367a43ec3aa22a738bd4b31ce56c.jpg"/></a></p>
+                                <h3><a href="http://heshuai.baijia.baidu.com/article/48493" target="_blank" mon="col=13&pn=4">猜测：人工智能的最终走向</a></h3>
+                <p class="feeds-item-text">在最近几年，生物技术逐渐同信息、人工智能等技术越走越近。为什么？因为科学家也意识到，凭空创造“机器人”，不如改造“人”本身。<a href="http://heshuai.baijia.baidu.com/article/48493" target="_blank" class="feeds-item-more" mon="col=13&pn=1">[详细]</a></p>
+                <div class="feeds-item-info">
+                    <p class="labels">
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=10854" target="_blank">科技
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=12752" target="_blank">机器人
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=10523" target="_blank">人工智能
+                        </a>
+                                        </p>
+                                        <a href="http://heshuai.baijia.baidu.com" class="feeds-item-author" target="_blank">小编也疯狂</a>
+                                        <span class="tm">03-07</span>
+                    <span class="count">阅读（2万）</span>
+                    <a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>
+                </div>
+            </div>
+        </div>
+                  <div class="feeds-item " id="item-48163">
+            <div class="feeds-item-detail clearfix hasImg">
+                                <p class="feeds-item-pic"><a href="http://wangxiaoliu.baijia.baidu.com/article/48163" target="_blank" class="feeds-item-more" mon="col=13&pn=5&a=12"><img src="http://f.hiphotos.baidu.com/news/crop%3D20%2C0%2C563%2C338%3Bw%3D638/sign=3450b0d0ad014c080d7472e537493224/0eb30f2442a7d93315e1d90aa94bd11373f00179.jpg"/></a></p>
+                                <h3><a href="http://wangxiaoliu.baijia.baidu.com/article/48163" target="_blank" mon="col=13&pn=5">硬件温吞吞，那机器人能颠覆一切？</a></h3>
+                <p class="feeds-item-text">“不会太普遍也不会太出色”，曾发明了“机器人三原则”的科幻作者阿西莫夫曾精准预测了2014年的机器人现实。<a href="http://wangxiaoliu.baijia.baidu.com/article/48163" target="_blank" class="feeds-item-more" mon="col=13&pn=1">[详细]</a></p>
+                <div class="feeds-item-info">
+                    <p class="labels">
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=11254" target="_blank">智能硬件
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=10523" target="_blank">人工智能
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=12752" target="_blank">机器人
+                        </a>
+                                        </p>
+                                        <a href="http://wangxiaoliu.baijia.baidu.com" class="feeds-item-author" target="_blank">王小琉</a>
+                                        <span class="tm">03-05</span>
+                    <span class="count">阅读（8万）</span>
+                    <a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>
+                </div>
+            </div>
+        </div>
+                  <div class="feeds-item " id="item-47236">
+            <div class="feeds-item-detail clearfix hasImg">
+                                <p class="feeds-item-pic"><a href="http://kangsitanding.baijia.baidu.com/article/47236" target="_blank" class="feeds-item-more" mon="col=13&pn=6&a=12"><img src="http://b.hiphotos.baidu.com/news/crop%3D0%2C12%2C600%2C360%3Bw%3D638/sign=eddadd6ec8bf6c81e37876a8810e9d04/b90e7bec54e736d15e76b50e9f504fc2d562694a.jpg"/></a></p>
+                                <h3><a href="http://kangsitanding.baijia.baidu.com/article/47236" target="_blank" mon="col=13&pn=6">这些行业的人2015年将会失业</a></h3>
+                <p class="feeds-item-text">​随着机器人的迅速发展,很多人可能会质疑在未来什么样的工作将会被机器人替代。虽然对我们来说这只是一个特殊的想法，但研究人员在过去的两年里发表了两个独立的报道：预测扩大机器工人使用的时代即将来临。<a href="http://kangsitanding.baijia.baidu.com/article/47236" target="_blank" class="feeds-item-more" mon="col=13&pn=1">[详细]</a></p>
+                <div class="feeds-item-info">
+                    <p class="labels">
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=10523" target="_blank">人工智能
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=19978" target="_blank">未来科技
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=12752" target="_blank">机器人
+                        </a>
+                                        </p>
+                                        <a href="http://kangsitanding.baijia.baidu.com" class="feeds-item-author" target="_blank">康斯坦丁</a>
+                                        <span class="tm">02-25</span>
+                    <span class="count">阅读（2万）</span>
+                    <a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>
+                </div>
+            </div>
+        </div>
+                  <div class="feeds-item " id="item-46823">
+            <div class="feeds-item-detail clearfix hasImg">
+                                <p class="feeds-item-pic"><a href="http://ningyu.baijia.baidu.com/article/46823" target="_blank" class="feeds-item-more" mon="col=13&pn=7&a=12"><img src="http://f.hiphotos.baidu.com/news/crop%3D0%2C0%2C640%2C384%3Bw%3D638/sign=5d034c6ca94bd1131082ed72679f883f/58ee3d6d55fbb2fbd680f00d4b4a20a44623dc02.jpg"/></a></p>
+                                <h3><a href="http://ningyu.baijia.baidu.com/article/46823" target="_blank" mon="col=13&pn=7">透过“红包插件”看机器人世界</a></h3>
+                <p class="feeds-item-text">0今年的移动互联网红包大战精彩纷呈，其中一个话题就是“机器人”的参与。在不同的群里，我已经体验到“机器人”对微信红包，乃至对人类世界的影响了。<a href="http://ningyu.baijia.baidu.com/article/46823" target="_blank" class="feeds-item-more" mon="col=13&pn=1">[详细]</a></p>
+                <div class="feeds-item-info">
+                    <p class="labels">
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=12752" target="_blank">机器人
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=26667" target="_blank">插件
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=10669" target="_blank">红包
+                        </a>
+                                        </p>
+                                        <a href="http://ningyu.baijia.baidu.com" class="feeds-item-author" target="_blank">宁宇</a>
+                                        <span class="tm">02-21</span>
+                    <span class="count">阅读（3万）</span>
+                    <a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>
+                </div>
+            </div>
+        </div>
+                  <div class="feeds-item " id="item-46125">
+            <div class="feeds-item-detail clearfix hasImg">
+                                <p class="feeds-item-pic"><a href="http://zhengkai.baijia.baidu.com/article/46125" target="_blank" class="feeds-item-more" mon="col=13&pn=8&a=12"><img src="http://d.hiphotos.baidu.com/news/crop%3D0%2C0%2C620%2C372%3Bw%3D638/sign=d16c932a7ff40ad101ab9da36a1c3def/ac345982b2b7d0a2d7e3a08fcfef76094b369afe.jpg"/></a></p>
+                                <h3><a href="http://zhengkai.baijia.baidu.com/article/46125" target="_blank" mon="col=13&pn=8">京东机密 智能机器人原来是萝莉</a></h3>
+                <p class="feeds-item-text">抱着对人工智能的极大兴趣，却意外的遇到一个机器人萝莉......一切都是个意外！谁又能想到承担了京东客服业务30%的智能机器人是个小萝莉呢？！<a href="http://zhengkai.baijia.baidu.com/article/46125" target="_blank" class="feeds-item-more" mon="col=13&pn=1">[详细]</a></p>
+                <div class="feeds-item-info">
+                    <p class="labels">
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=10174" target="_blank">京东
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=12752" target="_blank">机器人
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=10523" target="_blank">人工智能
+                        </a>
+                                        </p>
+                                        <a href="http://zhengkai.baijia.baidu.com" class="feeds-item-author" target="_blank">郑凯</a>
+                                        <span class="tm">02-13</span>
+                    <span class="count">阅读（3272）</span>
+                    <a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>
+                </div>
+            </div>
+        </div>
+                  <div class="feeds-item " id="item-45529">
+            <div class="feeds-item-detail clearfix hasImg">
+                                <p class="feeds-item-pic"><a href="http://zhangjiangjian.baijia.baidu.com/article/45529" target="_blank" class="feeds-item-more" mon="col=13&pn=9&a=12"><img src="http://c.hiphotos.baidu.com/news/crop%3D0%2C31%2C501%2C301%3Bw%3D638/sign=17bf2fde55da81cb5aa9d98d6f56fc25/bd3eb13533fa828b1ccf5ac9f91f4134970a5a28.jpg"/></a></p>
+                                <h3><a href="http://zhangjiangjian.baijia.baidu.com/article/45529" target="_blank" mon="col=13&pn=9">人类为什么需要人工智能？</a></h3>
+                <p class="feeds-item-text">大量事实证明，今天硬件复兴了，也带动了人工智能的复兴。随着移动互联网、物联网、大数据、云计算等核心关键技术的大发展大突破，这个星球上的一切硬件都在面临着被智能化，而人类对智能化的终极追求就是实现人工<a href="http://zhangjiangjian.baijia.baidu.com/article/45529" target="_blank" class="feeds-item-more" mon="col=13&pn=1">[详细]</a></p>
+                <div class="feeds-item-info">
+                    <p class="labels">
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=10523" target="_blank">人工智能
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=12752" target="_blank">机器人
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=11254" target="_blank">智能硬件
+                        </a>
+                                        </p>
+                                        <a href="http://zhangjiangjian.baijia.baidu.com" class="feeds-item-author" target="_blank">张江健</a>
+                                        <span class="tm">02-09</span>
+                    <span class="count">阅读（2万）</span>
+                    <a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>
+                </div>
+            </div>
+        </div>
+                  <div class="feeds-item " id="item-45243">
+            <div class="feeds-item-detail clearfix hasImg">
+                                <p class="feeds-item-pic"><a href="http://yeyuan.baijia.baidu.com/article/45243" target="_blank" class="feeds-item-more" mon="col=13&pn=10&a=12"><img src="http://h.hiphotos.baidu.com/news/crop%3D0%2C0%2C400%2C240%3Bw%3D638/sign=2ec64de686025aafc77d248bc6dd8754/9922720e0cf3d7ca841e3450f61fbe096b63a928.jpg"/></a></p>
+                                <h3><a href="http://yeyuan.baijia.baidu.com/article/45243" target="_blank" mon="col=13&pn=10">机器时代端倪初现，我们要害怕吗？</a></h3>
+                <p class="feeds-item-text">江苏一火锅店因为用工荒想出了一个法子–买机器人做服务员。写新闻的机器人，已经开始规模化写作。人们是不是一天会被机器代替已经成为一个越来越严峻的问题。<a href="http://yeyuan.baijia.baidu.com/article/45243" target="_blank" class="feeds-item-more" mon="col=13&pn=1">[详细]</a></p>
+                <div class="feeds-item-info">
+                    <p class="labels">
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=12752" target="_blank">机器人
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=10523" target="_blank">人工智能
+                        </a>
+                                        </p>
+                                        <a href="http://yeyuan.baijia.baidu.com" class="feeds-item-author" target="_blank">白鼠窝</a>
+                                        <span class="tm">02-06</span>
+                    <span class="count">阅读（2158）</span>
+                    <a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>
+                </div>
+            </div>
+        </div>
+                  <div class="feeds-item " id="item-45077">
+            <div class="feeds-item-detail clearfix hasImg">
+                                <p class="feeds-item-pic"><a href="http://kangsitanding.baijia.baidu.com/article/45077" target="_blank" class="feeds-item-more" mon="col=13&pn=11&a=12"><img src="http://c.hiphotos.baidu.com/news/crop%3D9%2C0%2C982%2C589%3Bw%3D638/sign=6d84486b9a2f07084b4a7040d41d94a9/d439b6003af33a8703025a3ec25c10385343b5a3.jpg"/></a></p>
+                                <h3><a href="http://kangsitanding.baijia.baidu.com/article/45077" target="_blank" mon="col=13&pn=11">蜷缩在泡沫里的机器人</a></h3>
+                <p class="feeds-item-text">现在，中国的机器人行业非常火，已经火到不能再火，在刚刚过去的2014年被业称为“机器人元年”，琳琅满目的企业通过不同的方式涉足机器人领域。据不完全统计，截止到2014年底，有70余家上市公司并购或者<a href="http://kangsitanding.baijia.baidu.com/article/45077" target="_blank" class="feeds-item-more" mon="col=13&pn=1">[详细]</a></p>
+                <div class="feeds-item-info">
+                    <p class="labels">
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=12752" target="_blank">机器人
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=10523" target="_blank">人工智能
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=26225" target="_blank">机器产业
+                        </a>
+                                        </p>
+                                        <a href="http://kangsitanding.baijia.baidu.com" class="feeds-item-author" target="_blank">康斯坦丁</a>
+                                        <span class="tm">02-05</span>
+                    <span class="count">阅读（2万）</span>
+                    <a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>
+                </div>
+            </div>
+        </div>
+                  <div class="feeds-item " id="item-44854">
+            <div class="feeds-item-detail clearfix hasImg">
+                                <p class="feeds-item-pic"><a href="http://wangxiwen.baijia.baidu.com/article/44854" target="_blank" class="feeds-item-more" mon="col=13&pn=12&a=12"><img src="http://f.hiphotos.baidu.com/news/crop%3D0%2C24%2C909%2C545%3Bw%3D638/sign=b47959e8868ba61ecba1926f7c04bb38/d1a20cf431adcbef73452124a8af2edda3cc9f9a.jpg"/></a></p>
+                                <h3><a href="http://wangxiwen.baijia.baidu.com/article/44854" target="_blank" mon="col=13&pn=12">日本《机器人新战略》的三大目标</a></h3>
+                <p class="feeds-item-text">2015年1月23日，日本政府公布了《机器人新战略》。<a href="http://wangxiwen.baijia.baidu.com/article/44854" target="_blank" class="feeds-item-more" mon="col=13&pn=1">[详细]</a></p>
+                <div class="feeds-item-info">
+                    <p class="labels">
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=12752" target="_blank">机器人
+                        </a>
+                                        </p>
+                                        <a href="http://wangxiwen.baijia.baidu.com" class="feeds-item-author" target="_blank">王喜文</a>
+                                        <span class="tm">02-03</span>
+                    <span class="count">阅读（3746）</span>
+                    <a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>
+                </div>
+            </div>
+        </div>
+                  <div class="feeds-item " id="item-44840">
+            <div class="feeds-item-detail clearfix hasImg">
+                                <p class="feeds-item-pic"><a href="http://maxiangyang.baijia.baidu.com/article/44840" target="_blank" class="feeds-item-more" mon="col=13&pn=13&a=12"><img src="http://f.hiphotos.baidu.com/news/crop%3D0%2C18%2C550%2C330%3Bw%3D638/sign=fe9ca3119645d688b74de8e499f2512f/5fdf8db1cb13495434428246524e9258d1094ab7.jpg"/></a></p>
+                                <h3><a href="http://maxiangyang.baijia.baidu.com/article/44840" target="_blank" mon="col=13&pn=13">脑波控制万物  人类将毁于机器人？</a></h3>
+                <p class="feeds-item-text">利用脑电波控制机器人，还只是眼下人机交换和相互学习技术的开始。在不远的将来，当人、机充分结合时，机器不仅有和人类一样的智慧，而且机器也能通过自我学习，甚至具有我们极大多数人所无法企及的智慧程度，人类<a href="http://maxiangyang.baijia.baidu.com/article/44840" target="_blank" class="feeds-item-more" mon="col=13&pn=1">[详细]</a></p>
+                <div class="feeds-item-info">
+                    <p class="labels">
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=26149" target="_blank">脑电波
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=12752" target="_blank">机器人
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=21804" target="_blank">智能机器
+                        </a>
+                                        </p>
+                                        <a href="http://maxiangyang.baijia.baidu.com" class="feeds-item-author" target="_blank">阳光</a>
+                                        <span class="tm">02-03</span>
+                    <span class="count">阅读（9874）</span>
+                    <a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>
+                </div>
+            </div>
+        </div>
+                  <div class="feeds-item " id="item-44680">
+            <div class="feeds-item-detail clearfix hasImg">
+                                <p class="feeds-item-pic"><a href="http://xxp.baijia.baidu.com/article/44680" target="_blank" class="feeds-item-more" mon="col=13&pn=14&a=12"><img src="http://c.hiphotos.baidu.com/news/crop%3D0%2C13%2C296%2C178%3Bw%3D638/sign=c988a7c9891001e95a734e4f853e57dd/6a63f6246b600c33ed0030e81e4c510fd9f9a191.jpg"/></a></p>
+                                <h3><a href="http://xxp.baijia.baidu.com/article/44680" target="_blank" mon="col=13&pn=14">Big Talk：当机器人有了自我意识</a></h3>
+                <p class="feeds-item-text">如果说，霍德·利普森所做的事情就是未来的话，或许我们可以看到未来十年之内，机器人能够在海量的数据中自动的产生智慧，创造一个有情感有体温的机器人世界。<a href="http://xxp.baijia.baidu.com/article/44680" target="_blank" class="feeds-item-more" mon="col=13&pn=1">[详细]</a></p>
+                <div class="feeds-item-info">
+                    <p class="labels">
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=12752" target="_blank">机器人
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=26024" target="_blank">自我意识
+                        </a>
+                                        </p>
+                                        <a href="http://xxp.baijia.baidu.com" class="feeds-item-author" target="_blank">筱瞧来了</a>
+                                        <span class="tm">02-01</span>
+                    <span class="count">阅读（1万）</span>
+                    <a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>
+                </div>
+            </div>
+        </div>
+                  <div class="feeds-item " id="item-44600">
+            <div class="feeds-item-detail clearfix hasImg">
+                                <p class="feeds-item-pic"><a href="http://luochao.baijia.baidu.com/article/44600" target="_blank" class="feeds-item-more" mon="col=13&pn=15&a=12"><img src="http://e.hiphotos.baidu.com/news/crop%3D0%2C53%2C750%2C450%3Bw%3D638/sign=baeb03850e7b0208188665a15fe9dee6/faedab64034f78f023dbb1d37d310a55b3191c39.jpg"/></a></p>
+                                <h3><a href="http://luochao.baijia.baidu.com/article/44600" target="_blank" mon="col=13&pn=15">跨界，正在掀起下一波硅谷热</a></h3>
+                <p class="feeds-item-text">要改变世界，还是需要硅谷正在兴起的“跨界”模式，它正在掀起下一波硅谷热。<a href="http://luochao.baijia.baidu.com/article/44600" target="_blank" class="feeds-item-more" mon="col=13&pn=1">[详细]</a></p>
+                <div class="feeds-item-info">
+                    <p class="labels">
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=12543" target="_blank">硅谷
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=12752" target="_blank">机器人
+                        </a>
+                                        </p>
+                                        <a href="http://luochao.baijia.baidu.com" class="feeds-item-author" target="_blank">罗超</a>
+                                        <span class="tm">02-01</span>
+                    <span class="count">阅读（1万）</span>
+                    <a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>
+                </div>
+            </div>
+        </div>
+                  <div class="feeds-item " id="item-44614">
+            <div class="feeds-item-detail clearfix hasImg">
+                                <p class="feeds-item-pic"><a href="http://yangzichao.baijia.baidu.com/article/44614" target="_blank" class="feeds-item-more" mon="col=13&pn=16&a=12"><img src="http://d.hiphotos.baidu.com/news/crop%3D181%2C14%2C903%2C542%3Bw%3D638/sign=58d3e2019713b07ea9f20a4831e6a912/aa64034f78f0f7360ce229210e55b319ebc413f5.jpg"/></a></p>
+                                <h3><a href="http://yangzichao.baijia.baidu.com/article/44614" target="_blank" mon="col=13&pn=16">硅谷BIG的三点思考</a></h3>
+                <p class="feeds-item-text">科技不只是给人们带来了生活质量的提高，而且还给大家带来了很多的问题，让我们去思考。<a href="http://yangzichao.baijia.baidu.com/article/44614" target="_blank" class="feeds-item-more" mon="col=13&pn=1">[详细]</a></p>
+                <div class="feeds-item-info">
+                    <p class="labels">
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=12752" target="_blank">机器人
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=20422" target="_blank">深度学习
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=11896" target="_blank">失控
+                        </a>
+                                        </p>
+                                        <a href="http://yangzichao.baijia.baidu.com" class="feeds-item-author" target="_blank">杨子超</a>
+                                        <span class="tm">02-01</span>
+                    <span class="count">阅读（3919）</span>
+                    <a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>
+                </div>
+            </div>
+        </div>
+                  <div class="feeds-item " id="item-44580">
+            <div class="feeds-item-detail clearfix hasImg">
+                                <p class="feeds-item-pic"><a href="http://zhouzhanhong.baijia.baidu.com/article/44580" target="_blank" class="feeds-item-more" mon="col=13&pn=17&a=12"><img src="http://c.hiphotos.baidu.com/news/crop%3D0%2C16%2C2000%2C1200%3Bw%3D638/sign=4a56e52baf18972bb7755a8adbfd57b8/8435e5dde71190efec864be0ca1b9d16fdfa6094.jpg"/></a></p>
+                                <h3><a href="http://zhouzhanhong.baijia.baidu.com/article/44580" target="_blank" mon="col=13&pn=17">人类是否已经准备好降级？</a></h3>
+                <p class="feeds-item-text">如果将来机器人成为比人类更智慧的一个物种，那它将可能会取代人类站到生态链的最顶端，而那时人类是像猴子一样接受被降级的现实还是奋起抗争呢？<a href="http://zhouzhanhong.baijia.baidu.com/article/44580" target="_blank" class="feeds-item-more" mon="col=13&pn=1">[详细]</a></p>
+                <div class="feeds-item-info">
+                    <p class="labels">
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=20422" target="_blank">深度学习
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=12752" target="_blank">机器人
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=10132" target="_blank">百度
+                        </a>
+                                        </p>
+                                        <a href="http://zhouzhanhong.baijia.baidu.com" class="feeds-item-author" target="_blank">周展宏</a>
+                                        <span class="tm">01-31</span>
+                    <span class="count">阅读（5万）</span>
+                    <a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>
+                </div>
+            </div>
+        </div>
+                  <div class="feeds-item " id="item-44539">
+            <div class="feeds-item-detail clearfix hasImg">
+                                <p class="feeds-item-pic"><a href="http://chenqingchun.baijia.baidu.com/article/44539" target="_blank" class="feeds-item-more" mon="col=13&pn=18&a=12"><img src="http://e.hiphotos.baidu.com/news/crop%3D0%2C107%2C1141%2C685%3Bw%3D638/sign=48155a2c93dda144ce4636f28f87fc93/2f738bd4b31c8701e5494cd9237f9e2f0708ff16.jpg"/></a></p>
+                                <h3><a href="http://chenqingchun.baijia.baidu.com/article/44539" target="_blank" mon="col=13&pn=18">神经元网络即将干的漂亮事儿</a></h3>
+                <p class="feeds-item-text">百度首席科学家、38岁的吴恩达笃定地说，未来有一天，他的孙女一定会这样不解地问他：以前你跟你的微波炉说话，他都不理你，这是不是太没礼貌了？机器还会学会什么？最可怕的事情正在发生——它正学会独立思考。<a href="http://chenqingchun.baijia.baidu.com/article/44539" target="_blank" class="feeds-item-more" mon="col=13&pn=1">[详细]</a></p>
+                <div class="feeds-item-info">
+                    <p class="labels">
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=12752" target="_blank">机器人
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=26033" target="_blank">神经元
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=24133" target="_blank">AI
+                        </a>
+                                        </p>
+                                        <a href="http://chenqingchun.baijia.baidu.com" class="feeds-item-author" target="_blank">陈庆春</a>
+                                        <span class="tm">01-31</span>
+                    <span class="count">阅读（6万）</span>
+                    <a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>
+                </div>
+            </div>
+        </div>
+                  <div class="feeds-item " id="item-44518">
+            <div class="feeds-item-detail clearfix hasImg">
+                                <p class="feeds-item-pic"><a href="http://aoxiaobai.baijia.baidu.com/article/44518" target="_blank" class="feeds-item-more" mon="col=13&pn=19&a=12"><img src="http://b.hiphotos.baidu.com/news/crop%3D5%2C1%2C462%2C277%3Bw%3D638/sign=569e3f250e55b31988b6d8357e9cae17/0df3d7ca7bcb0a460b42f81d6f63f6246b60afb6.jpg"/></a></p>
+                                <h3><a href="http://aoxiaobai.baijia.baidu.com/article/44518" target="_blank" mon="col=13&pn=19">有自我意识的机器人会到处杀人吗？</a></h3>
+                <p class="feeds-item-text">一次深度网络的图像识别中，科学家们原本要培训神经网络在一堆图片中识别猫狗的图片，其中一个神经网络却开始追踪起显示器外两位科学家的面部了！<a href="http://aoxiaobai.baijia.baidu.com/article/44518" target="_blank" class="feeds-item-more" mon="col=13&pn=1">[详细]</a></p>
+                <div class="feeds-item-info">
+                    <p class="labels">
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=12752" target="_blank">机器人
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=26024" target="_blank">自我意识
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=20422" target="_blank">深度学习
+                        </a>
+                                        </p>
+                                        <a href="http://aoxiaobai.baijia.baidu.com" class="feeds-item-author" target="_blank">敖小白</a>
+                                        <span class="tm">01-31</span>
+                    <span class="count">阅读（2万）</span>
+                    <a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>
+                </div>
+            </div>
+        </div>
+                  <div class="feeds-item " id="item-44381">
+            <div class="feeds-item-detail clearfix hasImg">
+                                <p class="feeds-item-pic"><a href="http://yangzichao.baijia.baidu.com/article/44381" target="_blank" class="feeds-item-more" mon="col=13&pn=20&a=12"><img src="http://d.hiphotos.baidu.com/news/crop%3D0%2C141%2C960%2C576%3Bw%3D638/sign=780fd2d7891001e95a734e4f853e57dd/91ef76c6a7efce1b46d553f4ab51f3deb48f6516.jpg"/></a></p>
+                                <h3><a href="http://yangzichao.baijia.baidu.com/article/44381" target="_blank" mon="col=13&pn=20">硅谷的思考：场景与方向的专注</a></h3>
+                <p class="feeds-item-text">硅谷，斯坦福大学，虚拟现实，人工智能的启发。<a href="http://yangzichao.baijia.baidu.com/article/44381" target="_blank" class="feeds-item-more" mon="col=13&pn=1">[详细]</a></p>
+                <div class="feeds-item-info">
+                    <p class="labels">
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=10104" target="_blank">创业
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=12752" target="_blank">机器人
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=14504" target="_blank">虚拟现实
+                        </a>
+                                        </p>
+                                        <a href="http://yangzichao.baijia.baidu.com" class="feeds-item-author" target="_blank">杨子超</a>
+                                        <span class="tm">01-30</span>
+                    <span class="count">阅读（4704）</span>
+                    <a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>
+                </div>
+            </div>
+        </div>
+                </div>
+                <div class="feeds-more" id="feeds_more"><a href="javascript:void(0)"><span>加载更多</span></a></div>
+            </div>
+    <div class="l-right-col">
+                <div class="mod" id="author_list" alog-group="log-recommend">
+<div class="hd">
+    <div class="title_box" ><div class="title_container"><span class="title">相关作家</span><span class="sub_title">AUTHORS</span><div class="line"><div class="left"></div><div class="right"></div></div></div></div>
+</div>
+<div class="bd">
+<div class="author-m notb">
+    <div class="author-pic">
+    	<a href="http://liurui.baijia.baidu.com" mon="name=recommend&pos=pic&pn=1" target="_blank">
+    		<img src="http://d.hiphotos.baidu.com/news/pic/item/4a36acaf2edda3cce7be54c505e93901203f92f9.jpg">
+    	</a>
+    </div>
+    <div class="author-name">
+    	<a href="http://liurui.baijia.baidu.com" mon="name=recommend&pos=name&pn=1" target="_blank">刘二筒</a>
+    </div>
+    <div class="author-text">朗空创始人CEO 华山会创始人 IC咖...</div>
+    <div class="author-artical"><a href="http://liurui.baijia.baidu.com/article/53109" mon="name=recommend&pos=title&pn=1" target="_blank">机器人时代的5个入口（一）</a></div>
+</div>
+<div class="author-m ">
+    <div class="author-pic">
+    	<a href="http://lishuhang.baijia.baidu.com" mon="name=recommend&pos=pic&pn=2" target="_blank">
+    		<img src="http://f.hiphotos.baidu.com/news/pic/item/a044ad345982b2b7fdb7320d35adcbef77099bca.jpg">
+    	</a>
+    </div>
+    <div class="author-name">
+    	<a href="http://lishuhang.baijia.baidu.com" mon="name=recommend&pos=name&pn=2" target="_blank">李书航</a>
+    </div>
+    <div class="author-text">新媒体从业者</div>
+    <div class="author-artical"><a href="http://lishuhang.baijia.baidu.com/article/52631" mon="name=recommend&pos=title&pn=2" target="_blank">人形机器人可能都得向谷歌交授权费</a></div>
+</div>
+<div class="author-m ">
+    <div class="author-pic">
+    	<a href="http://wangguanxiong.baijia.baidu.com" mon="name=recommend&pos=pic&pn=3" target="_blank">
+    		<img src="http://a.hiphotos.baidu.com/news/pic/item/b03533fa828ba61e18cb027d4334970a304e59bf.jpg">
+    	</a>
+    </div>
+    <div class="author-name">
+    	<a href="http://wangguanxiong.baijia.baidu.com" mon="name=recommend&pos=name&pn=3" target="_blank">王冠雄</a>
+    </div>
+    <div class="author-text">IPO专业户/微信:王冠雄</div>
+    <div class="author-artical"><a href="http://wangguanxiong.baijia.baidu.com/article/48973" mon="name=recommend&pos=title&pn=3" target="_blank">浅谈机器人、人工智能及工业4.0</a></div>
+</div>
+<div class="author-m ">
+    <div class="author-pic">
+    	<a href="http://heshuai.baijia.baidu.com" mon="name=recommend&pos=pic&pn=4" target="_blank">
+    		<img src="http://f.hiphotos.baidu.com/news/pic/item/279759ee3d6d55fb8f01b6096e224f4a21a4ddde.jpg">
+    	</a>
+    </div>
+    <div class="author-name">
+    	<a href="http://heshuai.baijia.baidu.com" mon="name=recommend&pos=name&pn=4" target="_blank">小编也疯狂</a>
+    </div>
+    <div class="author-text">事件爆料，分析，评论。</div>
+    <div class="author-artical"><a href="http://heshuai.baijia.baidu.com/article/48493" mon="name=recommend&pos=title&pn=4" target="_blank">猜测：人工智能的最终走向</a></div>
+</div>
+</div>
+</div>
+
+        <div class="mod" id="artical" alog-group="log-hotartical-num">
+    <div class="hd">
+        <div class="title_box" ><div class="title_container"><span class="title">文章排行</span><span class="sub_title">TOP ARTICLES</span><div class="line"><div class="left"></div><div class="right"></div></div></div></div>
+    </div>
+    <div class="bd">
+                <ul class="artical-top-num" id="topArtical">
+                                                                            <li class="top-1">
+                        <span class="num">01</span>
+                        <p class="title"><a href="http://lipuman.baijia.baidu.com/article/19626" mon="name=bjhotarticle" target="_blank">除了性，机器人还能做什么</a></p>
+                                                <p class="desc">技术宅们还惦记着机器人女友的事儿呢。2007年，英国人工智能专...</p>
+                                            </li>
+                                                                                                                            <li class="top-2">
+                        <span class="nm"></span>
+                        <span class="num">02</span>
+                        <p class="title"><a href="http://kangsitanding.baijia.baidu.com/article/21642" mon="name=bjhotarticle" target="_blank">未来将远超人类的那些超级机器人</a></p>
+                    </li>
+                                                                                                                            <li class="top-3">
+                        <span class="nm"></span>
+                        <span class="num">03</span>
+                        <p class="title"><a href="http://lishuhang.baijia.baidu.com/article/52631" mon="name=bjhotarticle" target="_blank">人形机器人可能都得向谷歌交授权费</a></p>
+                    </li>
+                                                                                                        <li>
+                        <span class="nm"></span>
+                        <span class="num">04</span>
+                        <p class="title"><a href="http://svx.baijia.baidu.com/article/34165" mon="name=bjhotarticle"  target="_blank">机器人竞技,机器人可以更有趣</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm"></span>
+                        <span class="num">05</span>
+                        <p class="title"><a href="http://chenqingchun.baijia.baidu.com/article/44539" mon="name=bjhotarticle"  target="_blank">神经元网络即将干的漂亮事儿</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm"></span>
+                        <span class="num">06</span>
+                        <p class="title"><a href="http://xxp.baijia.baidu.com/article/44680" mon="name=bjhotarticle"  target="_blank">Big Talk：当机器人有了自我意识</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm"></span>
+                        <span class="num">07</span>
+                        <p class="title"><a href="http://chenjunfeng.baijia.baidu.com/article/34156" mon="name=bjhotarticle"  target="_blank">智能机器人已在风口上了吗？</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm"></span>
+                        <span class="num">08</span>
+                        <p class="title"><a href="http://aoxiaobai.baijia.baidu.com/article/44518" mon="name=bjhotarticle"  target="_blank">有自我意识的机器人会到处杀人吗？</a></p>
+                    </li>
+                                            </ul>
+            </div>
+</div>
+
+<script type="text/javascript">
+;$(function(){
+    if($('#artical').find('.tab').length){
+        $('#artical').find('.tab').on('click',switchTab);
+    }
+    
+
+    function switchTab(e){
+        var $e=$(this),
+            tabId = $e.data('id');
+
+        $.each($('#artical').find('.artical-top-num'),function(i,e){
+            $(e).hide();
+        });
+        $.each($('#artical').find('.tab'),function(i,e){
+            $(e).removeClass('on');
+        });
+
+        $e.addClass('on');
+        $('#'+tabId).show();
+    }
+});
+</script>
+    </div>
+</div>
+
+<style>
+#footer{width:100%;background:#f0f0f0;height:249px;}
+#footer .site-nav{margin-top:34px;}
+#footer .site-nav a{background:#fff;display: inline-block;border: 1px solid #ececec;padding: 0 22px;margin: 0 5px;height: 30px;line-height: 30px;color: #666;vertical-align: bottom;}
+#footer .site-nav a.bottom-logo{background:none;border: 0;height: 38px;}
+</style>
+<div id="footer" alog-group="log-footer">
+<p class="site-nav"><a href="http://baijia.baidu.com/" target="_blank" class="bottom-logo"><img src="/static/images/baijia_logo_color.png"/></a><a href="http://baijia.baidu.com/?tn=listarticle&labelid=2" target="_blank">互联网</a><a href="http://baijia.baidu.com/?tn=listarticle&labelid=3" target="_blank">文化</a><a href="http://baijia.baidu.com/?tn=listarticle&labelid=4" target="_blank">娱乐</a><a href="http://baijia.baidu.com/?tn=listarticle&labelid=5" target="_blank">体育</a><a href="http://baijia.baidu.com/?tn=listarticle&labelid=6" target="_blank">财经</a><a href="http://baijia.baidu.com/?tn=listarticle&labelid=1" target="_blank">热点</a>
+</p>
+<p class="top-nav">
+<a href="http://baijia.baidu.com/" target="_blank">百家首页</a>|
+<a href="http://news.baidu.com/" target="_blank">百度新闻</a>|
+<a href="mailto:Baijia@baidu.com" target="_blank">联系我们：Baijia@baidu.com</a>
+<strong> 百度新闻独家出品</strong>
+</p>
+<p class="site-info">
+京公网安备110000000001号 <a href="http://news.baidu.com/licence.html">互联网新闻信息服务许可</a><span>&copy;2015 Baidu</span><a href="http://www.baidu.com/duty/">使用百度前必读</a><a target="_blank" href="http://net.china.cn/chinese/index.htm"><img src="http://gimg.baidu.com/img/net.gif"></a><a target="_blank" href="http://www.bj.cyberpolice.cn/index.htm"><img alt="首都网络110报警服务" src="http://gimg.baidu.com/img/110.gif"></a><a target="_blank" href="http://www.bjjubao.org/"><img src="http://news.baidu.com/resource/img/report_center.png"></a> 
+</p>
+</div>
+
+<script type="text/template" id="new-feed-tmp">
+
+    <%var data = data.list%>
+    <%for(var i=0; i<data.length;i++){%>
+    <div class="feeds-item" id="item-<%=data[i]['ID']%>">
+        <h3 style="position:relative;"><a href="<%=data[i]['m_display_url']%>" target="_blank" mon="col=13&pn=<%=PAGE_DATA.artical_list_num+i+1%>"><%=baidu.string.subByte(data[i]['m_title'],46)%></a><span class="feeds-item-time"><%=data[i]['m_create_time']%></span></h3>
+    <%if(i == data.length-1){%>
+        <div class="feeds-item-detail clearfix white-bdr">
+    <%}else{%>
+        <div class="feeds-item-detail clearfix">
+    <%}%>
+            <%if (data[i]['m_image_url']){%>
+            <p class="feeds-item-pic"><a href="<%=data[i]['m_display_url']%>" target="_blank" class="feeds-item-more" mon="col=13&pn=<%=PAGE_DATA.artical_list_num+i+1%>&a=12"><img src="<%=data[i]['m_image_url']%>"/></a></p>
+            <%}%>
+            <p class="feeds-item-text"><%=baidu.string.subByte(data[i]['m_summary'],200,'...')%><a href="<%=data[i]['m_display_url']%>" target="_blank" class="feeds-item-more" mon="col=13&pn=<%=PAGE_DATA.artical_list_num+i+1%>">[详细]</a></p>
+            <p class="feeds-item-info">
+            <%if(!data.isAuthor){%><span><a href="<%=data[i]['m_writer_url']%>" class="feeds-item-author" target="_blank"><%=data[i]['m_writer_name']%></a></span><%}%><span>阅读（<%=data[i].hotcount%>）</span>
+            <span><a href="javascript:void(0)" class="share-article">分享</a></span>
+            <%var label = data[i]['m_label_names']%>
+            <%for(var j=0; j<label.length;j++){%>
+                <%if (label.length == j+1){%>
+                    <a href="http://baijia.baidu.com/?tn=listarticle&labelid=<%=label[j].m_id%>"><%=label[j].m_name%></a>
+                <%}else{%>
+                    <a href="http://baijia.baidu.com/?tn=listarticle&labelid=<%=label[j].m_id%>"><%=label[j].m_name%></a>|
+                <%}%>
+            <%}%>
+            </p>
+        </div>
+    </div>
+    <%}%>
+
+</script>
+
+<!-- Baidu Button BEGIN -->
+<div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare" style="float:right;display:none" data='{}'>
+<span class="bds_more" style="background:#fff!important;padding:0; display:none">分享到：</span>
+<a class="bds_tsina"></a>
+<a class="bds_qzone"></a>
+<a class="bds_tqq"></a>
+<a class="bds_renren"></a>
+<a class="bds_t163"></a>
+<a class="shareCount" style="display:none"></a>
+</div>
+<script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=0" ></script>
+<script type="text/javascript" id="bdshell_js"></script>
+<script type="text/javascript">
+document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000)
+</script>
+<!-- Baidu Button END -->
+
+
+<script type="text/javascript">
+baidu.dom.ready(function(){
+    function render(data){
+        var _html = []; 
+        for(var i=0; i<data.length;i++){
+            _html.push('<div class="feeds-item" id="item-'+data[i]['ID']+'">');
+
+            if (data[i]['m_image_url']){
+                _html.push('<div class="feeds-item-detail hasImg">');
+                _html.push('<p class="feeds-item-pic"><a href="'+data[i]['m_display_url']+'" target="_blank" mon="col=13&pn=&a=12"><img src="'+data[i]['m_image_url']+'"/></a></p>');
+            }else{
+                _html.push('<div class="feeds-item-detail">');
+            }
+            _html.push('<h3><a href="'+data[i]['m_display_url']+'" target="_blank" mon="col=13&pn=">'+data[i]['m_title']+'</a></h3>');
+            _html.push('<p class="feeds-item-text">'+data[i]['m_summary']+'<a href="'+data[i]['m_display_url']+'" target="_blank" class="feeds-item-more" mon="col=13&pn=">[详细]</a></p>');
+            _html.push('<div class="feeds-item-info">');
+            _html.push('<p class="labels">');
+                var label = data[i]['m_label_names'];
+                for(var j=0; j<label.length;j++){
+                    _html.push('<a href="http://baijia.baidu.com/?tn=listarticle&labelid='+label[j].m_id+'" target="_blank">'+label[j].m_name+'</a>');
+                }
+            _html.push('</p>');
+            if(!data.isAuthor){
+                _html.push('<a href="'+data[i]['m_writer_url']+'" class="feeds-item-author" target="_blank">'+data[i]['m_writer_name']+'</a>');
+            }
+            _html.push('<span class="tm">'+data[i]['m_create_time']+'</span>');
+            _html.push('<span class="count">阅读（'+data[i]['hotcount']+'）</span>');
+            _html.push('<a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>');
+            _html.push('</div></div></div>');
+        }
+        return _html.join('');
+    }
+    var __el = baidu.g('feeds_more'), __parent = baidu.g('feeds'),disable=false,mytimeout;
+        __el && baidu.on(__el, 'click', function(e){
+            var previd = baidu.dom.last('feeds').id.match(/\d.*/)[0];
+			if(disable == false){
+				disable = true;
+                __el.innerHTML='<a href="javascript:void(0)"><span class="feeds-loading"><i class="i"></i>正在加载</span></a>';
+                baidu.ajax.get("/ajax/labellatestarticle?page="+(PAGE_DATA.page+1)+"&pagesize="+PAGE_DATA.pagesize+"&labelid="+PAGE_DATA.labelid+'&prevarticalid='+previd,function(h,r){
+                    var req = baidu.json.parse(r);
+                        if(req.errno == 0 && req.data.total > 0){
+                            var tpl=render(req.data.list);
+                            //var tpl=baidu.template('new-feed-tmp', req.data);
+                                baidu.dom.insertHTML(__parent,'beforeEnd',tpl);
+                                PAGE_DATA.artical_list_num += req.data.list.length+1;
+                                if(PAGE_DATA.artical_list_num >= req.data.total){
+                                    __el.innerHTML='<a href="javascript:void(0)"><span>没有了，亲！</span></a>';
+                                }else{
+                                    __el.innerHTML='<a href="javascript:void(0)"><span>加载更多</span></a>';
+                                }
+                                PAGE_DATA.page+=1;
+                                disable = false;
+                        }else{
+                            __el.innerHTML='<a href="javascript:void(0)"><span>没有了，亲！</span></a>';
+                        }
+                });
+            }
+       });
+       baidu.on('feeds','mouseover',function(e){
+             var target = baidu.event.getTarget(e);
+             if(/share-article/.test(target.className)){
+                if(mytimeout){
+                        clearTimeout(mytimeout);
+                    }
+                var pos = baidu.dom.getPosition(target),
+                    _parent = baidu.dom.getAncestorByClass(target, 'feeds-item'),
+                    _item = baidu.dom.query('h3 a', _parent)[0];
+                    title =baidu.dom.getText(_item),
+                    url = baidu.dom.getAttr(_item, 'href'), 
+                    _pic =  baidu.dom.query('img', _parent).length ? baidu.dom.query('img', _parent)[0].src : 'http://baijia.baidu.com/static/images/baijia_weibopic.jpg';
+                    _text = baidu.dom.setAttr('bdshare','data','{"text" : "一篇好文,推荐之-【'+ title +'】（来自:百度百家）","url":"'+url+'","pic":"'+_pic+'"}');
+                    baidu.show('bdshare');
+                    baidu.dom.setStyles('bdshare',{position:'absolute',top:pos.top-4, left: pos.left+50});
+             }
+       });
+       baidu.on('feeds','mouseout',function(e){
+            if(/share-article/.test(baidu.event.getTarget(e).className)){
+                mytimeout = setTimeout(function(){
+                    baidu.hide('bdshare');
+                },500);
+            }
+       });
+       baidu.on('bdshare', 'mouseover' , function(e){
+            if(mytimeout){
+                clearTimeout(mytimeout);
+            }
+            baidu.show(this);
+       });
+       baidu.on('bdshare', 'mouseout' , function(e){
+            baidu.hide(this);
+       });
+
+       //$('#tags').on('click','.btnM',tagRss);
+
+        function tagRss(){
+            if(!$("#login").is(":hidden")){
+                baidu.g("login").click();
+                return false;
+            }
+            var $e = $(this),
+                txt = $e.find('b').text(),
+                mid = $e.closest('li').find('.tagnm').data('mid'),
+                changeTxt,changeClass,status;
+            if(txt == '取消'){
+                status = 2;
+                changeTxt = '关注';
+                changeClass = 'i iadd';
+            }else if(txt == '关注'){
+                status = 1;
+                changeTxt = '取消';
+                changeClass = 'i iminus';
+            }
+
+            $.ajaxSetup({ cache: false });
+            $.ajax({
+                url: "/ajax/subscribe?uid="+uid+"&mid="+mid+"&type=1&status="+status,
+                type: 'GET',
+                dataType: 'json',
+                success: function(res){
+                    if(res.errno == '0'){
+                        $e.find('.b').text(changeTxt);
+                        $e.find('.i').removeClass().addClass(changeClass);
+                    }
+                }
+            });
+        }
+
+});
+</script>
+<style>
+#bj_erweima {
+    bottom:115px;
+    margin-left:512px;
+    position:fixed;
+    _position:absolute;
+    left:50%;
+    width:128px;
+    _top:expression(eval(document.documentElement.scrollTop || document.body.scrollTop) +eval(document.documentElement.clientHeight || document.body.clientHeight) -295 +'px');
+    z-index:998;
+}
+</style>
+<div id="bj_erweima">
+    <a class="box" href="http://app.news.baidu.com/?src=erweima" target="_blank">
+        <img src="/static/images/baijia_erweima.jpg" >
+    </a>
+</div>
+<link href="/static/js/libs/magic/resources/default/magic.control.Dialog/magic.control.Dialog.css?v=20131212" rel="stylesheet" type="text/css"></link>
+<!--用户反馈-->
+<div id="goTop" >
+    <div class="feedback" id="feedbackbtn"><a href="javascript:;">用户反馈</a></div>
+    <div class="gotop"><a id="gotop_btn" style="display:none" onclick="window.scroll(0, 0)"></a></div>
+</div>
+<style>
+#goTop {
+    position:fixed;
+    width:54px;
+    left:50%;
+    margin-left:512px;
+    bottom:10px;
+    *+bottom:10px;
+    _position:absolute;
+    _top:expression(eval(document.documentElement.scrollTop || document.body.scrollTop) +eval(document.documentElement.clientHeight || document.body.clientHeight) -110+'px');
+    z-index:998;
+}
+#goTop div {
+    height:48px;
+    margin-top:3px;
+    position:relative;
+    width:48px;
+}
+#goTop div a,#goTop div a:link {
+    display:inline-block;
+    height  :18px;
+    width:100%;
+    color:#fff;
+    background:#b7c5ca url(http://news.baidu.com/resource/img/gotop.png) no-repeat;
+    font-size:12px;
+    line-height:14px;
+    text-align:center;
+    text-decoration:none;
+    padding-top:30px;
+}
+#goTop div.feedback a {
+    padding:10px;
+    height:28px;
+    width:28px;
+    line-height:14px;
+    background:#b7c5ca;
+}
+#goTop .feedback a:hover {
+    background:#59a9c6;
+}
+#goTop div.gotop a {
+    background-position:-147px -48px;
+}
+#goTop .gotop a:hover {
+    background-position:-147px 0;
+}
+/*UI控件*/
+.tang-dialog{position:fixed;top:100px;_position:absolute;_top:100px;_bottom:100px;}
+.tang-dialog .tang-title{background:#fff;border:none;}
+.tang-dialog .tang-title span{color:#fff;height:35px;line-height: 35px;background:#fff;}
+.tang-dialog .tang-body{border:none;background:#fff;}
+.tang-dialog .tang-body .content{color:#666;font-family: "微软雅黑";}
+.tang-dialog .tang-title .buttons a{background: transparent url(http://baijia.baidu.com/static/js/libs/magic/resources/default/magic.control.Dialog/btns.gif) no-repeat;}
+.tang-dialog .tang-title .buttons a:hover{background: transparent url(http://baijia.baidu.com/static/js/libs/magic/resources/default/magic.control.Dialog/btns.gif) no-repeat;}
+/*用户反馈*/
+.feed_describe{font: 16px "微软雅黑",arial,tahoma;color: #666;font-weight: bold;margin-bottom:10px;float:left;margin-left:20px;_margin-left:10px;}
+.feed_describe span{font: 30px arial;color: #377cca;font-style: italic;margin-right: 8px;}
+.feed_content{width: 630px;_width:630px;height: 170px;resize:none;overflow:auto;font-size:16px;border: 1px solid #ddd;padding-left:10px;font-family: "微软雅黑",arial,tahoma;margin-left:20px;float:left;}
+.feed_contact{clear:left;width:630px;height:40px;margin-left:20px;*margin-left:10px;}
+.feed_contact_txt{width: 286px;height: 32px;overflow: hidden;border: 1px solid #ddd;float: left;margin-right: 10px;padding-left:10px;font:16px/32px "微软雅黑",arial,tahoma;}
+.feed_contact_comment{font-size:16px;line-height:32px;color:#bbb;display: block;float:left;}
+.feed_contact_button{width:120px;height:35px;display:block;margin:15px auto 0px;background: #3F88D2;color: #fff;font-size: 16px;border: 1px solid #3F88D2;*+margin-top:8px;}
+</style>
+<script>var on=baidu.event.on;Fe = baidu;</script>
+<script src="/static/js/libs/magic/magic.js?v=20131212" type="text/javascript"></script>
+<script src="/static/js/utils.js?v=20131212" type="text/javascript"></script>
+<script type="text/javascript">
+    baidu.on(window,'load', function(){
+        var eleTop = baidu.g("gotop_btn");
+        baidu.on(window, 'scroll', function(){
+            baidu.page.getScrollTop() >= 200 ? baidu.show(eleTop) : baidu.hide(eleTop);
+            if(baidu.browser.ie&&baidu.browser.ie < 7){
+                var scrolltop = baidu.page.getScrollTop(),
+                    viewheight = baidu.page.getViewHeight(),
+                    pageheight = baidu.page.getHeight();
+                baidu.dom.setStyle('goTop','top',(scrolltop+viewheight-110));
+            }
+        });
+        var feedback = baidu.g("feedbackbtn");
+        var feedbackDialog = null , feedactionDialog = null ;
+        baidu.on(feedback , "click",function(e){
+            if(!feedbackDialog){
+                feedbackDialog = ZMT.notice({title:'用户反馈',content:'<h2 class="feed_describe"><span>1</span>请描述您遇到的问题或您的意见、建议：</h2><textarea type="text" class="feed_content" id="feed_content"></textarea><h2 class="feed_describe"><span>2</span>请留下联系方式，您将有机会获得精美礼品</h2><div class="feed_contact"><input type="text" class="feed_contact_txt" id="feed_content_txt" value="" placeholder="QQ/邮箱/电话"><span class="feed_contact_comment">(可选)</span></div><input id="submit_feed" type="button" class="feed_contact_button" value="提交反馈">',height:430,width:700});
+                setTimeout(function(){
+                    baidu.on(baidu.g("submit_feed"),"click",function(){
+                        var browser = "";
+                        var content = baidu.g("feed_content").value;
+                        var contactway = baidu.g("feed_content_txt").value; 
+                        if(!content){return false;}
+                        for(var p in baidu.browser){
+                            if(baidu.browser[p]){
+                                browser += " "+p+":"+baidu.browser[p] ;
+                            }
+                        }
+                        var url = 'mid=baijia_pc&content='+content+'&contactway='+contactway+'&browse='+browser; 
+                        baidu.ajax.post('/ajax/feedback',url,function(h,r){
+                            var req = baidu.json.parse(r);
+                            if(req.errno == 0){
+                                feedbackDialog.hide();
+                                feedactionDialog = ZMT.notice({content:'<div style="width:100%;height:100%;text-align:center;">提交成功！</div>',autohide:true});
+                                feedactionDialog.setPosition({top:100});
+                            }
+                        });
+                    });
+                },500);
+                feedbackDialog.setPosition({top:100});
+            }else{
+                baidu.g("feed_content").value = "";
+                baidu.g("feed_content_txt").value = ""; 
+                feedbackDialog.show();
+            }
+        });
+    });
+</script>
+</body>
+</html>

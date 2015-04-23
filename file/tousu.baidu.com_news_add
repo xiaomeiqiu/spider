@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>新闻反馈-百度反馈服务</title>
+<meta name="Keywords" content="百度新闻源申请,百度新闻源,百度新闻反馈,百度新闻源反馈,百度新闻源提交,百度新闻源收录,新闻源反馈,新闻源提交" />
+<meta name="Description" content="本页仅受理百度新闻新闻源收录问题及访问异常问题的反馈。百度提醒您请勿接受收费删帖服务，百度将对您的反馈和反馈依法免费处理。" />
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<link rel="shortcut icon" href="/static/image/favicon.ico"/>
+<link type="text/css" rel="stylesheet" href="/static/css/global.css" />
+<script type="text/javascript" src="/static/js/lib/tangram-2.0.2.1.js"></script>
+<script type="text/javascript" src="/static/js/common.js"></script>
+<script type="text/javascript">
+    var __ptfk = '0';
+</script><script type="text/javascript">
+var product_name_en = "news";
+var is_login = "0";
+var username = "";
+</script>
+</head>
+
+<body>
+<div class="logInfo" id="logInfo">
+    <a href="http://www.baidu.com" target="_blank">百度首页</a> |
+    <a href="#" id="btnLogin">登录</a>
+    <a href="https://passport.baidu.com/v2/?reg">注册</a>
+</div>
+
+<div class="header clear">
+   <h1 class="logo"><a href="http://www.baidu.com" class="logoBd">百度</a></h1>
+    <form class="searchForm clear" action="http://help.baidu.com/searchResult" name="f" id="searchForm" method="get">
+        <input id="search_txt" value="请简单描述您遇到的问题" placeholder="请简单描述您遇到的问题" type="text" class="searchKey" x-webkit-speech="true"  name="keywords" autocomplete="off"/>
+        <input id="searchbutton" class="btnSearch" type="submit" value="搜索问题"/>
+        <ul id="searchSuggest" class="suggestion" style="display:none;">
+        </ul>
+    </form>
+</div><div class="position pos_a">
+    <h2 class="tname"><span>反馈服务-</span><strong>百度新闻</strong></h2>
+    <p><a href="/pscenter" class="fedback" target="_blank" id="lnkFbk">反馈历史</a></p>
+</div><div class="main formPage">
+	<div class="content">
+		<div class="tip tsRule">本页仅受理百度新闻新闻源收录问题及访问异常问题的反馈。</div>
+		<ul class="tab1" id="formTab">
+	<li class="on setTab-tab"><a href="#1">新闻源收录</a></li>
+	<li class="setTab-tab"><a href="#2">异常访问</a></li>
+	<li class="setTab-tab"><a href="#3">功能使用反馈</a></li>
+</ul>
+<div class="formMod tab1Cnt" id="formPanel">
+	<div class="setTab-panel">
+		<div class="tip tip_a"><strong class="caution">反馈须知：</strong>如果您的站点符合百度新闻源收录标准，但是还没有被收录，请在此填写。</div>
+				<div class="tip tip_b red">请您 <a href="#" class="btnLog">登录</a> 之后进行反馈，以便在 <a href="/pscenter" class="btnLog">服务记录</a> 及时跟踪处理状态，并在第一时间收到答复。</div>				<form method="post" name="tousu_form1" id="tousu_form1" action="/news/submit" target="ifr">
+			<table cellspacing="0" cellpadding="0">
+				<tr>
+					<th><span class="red">*</span> 站点名：</th>
+					<td><input type="text" class="iptxt" id="form1_title" name="title" value="举报" minlength="0" maxlength="100" required disabled/> <span id="form1_title_err" class="err"></span></td>
+				</tr>
+				<tr>
+					<th><span class="red">*</span> 域名：</th>
+					<td><input type="text" class="iptxt" id="form1_domain" name="link" value="" maxlength="1024" required disabled/> <span id="form1_domain_err" class="err"></span></td>
+				</tr>
+				<tr>
+					<th>联系邮箱：</th>
+					<td><input name="email"  class="iptxt" id="form1_email" type="text" maxlength="100" disabled/>
+						<span id="form1_email_err" class="err"></span>
+						<p class="formInfo">留下您的联系邮箱，以便我们将处理结果通知给您，我们会严格保密</p>
+						</td>
+				</tr>
+				<tr>
+					<th>描述：</th>
+					<td><textarea name="content" id="form1_content" class="iptArea" minlength="0" maxlength="1000" disabled></textarea> <span id="form1_content_ok" class="msgok"></span>
+						<p id="form1_content_err" class="err"></p>
+						<p class="formInfo">请您详细描述反馈的对象及理由，以保证您的反馈得到及时准确的处理(500个字以内)</p>
+
+						<div class="uploadImg" id="form1_uploadImage">为有效维护您的合法权益，请 <a href="#" class="btnLog">登录</a> 后点击“上传图片”按钮，上传相关材料</div>
+						<div id="form1_imagePreview" class="upImgPrev"></div>						
+						<input type="hidden" id="form1_imageId" name="pic" value="">						
+					</td>
+				</tr>
+				<tr>
+					<th></th>
+					<td><input type="submit" class="btn" value="提交" disabled/></td>
+				</tr>
+			</table>
+			<input type="hidden" name="category" value="1" disabled/>
+            <input type="hidden" name="submit_token" value="" />
+			<input type="hidden" name="ptfk" value="0" />	
+		</form>	
+	</div>
+
+	<div class="setTab-panel" style="display:none;">
+		<div class="tip tip_a on"><strong class="caution">反馈须知：</strong>如果您在使用百度新闻时，出现无法正常访问的情况，请在此反馈。</div>
+				<div class="tip tip_b red">请您 <a href="#" class="btnLog">登录</a> 之后进行反馈，以便在 <a href="/pscenter" class="btnLog">服务记录</a> 及时跟踪处理状态，并在第一时间收到答复。</div>				<form method="post" name="tousu_form2" id="tousu_form2" action="/news/submit" target="ifr">
+			<table cellspacing="0" cellpadding="0">
+				<tr>
+					<th><span class="red">*</span> 标题：</th>
+					<td><input type="text" class="iptxt" id="form2_title" name="title" value="异常访问" maxlength="100" disabled/> <span id="form2_title_err" class="err"></span></td>
+				</tr>
+				<tr>
+					<th><span class="red">*</span> IP地址：</th>					
+					<td><input type="text" class="iptxt" id="form2_ip" name="ip" value="" maxlength="39" disabled/> <span id="form2_ip_err" class="err"></span></td>					
+				</tr>
+				<tr>
+					<th>联系邮箱：</th>
+					<td><input name="email"  class="iptxt" id="form2_email" type="text" maxlength="100" disabled/>
+						<span id="form2_email_err" class="err"></span>
+						<p class="formInfo">留下您的联系邮箱，以便我们将处理结果通知给您，我们会严格保密</p>
+						</td>
+				</tr>
+
+				<tr>
+					<th>描述：</th>
+					<td><textarea name="content" id="form2_content" class="iptArea" minlength="0" maxlength="1000" disabled></textarea> <span id="form2_content_ok" class="msgok"></span>
+						<p id="form2_content_err" class="err"></p>
+						<p id="form2_content_info" class="formInfo">请您详细描述反馈的对象及理由，以保证您的反馈得到及时准确的处理(500个字以内)</p>
+
+						<div class="uploadImg" id="form2_uploadImage">为有效维护您的合法权益，请 <a href="#" class="btnLog">登录</a> 后点击“上传图片”按钮，上传相关材料</div>
+						<div id="form2_imagePreview" class="upImgPrev"></div>						
+						<input type="hidden" id="form2_imageId" name="pic" value="">	
+					</td>
+				</tr>
+				<tr>
+					<th></th>
+					<td><input type="submit" class="btn" value="提交" disabled></td>
+				</tr>	
+			</table>
+			<input type="hidden" name="category" value="2" disabled/>
+            <input type="hidden" name="submit_token" value="" />	
+			<input type="hidden" name="ptfk" value="0" />
+		</form>		
+	</div>
+	<div class="setTab-panel" style="display:none;">
+		<div class="tip tip_a on"><strong class="caution">反馈须知：</strong>如果您在使用百度新闻产品中，例如：邮件订阅，发现任何功能、操作使用等问题，可以在此发起反馈。</div>
+				<div class="tip tip_b red">请您 <a href="#" class="btnLog">登录</a> 之后进行反馈，以便在 <a href="/pscenter" class="btnLog">服务记录</a> 及时跟踪处理状态，并在第一时间收到答复。</div>				<form method="post" name="tousu_form3" id="tousu_form3" action="/news/submit" target="ifr">
+			<table cellspacing="0" cellpadding="0">
+				<tr>
+					<th><span class="red">*</span> 标题：</th>
+					<td><input type="text" class="iptxt" id="form3_title" name="title" value="意见建议" maxlength="100" disabled/> <span id="form3_title_err" class="err"></span></td>
+				</tr>
+				<tr>
+					<th><span class="red">*</span> 描述：</th>
+					<td><textarea name="content" id="form3_content" class="iptArea" minlength="0" maxlength="1000" disabled></textarea> <span id="form3_content_ok" class="msgok"></span>
+						<p id="form3_content_err" class="err"></p>
+						<p id="form3_content_info" class="formInfo">请您详细描述反馈的对象及理由，以保证您的反馈得到及时准确的处理(500个字以内)</p>
+
+						<div class="uploadImg" id="form3_uploadImage">为有效维护您的合法权益，请 <a href="#" class="btnLog">登录</a> 后点击“上传图片”按钮，上传相关材料</div>
+						<div id="form3_imagePreview" class="upImgPrev"></div>						
+						<input type="hidden" id="form3_imageId" name="pic" value="">	
+					</td>
+				</tr>				
+				<tr>
+					<th>联系电话：</th>
+					<td><input name="phone"  class="iptxt" id="form3_phone" type="text" maxlength="100" disabled/>
+						<span id="form3_phone_err" class="err"></span>
+						</td>
+				</tr>
+				<tr>
+					<th>联系邮箱：</th>
+					<td><input name="email"  class="iptxt" id="form3_email" type="text" maxlength="100" disabled/>
+						<span id="form3_email_err" class="err"></span>
+						<p class="formInfo">建议留下您的联系电话 或 邮箱，我们对此会严格保密</p>
+						</td>
+				</tr>
+				
+				<tr>
+					<th></th>
+					<td><input type="submit" class="btn" value="提交" disabled></td>
+				</tr>	
+			</table>
+			<input type="hidden" name="category" value="3" disabled/>
+            <input type="hidden" name="submit_token" value="" />	
+			<input type="hidden" name="ptfk" value="0" />
+		</form>		
+	</div>
+</div>
+<iframe name="ifr" id="ifr" width="0" height="0" style="display:none;"></iframe>	</div>
+	<div class="sideBar">
+	<div class="sideMod faq">
+        <h3 class="tit">常见问题</h3>
+        <ul class="txtlist">
+                        <li><a href="http://help.baidu.com/question?prod_en=news&class=491&id=1000523" target="_blank">新闻使用入门</a></li>
+                        <li><a href="http://help.baidu.com/question?prod_en=news&class=141&id=1000876" target="_blank">如何启用cookies</a></li>
+                        <li><a href="http://help.baidu.com/question?prod_en=news&class=491&id=1000515" target="_blank">新闻搜索介绍</a></li>
+                        <li><a href="http://help.baidu.com/question?prod_en=news&class=1&id=1507" target="_blank">百度新闻投诉</a></li>
+                        <li><a href="http://help.baidu.com/question?prod_en=news&class=141&id=535" target="_blank">如何浏览百度新闻？</a></li>
+                        <li><a href="http://help.baidu.com/question?prod_en=news&class=430&id=1000074" target="_blank">如何申请收录？</a></li>
+                        <li><a href="http://help.baidu.com/question?prod_en=news&class=139&id=517" target="_blank">如何设置个性化新闻？ </a></li>
+                        <li><a href="http://help.baidu.com/question?prod_en=news&class=139&id=516" target="_blank">什么是个性化新闻？</a></li>
+                        <li><a href="http://help.baidu.com/question?prod_en=news&class=140&id=527" target="_blank">如果我是媒体从业人员，我可以</a></li>
+                        <li><a href="http://help.baidu.com/question?prod_en=news&class=139&id=522" target="_blank">为什么我的个性化新闻不见了？</a></li>
+                    </ul>
+            </div>
+</div></div>
+<div class="footer">
+    &copy; 2015 Baidu <a href="http://www.baidu.com/duty/" target="_blank">使用百度前必读</a>
+</div>
+<script type="text/javascript">var sugapi="http://help.baidu.com";</script>
+<script type="text/javascript" src="http://help.baidu.com/resources_new/static/js/sug.js"></script><script type="text/javascript" src="../static/js/commonTousu.js"></script>
+<script type="text/javascript">
+var chkForm = {
+	msg: {
+		title_empty: vaildForm.msg["title_empty"],
+		title_long: vaildForm.msg["title_long"],
+		site_empty: "请输入新闻源站点名",
+		domain_emtpy: vaildForm.msg["url_empty"],
+		domain_err: vaildForm.msg["url_err"],
+        email_err: vaildForm.msg["email_err"],
+        ip_empty: vaildForm.msg["ip_empty"],
+        ip_err: vaildForm.msg["ip_err"],
+        content_empty: vaildForm.msg["content_empty"],
+	    content_long: vaildForm.msg["content_long"],
+	    phone_err: vaildForm.msg["phone_err"]
+	}
+};
+
+var form1 = {
+	formO : baidu("#tousu_form1"),
+	init: function(){
+		this.bindCheck();
+	},
+	bindCheck: function(){
+		var formO = this.formO;
+		var formMsg = chkForm.msg;
+		formO.vaildForm({
+			fields:{
+				"#form1_title": {
+					required:true,
+			        regExp:"len",
+			        emptyMsg: formMsg["site_empty"],
+			        errMsg: formMsg["title_long"]
+				},
+				"#form1_domain": {
+					required:true,
+			        regExp:"comUrl",
+			        emptyMsg: formMsg["domain_emtpy"],
+			        errMsg: formMsg["domain_err"],
+			        callback: function(obj,rlt){
+			        	if(!rlt){ return; }
+			        	var val = obj.value;
+			        	if(!vaildForm.http(val)){
+			        		obj.value = "http://" + baidu.string(val).trim();
+			        	}
+			        	return true;
+			        }
+				},
+				"#form1_email": {
+			        regExp:"email",
+			        errMsg: formMsg["email_err"]
+				},
+				"#form1_content":{
+			        regExp:"len",
+			        errMsg: formMsg["content_long"]
+				}
+			}
+		});
+	}
+};
+
+var form2 = {
+	formO : baidu("#tousu_form2"),
+	init: function(){
+		this.bindCheck();
+	},
+	bindCheck: function(){
+		var formO = this.formO;
+		var formMsg = chkForm.msg;
+		formO.vaildForm({
+			fields:{
+				"#form2_title": {
+					required:true,
+			        regExp:"len",
+			        emptyMsg: formMsg["title_empty"],
+			        errMsg: formMsg["title_long"]
+				},
+				"#form2_ip": {
+					required:true,
+					regExp: "ip",
+					emptyMsg: formMsg["ip_empty"],
+					errMsg : chkForm.msg["ip_err"]
+				},
+				"#form2_email": {
+			        regExp: "email",
+			        errMsg: formMsg["email_err"]
+				},
+				"#form2_content":{
+			        regExp:"len",
+			        errMsg: formMsg["content_long"]
+				}
+			}
+		});
+	}
+};
+var form3 = {
+	formO : baidu("#tousu_form3"),
+	init: function(){
+		this.bindCheck();
+	},
+	bindCheck: function(){
+		var formO = this.formO;
+		var formMsg = chkForm.msg;
+		formO.vaildForm({
+			fields:{
+				"#form3_title": {
+					required:true,
+			        regExp:"len",
+			        emptyMsg: formMsg["title_empty"],
+			        errMsg: formMsg["title_long"]
+				},
+
+				"#form3_content":{
+					required:true,
+			        regExp:"len",
+			        emptyMsg: formMsg["content_empty"],
+			        errMsg: formMsg["content_long"]
+				},
+				"#form3_email": {
+			        regExp: "email",
+			        errMsg: formMsg["email_err"]
+				},
+				"#form3_phone": {
+			        regExp: "phone",
+			        errMsg: formMsg["phone_err"]
+				}
+			}
+		});
+	}
+};
+form1.init();
+form2.init();
+form3.init();
+</script>
+</body>
+</html>

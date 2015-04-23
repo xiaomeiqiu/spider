@@ -1,0 +1,634 @@
+<!doctype html>
+<html>
+<head>
+<!--STATUS OK-->
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+<title>华西都市报_百度传媒</title>
+
+<link rel="dns-prefetch" href="//ns0.bdstatic.com">
+<link rel="dns-prefetch" href="//ns1.bdstatic.com">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="" >
+
+
+
+
+<script>
+  var serverData = {
+    maxseg : '3',
+    total : '600',
+    hasMore : '1',
+    rn : '60',
+    lastNid : '16407908549546843341',
+    logowidth : '189',
+    logoheight : '34',
+    coverlogoheight : '54',
+    menuCount : 7,
+    subscribename : 'huaxi',
+    terms : '',
+    menu : [],
+    channelname : '',
+    device: 'pc'
+  }
+  if(!''){
+    serverData.channelname = 'index';
+  }else{
+    serverData.channelname = '';
+  }
+
+  // hunter统计
+  void function(e,t,n,a,o,i,m){e.alogObjectName=o,e[o]=e[o]||function(){(e[o].q=e[o].q||[]).push(arguments)},e[o].l=e[o].l||+new Date,i=t.createElement(n),i.asyn=1,i.src=a,m=t.getElementsByTagName(n)[0],m.parentNode.insertBefore(i,m)}(window,document,"script","http://img.baidu.com/hunter/alog.min.js","alog");
+    </script>
+
+<link rel="stylesheet" type="text/css" href="/static/common/pkg/aio_ec06920.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/css/all_e472514.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/skin/blue_3491b5a.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/mod_page/mod_page_aac155e.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/ap_ulist/ap_ulist_c1b4057.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/header/header_6c174ae.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/cover/cover_1a2721a.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/mod_banner/mod_banner_b7ecfb4.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/footer/footer_1ef9d4d.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/mod_sidebar/mod_sidebar_cb6d93e.css"/></head>
+<body>
+
+<style>
+  body{padding-top:0}
+  #Header{position: relative;}
+</style>
+
+
+<div class="wrap">
+<div id="Cover" class="mod-cover">
+<div class="cover">
+<div class="coverbg"></div>
+<div class="coverlogo"><img src="http://news.baidu.com/resource/r/image/2014-10-31/2da2335a31299d3bb51d171283bfd75d.png"></div>
+</div>
+</div><div id="Header">
+<div class="header">
+<h1 class="test"></h1>
+<div class="logo" style="width:189px;"><a href="/" target="_blank" ><img src="http://news.baidu.com/resource/r/image/2015-02-12/59c0dce115d3a0e6b14b561ab4a74539.png" style="height:34px"/></a></div>
+<div class="menulist large" style="margin:0 189px">
+<ul></ul>
+</div>
+<div class="menulist medium" style="margin:0 144px">
+<ul></ul>
+</div>
+<div class="headerSearch">
+<p class="searchbar">
+<a href="javascript:;" class="searchA"><i class="i"></i></a>
+<i class="txt"><i class="i nodis"></i><input type="text" class="nodis"></i>
+</p>
+<p class="sub-menu"><i class="icon-submenu"></i></p>
+<p class="baiduLogo"><a href="http://news.baidu.com/" target="_blank"><img src="/static/newsmedia/widget/header/baidu_logo_46a3f92.png"></a></p>
+</div>
+</div>
+
+<script type="text/javascript">
+var menu = [];
+
+            menu.push({
+            'name': '首页',
+            'enname':'',
+            'url': '',
+            'list':[
+            	            ]
+        });
+            menu.push({
+            'name': '要闻',
+            'enname':'opinion',
+            'url': '',
+            'list':[
+            	            ]
+        });
+            menu.push({
+            'name': '四川',
+            'enname':'sichuan',
+            'url': '',
+            'list':[
+            	            ]
+        });
+            menu.push({
+            'name': '成都',
+            'enname':'chengdu',
+            'url': '',
+            'list':[
+            	            ]
+        });
+            menu.push({
+            'name': '文娱',
+            'enname':'entertainment',
+            'url': '',
+            'list':[
+            	            ]
+        });
+            menu.push({
+            'name': '旅游',
+            'enname':'travel',
+            'url': '',
+            'list':[
+            	            ]
+        });
+            menu.push({
+            'name': '行业',
+            'enname':'industry',
+            'url': '',
+            'list':[
+            	            	{'name' : '房产',
+            	'enname' : 'industry\/housing'
+	            },	                        	{'name' : '汽车',
+            	'enname' : 'industry\/automobile'
+	            },	                        	{'name' : '生活',
+            	'enname' : 'industry\/fashion'
+	            },	                        	{'name' : '教育',
+            	'enname' : 'industry\/education'
+	            },	                        	{'name' : '家电',
+            	'enname' : 'industry\/electronic'
+	            },	                        	{'name' : '通讯',
+            	'enname' : 'industry\/technology'
+	            }	                        ]
+        });
+        serverData.menu = menu;
+
+</script>
+
+</div>
+<div id="Body">
+<div class="body">
+<div class="left">
+<div id="banners">
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=huaxi&amp;nid=2777288487057231435&amp;pos=0&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/2777288487057231435">
+<h4>
+<a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=2777288487057231435&amp;pos=0&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/2777288487057231435" target="_blank">埃及判11名骚乱球迷死刑 当年塞得港骚乱曾致数百死伤</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=2777288487057231435&amp;pos=0&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/2777288487057231435" target="_blank"><img src="http://news.huaxi100.com/uploadfile/2015/0420/20150420102609962.jpg"/></a></p>
+<p class="summary">那场骚乱是埃及有史以来发生的与体育有...<a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=2777288487057231435&amp;pos=0&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/2777288487057231435" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/entertainment">文娱</a></p>
+<span class="author">
+<em>新华社石中玉</em>
+</span>
+<span class="time">04-20 14:49</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16573897138488639388&amp;pos=1&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16573897138488639388">
+<h4>
+<a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16573897138488639388&amp;pos=1&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16573897138488639388" target="_blank">14岁少年自学盗车技术 当“大哥” 带领5成年人偷车</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16573897138488639388&amp;pos=1&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16573897138488639388" target="_blank"><img src="http://news.huaxi100.com/uploadfile/2015/0420/20150420022508495.jpg"/></a></p>
+<p class="summary">为检验技术的可靠性，小豆决定偷走报废...<a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16573897138488639388&amp;pos=1&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16573897138488639388" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/sichuan">四川</a></p>
+<span class="author">
+<em>记者</em>
+<em>田雪皎</em>
+</span>
+<span class="time">04-20 14:49</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16625245843347913156&amp;pos=2&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16625245843347913156">
+<h4>
+<a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16625245843347913156&amp;pos=2&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16625245843347913156" target="_blank">10家银行股告别“中止审查” 地方银行上市依然路漫漫</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16625245843347913156&amp;pos=2&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16625245843347913156" target="_blank"><img src="http://news.huaxi100.com/uploadfile/2015/0420/20150420121643512.jpg"/></a></p>
+<p class="summary">截至2015年4月16日，中国证监会...<a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16625245843347913156&amp;pos=2&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16625245843347913156" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/opinion">观点</a></p>
+<span class="author">
+<em>记者</em>
+<em>赵雅儒</em>
+</span>
+<span class="time">04-20 12:31</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16474542330038969419&amp;pos=3&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16474542330038969419">
+<h4>
+<a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16474542330038969419&amp;pos=3&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16474542330038969419" target="_blank">成都闹市区一男子欲跳桥 围观者喊快跳 称水浅淹不死</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16474542330038969419&amp;pos=3&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16474542330038969419" target="_blank"><img src="http://news.huaxi100.com/uploadfile/2015/0420/20150420121431671.jpg"/></a></p>
+<p class="summary">在成都新南路府南河大桥上，一名中年男...<a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16474542330038969419&amp;pos=3&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16474542330038969419" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/chengdu">成都</a></p>
+<span class="time">04-20 12:15</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16547376926633808195&amp;pos=4&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16547376926633808195">
+<h4>
+<a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16547376926633808195&amp;pos=4&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16547376926633808195" target="_blank">护士长在男同事车内自杀 事发前给亲友发不雅照</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16547376926633808195&amp;pos=4&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16547376926633808195" target="_blank"><img src="http://news.huaxi100.com/uploadfile/2015/0420/20150420113236846.jpg"/></a></p>
+<p class="summary">四川德阳一名年轻的护士长彭某静静地躺...<a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16547376926633808195&amp;pos=4&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16547376926633808195" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/sichuan">四川</a></p>
+<span class="author">
+<em>唐金龙</em>
+</span>
+<span class="time">04-20 12:15</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16553602971330112676&amp;pos=5&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16553602971330112676">
+<h4>
+<a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16553602971330112676&amp;pos=5&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16553602971330112676" target="_blank">国务院印发广东、天津、福建自贸区总体方案</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16553602971330112676&amp;pos=5&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16553602971330112676" target="_blank"><img src="http://news.huaxi100.com/uploadfile/2015/0420/20150420121002575.png"/></a></p>
+<p class="summary">原题：国务院印发中国自由贸易试验区总...<a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16553602971330112676&amp;pos=5&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16553602971330112676" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/opinion">观点</a></p>
+<span class="author">
+<em>新华社</em>
+</span>
+<span class="time">04-20 12:15</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16650549102032114270&amp;pos=6&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16650549102032114270">
+<h4>
+<a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16650549102032114270&amp;pos=6&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16650549102032114270" target="_blank">建筑工人冒充军人 相亲网站骗取妙龄女子10余万</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16650549102032114270&amp;pos=6&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16650549102032114270" target="_blank"><img src="http://news.huaxi100.com/uploadfile/2015/0420/20150420115847388.jpg"/></a></p>
+<p class="summary">两人交往期间，杨某多次以要向领导送礼...<a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16650549102032114270&amp;pos=6&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16650549102032114270" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/chengdu">成都</a></p>
+<span class="author">
+<em>李秀江</em>
+</span>
+<span class="time">04-20 12:15</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16565287644638258315&amp;pos=7&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16565287644638258315">
+<h4>
+<a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16565287644638258315&amp;pos=7&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16565287644638258315" target="_blank">王老吉雅安量产 启动“买一罐捐一分”公益计划</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16565287644638258315&amp;pos=7&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16565287644638258315" target="_blank"><img src="http://news.huaxi100.com/uploadfile/2015/0420/20150420114734992.jpg"/></a></p>
+<p class="summary">雅安“王老吉生产基地”一期正式量产。<a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16565287644638258315&amp;pos=7&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16565287644638258315" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/sichuan">四川</a></p>
+<span class="author">
+<em>陈怡然</em>
+<em>喻奇树</em>
+</span>
+<span class="time">04-20 12:03</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16475734054616007715&amp;pos=8&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16475734054616007715">
+<h4>
+<a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16475734054616007715&amp;pos=8&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16475734054616007715" target="_blank">4·20芦山地震两周年：生机盎然的美丽画卷</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16475734054616007715&amp;pos=8&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16475734054616007715" target="_blank"><img src="http://news.huaxi100.com/uploadfile/2015/0420/20150420081728743.jpg"/></a></p>
+<p class="summary">行走在芦山地震灾区，绿树满目、花香扑...<a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16475734054616007715&amp;pos=8&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16475734054616007715" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/sichuan">四川</a></p>
+<span class="time">04-20 11:29</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16455439887457481003&amp;pos=9&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16455439887457481003">
+<h4>
+<a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16455439887457481003&amp;pos=9&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16455439887457481003" target="_blank">股市前瞻:自贸区挂牌倒计时 港口物流等行业股受益</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16455439887457481003&amp;pos=9&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16455439887457481003" target="_blank"><img src="http://news.huaxi100.com/uploadfile/2015/0420/20150420093950708.jpg"/></a></p>
+<p class="summary">国新办将于4月20日上午召开新闻发布...<a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16455439887457481003&amp;pos=9&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16455439887457481003" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/opinion">观点</a></p>
+<span class="author">
+<em>白兰</em>
+<em>胡佳杰</em>
+</span>
+<span class="time">04-20 10:36</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=huaxi&amp;nid=2774590332810488715&amp;pos=10&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/2774590332810488715">
+<h4>
+<a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=2774590332810488715&amp;pos=10&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/2774590332810488715" target="_blank">0:0战平 双雄还是狗熊？这已不是记忆中的米兰德比</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=2774590332810488715&amp;pos=10&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/2774590332810488715" target="_blank"><img src="http://news.huaxi100.com/uploadfile/2015/0420/20150420101521527.jpg"/></a></p>
+<p class="summary">比赛中断时鲁伊科斯塔和马特拉齐并肩看...<a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=2774590332810488715&amp;pos=10&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/2774590332810488715" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/entertainment">文娱</a></p>
+<span class="author">
+<em>记者</em>
+<em>闫雯雯</em>
+</span>
+<span class="time">04-20 10:20</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16491261323466381243&amp;pos=11&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16491261323466381243">
+<h4>
+<a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16491261323466381243&amp;pos=11&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16491261323466381243" target="_blank">四川省农业厅原巡视员胡相全严重违纪违法被&quot;双开&quot;</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16491261323466381243&amp;pos=11&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16491261323466381243" target="_blank"><img src="http://news.huaxi100.com/uploadfile/2015/0420/20150420095042908.png"/></a></p>
+<p class="summary">胡相全利用职务上的便利，为他人谋取利...<a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16491261323466381243&amp;pos=11&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16491261323466381243" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/opinion">观点</a></p>
+<span class="author">
+<em>中纪委</em>
+</span>
+<span class="time">04-20 09:55</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16566004603535538072&amp;pos=12&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16566004603535538072">
+<h4>
+<a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16566004603535538072&amp;pos=12&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16566004603535538072" target="_blank">股市热点:全面和定向降准齐上阵 稳增长系列政策加码</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16566004603535538072&amp;pos=12&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16566004603535538072" target="_blank"><img src="http://news.huaxi100.com/uploadfile/2015/0420/20150420093502137.jpg"/></a></p>
+<p class="summary">点评：此次降准的时点符合市场预期，力...<a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16566004603535538072&amp;pos=12&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16566004603535538072" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/opinion">观点</a></p>
+<span class="author">
+<em>白兰</em>
+<em>胡佳杰</em>
+</span>
+<span class="time">04-20 09:38</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16431303124756726402&amp;pos=13&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16431303124756726402">
+<h4>
+<a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16431303124756726402&amp;pos=13&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16431303124756726402" target="_blank">四川首届“书香之家”评选纳入“书香天府”全民阅读方案</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16431303124756726402&amp;pos=13&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16431303124756726402" target="_blank"><img src="http://news.huaxi100.com/uploadfile/2015/0420/20150420085016685.jpg"/></a></p>
+<p class="summary">“书香之家”评选活动自启动以来，得到...<a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16431303124756726402&amp;pos=13&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16431303124756726402" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/sichuan">四川</a></p>
+<span class="time">04-20 09:03</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=huaxi&amp;nid=2692234605484710414&amp;pos=14&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/2692234605484710414">
+<h4>
+<a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=2692234605484710414&amp;pos=14&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/2692234605484710414" target="_blank">汪峰上头条 这次有点冤 回应称不是同一场比赛</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=2692234605484710414&amp;pos=14&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/2692234605484710414" target="_blank"><img src="http://news.huaxi100.com/uploadfile/2015/0420/20150420084000218.jpg"/></a></p>
+<p class="summary">比汪峰更冤的是智力运动新宠——德州扑...<a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=2692234605484710414&amp;pos=14&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/2692234605484710414" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/entertainment">文娱</a></p>
+<span class="time">04-20 09:03</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16434403532808082751&amp;pos=15&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16434403532808082751">
+<h4>
+<a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16434403532808082751&amp;pos=15&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16434403532808082751" target="_blank">投资缅甸四川商机在哪里？水电木材基建等大有可为</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16434403532808082751&amp;pos=15&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16434403532808082751" target="_blank"><img src="http://news.huaxi100.com/uploadfile/2015/0420/20150420071821877.jpg"/></a></p>
+<p class="summary">李祖清博士和学习汉语的孩子们在一起。<a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16434403532808082751&amp;pos=15&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16434403532808082751" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/sichuan">四川</a></p>
+<span class="time">04-20 08:46</span>
+</div>
+</div>
+<div class="feed_tegao" data-href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16422718859499937112&amp;pos=16&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16422718859499937112">
+<h4>
+<a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16422718859499937112&amp;pos=16&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16422718859499937112" target="_blank">58赶集合并涉嫌垄断 未来或向个人收费</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16422718859499937112&amp;pos=16&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16422718859499937112" target="_blank"><img src="http://news.huaxi100.com/uploadfile/2015/0420/20150420083735506.jpg"/></a></p>
+<p class="summary">赶集网CEO杨浩涌说，赶集与58同城合并后，在资本层面，两家将组成新的公司——58赶集有限公司。<a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16422718859499937112&amp;pos=16&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16422718859499937112" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/opinion">观点</a></p>
+<span class="time">04-20 08:46</span>
+</div>
+</div>
+<div class="feed_tegao" data-href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16551194293582444301&amp;pos=17&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16551194293582444301">
+<h4>
+<a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16551194293582444301&amp;pos=17&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16551194293582444301" target="_blank">股民遭遇最复杂周末 今天开盘咋办？</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16551194293582444301&amp;pos=17&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16551194293582444301" target="_blank"><img src="http://news.huaxi100.com/uploadfile/2015/0420/20150420082553918.jpg"/></a></p>
+<p class="summary">综合周末的消息，市场预计会高开，降准毕竟是实在利好，银行等权重受益也会抬升指数。<a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16551194293582444301&amp;pos=17&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16551194293582444301" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/opinion">观点</a></p>
+<span class="time">04-20 08:46</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16398582096799182511&amp;pos=18&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16398582096799182511">
+<h4>
+<a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16398582096799182511&amp;pos=18&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16398582096799182511" target="_blank">中缅油气管线建设者：70℃搞焊接 曾亲见炮弹落在营地 </a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16398582096799182511&amp;pos=18&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16398582096799182511" target="_blank"><img src="http://news.huaxi100.com/uploadfile/2015/0420/20150420071639344.jpg"/></a></p>
+<p class="summary">圆满完成了中缅油气管线所属管线建设任...<a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16398582096799182511&amp;pos=18&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16398582096799182511" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/sichuan">四川</a></p>
+<span class="time">04-20 08:31</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16407908549546843341&amp;pos=19&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16407908549546843341">
+<h4>
+<a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16407908549546843341&amp;pos=19&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16407908549546843341" target="_blank">陈良宇案辩护律师:十八大后找我的人多了一倍</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16407908549546843341&amp;pos=19&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16407908549546843341" target="_blank"><img src="http://news.huaxi100.com/uploadfile/2015/0420/20150420075325577.jpg"/></a></p>
+<p class="summary">尽管高子程说自己是个“万金油”型的律...<a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16407908549546843341&amp;pos=19&amp;layout=2&amp;url=http://huaxi.media.baidu.com/article/16407908549546843341" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/opinion">观点</a></p>
+<span class="author">
+<em>新闻晨报</em>
+</span>
+<span class="time">04-20 07:56</span>
+</div>
+</div>
+</div>
+<div class="loading"><img src="/static/newsmedia/widget/mod_page/jm_loading_d04a658.gif"><b>正在加载，请稍候...</b></div>
+<div class="pages">
+<a href="javascript:;" class="btn btnP nodis">上一页</a>
+<div class="page"></div>
+<a href="javascript:;" class="btn btnN">下一页</a>
+</div>
+<div id="Footer" class="wp-footer">
+<p class="top-nav">
+<a href="http://news.baidu.com/" target="_blank">百度新闻</a>|<a href="mailto:media_news%40baidu.com" target="_blank">联系我们：media_news@baidu.com</a>
+<strong class="wp-wrap">百度新闻&华西都市报联合出品</strong>
+<a href="http://news.baidu.com/"><img src="/static/newsmedia/widget/footer/baidunews_footer_d9a758b.png"></a>
+<a href="http://www.huaxi100.com" target="_blank"><img src="http://news.baidu.com/resource/r/image/2014-10-21/ec122fba3948064b498a057caa5f6fa0.png"></a>
+</p>
+<p class="site-info">
+<i>京公网安备110000000001号</i>
+<a href="http://news.baidu.com/licence.html">互联网新闻信息服务许可</a>
+<span>©2014 Baidu</span>
+<a class="wp-wrap" href="http://www.baidu.com/duty/">使用百度前必读</a>
+<a class="wp-hide" target="_blank" href="http://net.china.cn/chinese/index.htm"><img src="http://gimg.baidu.com/img/net.gif"></a>
+<a class="wp-hide" target="_blank" href="http://www.bj.cyberpolice.cn/index.htm"><img alt="首都网络110报警服务" src="http://gimg.baidu.com/img/110.gif"></a>
+<a class="wp-hide" target="_blank" href="http://www.bjjubao.org/"><img src="http://news.baidu.com/resource/img/report_center.png"></a>
+</p>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?d09fe258c88c7015c3e6f8232ee9a563";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</div>
+</div>
+<div class="right">
+<div class="ap apRecommend">
+<div class="apt">
+<h4>热门文章</h4>
+<p class="entit"><span>HOT ARTICLE</span></p>
+</div>
+<div class="apc">
+<ul class="ulist">
+<li>
+<span class="num top3">1</span>
+<a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16455439887457481003&amp;pos=0&amp;layout=4&amp;url=http://huaxi.media.baidu.com/article/16455439887457481003" title="股市前瞻:自贸区挂牌倒计时 港口物流等行业股受益">股市前瞻:自贸区挂牌倒计时 港口物流等行业股受益</a>
+<span class="tm">04-20 10:36</span>
+</li>
+<li>
+<span class="num top3">2</span>
+<a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16491261323466381243&amp;pos=1&amp;layout=4&amp;url=http://huaxi.media.baidu.com/article/16491261323466381243" title="四川省农业厅原巡视员胡相全严重违纪违法被&quot;双开&quot;">四川省农业厅原巡视员胡相全严重违纪违法被&quot;双开&quot;</a>
+<span class="tm">04-20 09:55</span>
+</li>
+<li>
+<span class="num top3">3</span>
+<a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16566004603535538072&amp;pos=2&amp;layout=4&amp;url=http://huaxi.media.baidu.com/article/16566004603535538072" title="股市热点:全面和定向降准齐上阵 稳增长系列政策加码">股市热点:全面和定向降准齐上阵 稳增长系列政策加码</a>
+<span class="tm">04-20 09:38</span>
+</li>
+<li>
+<span class="num">4</span>
+<a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16551194293582444301&amp;pos=3&amp;layout=4&amp;url=http://huaxi.media.baidu.com/article/16551194293582444301" title="股民遭遇最复杂周末 今天开盘咋办？">股民遭遇最复杂周末 今天开盘咋办？</a>
+<span class="tm">04-20 08:46</span>
+</li>
+<li>
+<span class="num">5</span>
+<a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16431303124756726402&amp;pos=4&amp;layout=4&amp;url=http://huaxi.media.baidu.com/article/16431303124756726402" title="四川首届“书香之家”评选纳入“书香天府”全民阅读方案">四川首届“书香之家”评选纳入“书香天府”全民阅读方案</a>
+<span class="tm">04-20 09:03</span>
+</li>
+<li>
+<span class="num">6</span>
+<a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16422718859499937112&amp;pos=5&amp;layout=4&amp;url=http://huaxi.media.baidu.com/article/16422718859499937112" title="58赶集合并涉嫌垄断 未来或向个人收费">58赶集合并涉嫌垄断 未来或向个人收费</a>
+<span class="tm">04-20 08:46</span>
+</li>
+<li>
+<span class="num">7</span>
+<a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16353368752706238934&amp;pos=6&amp;layout=4&amp;url=http://huaxi.media.baidu.com/article/16353368752706238934" title="新华社：银行要降低收费，国有银行要作表率">新华社：银行要降低收费，国有银行要作表率</a>
+<span class="tm">04-19 21:39</span>
+</li>
+<li>
+<span class="num">8</span>
+<a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16335458034701788814&amp;pos=7&amp;layout=4&amp;url=http://huaxi.media.baidu.com/article/16335458034701788814" title="白杰品股:遭遇利空 周一继续谨慎">白杰品股:遭遇利空 周一继续谨慎</a>
+<span class="tm">04-19 21:20</span>
+</li>
+<li>
+<span class="num">9</span>
+<a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16440276586985496362&amp;pos=8&amp;layout=4&amp;url=http://huaxi.media.baidu.com/article/16440276586985496362" title="贵州省凯里市原市长洪金洲“地窖藏钱”2000万元">贵州省凯里市原市长洪金洲“地窖藏钱”2000万元</a>
+<span class="tm">04-19 16:06</span>
+</li>
+<li>
+<span class="num">10</span>
+<a href="http://media.baidu.com/redirect?source=huaxi&amp;nid=16317547316697338694&amp;pos=9&amp;layout=4&amp;url=http://huaxi.media.baidu.com/article/16317547316697338694" title="“史上最强降准” 利好金融地产股">“史上最强降准” 利好金融地产股</a>
+<span class="tm">04-19 20:42</span>
+</li>
+</ul>
+</div>
+</div></div>
+</div>
+</div>
+<div id="Footer">
+<p class="top-nav">
+<a href="http://news.baidu.com/" target="_blank">百度新闻</a>|<a href="mailto:media_news%40baidu.com" target="_blank">联系我们：media_news@baidu.com</a>
+<strong class="wp-wrap">百度新闻&华西都市报联合出品</strong>
+<a href="http://news.baidu.com/"><img src="/static/newsmedia/widget/footer/baidunews_footer_d9a758b.png"></a>
+<a href="http://www.huaxi100.com" target="_blank"><img src="http://news.baidu.com/resource/r/image/2014-10-21/ec122fba3948064b498a057caa5f6fa0.png"></a>
+</p>
+<p class="site-info">
+<i>京公网安备110000000001号</i>
+<a href="http://news.baidu.com/licence.html">互联网新闻信息服务许可</a>
+<span>©2014 Baidu</span>
+<a class="wp-wrap" href="http://www.baidu.com/duty/">使用百度前必读</a>
+<a class="wp-hide" target="_blank" href="http://net.china.cn/chinese/index.htm"><img src="http://gimg.baidu.com/img/net.gif"></a>
+<a class="wp-hide" target="_blank" href="http://www.bj.cyberpolice.cn/index.htm"><img alt="首都网络110报警服务" src="http://gimg.baidu.com/img/110.gif"></a>
+<a class="wp-hide" target="_blank" href="http://www.bjjubao.org/"><img src="http://news.baidu.com/resource/img/report_center.png"></a>
+</p>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?d09fe258c88c7015c3e6f8232ee9a563";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</div>
+</div>
+<div class="mod-sidebar">
+<ul class="menu">
+<li class="toolbar">
+<a class="search" href="/search"><i class="icon-search"></i>搜索</a>
+|<a class="login" href="javascript:;">登录</a>
+<p class="username"></p>
+</li>
+<li class="item">
+<a href="/">首页</a>
+</li>
+<li class="item">
+<a href="/opinion">要闻</a>
+</li>
+<li class="item">
+<a href="/sichuan">四川</a>
+</li>
+<li class="item">
+<a href="/chengdu">成都</a>
+</li>
+<li class="item">
+<a href="/entertainment">文娱</a>
+</li>
+<li class="item">
+<a href="/travel">旅游</a>
+</li>
+<li class="item">
+<a href="/industry">行业</a>
+<ul class="submenu">
+<li class="sub-item"><a href="/industry/housing">房产</a></li>
+<li class="sub-item"><a href="/industry/automobile">汽车</a></li>
+<li class="sub-item"><a href="/industry/fashion">生活</a></li>
+<li class="sub-item"><a href="/industry/education">教育</a></li>
+<li class="sub-item"><a href="/industry/electronic">家电</a></li>
+<li class="sub-item"><a href="/industry/technology">通讯</a></li>
+</ul>
+</li>
+<li class="logo"><a href="http://news.baidu.com"><img src="/static/newsmedia/widget/mod_sidebar/logo-baidu_941ba05.png" height="26px" alt="baidu logo"></a></li>
+</ul>
+</div>
+</body><script type="text/javascript" src="/static/common/js/mod_b818356.js"></script>
+<script type="text/javascript" src="/static/common/js/jquery-1.10.1_77f5e40.js"></script>
+<script type="text/javascript" src="/static/common/pkg/aio_d41d8cd.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/mod_page/mod_page_78338ec.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/ap_ulist/ap_ulist_60537f4.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/header/header_3f34133.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/cover/cover_2e172d2.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/ui/iscroll/iscroll_93ba427.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/ui/velocity/velocity_022bc13.js"></script>
+<script type="text/javascript" src="/static/newsmedia/lessimgindex/lessimgindex_0e2d48b.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/mod_sidebar/mod_sidebar_5cf9d41.js"></script>
+<script type="text/javascript">!function(){    require.async('newsmedia:widget/mod_sidebar/mod_sidebar.js', function(login) {
+      login();
+    })
+  }();
+!function(){    var device = 'pc';
+    // 手机端直接监听每条新闻并跳转
+    if (device !== 'pc') {
+      $(function() {
+        var $banner = $('#banners');
+
+        $banner.delegate('.feed_tegao', 'click', function(ev) {
+          // 判断是否是点击了tag
+          var $target = $(ev.target);
+          if ($target.attr('href') &&
+            /^\/.*/.test($target.attr('href'))) return;
+
+          var $item = $(ev.currentTarget);
+          var href = $item.attr('data-href');
+
+          setTimeout(function() {
+            window.location.href = href;
+          }, 100)
+        });
+      });
+    }
+
+    alog("set", "alias", {
+         monkey: "http://img.baidu.com/hunter/alog/monkey.min.js",
+         element: "http://img.baidu.com/hunter/alog/element.min.js"
+     });
+
+     alog("require", ["monkey", "element"], function(monkey, element){
+         monkey.create({
+             page: "news-huaxi",
+             pid: "241",
+             p: "133",
+             hid: "424",
+             postUrl: "http://nsclick.baidu.com/u.gif",
+             reports: {
+                refer: 1,
+                staytime: 1
+             }
+         });
+     });
+
+     alog("monkey.send", "pageview", { now: +new Date });
+  }();</script></html>

@@ -1,0 +1,730 @@
+<!doctype html>
+<html>
+<head>
+<!--STATUS OK-->
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+<title>澎湃_百度传媒</title>
+
+<link rel="dns-prefetch" href="//ns0.bdstatic.com">
+<link rel="dns-prefetch" href="//ns1.bdstatic.com">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="" >
+
+
+
+
+<script>
+	var serverData = {
+		maxseg : 3,
+		total : 540,
+		hasMore : '1',
+		rn : 54,
+		lastNid : '14505092325300383446',
+		logowidth : '144',
+		logoheight : '40',
+		coverlogoheight : '54',
+		menuCount : 5,
+		subscribename : 'pengpai',
+		terms : '',
+		menu : [],
+		channelname : '',
+    device: 'pc'
+	}
+	if(!''){
+		serverData.channelname = 'index';
+	}else{
+		serverData.channelname = '';
+	}
+
+  // hunter统计
+  void function(e,t,n,a,o,i,m){e.alogObjectName=o,e[o]=e[o]||function(){(e[o].q=e[o].q||[]).push(arguments)},e[o].l=e[o].l||+new Date,i=t.createElement(n),i.asyn=1,i.src=a,m=t.getElementsByTagName(n)[0],m.parentNode.insertBefore(i,m)}(window,document,"script","http://img.baidu.com/hunter/alog.min.js","alog");
+    </script>
+
+<link rel="stylesheet" type="text/css" href="/static/common/pkg/aio_ec06920.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/css/all_e472514.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/skin/black_88de0ff.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/mod_page/mod_page_aac155e.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/header/header_6c174ae.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/cover/cover_1a2721a.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/mod_focus/mod_focus_e3d97a7.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/mod_feed/mod_feed_03b6c6d.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/footer/footer_1ef9d4d.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/mod_sidebar/mod_sidebar_cb6d93e.css"/></head>
+<body>
+
+<style>
+	body{padding-top:0}
+	#Header{position: relative;}
+</style>
+
+
+<div class="wrap">
+<div id="Cover" class="mod-cover">
+<div class="cover">
+<div class="coverbg"></div>
+<div class="coverlogo"><img src="http://news.baidu.com/resource/r/image/2014-12-01/3e79a37e2390775e7e1a3fe54447f8dd.png"></div>
+<div class="coverslogan">
+<p class="ll"></p>
+<span>专注时政与思想</span>
+<p class="rl"></p>
+</div>
+</div>
+</div><div id="Header">
+<div class="header">
+<h1 class="test"></h1>
+<div class="logo" style="width:144px;"><a href="/" target="_blank" ><img src="http://news.baidu.com/resource/r/image/2015-02-12/db1ecc9033b440c3e5797aaaf73229d8.png" style="height:40px"/></a></div>
+<div class="menulist large" style="margin:0 144px">
+<ul></ul>
+</div>
+<div class="menulist medium" style="margin:0 144px">
+<ul></ul>
+</div>
+<div class="headerSearch">
+<p class="searchbar">
+<a href="javascript:;" class="searchA"><i class="i"></i></a>
+<i class="txt"><i class="i nodis"></i><input type="text" class="nodis"></i>
+</p>
+<p class="sub-menu"><i class="icon-submenu"></i></p>
+<p class="baiduLogo"><a href="http://news.baidu.com/" target="_blank"><img src="/static/newsmedia/widget/header/baidu_logo_46a3f92.png"></a></p>
+</div>
+</div>
+
+<script type="text/javascript">
+var menu = [];
+
+            menu.push({
+            'name': '首页',
+            'enname':'',
+            'url': '',
+            'list':[
+            	            ]
+        });
+            menu.push({
+            'name': '时事',
+            'enname':'politics',
+            'url': '',
+            'list':[
+            	            	{'name' : '中国政库',
+            	'enname' : 'politics\/zgzk'
+	            },	                        	{'name' : '中南海',
+            	'enname' : 'politics\/znh'
+	            },	                        	{'name' : '舆论场',
+            	'enname' : 'politics\/ylc'
+	            },	                        	{'name' : '打虎记',
+            	'enname' : 'politics\/dhj'
+	            },	                        	{'name' : '人事风向',
+            	'enname' : 'politics\/rsfx'
+	            },	                        	{'name' : '法治中国',
+            	'enname' : 'politics\/fzzg'
+	            },	                        	{'name' : '一号专案',
+            	'enname' : 'politics\/yhza'
+	            },	                        	{'name' : '港台来信',
+            	'enname' : 'politics\/gtlx'
+	            },	                        	{'name' : '长三角政商',
+            	'enname' : 'politics\/csjzs'
+	            },	                        	{'name' : '直击现场',
+            	'enname' : 'politics\/zjxc'
+	            },	                        	{'name' : '知食分子',
+            	'enname' : 'politics\/zsfz'
+	            },	                        	{'name' : '绿政公署',
+            	'enname' : 'politics\/lzgs'
+	            },	                        	{'name' : '澎湃国际',
+            	'enname' : 'politics\/ppgj'
+	            },	                        	{'name' : '外交学人',
+            	'enname' : 'politics\/wjxr'
+	            },	                        	{'name' : '澎湃防务',
+            	'enname' : 'politics\/ppfw'
+	            },	                        	{'name' : '译中国',
+            	'enname' : 'politics\/yzg'
+	            },	                        	{'name' : '澎湃人物',
+            	'enname' : 'politics\/pprw'
+	            },	                        	{'name' : '浦江头条',
+            	'enname' : 'politics\/pjtt'
+	            },	                        	{'name' : '教育家',
+            	'enname' : 'politics\/jyj'
+	            },	                        	{'name' : '花边数据',
+            	'enname' : 'politics\/hbsj'
+	            },	                        	{'name' : '快看',
+            	'enname' : 'politics\/kk'
+	            }	                        ]
+        });
+            menu.push({
+            'name': '经济',
+            'enname':'economy',
+            'url': '',
+            'list':[
+            	            	{'name' : '财经上下游',
+            	'enname' : 'economy\/cjsxy'
+	            },	                        	{'name' : '自贸区连线',
+            	'enname' : 'economy\/zmqlx'
+	            },	                        	{'name' : '地产界',
+            	'enname' : 'economy\/dcj'
+	            },	                        	{'name' : '10%公司',
+            	'enname' : 'economy\/10gs'
+	            },	                        	{'name' : '金改实验室',
+            	'enname' : 'economy\/jgsys'
+	            },	                        	{'name' : '能见度',
+            	'enname' : 'economy\/njd'
+	            },	                        	{'name' : '财富管理',
+            	'enname' : 'economy\/cfgl'
+	            },	                        	{'name' : '澎湃商学院',
+            	'enname' : 'economy\/ppsxy'
+	            }	                        ]
+        });
+            menu.push({
+            'name': '思想',
+            'enname':'insights',
+            'url': '',
+            'list':[
+            	            	{'name' : '社论',
+            	'enname' : 'insights\/sl'
+	            },	                        	{'name' : '思想市场',
+            	'enname' : 'insights\/sxsc'
+	            },	                        	{'name' : '私家历史',
+            	'enname' : 'insights\/sjls'
+	            },	                        	{'name' : '翻书党',
+            	'enname' : 'insights\/fsd'
+	            },	                        	{'name' : '艺术观',
+            	'enname' : 'insights\/ysg'
+	            },	                        	{'name' : '文化课',
+            	'enname' : 'insights\/whk'
+	            },	                        	{'name' : '逝者',
+            	'enname' : 'insights\/sz'
+	            },	                        	{'name' : '澎湃研究所',
+            	'enname' : 'insights\/ppyjs'
+	            },	                        	{'name' : '请讲',
+            	'enname' : 'insights\/qj'
+	            },	                        	{'name' : '专栏',
+            	'enname' : 'insights\/zl'
+	            }	                        ]
+        });
+            menu.push({
+            'name': '生活',
+            'enname':'life',
+            'url': '',
+            'list':[
+            	            	{'name' : '有戏',
+            	'enname' : 'life\/yx'
+	            },	                        	{'name' : '运动家',
+            	'enname' : 'life\/ydj'
+	            },	                        	{'name' : '身体',
+            	'enname' : 'life\/st'
+	            },	                        	{'name' : '私·奔',
+            	'enname' : 'life\/sb'
+	            },	                        	{'name' : '生活方式',
+            	'enname' : 'life\/shfs'
+	            },	                        	{'name' : '澎湃联播',
+            	'enname' : 'life\/pplb'
+	            },	                        	{'name' : '私家地理',
+            	'enname' : 'life\/sjdl'
+	            }	                        ]
+        });
+        serverData.menu = menu;
+
+</script>
+
+</div>
+<div id="Body">
+<div class="body">
+<div class="focus">
+<p class="focus-item max  float-right " data-href="http://media.baidu.com/redirect?source=pengpai&amp;nid=14558356516882547531&amp;pos=0&amp;layout=1&amp;token=b9e14fe81a98aa3f3228d622b16dad6c&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322940">
+<a href="http://media.baidu.com/redirect?source=pengpai&amp;nid=14558356516882547531&amp;pos=0&amp;layout=1&amp;token=b9e14fe81a98aa3f3228d622b16dad6c&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322940" target="_blank">
+<img src="http://image.thepaper.cn/image/4/338/898.jpg"/>
+<span class="desc">
+<strong class="title">92岁中纪委原副书记陈作霖病逝，遗体送别仪式今在京举行</strong>
+</span>
+</a>
+</p>
+<p class="focus-item  " data-href="http://media.baidu.com/redirect?source=pengpai&amp;nid=14831816363084400749&amp;pos=1&amp;layout=1&amp;token=c166ac85a9e119ec8d24182c85d7b35f&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322739">
+<a href="http://media.baidu.com/redirect?source=pengpai&amp;nid=14831816363084400749&amp;pos=1&amp;layout=1&amp;token=c166ac85a9e119ec8d24182c85d7b35f&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322739" target="_blank">
+<img src="http://image.thepaper.cn/www/image/4/338/622.jpg"/>
+<span class="desc">
+<strong class="title">推广|一点也不饿、坐着就能健康减肥？饱腹减肥大作战！</strong>
+</span>
+</a>
+</p>
+<p class="focus-item   float-right " data-href="http://media.baidu.com/redirect?source=pengpai&amp;nid=14567671184224323249&amp;pos=2&amp;layout=1&amp;token=705b32ff141d0970422b541b022a18e7&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322724">
+<a href="http://media.baidu.com/redirect?source=pengpai&amp;nid=14567671184224323249&amp;pos=2&amp;layout=1&amp;token=705b32ff141d0970422b541b022a18e7&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322724" target="_blank">
+<img src="http://image.thepaper.cn/www/image/4/338/828.jpg"/>
+<span class="desc">
+<strong class="title">数据一周 | 偷渡移民死亡地图、最热的三月、血汗加班大楼</strong>
+</span>
+</a>
+</p>
+<p class="focus-item  " data-href="http://media.baidu.com/redirect?source=pengpai&amp;nid=14968885206385726964&amp;pos=3&amp;layout=1&amp;token=f33dd84c6bf26aea922cf0314d89168b&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322859">
+<a href="http://media.baidu.com/redirect?source=pengpai&amp;nid=14968885206385726964&amp;pos=3&amp;layout=1&amp;token=f33dd84c6bf26aea922cf0314d89168b&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322859" target="_blank">
+<img src="http://image.thepaper.cn/image/4/338/740.jpg"/>
+<span class="desc">
+<strong class="title">湖南永州市委办公楼一女子跳楼被劝下，官方：买房纠纷</strong>
+</span>
+</a>
+</p>
+<p class="focus-item   float-right " data-href="http://media.baidu.com/redirect?source=pengpai&amp;nid=15108419399564021192&amp;pos=4&amp;layout=1&amp;token=710fdecfa2848829fa96805ba76ba34c&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322888">
+<a href="http://media.baidu.com/redirect?source=pengpai&amp;nid=15108419399564021192&amp;pos=4&amp;layout=1&amp;token=710fdecfa2848829fa96805ba76ba34c&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322888" target="_blank">
+<img src="http://image.thepaper.cn/www/image/4/338/830.jpg"/>
+<span class="desc">
+<strong class="title">《三体》作者刘慈欣：科幻和科学是一对好基友</strong>
+</span>
+</a>
+</p>
+</div>
+<div class="content-wrapper">
+<div class="scroller">
+<div id="feeds">
+<div class="feed-item long " data-href="http://media.baidu.com/redirect?source=pengpai&amp;nid=15149225733526642334&amp;pos=0&amp;layout=2&amp;token=b88702410ca7b70a1bf452153079ec56&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322889">
+<p class="type">经济</p>
+<h4>
+<a href="http://media.baidu.com/redirect?source=pengpai&amp;nid=15149225733526642334&amp;pos=0&amp;layout=2&amp;token=b88702410ca7b70a1bf452153079ec56&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322889" target="_blank">阿里强制下线中铁快运等11家快递公司，引发部分商...</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=pengpai&amp;nid=15149225733526642334&amp;pos=0&amp;layout=2&amp;token=b88702410ca7b70a1bf452153079ec56&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322889" target="_blank"><img src="http://image.thepaper.cn/wap/image/4/338/856.jpg"/></a></p>
+<p class="summary">在全网封杀“广州樱花”家电和强制下线...</p>
+<p class="infos">
+<span class="author">
+<em>澎湃新闻记者</em>
+<em>李淑平</em>
+<em>戴一苇</em>
+</span>
+<span class="time">04-20 17:47</span>
+</p>
+</div>
+<div class="feed-item long  float-right " data-href="http://media.baidu.com/redirect?source=pengpai&amp;nid=14661741709769108476&amp;pos=1&amp;layout=2&amp;token=72bee437c3a2847d6081c9a62e3068e8&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322860">
+<p class="type">经济</p>
+<h4>
+<a href="http://media.baidu.com/redirect?source=pengpai&amp;nid=14661741709769108476&amp;pos=1&amp;layout=2&amp;token=72bee437c3a2847d6081c9a62e3068e8&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322860" target="_blank">亚投行博弈第二阶段：下周定持股比例，中国持股或降...</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=pengpai&amp;nid=14661741709769108476&amp;pos=1&amp;layout=2&amp;token=72bee437c3a2847d6081c9a62e3068e8&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322860" target="_blank"><img src="http://image.thepaper.cn/www/image/4/338/729.jpg"/></a></p>
+<p class="summary">中国财政部部长楼继伟就亚投行参与国的...</p>
+<p class="infos">
+<span class="author">
+<em>澎湃新闻记者</em>
+<em>丁蕾蕾</em>
+</span>
+<span class="time">04-20 17:47</span>
+</p>
+</div>
+<div class="feed-item long " data-href="http://media.baidu.com/redirect?source=pengpai&amp;nid=14704740027525649464&amp;pos=2&amp;layout=2&amp;token=2db0c9f7babf8b93c22dc63a984715b2&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322844">
+<p class="type">时事</p>
+<h4>
+<a href="http://media.baidu.com/redirect?source=pengpai&amp;nid=14704740027525649464&amp;pos=2&amp;layout=2&amp;token=2db0c9f7babf8b93c22dc63a984715b2&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322844" target="_blank">新西兰总理否认监听中国领事馆，称斯诺登“是一个盗...</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=pengpai&amp;nid=14704740027525649464&amp;pos=2&amp;layout=2&amp;token=2db0c9f7babf8b93c22dc63a984715b2&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322844" target="_blank"><img src="http://image.thepaper.cn/wap/image/4/338/710.jpg"/></a></p>
+<p class="summary">约翰·基20日接受新西兰媒体采访时强...</p>
+<p class="infos">
+<span class="author">
+<em>澎湃新闻</em>
+<em>综合报道</em>
+</span>
+<span class="time">04-20 17:47</span>
+</p>
+</div>
+<div class="feed-item long  float-right " data-href="http://media.baidu.com/redirect?source=pengpai&amp;nid=14887272538460484680&amp;pos=3&amp;layout=2&amp;token=e32e3b247b713daf293c39c930ca612b&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322857">
+<p class="type">思想</p>
+<h4>
+<a href="http://media.baidu.com/redirect?source=pengpai&amp;nid=14887272538460484680&amp;pos=3&amp;layout=2&amp;token=e32e3b247b713daf293c39c930ca612b&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322857" target="_blank">鲁迅全集如何突破四人帮封锁出版：周海婴经指点上书...</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=pengpai&amp;nid=14887272538460484680&amp;pos=3&amp;layout=2&amp;token=e32e3b247b713daf293c39c930ca612b&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322857" target="_blank"><img src="http://image.thepaper.cn/wap/image/4/338/730.jpg"/></a></p>
+<p class="summary">《胡乔木传》中，讲述了周海婴上书毛主...</p>
+<p class="infos">
+<span class="author">
+<em>《胡乔木传》编写组</em>
+</span>
+<span class="time">04-20 17:47</span>
+</p>
+</div>
+<div class="feed-item long " data-href="http://media.baidu.com/redirect?source=pengpai&amp;nid=14848658188291783384&amp;pos=4&amp;layout=2&amp;token=a0f4e1494c5a715c2f00af417306a265&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322839">
+<p class="type">时事</p>
+<h4>
+<a href="http://media.baidu.com/redirect?source=pengpai&amp;nid=14848658188291783384&amp;pos=4&amp;layout=2&amp;token=a0f4e1494c5a715c2f00af417306a265&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322839" target="_blank">二代身份证注销缺陷引后患：黑市三百块叫卖，银行铁...</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=pengpai&amp;nid=14848658188291783384&amp;pos=4&amp;layout=2&amp;token=a0f4e1494c5a715c2f00af417306a265&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322839" target="_blank"><img src="http://image.thepaper.cn/image/4/338/628.jpg"/></a></p>
+<p class="summary">身份证在网络黑市被公然叫卖，银行运营...</p>
+<p class="infos">
+<span class="author">
+<em>邓中豪、刘林、翟永冠/新华网</em>
+</span>
+<span class="time">04-20 17:29</span>
+</p>
+</div>
+<div class="feed-item long  float-right " data-href="http://media.baidu.com/redirect?source=pengpai&amp;nid=14925886888629185976&amp;pos=5&amp;layout=2&amp;token=b8536b0aaa9450748d69fdb999aea44a&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322875">
+<p class="type">思想</p>
+<h4>
+<a href="http://media.baidu.com/redirect?source=pengpai&amp;nid=14925886888629185976&amp;pos=5&amp;layout=2&amp;token=b8536b0aaa9450748d69fdb999aea44a&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322875" target="_blank">索尔·辛格：中国人没有创新精神？我完全不同意</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=pengpai&amp;nid=14925886888629185976&amp;pos=5&amp;layout=2&amp;token=b8536b0aaa9450748d69fdb999aea44a&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322875" target="_blank"><img src="http://image.thepaper.cn/www/image/4/338/782.jpg"/></a></p>
+<p class="summary">那个时候这个国家会吸引更多人才，更多...</p>
+<p class="infos">
+<span class="author">
+<em>澎湃新闻记者</em>
+<em>李雅琦</em>
+<em>张茹</em>
+</span>
+<span class="time">04-20 17:29</span>
+</p>
+</div>
+<div class="feed-item long " data-href="http://media.baidu.com/redirect?source=pengpai&amp;nid=14745819727571318773&amp;pos=6&amp;layout=2&amp;token=05ddc1f52671fcc9f1a4c425fd3a235f&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322771">
+<p class="type">思想</p>
+<h4>
+<a href="http://media.baidu.com/redirect?source=pengpai&amp;nid=14745819727571318773&amp;pos=6&amp;layout=2&amp;token=05ddc1f52671fcc9f1a4c425fd3a235f&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322771" target="_blank">纪念沈渭滨︱学生眼中最有“腔调”的老师</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=pengpai&amp;nid=14745819727571318773&amp;pos=6&amp;layout=2&amp;token=05ddc1f52671fcc9f1a4c425fd3a235f&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322771" target="_blank"><img src="http://image.thepaper.cn/wap/image/4/338/620.jpg"/></a></p>
+<p class="summary">很多和沈老师接触过的年轻人，都受到过...</p>
+<p class="infos">
+<span class="author">
+<em>王戴香</em>
+<em>宋时娟</em>
+</span>
+<span class="time">04-20 17:29</span>
+</p>
+</div>
+<div class="feed-item long  float-right " data-href="http://media.baidu.com/redirect?source=pengpai&amp;nid=15089112224479670544&amp;pos=7&amp;layout=2&amp;token=9a3151da5fcca54172250c6eef45ccde&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322879">
+<p class="type">经济</p>
+<h4>
+<a href="http://media.baidu.com/redirect?source=pengpai&amp;nid=15089112224479670544&amp;pos=7&amp;layout=2&amp;token=9a3151da5fcca54172250c6eef45ccde&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322879" target="_blank">证券法修订草案首次描绘股票发行注册制路线图 </a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=pengpai&amp;nid=15089112224479670544&amp;pos=7&amp;layout=2&amp;token=9a3151da5fcca54172250c6eef45ccde&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322879" target="_blank"><img src="http://image.thepaper.cn/www/image/4/338/779.jpg"/></a></p>
+<p class="summary">修订草案首次从法律层面明确了股票发行...</p>
+<p class="infos">
+<span class="author">
+<em>新华网</em>
+</span>
+<span class="time">04-20 17:11</span>
+</p>
+</div>
+<div class="feed-item long " data-href="http://media.baidu.com/redirect?source=pengpai&amp;nid=14762661552778701408&amp;pos=8&amp;layout=2&amp;token=deac9aa99d9a998e8ff2b3a2e834ac8a&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322871">
+<p class="type">经济</p>
+<h4>
+<a href="http://media.baidu.com/redirect?source=pengpai&amp;nid=14762661552778701408&amp;pos=8&amp;layout=2&amp;token=deac9aa99d9a998e8ff2b3a2e834ac8a&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322871" target="_blank">涨知识｜“一带一路”的旗舰和样板工程：中巴经济走...</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=pengpai&amp;nid=14762661552778701408&amp;pos=8&amp;layout=2&amp;token=deac9aa99d9a998e8ff2b3a2e834ac8a&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322871" target="_blank"><img src="http://image.thepaper.cn/www/image/4/338/750.jpg"/></a></p>
+<p class="summary">巴基斯坦卡拉奇海边的一艘供电船，持续...</p>
+<p class="infos">
+<span class="author">
+<em>新华网</em>
+</span>
+<span class="time">04-20 17:11</span>
+</p>
+</div>
+<div class="feed-item long  float-right " data-href="http://media.baidu.com/redirect?source=pengpai&amp;nid=14865773379582214186&amp;pos=9&amp;layout=2&amp;token=a732e71b743ca06e816a41ae1afd97ce&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322865">
+<p class="type">经济</p>
+<h4>
+<a href="http://media.baidu.com/redirect?source=pengpai&amp;nid=14865773379582214186&amp;pos=9&amp;layout=2&amp;token=a732e71b743ca06e816a41ae1afd97ce&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322865" target="_blank">证券法一审，投资者最该关注的十件事儿 </a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=pengpai&amp;nid=14865773379582214186&amp;pos=9&amp;layout=2&amp;token=a732e71b743ca06e816a41ae1afd97ce&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322865" target="_blank"><img src="http://image.thepaper.cn/www/image/4/338/759.jpg"/></a></p>
+<p class="summary">在“证券经营机构”一章，草案明确提出...</p>
+<p class="infos">
+<span class="author">
+<em>新华网</em>
+</span>
+<span class="time">04-20 17:11</span>
+</p>
+</div>
+<div class="feed-item long " data-href="http://media.baidu.com/redirect?source=pengpai&amp;nid=14565205834347355236&amp;pos=10&amp;layout=2&amp;token=68527aa938c764d3ee0719f0cc4332fb&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322815">
+<p class="type">时事</p>
+<h4>
+<a href="http://media.baidu.com/redirect?source=pengpai&amp;nid=14565205834347355236&amp;pos=10&amp;layout=2&amp;token=68527aa938c764d3ee0719f0cc4332fb&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322815" target="_blank">湖北00后为情持板砖拍人脑袋，官方称是社会人员警...</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=pengpai&amp;nid=14565205834347355236&amp;pos=10&amp;layout=2&amp;token=68527aa938c764d3ee0719f0cc4332fb&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322815" target="_blank"><img src="http://image.thepaper.cn/www/image/4/338/564.jpg"/></a></p>
+<p class="summary">一段视频显示，一名少年拿砖头暴打另一...</p>
+<p class="infos">
+<span class="author">
+<em>澎湃新闻记者</em>
+<em>刘兴旺</em>
+</span>
+<span class="time">04-20 17:11</span>
+</p>
+</div>
+<div class="feed-item long  float-right " data-href="http://media.baidu.com/redirect?source=pengpai&amp;nid=14728704536280887971&amp;pos=11&amp;layout=2&amp;token=ba5cd18d8e0fa8f150e44cfd33754bec&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322745">
+<p class="type">时事</p>
+<h4>
+<a href="http://media.baidu.com/redirect?source=pengpai&amp;nid=14728704536280887971&amp;pos=11&amp;layout=2&amp;token=ba5cd18d8e0fa8f150e44cfd33754bec&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322745" target="_blank">巴基斯坦瓜达尔港官员：中国投资者对海上丝绸之路兴...</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=pengpai&amp;nid=14728704536280887971&amp;pos=11&amp;layout=2&amp;token=ba5cd18d8e0fa8f150e44cfd33754bec&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322745" target="_blank"><img src="http://image.thepaper.cn/www/image/4/338/529.jpg"/></a></p>
+<p class="summary">穆纳尔向澎湃新闻介绍了瓜达尔港的投资...</p>
+<p class="infos">
+<span class="author">
+<em>澎湃新闻记者</em>
+<em>樊诗芸</em>
+</span>
+<span class="time">04-20 17:11</span>
+</p>
+</div>
+<div class="feed-item long " data-href="http://media.baidu.com/redirect?source=pengpai&amp;nid=14866046745665262353&amp;pos=12&amp;layout=2&amp;token=a93401316d17510510966bd96f5bc4d5&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322791">
+<p class="type">时事</p>
+<h4>
+<a href="http://media.baidu.com/redirect?source=pengpai&amp;nid=14866046745665262353&amp;pos=12&amp;layout=2&amp;token=a93401316d17510510966bd96f5bc4d5&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322791" target="_blank">人民陪审员改革试点：重大案拟3名以上陪审员参加合...</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=pengpai&amp;nid=14866046745665262353&amp;pos=12&amp;layout=2&amp;token=a93401316d17510510966bd96f5bc4d5&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322791" target="_blank"><img src="http://image.thepaper.cn/wap/image/4/338/463.jpg"/></a></p>
+<p class="summary">《草案》提出探索重大案件由3名以上人...</p>
+<p class="infos">
+<span class="author">
+<em>澎湃新闻记者</em>
+<em>邢丙银</em>
+</span>
+<span class="time">04-20 17:11</span>
+</p>
+</div>
+<div class="feed-item long  float-right " data-href="http://media.baidu.com/redirect?source=pengpai&amp;nid=14786352695450891748&amp;pos=13&amp;layout=2&amp;token=ea911d27c7fd8fdbf6cfa9626fdd0008&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322846">
+<p class="type">经济</p>
+<h4>
+<a href="http://media.baidu.com/redirect?source=pengpai&amp;nid=14786352695450891748&amp;pos=13&amp;layout=2&amp;token=ea911d27c7fd8fdbf6cfa9626fdd0008&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322846" target="_blank">向中国平安、安邦保险看齐！人保集团获准成立第三方...</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=pengpai&amp;nid=14786352695450891748&amp;pos=13&amp;layout=2&amp;token=ea911d27c7fd8fdbf6cfa9626fdd0008&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322846" target="_blank"><img src="http://image.thepaper.cn/www/image/4/338/705.jpg"/></a></p>
+<p class="summary">人保寿险将拥有和阿里支付宝、平安壹钱...</p>
+<p class="infos">
+<span class="author">
+<em>澎湃新闻记者</em>
+<em>徐庭芳</em>
+</span>
+<span class="time">04-20 17:11</span>
+</p>
+</div>
+<div class="feed-item long " data-href="http://media.baidu.com/redirect?source=pengpai&amp;nid=14488523866176048978&amp;pos=14&amp;layout=2&amp;token=8bc23de816d67a6f7d4302fa40b3f6ff&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322631">
+<p class="type">思想</p>
+<h4>
+<a href="http://media.baidu.com/redirect?source=pengpai&amp;nid=14488523866176048978&amp;pos=14&amp;layout=2&amp;token=8bc23de816d67a6f7d4302fa40b3f6ff&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322631" target="_blank">信仰数目化管理的黄仁宇为何失去大学教职：被数目化...</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=pengpai&amp;nid=14488523866176048978&amp;pos=14&amp;layout=2&amp;token=8bc23de816d67a6f7d4302fa40b3f6ff&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322631" target="_blank"><img src="http://image.thepaper.cn/www/image/4/337/910.jpg"/></a></p>
+<p class="summary">讲了黄仁宇先生被他信奉的数目化管理淘...</p>
+<p class="infos">
+<span class="author">
+<em>番薯党</em>
+</span>
+<span class="time">04-20 16:37</span>
+</p>
+</div>
+<div class="feed-item long  float-right " data-href="http://media.baidu.com/redirect?source=pengpai&amp;nid=14825240411702641211&amp;pos=15&amp;layout=2&amp;token=ce0c3a6f7b02aa6f0cedc07463187cea&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322790">
+<p class="type">时事</p>
+<h4>
+<a href="http://media.baidu.com/redirect?source=pengpai&amp;nid=14825240411702641211&amp;pos=15&amp;layout=2&amp;token=ce0c3a6f7b02aa6f0cedc07463187cea&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322790" target="_blank">美军智囊启示录①：独立、非营利与“旋转门”</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=pengpai&amp;nid=14825240411702641211&amp;pos=15&amp;layout=2&amp;token=ce0c3a6f7b02aa6f0cedc07463187cea&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322790" target="_blank"><img src="http://image.thepaper.cn/wap/image/4/338/454.jpg"/></a></p>
+<p class="summary">对美国的军事智库和防务智库来说，美军...</p>
+<p class="infos">
+<span class="author">
+<em>李健</em>
+<em>郭慧志／知远战略与防务研究所</em>
+</span>
+<span class="time">04-20 16:23</span>
+</p>
+</div>
+<div class="feed-item " data-href="http://media.baidu.com/redirect?source=pengpai&amp;nid=14663933693563028322&amp;pos=16&amp;layout=2&amp;token=8fa8339f927a0d47f7eadc5547906aae&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322843">
+<p class="type">经济</p>
+<h4>
+<a href="http://media.baidu.com/redirect?source=pengpai&amp;nid=14663933693563028322&amp;pos=16&amp;layout=2&amp;token=8fa8339f927a0d47f7eadc5547906aae&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322843" target="_blank">秦洪看盘│天量天价不加仓</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=pengpai&amp;nid=14663933693563028322&amp;pos=16&amp;layout=2&amp;token=8fa8339f927a0d47f7eadc5547906aae&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322843" target="_blank"><img src="http://image.thepaper.cn/www/image/4/338/660.jpg"/></a></p>
+<p class="summary">目前就是降仓位的同时，积极做好选股功课，尤其是那些契...</p>
+<p class="infos">
+<span class="author">
+<em>金百临咨询</em>
+<em>秦洪</em>
+</span>
+<span class="time">04-20 16:23</span>
+</p>
+</div>
+<div class="feed-item long  float-right " data-href="http://media.baidu.com/redirect?source=pengpai&amp;nid=14505092325300383446&amp;pos=17&amp;layout=2&amp;token=1eaa3e65162463d9073e6e82bbf2cbd8&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322805">
+<p class="type">时事</p>
+<h4>
+<a href="http://media.baidu.com/redirect?source=pengpai&amp;nid=14505092325300383446&amp;pos=17&amp;layout=2&amp;token=1eaa3e65162463d9073e6e82bbf2cbd8&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322805" target="_blank">镉大米问题复杂超乎想象，160余位专家将至少花10...</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=pengpai&amp;nid=14505092325300383446&amp;pos=17&amp;layout=2&amp;token=1eaa3e65162463d9073e6e82bbf2cbd8&amp;url=http%3A%2F%2Fwww.thepaper.cn%2Fbaidu.jsp%3Fcontid%3D1322805" target="_blank"><img src="http://image.thepaper.cn/www/image/4/338/520.jpg"/></a></p>
+<p class="summary">受早前镉超标事件影响，早稻价格较往年...</p>
+<p class="infos">
+<span class="author">
+<em>赵广立/中国科学报</em>
+</span>
+<span class="time">04-20 16:29</span>
+</p>
+</div>
+</div>
+<div class="loading"><img src="/static/newsmedia/widget/mod_page/jm_loading_d04a658.gif"><b>正在加载，请稍候...</b></div>
+<div class="pages">
+<a href="javascript:;" class="btn btnP nodis">上一页</a>
+<div class="page"></div>
+<a href="javascript:;" class="btn btnN">下一页</a>
+</div>
+<div id="Footer" class="wp-footer">
+<p class="top-nav">
+<a href="http://news.baidu.com/" target="_blank">百度新闻</a>|<a href="mailto:media_news%40baidu.com" target="_blank">联系我们：media_news@baidu.com</a>
+<strong class="wp-wrap">百度新闻&澎湃联合出品</strong>
+<a href="http://news.baidu.com/"><img src="/static/newsmedia/widget/footer/baidunews_footer_d9a758b.png"></a>
+<a href="http://www.thepaper.cn" target="_blank"><img src="http://news.baidu.com/resource/r/image/2014-12-01/50f41c78a032995a3daf671db6eab4e3.png"></a>
+</p>
+<p class="site-info">
+<i>京公网安备110000000001号</i>
+<a href="http://news.baidu.com/licence.html">互联网新闻信息服务许可</a>
+<span>©2014 Baidu</span>
+<a class="wp-wrap" href="http://www.baidu.com/duty/">使用百度前必读</a>
+<a class="wp-hide" target="_blank" href="http://net.china.cn/chinese/index.htm"><img src="http://gimg.baidu.com/img/net.gif"></a>
+<a class="wp-hide" target="_blank" href="http://www.bj.cyberpolice.cn/index.htm"><img alt="首都网络110报警服务" src="http://gimg.baidu.com/img/110.gif"></a>
+<a class="wp-hide" target="_blank" href="http://www.bjjubao.org/"><img src="http://news.baidu.com/resource/img/report_center.png"></a>
+</p>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?d09fe258c88c7015c3e6f8232ee9a563";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="Footer">
+<p class="top-nav">
+<a href="http://news.baidu.com/" target="_blank">百度新闻</a>|<a href="mailto:media_news%40baidu.com" target="_blank">联系我们：media_news@baidu.com</a>
+<strong class="wp-wrap">百度新闻&澎湃联合出品</strong>
+<a href="http://news.baidu.com/"><img src="/static/newsmedia/widget/footer/baidunews_footer_d9a758b.png"></a>
+<a href="http://www.thepaper.cn" target="_blank"><img src="http://news.baidu.com/resource/r/image/2014-12-01/50f41c78a032995a3daf671db6eab4e3.png"></a>
+</p>
+<p class="site-info">
+<i>京公网安备110000000001号</i>
+<a href="http://news.baidu.com/licence.html">互联网新闻信息服务许可</a>
+<span>©2014 Baidu</span>
+<a class="wp-wrap" href="http://www.baidu.com/duty/">使用百度前必读</a>
+<a class="wp-hide" target="_blank" href="http://net.china.cn/chinese/index.htm"><img src="http://gimg.baidu.com/img/net.gif"></a>
+<a class="wp-hide" target="_blank" href="http://www.bj.cyberpolice.cn/index.htm"><img alt="首都网络110报警服务" src="http://gimg.baidu.com/img/110.gif"></a>
+<a class="wp-hide" target="_blank" href="http://www.bjjubao.org/"><img src="http://news.baidu.com/resource/img/report_center.png"></a>
+</p>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?d09fe258c88c7015c3e6f8232ee9a563";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</div>
+</div>
+<div class="mod-sidebar">
+<ul class="menu">
+<li class="toolbar">
+<a class="search" href="/search"><i class="icon-search"></i>搜索</a>
+|<a class="login" href="javascript:;">登录</a>
+<p class="username"></p>
+</li>
+<li class="item">
+<a href="/">首页</a>
+</li>
+<li class="item">
+<a href="/politics">时事</a>
+<ul class="submenu">
+<li class="sub-item"><a href="/politics/zgzk">中国政库</a></li>
+<li class="sub-item"><a href="/politics/znh">中南海</a></li>
+<li class="sub-item"><a href="/politics/ylc">舆论场</a></li>
+<li class="sub-item"><a href="/politics/dhj">打虎记</a></li>
+<li class="sub-item"><a href="/politics/rsfx">人事风向</a></li>
+<li class="sub-item"><a href="/politics/fzzg">法治中国</a></li>
+<li class="sub-item"><a href="/politics/yhza">一号专案</a></li>
+<li class="sub-item"><a href="/politics/gtlx">港台来信</a></li>
+<li class="sub-item"><a href="/politics/csjzs">长三角政商</a></li>
+<li class="sub-item"><a href="/politics/zjxc">直击现场</a></li>
+<li class="sub-item"><a href="/politics/zsfz">知食分子</a></li>
+<li class="sub-item"><a href="/politics/lzgs">绿政公署</a></li>
+<li class="sub-item"><a href="/politics/ppgj">澎湃国际</a></li>
+<li class="sub-item"><a href="/politics/wjxr">外交学人</a></li>
+<li class="sub-item"><a href="/politics/ppfw">澎湃防务</a></li>
+<li class="sub-item"><a href="/politics/yzg">译中国</a></li>
+<li class="sub-item"><a href="/politics/pprw">澎湃人物</a></li>
+<li class="sub-item"><a href="/politics/pjtt">浦江头条</a></li>
+<li class="sub-item"><a href="/politics/jyj">教育家</a></li>
+<li class="sub-item"><a href="/politics/hbsj">花边数据</a></li>
+<li class="sub-item"><a href="/politics/kk">快看</a></li>
+</ul>
+</li>
+<li class="item">
+<a href="/economy">经济</a>
+<ul class="submenu">
+<li class="sub-item"><a href="/economy/cjsxy">财经上下游</a></li>
+<li class="sub-item"><a href="/economy/zmqlx">自贸区连线</a></li>
+<li class="sub-item"><a href="/economy/dcj">地产界</a></li>
+<li class="sub-item"><a href="/economy/10gs">10%公司</a></li>
+<li class="sub-item"><a href="/economy/jgsys">金改实验室</a></li>
+<li class="sub-item"><a href="/economy/njd">能见度</a></li>
+<li class="sub-item"><a href="/economy/cfgl">财富管理</a></li>
+<li class="sub-item"><a href="/economy/ppsxy">澎湃商学院</a></li>
+</ul>
+</li>
+<li class="item">
+<a href="/insights">思想</a>
+<ul class="submenu">
+<li class="sub-item"><a href="/insights/sl">社论</a></li>
+<li class="sub-item"><a href="/insights/sxsc">思想市场</a></li>
+<li class="sub-item"><a href="/insights/sjls">私家历史</a></li>
+<li class="sub-item"><a href="/insights/fsd">翻书党</a></li>
+<li class="sub-item"><a href="/insights/ysg">艺术观</a></li>
+<li class="sub-item"><a href="/insights/whk">文化课</a></li>
+<li class="sub-item"><a href="/insights/sz">逝者</a></li>
+<li class="sub-item"><a href="/insights/ppyjs">澎湃研究所</a></li>
+<li class="sub-item"><a href="/insights/qj">请讲</a></li>
+<li class="sub-item"><a href="/insights/zl">专栏</a></li>
+</ul>
+</li>
+<li class="item">
+<a href="/life">生活</a>
+<ul class="submenu">
+<li class="sub-item"><a href="/life/yx">有戏</a></li>
+<li class="sub-item"><a href="/life/ydj">运动家</a></li>
+<li class="sub-item"><a href="/life/st">身体</a></li>
+<li class="sub-item"><a href="/life/sb">私·奔</a></li>
+<li class="sub-item"><a href="/life/shfs">生活方式</a></li>
+<li class="sub-item"><a href="/life/pplb">澎湃联播</a></li>
+<li class="sub-item"><a href="/life/sjdl">私家地理</a></li>
+</ul>
+</li>
+<li class="logo"><a href="http://news.baidu.com"><img src="/static/newsmedia/widget/mod_sidebar/logo-baidu_941ba05.png" height="26px" alt="baidu logo"></a></li>
+</ul>
+</div>
+</body><script type="text/javascript" src="/static/common/js/mod_b818356.js"></script>
+<script type="text/javascript" src="/static/common/js/jquery-1.10.1_77f5e40.js"></script>
+<script type="text/javascript" src="/static/common/pkg/aio_d41d8cd.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/mod_page/mod_page_78338ec.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/header/header_3f34133.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/cover/cover_2e172d2.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/ui/iscroll/iscroll_93ba427.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/ui/velocity/velocity_022bc13.js"></script>
+<script type="text/javascript" src="/static/newsmedia/moreimgindex/moreimgindex_874fab3.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/mod_sidebar/mod_sidebar_5cf9d41.js"></script>
+<script type="text/javascript">!function(){    require.async('newsmedia:widget/mod_sidebar/mod_sidebar.js', function(login) {
+      login();
+    })
+  }();
+!function(){    var device = 'pc';
+    // 手机端直接监听每条新闻并跳转
+    if (device !== 'pc') {
+      $(function() {
+        var $feed = $('#feeds');
+
+        $feed.delegate('.feed-item', 'click', function(ev) {
+          // 判断是否是点击了tag
+          var $target = $(ev.target);
+          if ($target.attr('href') &&
+            /^\/.*/.test($target.attr('href'))) return;
+
+          var $item = $(ev.currentTarget);
+          var href = $item.attr('data-href');
+
+          setTimeout(function() {
+            window.location.href = href;
+          }, 100)
+        });
+      });
+    }
+
+    alog("set", "alias", {
+         monkey: "http://img.baidu.com/hunter/alog/monkey.min.js",
+         element: "http://img.baidu.com/hunter/alog/element.min.js"
+     });
+
+     alog("require", ["monkey", "element"], function(monkey, element){
+         monkey.create({
+             page: "news-pengpai",
+             pid: "241",
+             p: "133",
+             hid: "424",
+             postUrl: "http://nsclick.baidu.com/u.gif",
+             reports: {
+                refer: 1,
+                staytime: 1
+             }
+         });
+     });
+
+     alog("monkey.send", "pageview", { now: +new Date });
+  }();</script></html>

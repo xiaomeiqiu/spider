@@ -1,0 +1,1151 @@
+<!DOCTYPE html>
+<!--STATUS OK-->
+<html>
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="publishtime" content="2015-04-20 21:17:11" />
+	<title>刚：发挥你的优势，控制你的弱点--百度百家</title>
+	<script src="/static/js/clickMonitor.js?v=20131212"></script>
+    <script type="text/javascript" src="/static/js/usermonitor.js?v=20131212"></script>
+	<script src="/static/js/baiduTemplate.js?v=20131212"></script>
+    <link href="/static/css/all_7f51415.css" type="text/css" rel="stylesheet"/>
+<script src="/static/js/libs/tangram/tangram-1.5.2.2.js?v=20130128" type="text/javascript"></script>
+<script src="/static/js/libs/jquery/jquery.min.js?v=20131212" type="text/javascript"></script>
+<script src="/static/js/libs/jquery/jquery.cookie.js" type="text/javascript"></script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?7fe4ae9e1d0d01bcf748d066979cd2aa";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+
+    <script>
+    var on=baidu.event.on;
+    Fe = baidu;
+    var serverData = {
+        tokentm : '1429539231',
+        token : ''
+    }
+    </script>
+<style>
+
+#body .l-main-col .mod{border-top:none;}
+.l-right-col{border:none;}
+.l-main-col{border:none;}
+#body{border:none;}
+a:active{outline:0}
+
+.up_down{
+    float:right;
+    margin-right:10px;
+    _margin-right:0px;
+}
+.up_down_btn{
+    position: relative;
+    display: block;
+    text-decoration: none;
+    text-align: left;
+    color: #fff;
+    background: #fff;
+    font-size: 16px;
+    line-height: 25px;
+    font-family: "微软雅黑","Hiragino Sans GB";
+    border-radius: 5px;
+    padding:5px;
+    float:left;
+    margin-right:10px;
+}
+.up_down_icon {
+    position: absolute;
+    top: 3px;
+    left: 10px;
+    width: 27px;
+    height: 27px;
+    display: block;
+}
+.up_down_btn_num{
+    font:14px/24px "宋体","Hiragino Sans GB";
+    margin-left:35px;
+    color:#369;
+}
+.up_down_btn_num_gray{
+    color:#666;
+}
+.up_down_txt{
+    font:14px/24px "宋体","Hiragino Sans GB";
+    color:#666;
+}
+.up_down_txt_hover{
+    color:#369;
+}
+.up_down_btn_gray{ background:#fbfbfb;}
+.up{ background: url(/static/images/article_up.png) no-repeat;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled='true',sizingMethod='scale',src='/static/images/article_up.png');_background:none;}
+.down{ background: url(/static/images/article_down.png) no-repeat;top:6px;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled='true',sizingMethod='scale',src='/static/images/article_down.png');_background:none;}
+.up_gray{ background: url(/static/images/article_up_gray.png) no-repeat;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled='true',sizingMethod='scale',src='/static/images/article_up_gray.png');_background:none;}
+.down_gray{ background: url(/static/images/article_down_gray.png) no-repeat;top:6px;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled='true',sizingMethod='scale',src='/static/images/article_down_gray.png');_background:none;}
+
+
+
+#body{background:none;}
+.l-main-col{background:none;}
+.l-right-col{background:none;padding-right:0px;}
+#page{padding-left:0px;margin-bottom:61px;}
+
+</style>
+<script src="/static/js/ckplayer/ckplayer_c468efa.js" type="text/javascript"></script>
+</head>
+<body>
+<script type="text/javascript" language="javascript">
+        clickMonitor.init('BAIJIA_PAGE', 'c=article');
+</script>
+<style>
+#menu{height:60px;border-right:none;left:240px;}
+#menu a{color:#333;height:21px;width:70px;line-height:21px;position:relative;top:20px;margin:0 10px;border:0!important;}
+#menu a:hover{background: none;text-decoration: none;color:#2393df;}
+#menu a.current{background:none;color:#2393df;}
+#menu a.current:hover{background:none;text-decoration: none;}
+#menu a span{width:70px;height:1px;display:block;margin:19px auto 0px;_margin-top:-4px;}
+#menu a:hover span,#menu a.current span{border-bottom:4px solid #2393df;}
+.top-main{position:relative;width:982px;margin:0 auto;height:0px;}
+.top-main a{display: block;width:192px;height:68px;background: url(/static/images/03.png) no-repeat;text-decoration: none;top:-62px;left:0px;position:absolute;z-index:9999;}
+.search{position:absolute;right:230px;top:15px;height:30px;}
+.search_box{width:auto;height:100%;padding-right:5px;padding-left:28px;overflow:hidden;}
+.search_form{position: relative;width:195px;height:28px;border:1px solid #ccc;background: #FAFAFA;}
+.search_txt{display:block;position: absolute;top:4px;left:28px;font-size:14px;font-family:"宋体","Hiragino Sans GB";color:#c2c2c2;}
+.search_input{width:100%;height:26px;line-height:26px;display:block;border:none;border-width: 0px;background: #FAFAFA;}
+.search_btn{position: absolute;top: 0px;left: 0px;display:block;width:28px;height:28px;text-align:center;line-height: 24px;}
+.search_submit{background: url(/static/images/header_search_icon.png) no-repeat;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled='true',sizingMethod='scale',src='/static/images/header_search_icon.png');_background:none;width:16px;height:16px;border:none;cursor:pointer;*margin-top:5px;}
+#header{background:#fff;border-bottom:2px solid #EEE;height:60px;}
+#usrbar{top:20px}
+#usrbar .header_baidu,
+#usrbar .header_home,
+#usrbar .header_person{color:#666;display:inline-block;*display:inline;*zoom:1;height:18px;padding: 0 3px; vertical-align: top}
+
+.userbox{position:relative;width:100%;height:0px;left:0px;z-index:9999;}
+.userbox ul{position:absolute;top:0px;right:0px;border: 1px solid #999;width:80px;height:60px;background:#fff;padding:0px;overflow:hidden;*clear:both;}
+.userbox li{width:100%;height:30px;margin:0px;}
+#usrbar li a{height:100%;display:block;line-height:30px;padding:0px 0px 0px 5px;}
+#usrbar li a:hover{background:none repeat scroll 0 0 #ebebeb; text-decoration: none}
+#register{width:26px;}
+#usrbar .header_person:hover,
+#usrbar .header_baidu:hover,
+#usrbar .header_home:hover{color:#2393df;cursor:pointer;}
+
+#login_user{display:inline-block;*display:inline;*zoom:1;position:relative; vertical-align: top;width:100px;margin-right:5px;}
+#loged{width:100px; text-align: right;overflow: hidden;white-space: normal;word-wrap: break-word;word-break: break-all;color:#666;display:block;height:18px;padding: 0 6px!important;}
+</style>
+<script type='text/javascript' src='http://passport.baidu.com/passApi/js/uni_login_wrapper.js?cdnversion=201504202213'></script>
+<div id="header" alog-group="log-header">
+	<div class="header-content">
+        <div id="menu"><a href="http://baijia.baidu.com"  style="border-left:0px;">首页<span></span></a><a href="http://baijia.baidu.com/?tn=listauthor" >作家<span></span></a><a href="http://baijia.baidu.com/?tn=listtopic" >争鸣<span></span></a></div>
+
+<div class="search">
+  <form method="get" action="http://baijia.baidu.com/" class="search_form" onSubmit="return chkForm(this);">
+    <span title="搜索" alt="搜索" class="search_btn">
+      <input type="submit" class="search_submit" value="">
+    </span>
+    <div class="search_box" >
+      <label for="search" class="search_txt" id="search_txt"></label>
+      <input type="hidden" name="tn" value="search">
+      <input type="text" id="search" maxlength="50" name="word" autocomplete="off" class="search_input">
+    </div>
+  </form>
+</div>
+        <div id="usrbar">
+                    <a href="javascript:void(0);" id="login" class="header_person" >登录</a>
+          <a href="http://news.baidu.com" class="header_home" target="_blank">新闻首页</a>
+          <a class="header_baidu" target="_blank" href="http://www.baidu.com">百度</a>
+        </div>
+	</div>
+</div>
+<div class="top-main"><a href="http://baijia.baidu.com" ></a></div>
+<script>
+(function(baidu, undefined) {
+    window.instance = passport.pop.init({
+         apiOpt: {
+             staticPage: 'http://'+location.host+'/static/html/v3Jump.html',
+             product: 'xw1',
+             memberPass: true,
+             charset:'utf-8',
+             u:location.href,
+             safeFlag: 0
+         },
+         authsite:['tsina','renren','qzone','tqq'],
+	       authsiteCfg:{act:'implicit'},
+         tangram: true,
+         onLoginSuccess: function (args) {
+            // 发送统计日志统计pc主动登陆用户UV
+            args.returnValue = false;
+            sendLog({
+                m: 52,
+                a: 0,
+                args: args
+            });
+         },
+         onShow: function () {
+            sendLog({
+                m: 52,
+                a: 2
+            });
+         }
+    });
+    baidu.on('login', 'click', function(event) {
+         baidu.event.preventDefault(event || window.event);
+         sendLog({
+            m: 52,
+            a: 1
+         });
+         instance.show();
+    });
+})(window.baidu);
+
+function sendLog(option) {
+  var url = 'http://nsclick.baidu.com/v.gif?pid=107&m=' + option.m + '&a=' + option.a + '&v=' + new Date().getTime();
+
+  $('<img/>')
+    .one('load', function() {
+        if (option.args){
+            location.href = option.args.rsp.data.u;
+        }
+    })
+    .each(function() {
+      if(this.complete) $(this).load();
+    })
+    .attr('src', url);
+}
+</script>
+<script type="text/javascript">
+	var __search = baidu.g("search") ;
+	__search && baidu.on(__search, 'blur', function(e){
+		if(!__search.value){
+			baidu.show('search_txt');
+		}
+	});
+	__search && baidu.on(__search, 'focus', function(e){
+		baidu.hide('search_txt');
+	});
+	function chkForm(e){
+		if(!__search.value){
+			return false;
+		}
+		return true ;
+	};
+</script>
+<script type="text/javascript">
+	var __login_user = baidu.g("login_user");
+	var __userbox = baidu.g("userbox"),myTimeout;
+  var uid="";
+	__login_user && baidu.on(__login_user,'mouseenter',function(e){
+    if(myTimeout){
+      clearTimeout(myTimeout);
+    }
+		baidu.show("userbox");
+	});
+	__login_user && baidu.on(__login_user,'mouseleave',function(e){
+    myTimeout = setTimeout(function(){
+      baidu.hide("userbox");
+    },500);
+
+	});
+	var __logout = baidu.g("logout");
+	if(__logout){
+    var uhref = encodeURIComponent(location.href) ;
+    if(uhref.indexOf("userinfo") > 0 ){
+      __logout.href="http://passport.rdtest.baidu.com/?logout&u="+encodeURIComponent("http://baijia.baidu.com/");
+    }else{
+      __logout.href="http://passport.rdtest.baidu.com/?logout&u="+uhref;
+    }
+
+  }
+  if(!uid){
+    $('#cmtbox textarea') && $('#cmtbox textarea').val('');
+  }
+
+</script>
+
+<div class="l-header-ad" >
+    <script type="text/javascript">
+/*顶部横幅通栏*/
+var cpro_id = "u1502873";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script>
+</div>
+<div id="body" class="clearfix">
+    <div class="l-main-col">
+         <div id="page" style="padding-bottom:0px;">
+             <h1 style="font:bold 34px/40px 微软雅黑;color:#333;padding-left:0px;border-left:0px;margin:30px 0;">刚：发挥你的优势，控制你的弱点</h1>
+             <div class="article-info">
+                 <div class="article-author-time">
+                     <a href="http://qingang.baijia.baidu.com" target="_blank" mon="name=bjarticle&pos=name">秦刚</a><span class="time">04月20日 21:17</span>
+                 </div>
+                 <div class="share-area">
+                    <!-- Baidu Button BEGIN -->
+                    <div class="bdsharebuttonbox" data-tag="share_1" style="float:right">
+                        <a class="bds_more" data-cmd="more">分享到：</a>
+                        <a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a>
+                        <a href="#" class="bds_renren" data-cmd="renren" title="分享到人人网"></a>
+                        <a href="#" class="bds_douban" data-cmd="douban" title="分享到豆瓣网"></a>
+                        <a href="#" class="bds_tqq" data-cmd="tqq" title="分享到腾讯微博"></a>
+                        <a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a>
+                        <a class="bds_count" data-cmd="count" style="display:none"></a>
+                    </div>
+                    <!-- Baidu Button END -->
+                 </div>
+                 <div class="article-tags" style="float:left;width:auto;margin-left:10px;">
+                                      <a href="http://baijia.baidu.com/?tn=listarticle&labelid=21854" target="_blank" style="background: #f6f6f6;text-decoration: none;padding: 5px;" mon="name=bjarticle&pos=tag">优势</a>
+                                      <a href="http://baijia.baidu.com/?tn=listarticle&labelid=16426" target="_blank" style="background: #f6f6f6;text-decoration: none;padding: 5px;" mon="name=bjarticle&pos=tag">弱点</a>
+                                  </div>
+                 <div style="margin-left:10px;margin-right:10px;float:right;color:#ccc;">分类 : <a href="/?tn=listarticle&labelid=2" style="color:#369;" mon="name=bjarticle&pos=category">互联网</a></div>
+             </div>
+
+                        <!--div class="l-main-top-text-ad"></div-->
+             
+                          <blockquote style="text-indent:0px;color:#333;font-size:14px;line-height:24px;"><span style="color:#999;">摘要 : </span>秦刚：垂直自明星，下一个互联网金矿​
+有不少人看了这篇文章后，会问我，你觉得我应该具备什么条件才能够做自明星呢？
+秦刚今天就简单给大家写写，一个人要想在成为某个领域的自明星，需要符合什么条件......</blockquote>
+                          <div class="article-detail" style="letter-spacing: 0.5px;">
+                                                                                                                                                                                                                                                                <div  class="l-main-inner-ad"><script type="text/javascript">
+/*正文内嵌图片*/
+var cpro_id = "u1502893";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script></div>
+                                                                                                <p class="text">先说个我原创的小段子。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">有朋友和我说，秦刚你看现在国内创业环境那么好，那么热。你为什么不回国创业啊，以你的互联网经验，找个好的项目，融一笔钱，如果运气好的话，花个5到10年的时间做个10亿美金公司不是很容易嘛。如果运气不好，做个10亿人民币的公司也可以了。这样你的身家就是几亿美金的身家了。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">我笑着说，听起来非常不错，如果我回国辛辛苦苦花5到10年时间创业，最后成功套现几亿，然后再干啥呢？</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">这个哥们说，那你就可以想干啥都可以啊，可以天天到国外晒太阳，到处玩，偶尔回国指点一下，多好。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">我又笑了，那我现在不是在国外天天晒天阳吗？</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">这个哥们也笑了，好吧，你忙，我有事先走了&nbsp;</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">段子虽然是段子，其实现在这个社会真是每个人都可以按自己优势来生活的社会。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">比如我虽然做了10多年的公司管理工作，也管理过大大几百号人，还算管理得不错。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">但是我真心不喜欢做这些琐碎的管理工作，要不断去招募人才，还要培训他们，还要给他们做各种思想工作，还要担心他们哪天离开了。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">同时我又是一个思维非常发散的人，经常会去看各种好玩的案例，然后想各种古怪的点子，然后不断折腾团队让他们实践这些点子。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">这样其实自己累，团队也累。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">而在国外当我决定玩自明星后，我发现自己这些原来特点反而成为自己的优势。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">我发现我就算在国外天天晒太阳，也可以成为一个时间自由、心灵自由和财富自由的自明星 。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">很多人会问什么是自明星，那我推荐大家看看我一年前写的这篇文章。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">秦刚：<a href="http://www.iqingang.com/post/19" target="_self" title="">垂直自明星，下一个互联网金矿</a></p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">有不少人看了这篇文章后，会问我，你觉得我应该具备什么条件才能够做自明星呢？</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">秦刚（QQ&amp;微信：1111884，公众号：q1111884）今天就简单给大家写写，一个人要想在成为某个领域的自明星，需要符合什么条件？</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">我认为一个人想要做自明星，最少要符合以下3个条件。</p>
+                                                                                            
+                                                        <p class="image"><img src="http://e.hiphotos.baidu.com/news/w%3D638/sign=77849e8a895494ee87220c1a15f5e0e1/838ba61ea8d3fd1fc56ebd0f354e251f95ca5f9b.jpg"/></p>
+                                                                                                                                                                                                                                                                                                                                                                                <p class="text">也就是兴趣、能力和价值观。如果你想成为一个时间自由、心灵自由和财富自由的自明星，那你要寻找一个融合了你的兴趣、能力和价值观的领域。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">兴趣、能力和价值观三者的关系是这样的。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">兴趣，推动你持续地在某个领域学习，发现新的机会。比如你对天文学感兴趣，这种兴趣会推动你去学习厚厚的天文学书籍，会推动你去购买价格昂贵的天文学观测仪器。反之，如果你只对化学感兴趣，现在让你去看天文学的书，那你感觉痛苦万分。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">能力，没有金刚钻别揽瓷器活。就算你对某个领域非常感兴趣，但如果你不具备相匹配的能力，你也很难在这个领域做出什么成就。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">什么是价值观呢？价值观就是你看重什么。有的人看重生活的安稳和舒适，那他很有可能会选择公务员的工作，有的人看重刺激的、有创造力的生活，那他很有可能去创业。做自明星也是一样，你要确定自己的价值观是什么。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">当你找到了你感兴趣的领域，你会越玩越开心。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">当你有能力搞定这个领域，你会越玩越过瘾。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">当你很看重你在这个领域收获的东西，你会越玩越想玩。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">当你在某个领域里，越玩越开心、越玩越过瘾、越玩越想玩，你不就已经成为时间自由、心灵自由和财富自由的自明星了吗？</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">兴趣、能力和价值观这三者对自明星来说都很重要，今天秦刚和你谈谈能力这个部分。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">很多人经常说：只要下决心，你就什么工作都能做好。这句话太极端了，这句话也误导了很多人。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">的确，有些工作只要下定决心就可以做好，比如钢笔字写得不好，练习1个月，可以达到看得下去的水平。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">但有些工作不是下定决心就能做好的，比如刘翔的冲刺和弹跳能力都很不错，但你让他转型去打NBA，并且给他说你下定决心就能成为NBA的高手了，你觉得可能吗？</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">比如姚明，他百米冲刺的速度是很不错的，但你现在给他说只要下定决心就能成为跨栏高手，你可能吗？</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">对于想做自明星的人也是一样，你要先从自己的优势出发，充分发挥自己的优势，这样才能逐渐形成自己的核心竞争力。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">那到底什么是优势？如何发现自身的优势？ 如何运用自己的优势？</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">今天秦刚为你推荐的自明星必读书籍《现在，发现你的优势》将解决以上疑问。</p>
+                                                                                            
+                                                        <p class="image"><img src="http://h.hiphotos.baidu.com/news/w%3D638/sign=73a9293e5eb5c9ea62f300e0ed39b622/caef76094b36acaf69ef89c979d98d1001e99cf3.jpg"/></p>
+                                                                                                                                                                                                                                                                                                                                                                                <p class="text">《现在，发现你的优势》 是由是全球知名的民意测验和商业调查/咨询公司--盖洛普公司的高级副总裁马库斯·白金汉撰写的好书，下面是这本书的精华思维导图。</p>
+                                                                                            
+                                                        <p class="image"><img src="http://g.hiphotos.baidu.com/news/w%3D638/sign=b5feae04a48b87d65042a81c3f092860/503d269759ee3d6d53199bfe46166d224f4ade23.jpg"/></p>
+                                                                                                                                                                                                                                                                                                                                                                                <p class="text">（温馨提醒：手机阅读，单击图片即可放大）</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">一、大部分组织都建立在对人性的两大误解上</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">误解一：每个人都能学会做好几乎任何事。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">误解二：每个人的最大弱点就是他进步的最大机会</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">不仅仅大部分组织是这样，很多人对自己的理解也是这样，认为自己是万能的，啥都可以学会，只是暂时没有时间而已。此外，还认为自己能取得最大进步的地方就是自己的弱点。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">这种误解会严重制约自己的发展，很多牛人之所有牛，不是因为他们没有缺点，而是因为他们充分发挥了自己的优点。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">二、世界顶级经理所遵循的两大观点</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">1、每个人的才干都经久不变，与众不同</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">2、每个人最大的成长空间在于其最强的优势领域</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">如果你想做自明星，你就要寻找到自己的优势，并且把自己的优势发挥到超过周围90%人的程度。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">三、生活的真正悲剧</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">生活的真正悲剧并不在于我们每个人都没有足够的优势， 而在于我们未能使用我们拥有的优势。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">我们不用羡慕那些巧舌如簧、思维敏捷的牛人，每个人都有自己的优势，你要做的是发现自己的优势，并且将它发挥出来。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">四、巴菲特经典名言</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">如果你们和我有任何不同的话，那就是我每天起床后都有机会做我最爱做的事，天天如此，如果你们想从我这里学到什么，这就是我对你们最好忠告。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">五、努力发现你的顶级强项</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">自明星就是拥有某项绝活的牛人， 因此，你要努力发现你的顶级强项，发现你的绝活，通过实践和学习予以加强，然后寻找，开辟一项每天都离不开这些优势的工作， 你若照此行动，就会更有效率，更有成就感，更成功。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">六、优势的定义。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">做某件事的持续的近乎完美的表现。比如你去靶场打靶，第一次就打中10环，这个不能算作你的优势，只有你每次都能打中10环，这样才算是你的优势。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">七、人生辉煌的三大原则</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">1、若想使某件事成为你的优势，你就必须能始终如一地做好它。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">2、你为了办某件事做得出类拔萃，并不需要具备方方面面的优势&nbsp;</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">3、你的成功之道在于最大限度地发挥优势，而不是克服弱点</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">八、关键</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">很多人可能会问，我该如何解决我的优势和弱点之间的关系呢？&nbsp;</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">答案很简单：发挥你的优势，无论什么优势；控制你的弱点，无论什么弱点。&nbsp;</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">注意以上的用词，对于优势是【发挥】，对于弱点是【控制】。控制弱点是什么意思呢？就是把这个弱点稍微改进一下，改进普通人的水平就行。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">比如你是一名特别牛的讲师，你最擅长将复杂的理论变成通俗易懂的课程，那这就是你的优势，你要不断强化你的优势。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">但你的弱点是普通话不标准，对于这个弱点，你不用花太多精力在这上面，只需要把普通话提高到普通人的水平就行，也就是大家可以听明白就行，你没必要把逼自己把普通话练到中央电视台播音主持人的水平以后才上台讲课。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">九、优势的构成</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">任何人的优势都由三个部分组成：才干、知识和技能。&nbsp;</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">才干：是你油然产生并贯彻始终的思维、感觉或行为模式，是天生的</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">知识：由所学的事实和课程组成</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">技能： 是做一件事的步骤</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">《现在，发现你的优势》这本书最大的贡献，在于帮我们树立了一种颠覆传统教育的观点：你不用自己的弱点感到自卑，凭借发挥自身的优势，我们可以变得更加强大。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">书中一共介绍了34种优势，如果你想测试你的5大核心优势，如果了购买这本书，每本书都赠送一个测试优势的序列号，通过序列号就可以参与优势测试。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">好了，今天给大家推荐了《现在，发现你的优势》，如果你想知道还有哪些自明星必读书籍的话，请继续关注我明天的文章。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">我是秦刚，每天给大家一篇创业文章，希望能够给大家有一些不同的思维。</p>
+                                                                                            
+                                                        <p class="image"><img src="http://a.hiphotos.baidu.com/news/w%3D638/sign=b75719c7781ed21b79c92de6956fddae/83025aafa40f4bfbcb2e1661064f78f0f736180c.jpg"/></p>
+                                                                                                                                                                                                                                                                                                                                                                                <p class="text">秦刚简介：垂直互联网实战教练，1999年从事垂直网站工作，历任太平洋电脑网总编，太平洋汽车网市场总监，IT世界网CEO,39健康网联席 总裁。QQ&amp;个人微信号1111884 ，微信公众号 q1111884</p>
+                                                                    
+                
+             </div>
+        </div>
+        <div style="position:relative;width:100%;height:36px;">
+            <div class="up_down">
+                <a id="up_article" class="up_down_btn" href="javascript:void(0);" style="text-decoration:none;">
+                    <i id="up_icon" class="up_down_icon up_gray"></i>
+                    <span class="up_down_btn_num" id="up_btn_num">0</span>
+                    <span class="up_down_txt" id="up_txt">好文</span>
+                </a>
+                <a id="down_article" class="up_down_btn" href="javascript:void(0);" style="text-decoration:none;">
+                    <i id="down_icon" class="up_down_icon down_gray"></i>
+                    <span class="up_down_btn_num" id="down_btn_num">0</span>
+                    <span class="up_down_txt" id="down_txt">太水</span>
+                </a>
+            </div>
+            <span style="color:#999;font-family:'宋体';font-size:15px;">阅读（36）</span>
+        </div>
+        <div class="bottom-share" style="padding:30px 20px 30px 0px;height:60px" id="share_box">
+            <span>分享 : </span>
+            <!-- Baidu Button BEGIN -->
+            <div id="bdshare" class="bdsharebuttonbox" data-tag="share_2">
+                <a href="#" class="bds bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a>
+                <a href="#" class="bds bds_renren" data-cmd="renren" title="分享到人人网"></a>
+                <a href="#" class="bds bds_douban" data-cmd="douban" title="分享到豆瓣网"></a>
+                <a href="#" class="bds bds_tqq" data-cmd="tqq" title="分享到腾讯微博"></a>
+                <a href="#" class="bds bds_weixin" data-cmd="weixin" title="分享到微信"></a>
+                <a href="#" class="bds bds_more" data-cmd="more"></a>
+                <a class="bds_count" data-cmd="count"></a>
+            </div>
+            <script>
+            window._bd_share_config={
+                "common":{
+                    "bdSnsKey":{},
+                    "bdMini":"2",
+                    "bdMiniList":false,
+                    "bdStyle":"0",
+                    "bdText":"一篇好文,推荐之-【"+baidu.dom.query('#page h1')[0].innerHTML+"】（来自:百度百家）",
+                    "bdPic" : "http://b.hiphotos.baidu.com/news/crop%3D0%2C0%2C500%2C300%3Bw%3D638/sign=776bba13f8faaf5190acdbffb164b8de/34fae6cd7b899e51b6c3282147a7d933c8950db1.jpg",
+                    "bdUrl": location.href
+                },
+                "share" : [{
+                        "tag" : "share_1",
+                        "bdSize" : "16"
+                    },{
+                        "tag" : "share_2",
+                        "bdSize" : "32"
+                    }]
+            };
+            with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];
+            </script>
+            <!-- Baidu Button END -->
+        </div>
+        <!--拓展阅读-->
+        
+
+        <!--上一篇，下一篇文章-->
+        <div style="padding: 0 20px 0 0;margin-bottom:20px;font-size:12px;height:18px">
+                                        <div style="float:right;color:#999;">下一篇 : <a href="http://qingang.baijia.baidu.com/article/54290" style="color:#369;"  mon="name=bjcard&pos=nextarticle">秦刚：免费</a></div>
+                    </div>
+        <div id="mod-comment" class="mod-comment">
+            <h3>精彩评论</h3>
+            <div class="comment-box">
+                <div class="opt">
+                                        <p class="login">
+                        <a href="javascript:;" class="cmtlogin">登录</a>
+                    </p>
+                                    </div>
+                <div class="cmtbox" >
+                    <p class="avt">
+                                                <img src="http://himg.bdimg.com/sys/portrait/item/982f4a616d65736a697869616f6875694206">
+                                            </p>
+                    <i class="tarea">
+                        <textarea placeholder="随便说点什么吧"></textarea>
+                    </i>
+                </div>
+                <p class="btns3">
+                    <span class="checknum">还可以输入<em>250</em>个字</span>
+                    <a href="javascript:;" class="btn btndis cmtbtn">评论</a>
+                </p>
+            </div>
+
+            <!--comment start-->
+            <div class="comments">
+                <div class="cmtlist"></div>
+                <div class="load_more">
+                    <a class="loadLine nocmt" href="javascript:;"><span class="ico"></span><span class="txt">还没有人评论过，赶快抢沙发吧！</span></a>
+                </div>
+            </div>
+            <!--模态弹窗-->
+            <div class="comment-success" ></div>
+            <div class="comment-fail" ></div>
+            <!--end-->
+
+            <script language="javascript" type="text/javascript" src="/static/js/comment_16da2f4.js"></script>
+        </div>
+
+
+        
+            </div>
+
+    <div class="l-right-col" style="padding-top:30px;">
+        <div class="mod authorInfos">
+    <div class="authorInfo">
+        <p class="avt"><a href="http://qingang.baijia.baidu.com" mon="name=bjcard&pos=pic"><img src="http://h.hiphotos.baidu.com/news/pic/item/95eef01f3a292df5ef3d1f85be315c6035a873a7.jpg"></a></p>
+        <div class="info">
+            <a href="http://qingang.baijia.baidu.com" title="秦刚" class="nm" mon="name=bjcard&pos=name">秦刚</a>
+            <p class="label">垂直门户网站实战教练</p>
+        </div>
+        <p class="btns">
+                <a href="javascript:;" class="btn authorRssBtn" hidefocus="true" >
+                                        <i class="i iadd"><i class="i1"></i><i class="i2"></i></i>
+                    <b class="b">关注</b>
+                                    </a>
+            </p>
+    </div>
+    <ul class="articleLis">
+                        <li class="articleLi">
+                <a href="http://qingang.baijia.baidu.com/article/53569" mon="name=bjcard&pos=article" title="秦刚访谈：小支点，撬动高校大市场">秦刚访谈：小支点，撬动高校大市场</a>
+            </li>
+                                <li class="articleLi">
+                <a href="http://qingang.baijia.baidu.com/article/53208" mon="name=bjcard&pos=article" title="秦刚：自明星如何打造自己的知识力">秦刚：自明星如何打造自己的知识力</a>
+            </li>
+                                <li class="articleLi">
+                <a href="http://qingang.baijia.baidu.com/article/52660" mon="name=bjcard&pos=article" title="秦刚：30篇文章吸引高端精准用户 ">秦刚：30篇文章吸引高端精准用户 </a>
+            </li>
+                </ul>
+    <p class="tip"><a href="http://qingang.baijia.baidu.com" mon="name=bjcard&pos=morearticle">TA的更多文章>></a></p>
+</div>
+        <div class="mod" alog-group="log-hotartical">			
+<div class="hd">
+    <div class="title_box" ><div class="title_container"><span class="title">推荐文章</span><span class="sub_title">RECOMMEND</span><div class="line"><div class="left"></div><div class="right"></div></div></div></div>
+</div>
+<div class="bd">
+    <ul class="artical-top">
+                            <li class="first-item hasImg notb" >
+            <p class="artImg">
+                <a href="http://qingang.baijia.baidu.com/article/53128" target="_blank" mon="name=bjrecommend&pos=pic">
+                    <img src="http://c.hiphotos.baidu.com/news/crop%3D0%2C0%2C500%2C300%3Bw%3D638/sign=03c2ff77c911728b2462d662f5cceffe/060828381f30e9246a5becd748086e061c95f75d.jpg" class="top_hot_img" />
+                </a>
+            </p>
+            <p class="title">
+                <a href="http://qingang.baijia.baidu.com/article/53128" target="_blank" title="秦刚访谈：起底内幕最真实的微商 " mon="name=bjrecommend&pos=title">秦刚访谈：起底内幕最真实的微商 </a>
+            </p>
+            <p class="text">
+                
+                                    <a href="http://qingang.baijia.baidu.com" class="nm" mon="name=bjrecommend&pos=name">秦刚</a>
+                                <span class="tip">阅读(4694)</span>
+            </p>
+        </li>
+                                            <li class="first-item hasImg " >
+            <p class="artImg">
+                <a href="http://qingang.baijia.baidu.com/article/52803" target="_blank" mon="name=bjrecommend&pos=pic">
+                    <img src="http://d.hiphotos.baidu.com/news/crop%3D0%2C0%2C500%2C300%3Bw%3D638/sign=993168debd12c8fca0bcac8dc133be75/e824b899a9014c0885bc325b0e7b02087af4f44d.jpg" class="top_hot_img" />
+                </a>
+            </p>
+            <p class="title">
+                <a href="http://qingang.baijia.baidu.com/article/52803" target="_blank" title="秦刚访谈：互联网+农村10万亿市场" mon="name=bjrecommend&pos=title">秦刚访谈：互联网+农村10万亿市场</a>
+            </p>
+            <p class="text">
+                
+                                    <a href="http://qingang.baijia.baidu.com" class="nm" mon="name=bjrecommend&pos=name">秦刚</a>
+                                <span class="tip">阅读(2万)</span>
+            </p>
+        </li>
+                                            <li class="first-item hasImg " >
+            <p class="artImg">
+                <a href="http://gejia.baijia.baidu.com/article/53452" target="_blank" mon="name=bjrecommend&pos=pic">
+                    <img src="http://a.hiphotos.baidu.com/news/crop%3D30%2C0%2C512%2C307%3Bw%3D638/sign=b37fa197ce8065386fa5fe53aaee9168/279759ee3d6d55fb929752ff69224f4a21a4dd91.jpg" class="top_hot_img" />
+                </a>
+            </p>
+            <p class="title">
+                <a href="http://gejia.baijia.baidu.com/article/53452" target="_blank" title="美禁售华超芯片：或是毫无意义姿态" mon="name=bjrecommend&pos=title">美禁售华超芯片：或是毫无意义姿态</a>
+            </p>
+            <p class="text">
+                
+                                    <a href="http://gejia.baijia.baidu.com" class="nm" mon="name=bjrecommend&pos=name">葛甲</a>
+                                <span class="tip">阅读(30万)</span>
+            </p>
+        </li>
+                                            <li class="first-item hasImg " >
+            <p class="artImg">
+                <a href="http://wangxinxi.baijia.baidu.com/article/53507" target="_blank" mon="name=bjrecommend&pos=pic">
+                    <img src="http://a.hiphotos.baidu.com/news/crop%3D0%2C5%2C488%2C293%3Bw%3D638/sign=b7934834b08f8c54f79c9f6f071901c0/0ff41bd5ad6eddc449183a213ddbb6fd53663368.jpg" class="top_hot_img" />
+                </a>
+            </p>
+            <p class="title">
+                <a href="http://wangxinxi.baijia.baidu.com/article/53507" target="_blank" title="内忧外患：谁在威胁淘宝？" mon="name=bjrecommend&pos=title">内忧外患：谁在威胁淘宝？</a>
+            </p>
+            <p class="text">
+                
+                                    <a href="http://wangxinxi.baijia.baidu.com" class="nm" mon="name=bjrecommend&pos=name">王新喜</a>
+                                <span class="tip">阅读(28万)</span>
+            </p>
+        </li>
+                                            <li class="first-item hasImg " >
+            <p class="artImg">
+                <a href="http://kangsitanding.baijia.baidu.com/article/54210" target="_blank" mon="name=bjrecommend&pos=pic">
+                    <img src="http://f.hiphotos.baidu.com/news/crop%3D8%2C23%2C542%2C325%3Bw%3D638/sign=13fd6c6b0e7b0208188665a15fe1dee1/83025aafa40f4bfb8616da9a074f78f0f636183d.jpg" class="top_hot_img" />
+                </a>
+            </p>
+            <p class="title">
+                <a href="http://kangsitanding.baijia.baidu.com/article/54210" target="_blank" title="我们真的需要智能自行车吗？" mon="name=bjrecommend&pos=title">我们真的需要智能自行车吗？</a>
+            </p>
+            <p class="text">
+                
+                                    <a href="http://kangsitanding.baijia.baidu.com" class="nm" mon="name=bjrecommend&pos=name">康斯坦丁</a>
+                                <span class="tip">阅读(24万)</span>
+            </p>
+        </li>
+                        </ul>
+
+</div>
+</div>
+
+
+        <div class="mod" alog-group="log-hotartical">			
+<div class="hd">
+    <div class="title_box" ><div class="title_container"><span class="title">最新文章</span><span class="sub_title">NEW</span><div class="line"><div class="left"></div><div class="right"></div></div></div></div>
+</div>
+<div class="bd">
+    <ul class="artical-top">
+                            <li class="first-item hasImg notb" >
+            <p class="artImg">
+                <a href="http://diaochayuan.baijia.baidu.com/article/54413" target="_blank" mon="name=bjnew&pos=pic">
+                    <img src="http://d.hiphotos.baidu.com/news/crop%3D0%2C0%2C432%2C259%3Bw%3D638/sign=4b93f4c29a3df8dcb272d5d1f0215ebb/8718367adab44aed152f44d1b61c8701a18bfba6.jpg" class="top_hot_img" />
+                </a>
+            </p>
+            <p class="title">
+                <a href="http://diaochayuan.baijia.baidu.com/article/54413" target="_blank" title="奇虎360如此作弊，AV-C如何能忍？" mon="name=bjnew&pos=title">奇虎360如此作弊，AV-C如何能忍？</a>
+            </p>
+            <p class="text">
+                
+                                    <a href="http://diaochayuan.baijia.baidu.com" class="nm" mon="name=bjnew&pos=name">特别调查员</a>
+                                <span class="tip">24分钟前</span>
+            </p>
+        </li>
+                                            <li class="first-item hasImg " >
+            <p class="artImg">
+                <a href="http://junstapo.baijia.baidu.com/article/54419" target="_blank" mon="name=bjnew&pos=pic">
+                    <img src="http://d.hiphotos.baidu.com/news/crop%3D1%2C5%2C638%2C383%3Bw%3D638/sign=c39d1e05bfa1cd1111f928608423e4c9/8718367adab44aed153244d1b61c8701a18bfb83.jpg" class="top_hot_img" />
+                </a>
+            </p>
+            <p class="title">
+                <a href="http://junstapo.baijia.baidu.com/article/54419" target="_blank" title="如何判断你的技术价值投资？" mon="name=bjnew&pos=title">如何判断你的技术价值投资？</a>
+            </p>
+            <p class="text">
+                
+                                    <a href="http://junstapo.baijia.baidu.com" class="nm" mon="name=bjnew&pos=name">俊世太保</a>
+                                <span class="tip">26分钟前</span>
+            </p>
+        </li>
+                                            <li class="first-item hasImg " >
+            <p class="artImg">
+                <a href="http://junstapo.baijia.baidu.com/article/54417" target="_blank" mon="name=bjnew&pos=pic">
+                    <img src="http://f.hiphotos.baidu.com/news/crop%3D79%2C0%2C1201%2C720%3Bw%3D638/sign=5ec283c7d062853586af8861add84fea/8d5494eef01f3a29e8672cfb9c25bc315c607c5c.jpg" class="top_hot_img" />
+                </a>
+            </p>
+            <p class="title">
+                <a href="http://junstapo.baijia.baidu.com/article/54417" target="_blank" title="美国科技大佬成功之前混得都有多惨" mon="name=bjnew&pos=title">美国科技大佬成功之前混得都有多惨</a>
+            </p>
+            <p class="text">
+                
+                                    <a href="http://junstapo.baijia.baidu.com" class="nm" mon="name=bjnew&pos=name">俊世太保</a>
+                                <span class="tip">30分钟前</span>
+            </p>
+        </li>
+                                            <li class="first-item hasImg " >
+            <p class="artImg">
+                <a href="http://tieren.baijia.baidu.com/article/54412" target="_blank" mon="name=bjnew&pos=pic">
+                    <img src="http://d.hiphotos.baidu.com/news/crop%3D6%2C2%2C590%2C354%3Bw%3D638/sign=6a29cb26d854564ef12abe798ee8b0b0/0e2442a7d933c895f23e6f4ed41373f082020046.jpg" class="top_hot_img" />
+                </a>
+            </p>
+            <p class="title">
+                <a href="http://tieren.baijia.baidu.com/article/54412" target="_blank" title="谈香港电影金像奖：就这7部可以看" mon="name=bjnew&pos=title">谈香港电影金像奖：就这7部可以看</a>
+            </p>
+            <p class="text">
+                
+                                    <a href="http://tieren.baijia.baidu.com" class="nm" mon="name=bjnew&pos=name">铁任</a>
+                                <span class="tip">43分钟前</span>
+            </p>
+        </li>
+                                            <li class="first-item hasImg " >
+            <p class="artImg">
+                <a href="http://zhoutao.baijia.baidu.com/article/54409" target="_blank" mon="name=bjnew&pos=pic">
+                    <img src="http://f.hiphotos.baidu.com/news/crop%3D0%2C0%2C500%2C300%3Bw%3D638/sign=c8167fcda286c9171c4c0879f40d5cff/377adab44aed2e73d6081d198201a18b87d6fa26.jpg" class="top_hot_img" />
+                </a>
+            </p>
+            <p class="title">
+                <a href="http://zhoutao.baijia.baidu.com/article/54409" target="_blank" title="海淘直播! 激活海淘客的“参与感”" mon="name=bjnew&pos=title">海淘直播! 激活海淘客的“参与感”</a>
+            </p>
+            <p class="text">
+                
+                                    <a href="http://zhoutao.baijia.baidu.com" class="nm" mon="name=bjnew&pos=name">周涛</a>
+                                <span class="tip">1小时前</span>
+            </p>
+        </li>
+                        </ul>
+
+</div>
+</div>
+
+
+                <div class="l-right-bottom-cloud-ad"><script type="text/javascript">
+/*标签云*/
+var cpro_id = "u1502896";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script></div>
+                <div class="mod" id="artical" alog-group="log-hotartical-num">
+    <div class="hd">
+        <div class="title_box" ><div class="title_container"><span class="title">热门文章</span><span class="sub_title">HOT NEWS</span><div class="line"><div class="left"></div><div class="right"></div></div></div></div>
+    </div>
+    <div class="bd">
+                <div class="tabs">
+            <span class="tab on" data-id="topArtical"><a href="javascript:;">日榜</a></span>
+            <span class="tab" data-id="topWeekArtical"><a href="javascript:;">周榜</a></span>
+        </div>
+        <ul class="artical-top-num" id="topArtical">
+                                                                            <li class="top-1">
+                        <span class="num">01</span>
+                        <p class="title"><a href="http://chenxinlei.baijia.baidu.com/article/54338" mon="name=bjhotarticle" target="_blank">中国零售业何去何从</a></p>
+                                                <p class="desc">对今天的中国来说，寻找经济转型的突破口，寻找经济权力的新霸主，...</p>
+                                            </li>
+                                                                                                                            <li class="top-2">
+                        <span class="nm">刘姝威</span>
+                        <span class="num">02</span>
+                        <p class="title"><a href="http://liushuwei.baijia.baidu.com/article/53952" mon="name=bjhotarticle" target="_blank">信息技术改变造纸业需求结构</a></p>
+                    </li>
+                                                                                                                            <li class="top-3">
+                        <span class="nm">丁鹏Gamewower</span>
+                        <span class="num">03</span>
+                        <p class="title"><a href="http://dingpeng.baijia.baidu.com/article/54296" mon="name=bjhotarticle" target="_blank">炉石传说 暴雪为何一直在错失机会</a></p>
+                    </li>
+                                                                                                        <li>
+                        <span class="nm">康斯坦丁</span>
+                        <span class="num">04</span>
+                        <p class="title"><a href="http://kangsitanding.baijia.baidu.com/article/54295" mon="name=bjhotarticle"  target="_blank">由生到死10个月 做App中的二有多难</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm">易宪容</span>
+                        <span class="num">05</span>
+                        <p class="title"><a href="http://yixianrong.baijia.baidu.com/article/54302" mon="name=bjhotarticle"  target="_blank">央行降准的实质是护航国内股市</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm">信海光</span>
+                        <span class="num">06</span>
+                        <p class="title"><a href="http://xinhaiguang.baijia.baidu.com/article/54314" mon="name=bjhotarticle"  target="_blank">微商不是“危商”，妖魔化为时尚早</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm">小刀马</span>
+                        <span class="num">07</span>
+                        <p class="title"><a href="http://xiaodaoma.baijia.baidu.com/article/54319" mon="name=bjhotarticle"  target="_blank">微软开窍，背后给谷歌致命一枪？</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm">王冠雄</span>
+                        <span class="num">08</span>
+                        <p class="title"><a href="http://wangguanxiong.baijia.baidu.com/article/54337" mon="name=bjhotarticle"  target="_blank">重创新：传统企业转型互联网四个坑</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm">月光博客</span>
+                        <span class="num">09</span>
+                        <p class="title"><a href="http://williamlong.baijia.baidu.com/article/54327" mon="name=bjhotarticle"  target="_blank">常用在线支付方式对比</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm">阑夕</span>
+                        <span class="num">10</span>
+                        <p class="title"><a href="http://lanxi.baijia.baidu.com/article/54297" mon="name=bjhotarticle"  target="_blank">曾经刷爆朋友圈的魔漫相机活得怎样</a></p>
+                    </li>
+                                            </ul>
+        <ul class="artical-top-num" id="topWeekArtical" style="display:none">
+                                                                            <li class="top-1"  style="height:auto;">
+                        <span class="num">01</span>
+                        <p class="title"><a href="http://meixuefeng.baijia.baidu.com/article/53521" mon="name=bjhotarticle" target="_blank">《战狼》不好，但对产业有益</a></p>
+                                                <p class="desc">这种流行却肤浅的认知实际是对观众的一种轻视，也就是观众口味是能...</p>
+                                            </li>
+                                                                                                                            <li class="top-2">
+                        <span class="nm">王新喜</span>
+                        <span class="num">02</span>
+                        <p class="title"><a href="http://wangxinxi.baijia.baidu.com/article/53507" mon="name=bjhotarticle" target="_blank">内忧外患：谁在威胁淘宝？</a></p>
+                    </li>
+                                                                                                                            <li class="top-3">
+                        <span class="nm">康斯坦丁</span>
+                        <span class="num">03</span>
+                        <p class="title"><a href="http://kangsitanding.baijia.baidu.com/article/54210" mon="name=bjhotarticle" target="_blank">我们真的需要智能自行车吗？</a></p>
+                    </li>
+                                                                                                        <li>
+                        <span class="nm">方雨007</span>
+                        <span class="num">04</span>
+                        <p class="title"><a href="http://fangyu.baijia.baidu.com/article/54251" mon="name=bjhotarticle"  target="_blank">哪些微商团队会很快死掉</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm">易宪容</span>
+                        <span class="num">05</span>
+                        <p class="title"><a href="http://yixianrong.baijia.baidu.com/article/53816" mon="name=bjhotarticle"  target="_blank">当前国内房地产形势更为严峻</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm">易宪容</span>
+                        <span class="num">06</span>
+                        <p class="title"><a href="http://yixianrong.baijia.baidu.com/article/54014" mon="name=bjhotarticle"  target="_blank">中国政府为何不愿人民币贬值？</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm">电商老兵斗牛士</span>
+                        <span class="num">07</span>
+                        <p class="title"><a href="http://penghailiang.baijia.baidu.com/article/54013" mon="name=bjhotarticle"  target="_blank">马云要收购中石化5000加油站？</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm">图宾根木匠</span>
+                        <span class="num">08</span>
+                        <p class="title"><a href="http://tubingenmujiang.baijia.baidu.com/article/53620" mon="name=bjhotarticle"  target="_blank">《速度与激情7》：被吹上天的猪</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm">阳光</span>
+                        <span class="num">09</span>
+                        <p class="title"><a href="http://maxiangyang.baijia.baidu.com/article/53477" mon="name=bjhotarticle"  target="_blank">苹果为什么隐瞒Apple Watch销量？</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm">承哲</span>
+                        <span class="num">10</span>
+                        <p class="title"><a href="http://chengzhe.baijia.baidu.com/article/54201" mon="name=bjhotarticle"  target="_blank">从微信逻辑，看58为何选错靠山</a></p>
+                    </li>
+                                            </ul>
+            </div>
+</div>
+
+<script type="text/javascript">
+;$(function(){
+    if($('#artical').find('.tab').length){
+        $('#artical').find('.tab').on('click',switchTab);
+    }
+    
+
+    function switchTab(e){
+        var $e=$(this),
+            tabId = $e.data('id');
+
+        $.each($('#artical').find('.artical-top-num'),function(i,e){
+            $(e).hide();
+        });
+        $.each($('#artical').find('.tab'),function(i,e){
+            $(e).removeClass('on');
+        });
+
+        $e.addClass('on');
+        $('#'+tabId).show();
+    }
+});
+</script>
+                <div class="l-right-bottom-img-ad"><script type="text/javascript">
+/*右侧下方图片*/
+var cpro_id = "u1502899";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script></div>
+            </div>
+</div>
+<script type="text/template" id="new-comment-list">
+
+    <%var data = data.list%>
+    <%for(var i=0 ; i < data.length ;i++){%>
+        <div class="wc_list_nod clearfix">
+            <div class="nod_inner clearfix">
+                <div class="wbavatar">
+                    <a href="<%=data[i]['user_url']%>" title="<%=data[i]['user_name']%>" target="_blank">
+                        <img src="<%=data[i]['user_pic']%>" alt="<%=data[i]['user_name']%>" title="<%=data[i]['user_name']%>">
+                    </a>
+                </div>
+                <div class="wb_cmR comm_main">
+                    <div class="user_info">
+                        <a href="<%=data[i]['user_url']%>" title="<%=data[i]['user_name']%>" target="_blank" class="user_name"><%=data[i]['user_name']%></a>
+                        <span class="pub_time"><%=data[i]['format_ts']%></span>
+                    </div>
+                    <div class="content_txt"><%=data[i]['text']%></div>
+                </div>
+            </div>
+        </div>
+    <%}%>
+
+</script>
+
+<style>
+#footer{width:100%;background:#f0f0f0;height:249px;}
+#footer .site-nav{margin-top:34px;}
+#footer .site-nav a{background:#fff;display: inline-block;border: 1px solid #ececec;padding: 0 22px;margin: 0 5px;height: 30px;line-height: 30px;color: #666;vertical-align: bottom;}
+#footer .site-nav a.bottom-logo{background:none;border: 0;height: 38px;}
+</style>
+<div id="footer" alog-group="log-footer">
+<p class="site-nav"><a href="http://baijia.baidu.com/" target="_blank" class="bottom-logo"><img src="/static/images/baijia_logo_color.png"/></a><a href="http://baijia.baidu.com/?tn=listarticle&labelid=2" target="_blank">互联网</a><a href="http://baijia.baidu.com/?tn=listarticle&labelid=3" target="_blank">文化</a><a href="http://baijia.baidu.com/?tn=listarticle&labelid=4" target="_blank">娱乐</a><a href="http://baijia.baidu.com/?tn=listarticle&labelid=5" target="_blank">体育</a><a href="http://baijia.baidu.com/?tn=listarticle&labelid=6" target="_blank">财经</a><a href="http://baijia.baidu.com/?tn=listarticle&labelid=1" target="_blank">热点</a>
+</p>
+<p class="top-nav">
+<a href="http://baijia.baidu.com/" target="_blank">百家首页</a>|
+<a href="http://news.baidu.com/" target="_blank">百度新闻</a>|
+<a href="mailto:Baijia@baidu.com" target="_blank">联系我们：Baijia@baidu.com</a>
+<strong> 百度新闻独家出品</strong>
+</p>
+<p class="site-info">
+京公网安备110000000001号 <a href="http://news.baidu.com/licence.html">互联网新闻信息服务许可</a><span>&copy;2015 Baidu</span><a href="http://www.baidu.com/duty/">使用百度前必读</a><a target="_blank" href="http://net.china.cn/chinese/index.htm"><img src="http://gimg.baidu.com/img/net.gif"></a><a target="_blank" href="http://www.bj.cyberpolice.cn/index.htm"><img alt="首都网络110报警服务" src="http://gimg.baidu.com/img/110.gif"></a><a target="_blank" href="http://www.bjjubao.org/"><img src="http://news.baidu.com/resource/img/report_center.png"></a> 
+</p>
+</div>
+
+    <script type="text/javascript">
+/*对联*/
+var cpro_id = "u1502881";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/f.js" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+
+var uid="",
+    mid="1117857272",
+    articleId = "54383",
+    displayname = "",
+    userImage = "";
+
+var image = new Image(1, 1);
+image.src = '/static/images/b.gif?articleId=' + articleId;
+
+   baidu.dom.ready(function(){
+
+    var __up = baidu.g('up_article') , __down = baidu.g('down_article'), __up_num = baidu.g('up_btn_num') , __down_num = baidu.g('down_btn_num'),up_down_flag = false;
+
+    function num2str(str){
+        var num = (str*1) + 1 ;
+        return num ;
+    }
+    function upvsdown(action){
+        var url = "nid=2754395049786876673&type="+action;
+        baidu.ajax.post("/ajax/newssupport",url,function(h,r){
+            var req = baidu.json.parse(r);
+            if(req.errno == 0 ){
+                if(action == "up"){
+                    __up_num.innerHTML = num2str(__up_num.innerHTML);
+                }else{
+                    __down_num.innerHTML = num2str(__down_num.innerHTML);
+                }
+                up_down_flag = true ;
+                if(action == "up"){
+                    baidu.dom.removeClass('up_icon','up_gray');
+                    baidu.dom.addClass('up_icon','up');
+                }else{
+                    baidu.dom.removeClass('down_icon','down_gray');
+                    baidu.dom.addClass('down_icon','down');
+                }
+                /*baidu.dom.addClass("up_article","up_down_btn_gray");
+                baidu.dom.addClass("down_article","up_down_btn_gray");
+                baidu.dom.addClass("up_btn_num","up_down_btn_num_gray");
+                baidu.dom.addClass("down_btn_num","up_down_btn_num_gray");
+                baidu.dom.removeClass("up_txt","up_down_txt_hover");
+                baidu.dom.removeClass("down_txt","up_down_txt_hover");*/
+            }
+        });
+    }
+    __up&&baidu.event.on(__up,'click',function(e){
+        if(up_down_flag){return false;}
+        upvsdown("up");
+    });
+    __down&&baidu.event.on(__down,'click',function(e){
+        if(up_down_flag){return false;}
+        upvsdown("down");
+    });
+
+    $('.authorRssBtn').click(function(e){
+        if(!$("#login").is(":hidden")){
+            baidu.g("login").click();
+            return false;
+        }
+        var $e = $(this),
+            txt = $e.find('.b').text(),
+            changeTxt,changeClass,status;
+        if(txt == '已关注'){
+            status = 2;
+            changeTxt = '关注';
+            changeClass = 'i iadd';
+        }else if(txt == '关注'){
+            status = 1;
+            changeTxt = '已关注';
+            changeClass = 'i iminus';
+        }
+        if(serverData.token){
+            var url = "/ajax/subscribe?uid="+uid+"&mid="+mid+"&type=1&status="+status+"&token=" + serverData.token + "&time=" + serverData.tokentm;
+        }else{
+            var url = "/ajax/subscribe?uid="+uid+"&mid="+mid+"&type=1&status="+status;
+        }
+        $.ajaxSetup({ cache: false });
+        $.ajax({
+            url: url,
+            type: 'GET',
+            dataType: 'json',
+            success: function(res){
+                if(res.errno == '0'){
+                    $e.find('.b').text(changeTxt);
+                    $e.find('.i').removeClass().addClass(changeClass);
+                }
+            }
+        });
+
+    });
+
+    $.each($('.videoArea'),function(i,e){
+        var $e = $(e),
+            id = $e.attr('id'),
+            name = 'video' + i,
+            width = $e.data('width'),
+            height = $e.data('height'),
+            url = $e.data('url'),
+            flashvars={
+                f:url,
+                c:0,
+                b:1,
+                p:0
+            };
+
+        CKobject.embedSWF('/static/js/ckplayer/ckplayer.swf',id,name,width,height,flashvars,'');
+    });
+
+    new Comment('mod-comment', {
+        url: encodeURIComponent(window.location.href),
+        articleId: '54383',
+        displayname: '',
+        subscribename: 'baijia',
+        userImage: ''
+    });
+
+});
+
+
+</script>
+
+<link href="/static/js/libs/magic/resources/default/magic.control.Dialog/magic.control.Dialog.css?v=20131212" rel="stylesheet" type="text/css"></link>
+<!--用户反馈-->
+<div id="goTop" >
+    <div class="feedback" id="feedbackbtn"><a href="javascript:;">用户反馈</a></div>
+    <div class="gotop"><a id="gotop_btn" style="display:none" onclick="window.scroll(0, 0)"></a></div>
+</div>
+<style>
+#goTop {
+    position:fixed;
+    width:54px;
+    left:50%;
+    margin-left:512px;
+    bottom:10px;
+    *+bottom:10px;
+    _position:absolute;
+    _top:expression(eval(document.documentElement.scrollTop || document.body.scrollTop) +eval(document.documentElement.clientHeight || document.body.clientHeight) -110+'px');
+    z-index:998;
+}
+#goTop div {
+    height:48px;
+    margin-top:3px;
+    position:relative;
+    width:48px;
+}
+#goTop div a,#goTop div a:link {
+    display:inline-block;
+    height  :18px;
+    width:100%;
+    color:#fff;
+    background:#b7c5ca url(http://news.baidu.com/resource/img/gotop.png) no-repeat;
+    font-size:12px;
+    line-height:14px;
+    text-align:center;
+    text-decoration:none;
+    padding-top:30px;
+}
+#goTop div.feedback a {
+    padding:10px;
+    height:28px;
+    width:28px;
+    line-height:14px;
+    background:#b7c5ca;
+}
+#goTop .feedback a:hover {
+    background:#59a9c6;
+}
+#goTop div.gotop a {
+    background-position:-147px -48px;
+}
+#goTop .gotop a:hover {
+    background-position:-147px 0;
+}
+/*UI控件*/
+.tang-dialog{position:fixed;top:100px;_position:absolute;_top:100px;_bottom:100px;}
+.tang-dialog .tang-title{background:#fff;border:none;}
+.tang-dialog .tang-title span{color:#fff;height:35px;line-height: 35px;background:#fff;}
+.tang-dialog .tang-body{border:none;background:#fff;}
+.tang-dialog .tang-body .content{color:#666;font-family: "微软雅黑";}
+.tang-dialog .tang-title .buttons a{background: transparent url(http://baijia.baidu.com/static/js/libs/magic/resources/default/magic.control.Dialog/btns.gif) no-repeat;}
+.tang-dialog .tang-title .buttons a:hover{background: transparent url(http://baijia.baidu.com/static/js/libs/magic/resources/default/magic.control.Dialog/btns.gif) no-repeat;}
+/*用户反馈*/
+.feed_describe{font: 16px "微软雅黑",arial,tahoma;color: #666;font-weight: bold;margin-bottom:10px;float:left;margin-left:20px;_margin-left:10px;}
+.feed_describe span{font: 30px arial;color: #377cca;font-style: italic;margin-right: 8px;}
+.feed_content{width: 630px;_width:630px;height: 170px;resize:none;overflow:auto;font-size:16px;border: 1px solid #ddd;padding-left:10px;font-family: "微软雅黑",arial,tahoma;margin-left:20px;float:left;}
+.feed_contact{clear:left;width:630px;height:40px;margin-left:20px;*margin-left:10px;}
+.feed_contact_txt{width: 286px;height: 32px;overflow: hidden;border: 1px solid #ddd;float: left;margin-right: 10px;padding-left:10px;font:16px/32px "微软雅黑",arial,tahoma;}
+.feed_contact_comment{font-size:16px;line-height:32px;color:#bbb;display: block;float:left;}
+.feed_contact_button{width:120px;height:35px;display:block;margin:15px auto 0px;background: #3F88D2;color: #fff;font-size: 16px;border: 1px solid #3F88D2;*+margin-top:8px;}
+</style>
+<script>var on=baidu.event.on;Fe = baidu;</script>
+<script src="/static/js/libs/magic/magic.js?v=20131212" type="text/javascript"></script>
+<script src="/static/js/utils.js?v=20131212" type="text/javascript"></script>
+<script type="text/javascript">
+    baidu.on(window,'load', function(){
+        var eleTop = baidu.g("gotop_btn");
+        baidu.on(window, 'scroll', function(){
+            baidu.page.getScrollTop() >= 200 ? baidu.show(eleTop) : baidu.hide(eleTop);
+            if(baidu.browser.ie&&baidu.browser.ie < 7){
+                var scrolltop = baidu.page.getScrollTop(),
+                    viewheight = baidu.page.getViewHeight(),
+                    pageheight = baidu.page.getHeight();
+                baidu.dom.setStyle('goTop','top',(scrolltop+viewheight-110));
+            }
+        });
+        var feedback = baidu.g("feedbackbtn");
+        var feedbackDialog = null , feedactionDialog = null ;
+        baidu.on(feedback , "click",function(e){
+            if(!feedbackDialog){
+                feedbackDialog = ZMT.notice({title:'用户反馈',content:'<h2 class="feed_describe"><span>1</span>请描述您遇到的问题或您的意见、建议：</h2><textarea type="text" class="feed_content" id="feed_content"></textarea><h2 class="feed_describe"><span>2</span>请留下联系方式，您将有机会获得精美礼品</h2><div class="feed_contact"><input type="text" class="feed_contact_txt" id="feed_content_txt" value="" placeholder="QQ/邮箱/电话"><span class="feed_contact_comment">(可选)</span></div><input id="submit_feed" type="button" class="feed_contact_button" value="提交反馈">',height:430,width:700});
+                setTimeout(function(){
+                    baidu.on(baidu.g("submit_feed"),"click",function(){
+                        var browser = "";
+                        var content = baidu.g("feed_content").value;
+                        var contactway = baidu.g("feed_content_txt").value; 
+                        if(!content){return false;}
+                        for(var p in baidu.browser){
+                            if(baidu.browser[p]){
+                                browser += " "+p+":"+baidu.browser[p] ;
+                            }
+                        }
+                        var url = 'mid=baijia_pc&content='+content+'&contactway='+contactway+'&browse='+browser; 
+                        baidu.ajax.post('/ajax/feedback',url,function(h,r){
+                            var req = baidu.json.parse(r);
+                            if(req.errno == 0){
+                                feedbackDialog.hide();
+                                feedactionDialog = ZMT.notice({content:'<div style="width:100%;height:100%;text-align:center;">提交成功！</div>',autohide:true});
+                                feedactionDialog.setPosition({top:100});
+                            }
+                        });
+                    });
+                },500);
+                feedbackDialog.setPosition({top:100});
+            }else{
+                baidu.g("feed_content").value = "";
+                baidu.g("feed_content_txt").value = ""; 
+                feedbackDialog.show();
+            }
+        });
+    });
+</script>
+<img src="/static/images/article_up.png" style="display:none;">
+<img src="/static/images/article_down.png" style="display:none;">
+</body>
+</html>

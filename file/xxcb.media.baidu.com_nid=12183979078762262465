@@ -1,0 +1,766 @@
+<!doctype html>
+<html>
+<head>
+<!--STATUS OK-->
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+<title>潇湘晨报_百度传媒</title>
+
+<link rel="dns-prefetch" href="//ns0.bdstatic.com">
+<link rel="dns-prefetch" href="//ns1.bdstatic.com">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="" >
+
+
+
+
+<script>
+  var serverData = {
+    maxseg : '3',
+    total : '600',
+    hasMore : '1',
+    rn : '60',
+    lastNid : '12278119148393854836',
+    logowidth : '144',
+    logoheight : '32',
+    coverlogoheight : '45',
+    menuCount : 9,
+    subscribename : 'xxcb',
+    terms : '',
+    menu : [],
+    channelname : '',
+    device: 'pc'
+  }
+  if(!''){
+    serverData.channelname = 'index';
+  }else{
+    serverData.channelname = '';
+  }
+
+  // hunter统计
+  void function(e,t,n,a,o,i,m){e.alogObjectName=o,e[o]=e[o]||function(){(e[o].q=e[o].q||[]).push(arguments)},e[o].l=e[o].l||+new Date,i=t.createElement(n),i.asyn=1,i.src=a,m=t.getElementsByTagName(n)[0],m.parentNode.insertBefore(i,m)}(window,document,"script","http://img.baidu.com/hunter/alog.min.js","alog");
+    </script>
+
+<link rel="stylesheet" type="text/css" href="/static/common/pkg/aio_ec06920.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/css/all_e472514.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/skin/blue_3491b5a.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/mod_page/mod_page_aac155e.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/ap_ulist/ap_ulist_c1b4057.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/header/header_6c174ae.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/cover/cover_1a2721a.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/mod_banner/mod_banner_b7ecfb4.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/footer/footer_1ef9d4d.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/mod_sidebar/mod_sidebar_cb6d93e.css"/></head>
+<body>
+
+<style>
+  body{padding-top:0}
+  #Header{position: relative;}
+</style>
+
+
+<div class="wrap">
+<div id="Cover" class="mod-cover">
+<div class="cover">
+<div class="coverbg"></div>
+<div class="coverlogo"><img src="http://news.baidu.com/resource/r/image/2015-01-19/93a5b25cb1fa5cd75b22766a4ebf8611.png"></div>
+<div class="coverslogan">
+<p class="ll"></p>
+<span>湖南必看，湖南必用</span>
+<p class="rl"></p>
+</div>
+</div>
+</div><div id="Header">
+<div class="header">
+<h1 class="test"></h1>
+<div class="logo" style="width:144px;"><a href="/" target="_blank" ><img src="http://news.baidu.com/resource/r/image/2015-02-12/7932c793449fc33cadadabee9e904c51.png" style="height:32px"/></a></div>
+<div class="menulist large" style="margin:0 144px">
+<ul></ul>
+</div>
+<div class="menulist medium" style="margin:0 144px">
+<ul></ul>
+</div>
+<div class="headerSearch">
+<p class="searchbar">
+<a href="javascript:;" class="searchA"><i class="i"></i></a>
+<i class="txt"><i class="i nodis"></i><input type="text" class="nodis"></i>
+</p>
+<p class="sub-menu"><i class="icon-submenu"></i></p>
+<p class="baiduLogo"><a href="http://news.baidu.com/" target="_blank"><img src="/static/newsmedia/widget/header/baidu_logo_46a3f92.png"></a></p>
+</div>
+</div>
+
+<script type="text/javascript">
+var menu = [];
+
+            menu.push({
+            'name': '首页',
+            'enname':'',
+            'url': '',
+            'list':[
+            	            ]
+        });
+            menu.push({
+            'name': '现场',
+            'enname':'hunanspot',
+            'url': '',
+            'list':[
+            	            	{'name' : '第一资讯',
+            	'enname' : 'hunanspot\/hndyzx'
+	            },	                        	{'name' : '橙子报料',
+            	'enname' : 'hunanspot\/czblpt'
+	            }	                        ]
+        });
+            menu.push({
+            'name': '湖南',
+            'enname':'hunan',
+            'url': '',
+            'list':[
+            	            	{'name' : '长沙新闻',
+            	'enname' : 'hunan\/csxw'
+	            },	                        	{'name' : '市州新闻',
+            	'enname' : 'hunan\/szxw'
+	            }	                        ]
+        });
+            menu.push({
+            'name': '要闻',
+            'enname':'event',
+            'url': '',
+            'list':[
+            	            	{'name' : '国内新闻',
+            	'enname' : 'event\/gnxw'
+	            },	                        	{'name' : '国际新闻',
+            	'enname' : 'event\/gjxw'
+	            },	                        	{'name' : '娱乐新闻',
+            	'enname' : 'event\/ylxw'
+	            },	                        	{'name' : '体育新闻',
+            	'enname' : 'event\/tyxw'
+	            }	                        ]
+        });
+            menu.push({
+            'name': '态度',
+            'enname':'attitude',
+            'url': '',
+            'list':[
+            	            	{'name' : '晨报观点',
+            	'enname' : 'attitude\/cbgd'
+	            },	                        	{'name' : '晨报角度',
+            	'enname' : 'attitude\/cbjd'
+	            },	                        	{'name' : '首席出品',
+            	'enname' : 'attitude\/sxcp'
+	            },	                        	{'name' : '深水区',
+            	'enname' : 'attitude\/ssq'
+	            },	                        	{'name' : '晨报民调',
+            	'enname' : 'attitude\/cbmd'
+	            },	                        	{'name' : '晨报圆桌',
+            	'enname' : 'attitude\/cbyz'
+	            },	                        	{'name' : '观察家',
+            	'enname' : 'attitude\/gcj'
+	            }	                        ]
+        });
+            menu.push({
+            'name': '文化',
+            'enname':'culture',
+            'url': '',
+            'list':[
+            	            	{'name' : '时间线',
+            	'enname' : 'culture\/sjx'
+	            },	                        	{'name' : '口述历史',
+            	'enname' : 'culture\/ksls'
+	            },	                        	{'name' : '湖湘地理',
+            	'enname' : 'culture\/hxdl'
+	            },	                        	{'name' : '悦读',
+            	'enname' : 'culture\/yd'
+	            },	                        	{'name' : '文艺片',
+            	'enname' : 'culture\/wyp'
+	            }	                        ]
+        });
+            menu.push({
+            'name': '影像',
+            'enname':'portrait',
+            'url': '',
+            'list':[
+            	            	{'name' : '新闻现场',
+            	'enname' : 'portrait\/xwxc'
+	            },	                        	{'name' : '图片故事',
+            	'enname' : 'portrait\/tpgs'
+	            },	                        	{'name' : '摄友圈',
+            	'enname' : 'portrait\/syq'
+	            },	                        	{'name' : '每日视界',
+            	'enname' : 'portrait\/mrsj'
+	            }	                        ]
+        });
+            menu.push({
+            'name': '经济',
+            'enname':'economy',
+            'url': '',
+            'list':[
+            	            	{'name' : '经济要闻',
+            	'enname' : 'economy\/jjyw'
+	            }	                        ]
+        });
+            menu.push({
+            'name': '生活',
+            'enname':'life',
+            'url': '',
+            'list':[
+            	            	{'name' : '旅游',
+            	'enname' : 'life\/ly'
+	            },	                        	{'name' : '财经',
+            	'enname' : 'life\/cj'
+	            },	                        	{'name' : '房产',
+            	'enname' : 'life\/fc'
+	            },	                        	{'name' : '家居',
+            	'enname' : 'life\/jj'
+	            },	                        	{'name' : '健康',
+            	'enname' : 'life\/jk'
+	            },	                        	{'name' : '消费',
+            	'enname' : 'life\/xf'
+	            }	                        ]
+        });
+        serverData.menu = menu;
+
+</script>
+
+</div>
+<div id="Body">
+<div class="body">
+<div class="left">
+<div id="banners">
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12183979078762262465&amp;pos=0&amp;layout=2&amp;token=43f21caddf45b2a146d88eb2474dc8de&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981071">
+<h4>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12183979078762262465&amp;pos=0&amp;layout=2&amp;token=43f21caddf45b2a146d88eb2474dc8de&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981071" target="_blank">福建一高校女生点蚊香引燃公寓 近千人疏散(图) </a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12183979078762262465&amp;pos=0&amp;layout=2&amp;token=43f21caddf45b2a146d88eb2474dc8de&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981071" target="_blank"><img src="http://www.xxcb.cn/d/file/event/guonei/2015-04-21/f38e8e5c9f23f607fbb53e4124112ca1.jpg"/></a></p>
+<p class="summary">21日凌晨3时10分左右，福建闽南师...<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12183979078762262465&amp;pos=0&amp;layout=2&amp;token=43f21caddf45b2a146d88eb2474dc8de&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981071" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/event">要闻</a></p>
+<span class="author">
+<em>潇湘晨报</em>
+</span>
+<span class="time">04-21 20:47</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12437818333275632593&amp;pos=1&amp;layout=2&amp;token=697344c816445cb6ec18a860be122e81&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981067">
+<h4>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12437818333275632593&amp;pos=1&amp;layout=2&amp;token=697344c816445cb6ec18a860be122e81&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981067" target="_blank">北京一男子纵火燃车劫持女孩 被附近商户制服 </a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12437818333275632593&amp;pos=1&amp;layout=2&amp;token=697344c816445cb6ec18a860be122e81&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981067" target="_blank"><img src="http://www.xxcb.cn/d/file/event/guonei/2015-04-21/361fb27970359ebc438e10e22b885753.jpg"/></a></p>
+<p class="summary">北京市海淀区市民爆料称，板井路世纪城...<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12437818333275632593&amp;pos=1&amp;layout=2&amp;token=697344c816445cb6ec18a860be122e81&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981067" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/event">要闻</a></p>
+<span class="author">
+<em>潇湘晨报</em>
+</span>
+<span class="time">04-21 20:25</span>
+</div>
+</div>
+<div class="feed_tegao" data-href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12391869617787282828&amp;pos=2&amp;layout=2&amp;token=86b7054e7f6cd83c8f52bb7e067e8ebc&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981066">
+<h4>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12391869617787282828&amp;pos=2&amp;layout=2&amp;token=86b7054e7f6cd83c8f52bb7e067e8ebc&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981066" target="_blank">湖南临湘市长龚卫国涉嫌吸毒被立案调查 </a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12391869617787282828&amp;pos=2&amp;layout=2&amp;token=86b7054e7f6cd83c8f52bb7e067e8ebc&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981066" target="_blank"><img src="http://www.xxcb.cn/d/file/event/hunan/2015-04-21/ffcc9662fa46867ab9cf2589e9ae64f3.jpg "/></a></p>
+<p class="summary">目前公安机关已正式立案调查，已经免去龚卫国临湘市委副书记职务，其临湘市长的免职程序正在依法依规办理中...<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12391869617787282828&amp;pos=2&amp;layout=2&amp;token=86b7054e7f6cd83c8f52bb7e067e8ebc&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981066" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/hunan">湖南</a></p>
+<span class="author">
+<em>潇湘晨报</em>
+</span>
+<span class="time">04-21 20:25</span>
+</div>
+</div>
+<div class="feed_tegao" data-href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12074713886678620155&amp;pos=3&amp;layout=2&amp;token=94bd5c7bb2c340bce80b75a6aca58efc&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981021">
+<h4>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12074713886678620155&amp;pos=3&amp;layout=2&amp;token=94bd5c7bb2c340bce80b75a6aca58efc&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981021" target="_blank">赌场老板南下广东“取经”在火车站落网 </a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12074713886678620155&amp;pos=3&amp;layout=2&amp;token=94bd5c7bb2c340bce80b75a6aca58efc&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981021" target="_blank"><img src="http://www.xxcb.cn/d/file/chengzibaoliao/szxw/2015-04-21/3d7f88724bb8674ebe43bf15245b3e3c.jpg "/></a></p>
+<p class="summary">满怀羡慕的雷某当即表示，要前往刘某赌场“学习取经”，并约好了时间。<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12074713886678620155&amp;pos=3&amp;layout=2&amp;token=94bd5c7bb2c340bce80b75a6aca58efc&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981021" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/hunan">湖南</a></p>
+<span class="author">
+<em>潇湘晨报</em>
+</span>
+<span class="time">04-21 18:54</span>
+</div>
+</div>
+<div class="feed_tegao" data-href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12028765171190270390&amp;pos=4&amp;layout=2&amp;token=fdb96ea6003ba6277a09ae61c696cd9d&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981020">
+<h4>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12028765171190270390&amp;pos=4&amp;layout=2&amp;token=fdb96ea6003ba6277a09ae61c696cd9d&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981020" target="_blank">长沙艺星医学美容医院拆除顶层违章建筑 </a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12028765171190270390&amp;pos=4&amp;layout=2&amp;token=fdb96ea6003ba6277a09ae61c696cd9d&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981020" target="_blank"><img src="http://www.xxcb.cn/d/file/event/jishi/2015-04-21/e3997c3c689ab3eb0a8fd335d53dc1cc.jpg"/></a></p>
+<p class="summary">该处违章建筑是艺星医学美容医院于去年10月份开始搭建的。<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12028765171190270390&amp;pos=4&amp;layout=2&amp;token=fdb96ea6003ba6277a09ae61c696cd9d&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981020" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/hunanspot">现场</a></p>
+<span class="author">
+<em>潇湘晨报</em>
+</span>
+<span class="time">04-21 18:54</span>
+</div>
+</div>
+<div class="feed_tegao" data-href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12144758279238591223&amp;pos=5&amp;layout=2&amp;token=a683554887f4cb224706540bf42e3e5b&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981013">
+<h4>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12144758279238591223&amp;pos=5&amp;layout=2&amp;token=a683554887f4cb224706540bf42e3e5b&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981013" target="_blank">“娃娃兵团”进红门 零距离学消防知识 </a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12144758279238591223&amp;pos=5&amp;layout=2&amp;token=a683554887f4cb224706540bf42e3e5b&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981013" target="_blank"><img src="http://www.xxcb.cn/d/file/chengzibaoliao/szxw/2015-04-21/8762fc06d2501fbe487bcc5e7a461c40.jpg"/></a></p>
+<p class="summary">娄底市新化县消防迎来一批萌娃，维多利亚幼儿园70余名小朋友在老师的带领下走进大队，零距离体验消防，学...<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12144758279238591223&amp;pos=5&amp;layout=2&amp;token=a683554887f4cb224706540bf42e3e5b&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981013" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/hunan">湖南</a></p>
+<span class="author">
+<em>潇湘晨报</em>
+</span>
+<span class="time">04-21 18:54</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12052860848261891693&amp;pos=6&amp;layout=2&amp;token=d226251efddec95b9a513f08e8b89c7b&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981011">
+<h4>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12052860848261891693&amp;pos=6&amp;layout=2&amp;token=d226251efddec95b9a513f08e8b89c7b&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981011" target="_blank">沅江桔园学校2600名师生举行地震疏散演练 </a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12052860848261891693&amp;pos=6&amp;layout=2&amp;token=d226251efddec95b9a513f08e8b89c7b&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981011" target="_blank"><img src="http://www.xxcb.cn/d/file/chengzibaoliao/szxw/2015-04-21/299d4c0964db1276e61321d1176d5575.jpg"/></a></p>
+<p class="summary">在一阵阵急促的警报声中，益阳沅江市桔...<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12052860848261891693&amp;pos=6&amp;layout=2&amp;token=d226251efddec95b9a513f08e8b89c7b&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981011" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/hunan">湖南</a></p>
+<span class="author">
+<em>潇湘晨报</em>
+</span>
+<span class="time">04-21 16:53</span>
+</div>
+</div>
+<div class="feed_tegao" data-href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12122905240821862761&amp;pos=7&amp;layout=2&amp;token=0571af5585ea49efdb0f9052c04feafd&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981003">
+<h4>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12122905240821862761&amp;pos=7&amp;layout=2&amp;token=0571af5585ea49efdb0f9052c04feafd&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981003" target="_blank">桃源消防深入工业园开展安全大检查 </a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12122905240821862761&amp;pos=7&amp;layout=2&amp;token=0571af5585ea49efdb0f9052c04feafd&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981003" target="_blank"><img src="http://www.xxcb.cn/d/file/chengzibaoliao/szxw/2015-04-21/d39d199eff1d48123c3fab6876d0c679.jpg"/></a></p>
+<p class="summary">为切实加强劳动密集型企业消防安全工作，维护辖区火灾形势持续稳定，坚决遏制重特大尤其是群死群伤火灾事故...<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12122905240821862761&amp;pos=7&amp;layout=2&amp;token=0571af5585ea49efdb0f9052c04feafd&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981003" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/hunan">湖南</a></p>
+<span class="author">
+<em>潇湘晨报</em>
+</span>
+<span class="time">04-21 16:45</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12925327181972234860&amp;pos=8&amp;layout=2&amp;token=fee5d1377c9d44583b0024043c960b2e&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8980997">
+<h4>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12925327181972234860&amp;pos=8&amp;layout=2&amp;token=fee5d1377c9d44583b0024043c960b2e&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8980997" target="_blank">慈利发改局原党组书记、局长罗远志获刑11年 </a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12925327181972234860&amp;pos=8&amp;layout=2&amp;token=fee5d1377c9d44583b0024043c960b2e&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8980997" target="_blank"><img src="http://www.xxcb.cn/d/file/chengzibaoliao/szxw/2015-04-21/7f27d9df70c118acc0c96a1a38f24406.jpg "/></a></p>
+<p class="summary">慈利县人民法院以受贿罪判处被告人罗远...<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12925327181972234860&amp;pos=8&amp;layout=2&amp;token=fee5d1377c9d44583b0024043c960b2e&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8980997" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/hunan">湖南</a></p>
+<span class="author">
+<em>潇湘晨报</em>
+</span>
+<span class="time">04-21 16:37</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12973518536115477466&amp;pos=9&amp;layout=2&amp;token=6eb228dc1fb29c5133931c16c8505545&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8980979">
+<h4>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12973518536115477466&amp;pos=9&amp;layout=2&amp;token=6eb228dc1fb29c5133931c16c8505545&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8980979" target="_blank">张家界世界地质公园博物馆一年免费纳客50万 </a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12973518536115477466&amp;pos=9&amp;layout=2&amp;token=6eb228dc1fb29c5133931c16c8505545&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8980979" target="_blank"><img src="http://www.xxcb.cn/d/file/chengzibaoliao/szxw/2015-04-21/71f89c06692a29ee8f306b55d9dd65e8.jpg "/></a></p>
+<p class="summary">张家界世界地质公园博物馆开放一周年来...<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12973518536115477466&amp;pos=9&amp;layout=2&amp;token=6eb228dc1fb29c5133931c16c8505545&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8980979" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/hunan">湖南</a></p>
+<span class="author">
+<em>潇湘晨报</em>
+</span>
+<span class="time">04-21 16:06</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12651877527697029111&amp;pos=10&amp;layout=2&amp;token=bb321f5d2cf792a347771abb99644d0f&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8980972">
+<h4>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12651877527697029111&amp;pos=10&amp;layout=2&amp;token=bb321f5d2cf792a347771abb99644d0f&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8980972" target="_blank">汝城投资490万元建设公共自行车租赁系统 </a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12651877527697029111&amp;pos=10&amp;layout=2&amp;token=bb321f5d2cf792a347771abb99644d0f&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8980972" target="_blank"><img src="http://www.xxcb.cn/d/file/chengzibaoliao/szxw/2015-04-21/5f2de4284a8361ce978cef2d8045f344.jpg "/></a></p>
+<p class="summary">城区面貌初步改善，城镇综合承载力和富...<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12651877527697029111&amp;pos=10&amp;layout=2&amp;token=bb321f5d2cf792a347771abb99644d0f&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8980972" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/hunan">湖南</a></p>
+<span class="author">
+<em>潇湘晨报</em>
+</span>
+<span class="time">04-21 15:59</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12299972186810583298&amp;pos=11&amp;layout=2&amp;token=11e9c1d957b8d27765040bf654607a70&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981064">
+<h4>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12299972186810583298&amp;pos=11&amp;layout=2&amp;token=11e9c1d957b8d27765040bf654607a70&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981064" target="_blank">19岁少女为51岁男友在桥洞生二胎 自己剪脐带 </a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12299972186810583298&amp;pos=11&amp;layout=2&amp;token=11e9c1d957b8d27765040bf654607a70&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981064" target="_blank"><img src="http://www.xxcb.cn/d/file/event/guonei/2015-04-21/79c779662fdac39f45ed20324a23cd47.jpg"/></a></p>
+<p class="summary">孩子的父亲是一名51岁的水电工，两人...<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12299972186810583298&amp;pos=11&amp;layout=2&amp;token=11e9c1d957b8d27765040bf654607a70&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981064" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/event">要闻</a></p>
+<span class="author">
+<em>潇湘晨报</em>
+</span>
+<span class="time">04-21 18:36</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12162126040345534003&amp;pos=12&amp;layout=2&amp;token=0b17b246286a92d8a2d614b76251519d&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981061">
+<h4>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12162126040345534003&amp;pos=12&amp;layout=2&amp;token=0b17b246286a92d8a2d614b76251519d&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981061" target="_blank">业主起诉小区违建胜诉 拆除部分后工作停滞 </a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12162126040345534003&amp;pos=12&amp;layout=2&amp;token=0b17b246286a92d8a2d614b76251519d&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981061" target="_blank"><img src="http://www.xxcb.cn/d/file/event/jishi/2015-04-21/1238345a7a951223c7048a8121bf0ddc.jpg"/></a></p>
+<p class="summary">业主熊师傅说，游泳池的这块地是公共用...<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12162126040345534003&amp;pos=12&amp;layout=2&amp;token=0b17b246286a92d8a2d614b76251519d&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981061" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/hunanspot">现场</a></p>
+<span class="author">
+<em>潇湘晨报</em>
+</span>
+<span class="time">04-21 18:36</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12232170432905505071&amp;pos=13&amp;layout=2&amp;token=1c81698df1e81fca4aceaa671a0782bc&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981053">
+<h4>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12232170432905505071&amp;pos=13&amp;layout=2&amp;token=1c81698df1e81fca4aceaa671a0782bc&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981053" target="_blank">深圳警车撞宾利进展：涉事副局长已被停职 </a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12232170432905505071&amp;pos=13&amp;layout=2&amp;token=1c81698df1e81fca4aceaa671a0782bc&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981053" target="_blank"><img src="http://www.xxcb.cn/d/file/event/guonei/2015-04-21/8e4cb475196998836e1646c40772a84d.jpg"/></a></p>
+<p class="summary">在福田区梅岗南街发生涉警用车辆的交通...<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12232170432905505071&amp;pos=13&amp;layout=2&amp;token=1c81698df1e81fca4aceaa671a0782bc&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981053" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/event">要闻</a></p>
+<span class="author">
+<em>潇湘晨报</em>
+</span>
+<span class="time">04-21 18:36</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12486009687418875199&amp;pos=14&amp;layout=2&amp;token=96ebe669d903d156d9a9a0ec50c30c00&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981049">
+<h4>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12486009687418875199&amp;pos=14&amp;layout=2&amp;token=96ebe669d903d156d9a9a0ec50c30c00&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981049" target="_blank">三湘大市场地下车库违章建仓库 已开始拆除 </a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12486009687418875199&amp;pos=14&amp;layout=2&amp;token=96ebe669d903d156d9a9a0ec50c30c00&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981049" target="_blank"><img src="http://www.xxcb.cn/d/file/event/jishi/2015-04-21/6acc503a250c3d4254e2a15645450645.jpg "/></a></p>
+<p class="summary">在长沙市芙蓉区三湘大市场三湘金地地下...<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12486009687418875199&amp;pos=14&amp;layout=2&amp;token=96ebe669d903d156d9a9a0ec50c30c00&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981049" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/hunanspot">现场</a></p>
+<span class="author">
+<em>潇湘晨报</em>
+</span>
+<span class="time">04-21 18:36</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12186221717417155306&amp;pos=15&amp;layout=2&amp;token=f56a2bf13de139005a1dbf660586dd6f&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981052">
+<h4>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12186221717417155306&amp;pos=15&amp;layout=2&amp;token=f56a2bf13de139005a1dbf660586dd6f&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981052" target="_blank">长沙萌幼乐园周日开园 全是萌萌哒幼崽(图) </a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12186221717417155306&amp;pos=15&amp;layout=2&amp;token=f56a2bf13de139005a1dbf660586dd6f&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981052" target="_blank"><img src="http://www.xxcb.cn/d/file/event/jishi/2015-04-21/b1848dc5dfe7314231a858cc548d9ddb.jpg"/></a></p>
+<p class="summary">长沙生态动物园萌幼乐园，市民可以和动...<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12186221717417155306&amp;pos=15&amp;layout=2&amp;token=f56a2bf13de139005a1dbf660586dd6f&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981052" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/hunanspot">现场</a></p>
+<span class="author">
+<em>潇湘晨报</em>
+</span>
+<span class="time">04-21 18:36</span>
+</div>
+</div>
+<div class="feed_tegao" data-href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12326310502537097442&amp;pos=16&amp;layout=2&amp;token=4535549c43ce0bc88ab046f273125457&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981036">
+<h4>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12326310502537097442&amp;pos=16&amp;layout=2&amp;token=4535549c43ce0bc88ab046f273125457&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981036" target="_blank">甄子丹为80后娇妻庆生 高调献吻秀恩爱 </a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12326310502537097442&amp;pos=16&amp;layout=2&amp;token=4535549c43ce0bc88ab046f273125457&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981036" target="_blank"><img src="http://www.xxcb.cn/d/file/event/wenti/2015-04-21/99609d21c683d9df9a4624c00342d4b0.jpg"/></a></p>
+<p class="summary">已经结婚十二年的二人依然十分恩爱，经常一起出游晒二人合照秀恩爱。<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12326310502537097442&amp;pos=16&amp;layout=2&amp;token=4535549c43ce0bc88ab046f273125457&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981036" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/event">要闻</a></p>
+<span class="author">
+<em>潇湘晨报</em>
+</span>
+<span class="time">04-21 18:36</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12420450572168689813&amp;pos=17&amp;layout=2&amp;token=01d34c766c74b3ef5d349cbc59b83a70&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981019">
+<h4>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12420450572168689813&amp;pos=17&amp;layout=2&amp;token=01d34c766c74b3ef5d349cbc59b83a70&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981019" target="_blank">长沙三兴市场因消防隐患被责令停业整改(图) </a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12420450572168689813&amp;pos=17&amp;layout=2&amp;token=01d34c766c74b3ef5d349cbc59b83a70&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981019" target="_blank"><img src="http://www.xxcb.cn/d/file/event/jishi/2015-04-21/5db58ab3cbe21e92ad0229dbb05210a8.jpg"/></a></p>
+<p class="summary">长沙市天心区公安消防大队向地处三兴街...<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12420450572168689813&amp;pos=17&amp;layout=2&amp;token=01d34c766c74b3ef5d349cbc59b83a70&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981019" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/hunanspot">现场</a></p>
+<span class="author">
+<em>潇湘晨报</em>
+</span>
+<span class="time">04-21 18:36</span>
+</div>
+</div>
+<div class="feed_tegao" data-href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12678215843423543255&amp;pos=18&amp;layout=2&amp;token=db6862ae6b1f8ca6a973d96c027751a3&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8980944">
+<h4>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12678215843423543255&amp;pos=18&amp;layout=2&amp;token=db6862ae6b1f8ca6a973d96c027751a3&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8980944" target="_blank">拒不执行法院判决 家政公司法人被拘留 </a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12678215843423543255&amp;pos=18&amp;layout=2&amp;token=db6862ae6b1f8ca6a973d96c027751a3&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8980944" target="_blank"><img src="http://www.xxcb.cn/d/file/event/jishi/2015-04-21/6acc503a250c3d4254e2a15645450645.jpg "/></a></p>
+<p class="summary">在一次清洁时，保洁员李细荣不慎摔伤，经鉴定为九级伤残，天池家政服务有限公司拒不赔偿被告上法庭。<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12678215843423543255&amp;pos=18&amp;layout=2&amp;token=db6862ae6b1f8ca6a973d96c027751a3&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8980944" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/hunanspot">现场</a></p>
+<span class="author">
+<em>潇湘晨报</em>
+</span>
+<span class="time">04-21 14:45</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12278119148393854836&amp;pos=19&amp;layout=2&amp;token=430177bb5cb366f4cab0f4b2f1d91093&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981054">
+<h4>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12278119148393854836&amp;pos=19&amp;layout=2&amp;token=430177bb5cb366f4cab0f4b2f1d91093&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981054" target="_blank">《乱世佳人》裙子以13.7万美元高价拍出 </a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12278119148393854836&amp;pos=19&amp;layout=2&amp;token=430177bb5cb366f4cab0f4b2f1d91093&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981054" target="_blank"><img src="http://www.xxcb.cn/d/file/lvyou/youshijie/2015-04-21/eb8c6ed29d5dc3fba6f1a0fbbc4fc56b.jpg"/></a></p>
+<p class="summary">拍摄于1939年的经典影片《乱世佳人...<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12278119148393854836&amp;pos=19&amp;layout=2&amp;token=430177bb5cb366f4cab0f4b2f1d91093&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981054" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/life">生活</a></p>
+<span class="author">
+<em>潇湘晨报</em>
+</span>
+<span class="time">04-21 18:17</span>
+</div>
+</div>
+</div>
+<div class="loading"><img src="/static/newsmedia/widget/mod_page/jm_loading_d04a658.gif"><b>正在加载，请稍候...</b></div>
+<div class="pages">
+<a href="javascript:;" class="btn btnP nodis">上一页</a>
+<div class="page"></div>
+<a href="javascript:;" class="btn btnN">下一页</a>
+</div>
+<div id="Footer" class="wp-footer">
+<p class="top-nav">
+<a href="http://news.baidu.com/" target="_blank">百度新闻</a>|<a href="mailto:media_news%40baidu.com" target="_blank">联系我们：media_news@baidu.com</a>
+<strong class="wp-wrap">百度新闻&潇湘晨报联合出品</strong>
+<a href="http://news.baidu.com/"><img src="/static/newsmedia/widget/footer/baidunews_footer_d9a758b.png"></a>
+<a href="http://www.xxcb.cn" target="_blank"><img src="http://news.baidu.com/resource/r/image/2015-01-19/2b2afda3c70f3354018da043a8390d02.png"></a>
+</p>
+<p class="site-info">
+<i>京公网安备110000000001号</i>
+<a href="http://news.baidu.com/licence.html">互联网新闻信息服务许可</a>
+<span>©2014 Baidu</span>
+<a class="wp-wrap" href="http://www.baidu.com/duty/">使用百度前必读</a>
+<a class="wp-hide" target="_blank" href="http://net.china.cn/chinese/index.htm"><img src="http://gimg.baidu.com/img/net.gif"></a>
+<a class="wp-hide" target="_blank" href="http://www.bj.cyberpolice.cn/index.htm"><img alt="首都网络110报警服务" src="http://gimg.baidu.com/img/110.gif"></a>
+<a class="wp-hide" target="_blank" href="http://www.bjjubao.org/"><img src="http://news.baidu.com/resource/img/report_center.png"></a>
+</p>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?d09fe258c88c7015c3e6f8232ee9a563";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</div>
+</div>
+<div class="right">
+<div class="ap apRecommend">
+<div class="apt">
+<h4>热门文章</h4>
+<p class="entit"><span>HOT ARTICLE</span></p>
+</div>
+<div class="apc">
+<ul class="ulist">
+<li>
+<span class="num top3">1</span>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12973518536115477466&amp;pos=0&amp;layout=4&amp;token=6eb228dc1fb29c5133931c16c8505545&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8980979" title="张家界世界地质公园博物馆一年免费纳客50万 ">张家界世界地质公园博物馆一年免费纳客50万 </a>
+<span class="tm">04-21 16:06</span>
+</li>
+<li>
+<span class="num top3">2</span>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12925327181972234860&amp;pos=1&amp;layout=4&amp;token=fee5d1377c9d44583b0024043c960b2e&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8980997" title="慈利发改局原党组书记、局长罗远志获刑11年 ">慈利发改局原党组书记、局长罗远志获刑11年 </a>
+<span class="tm">04-21 16:37</span>
+</li>
+<li>
+<span class="num top3">3</span>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12651877527697029111&amp;pos=2&amp;layout=4&amp;token=bb321f5d2cf792a347771abb99644d0f&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8980972" title="汝城投资490万元建设公共自行车租赁系统 ">汝城投资490万元建设公共自行车租赁系统 </a>
+<span class="tm">04-21 15:59</span>
+</li>
+<li>
+<span class="num">4</span>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12299972186810583298&amp;pos=3&amp;layout=4&amp;token=11e9c1d957b8d27765040bf654607a70&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981064" title="19岁少女为51岁男友在桥洞生二胎 自己剪脐带 ">19岁少女为51岁男友在桥洞生二胎 自己剪脐带 </a>
+<span class="tm">04-21 18:36</span>
+</li>
+<li>
+<span class="num">5</span>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12278119148393854836&amp;pos=4&amp;layout=4&amp;token=430177bb5cb366f4cab0f4b2f1d91093&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981054" title="《乱世佳人》裙子以13.7万美元高价拍出 ">《乱世佳人》裙子以13.7万美元高价拍出 </a>
+<span class="tm">04-21 18:17</span>
+</li>
+<li>
+<span class="num">6</span>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12162126040345534003&amp;pos=5&amp;layout=4&amp;token=0b17b246286a92d8a2d614b76251519d&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981061" title="业主起诉小区违建胜诉 拆除部分后工作停滞 ">业主起诉小区违建胜诉 拆除部分后工作停滞 </a>
+<span class="tm">04-21 18:36</span>
+</li>
+<li>
+<span class="num">7</span>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12144758279238591223&amp;pos=6&amp;layout=4&amp;token=a683554887f4cb224706540bf42e3e5b&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981013" title="“娃娃兵团”进红门 零距离学消防知识 ">“娃娃兵团”进红门 零距离学消防知识 </a>
+<span class="tm">04-21 18:54</span>
+</li>
+<li>
+<span class="num">8</span>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12122905240821862761&amp;pos=7&amp;layout=4&amp;token=0571af5585ea49efdb0f9052c04feafd&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981003" title="桃源消防深入工业园开展安全大检查 ">桃源消防深入工业园开展安全大检查 </a>
+<span class="tm">04-21 16:45</span>
+</li>
+<li>
+<span class="num">9</span>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12074713886678620155&amp;pos=8&amp;layout=4&amp;token=94bd5c7bb2c340bce80b75a6aca58efc&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981021" title="赌场老板南下广东“取经”在火车站落网 ">赌场老板南下广东“取经”在火车站落网 </a>
+<span class="tm">04-21 18:54</span>
+</li>
+<li>
+<span class="num">10</span>
+<a href="http://media.baidu.com/redirect?source=xxcb&amp;nid=12028765171190270390&amp;pos=9&amp;layout=4&amp;token=fdb96ea6003ba6277a09ae61c696cd9d&amp;url=http%3A%2F%2Fwww.xxcb.cn%2Fabout%2Fbaidunews.php%3Fl%3Dxxcb%26n%3D8981020" title="长沙艺星医学美容医院拆除顶层违章建筑 ">长沙艺星医学美容医院拆除顶层违章建筑 </a>
+<span class="tm">04-21 18:54</span>
+</li>
+</ul>
+</div>
+</div></div>
+</div>
+</div>
+<div id="Footer">
+<p class="top-nav">
+<a href="http://news.baidu.com/" target="_blank">百度新闻</a>|<a href="mailto:media_news%40baidu.com" target="_blank">联系我们：media_news@baidu.com</a>
+<strong class="wp-wrap">百度新闻&潇湘晨报联合出品</strong>
+<a href="http://news.baidu.com/"><img src="/static/newsmedia/widget/footer/baidunews_footer_d9a758b.png"></a>
+<a href="http://www.xxcb.cn" target="_blank"><img src="http://news.baidu.com/resource/r/image/2015-01-19/2b2afda3c70f3354018da043a8390d02.png"></a>
+</p>
+<p class="site-info">
+<i>京公网安备110000000001号</i>
+<a href="http://news.baidu.com/licence.html">互联网新闻信息服务许可</a>
+<span>©2014 Baidu</span>
+<a class="wp-wrap" href="http://www.baidu.com/duty/">使用百度前必读</a>
+<a class="wp-hide" target="_blank" href="http://net.china.cn/chinese/index.htm"><img src="http://gimg.baidu.com/img/net.gif"></a>
+<a class="wp-hide" target="_blank" href="http://www.bj.cyberpolice.cn/index.htm"><img alt="首都网络110报警服务" src="http://gimg.baidu.com/img/110.gif"></a>
+<a class="wp-hide" target="_blank" href="http://www.bjjubao.org/"><img src="http://news.baidu.com/resource/img/report_center.png"></a>
+</p>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?d09fe258c88c7015c3e6f8232ee9a563";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</div>
+</div>
+<div class="mod-sidebar">
+<ul class="menu">
+<li class="toolbar">
+<a class="search" href="/search"><i class="icon-search"></i>搜索</a>
+|<a class="login" href="javascript:;">登录</a>
+<p class="username"></p>
+</li>
+<li class="item">
+<a href="/">首页</a>
+</li>
+<li class="item">
+<a href="/hunanspot">现场</a>
+<ul class="submenu">
+<li class="sub-item"><a href="/hunanspot/hndyzx">第一资讯</a></li>
+<li class="sub-item"><a href="/hunanspot/czblpt">橙子报料</a></li>
+</ul>
+</li>
+<li class="item">
+<a href="/hunan">湖南</a>
+<ul class="submenu">
+<li class="sub-item"><a href="/hunan/csxw">长沙新闻</a></li>
+<li class="sub-item"><a href="/hunan/szxw">市州新闻</a></li>
+</ul>
+</li>
+<li class="item">
+<a href="/event">要闻</a>
+<ul class="submenu">
+<li class="sub-item"><a href="/event/gnxw">国内新闻</a></li>
+<li class="sub-item"><a href="/event/gjxw">国际新闻</a></li>
+<li class="sub-item"><a href="/event/ylxw">娱乐新闻</a></li>
+<li class="sub-item"><a href="/event/tyxw">体育新闻</a></li>
+</ul>
+</li>
+<li class="item">
+<a href="/attitude">态度</a>
+<ul class="submenu">
+<li class="sub-item"><a href="/attitude/cbgd">晨报观点</a></li>
+<li class="sub-item"><a href="/attitude/cbjd">晨报角度</a></li>
+<li class="sub-item"><a href="/attitude/sxcp">首席出品</a></li>
+<li class="sub-item"><a href="/attitude/ssq">深水区</a></li>
+<li class="sub-item"><a href="/attitude/cbmd">晨报民调</a></li>
+<li class="sub-item"><a href="/attitude/cbyz">晨报圆桌</a></li>
+<li class="sub-item"><a href="/attitude/gcj">观察家</a></li>
+</ul>
+</li>
+<li class="item">
+<a href="/culture">文化</a>
+<ul class="submenu">
+<li class="sub-item"><a href="/culture/sjx">时间线</a></li>
+<li class="sub-item"><a href="/culture/ksls">口述历史</a></li>
+<li class="sub-item"><a href="/culture/hxdl">湖湘地理</a></li>
+<li class="sub-item"><a href="/culture/yd">悦读</a></li>
+<li class="sub-item"><a href="/culture/wyp">文艺片</a></li>
+</ul>
+</li>
+<li class="item">
+<a href="/portrait">影像</a>
+<ul class="submenu">
+<li class="sub-item"><a href="/portrait/xwxc">新闻现场</a></li>
+<li class="sub-item"><a href="/portrait/tpgs">图片故事</a></li>
+<li class="sub-item"><a href="/portrait/syq">摄友圈</a></li>
+<li class="sub-item"><a href="/portrait/mrsj">每日视界</a></li>
+</ul>
+</li>
+<li class="item">
+<a href="/economy">经济</a>
+<ul class="submenu">
+<li class="sub-item"><a href="/economy/jjyw">经济要闻</a></li>
+</ul>
+</li>
+<li class="item">
+<a href="/life">生活</a>
+<ul class="submenu">
+<li class="sub-item"><a href="/life/ly">旅游</a></li>
+<li class="sub-item"><a href="/life/cj">财经</a></li>
+<li class="sub-item"><a href="/life/fc">房产</a></li>
+<li class="sub-item"><a href="/life/jj">家居</a></li>
+<li class="sub-item"><a href="/life/jk">健康</a></li>
+<li class="sub-item"><a href="/life/xf">消费</a></li>
+</ul>
+</li>
+<li class="logo"><a href="http://news.baidu.com"><img src="/static/newsmedia/widget/mod_sidebar/logo-baidu_941ba05.png" height="26px" alt="baidu logo"></a></li>
+</ul>
+</div>
+</body><script type="text/javascript" src="/static/common/js/mod_b818356.js"></script>
+<script type="text/javascript" src="/static/common/js/jquery-1.10.1_77f5e40.js"></script>
+<script type="text/javascript" src="/static/common/pkg/aio_d41d8cd.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/mod_page/mod_page_78338ec.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/ap_ulist/ap_ulist_60537f4.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/header/header_3f34133.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/cover/cover_2e172d2.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/ui/iscroll/iscroll_93ba427.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/ui/velocity/velocity_022bc13.js"></script>
+<script type="text/javascript" src="/static/newsmedia/lessimgindex/lessimgindex_0e2d48b.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/mod_sidebar/mod_sidebar_5cf9d41.js"></script>
+<script type="text/javascript">!function(){    require.async('newsmedia:widget/mod_sidebar/mod_sidebar.js', function(login) {
+      login();
+    })
+  }();
+!function(){    var device = 'pc';
+    // 手机端直接监听每条新闻并跳转
+    if (device !== 'pc') {
+      $(function() {
+        var $banner = $('#banners');
+
+        $banner.delegate('.feed_tegao', 'click', function(ev) {
+          // 判断是否是点击了tag
+          var $target = $(ev.target);
+          if ($target.attr('href') &&
+            /^\/.*/.test($target.attr('href'))) return;
+
+          var $item = $(ev.currentTarget);
+          var href = $item.attr('data-href');
+
+          setTimeout(function() {
+            window.location.href = href;
+          }, 100)
+        });
+      });
+    }
+
+    alog("set", "alias", {
+         monkey: "http://img.baidu.com/hunter/alog/monkey.min.js",
+         element: "http://img.baidu.com/hunter/alog/element.min.js"
+     });
+
+     alog("require", ["monkey", "element"], function(monkey, element){
+         monkey.create({
+             page: "news-xxcb",
+             pid: "241",
+             p: "133",
+             hid: "424",
+             postUrl: "http://nsclick.baidu.com/u.gif",
+             reports: {
+                refer: 1,
+                staytime: 1
+             }
+         });
+     });
+
+     alog("monkey.send", "pageview", { now: +new Date });
+  }();</script></html>

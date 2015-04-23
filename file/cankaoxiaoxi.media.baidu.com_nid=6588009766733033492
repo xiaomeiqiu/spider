@@ -1,0 +1,680 @@
+<!doctype html>
+<html>
+<head>
+<!--STATUS OK-->
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+<title>参考消息_百度传媒</title>
+
+<link rel="dns-prefetch" href="//ns0.bdstatic.com">
+<link rel="dns-prefetch" href="//ns1.bdstatic.com">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="" >
+
+
+
+
+<script>
+  var serverData = {
+    maxseg : '3',
+    total : '600',
+    hasMore : '1',
+    rn : '60',
+    lastNid : '6547203432770412350',
+    logowidth : '144',
+    logoheight : '31',
+    coverlogoheight : '54',
+    menuCount : 8,
+    subscribename : 'cankaoxiaoxi',
+    terms : '',
+    menu : [],
+    channelname : '',
+    device: 'pc'
+  }
+  if(!''){
+    serverData.channelname = 'index';
+  }else{
+    serverData.channelname = '';
+  }
+
+  // hunter统计
+  void function(e,t,n,a,o,i,m){e.alogObjectName=o,e[o]=e[o]||function(){(e[o].q=e[o].q||[]).push(arguments)},e[o].l=e[o].l||+new Date,i=t.createElement(n),i.asyn=1,i.src=a,m=t.getElementsByTagName(n)[0],m.parentNode.insertBefore(i,m)}(window,document,"script","http://img.baidu.com/hunter/alog.min.js","alog");
+    </script>
+
+<link rel="stylesheet" type="text/css" href="/static/common/pkg/aio_ec06920.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/css/all_e472514.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/skin/red_6957012.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/mod_page/mod_page_aac155e.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/ap_ulist/ap_ulist_c1b4057.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/header/header_6c174ae.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/cover/cover_1a2721a.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/mod_banner/mod_banner_b7ecfb4.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/footer/footer_1ef9d4d.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/mod_sidebar/mod_sidebar_cb6d93e.css"/></head>
+<body>
+
+<style>
+  body{padding-top:0}
+  #Header{position: relative;}
+</style>
+
+
+<div class="wrap">
+<div id="Cover" class="mod-cover">
+<div class="cover">
+<div class="coverbg"></div>
+<div class="coverlogo"><img src="http://news.baidu.com/resource/r/image/2014-11-11/e2c1238c1422bf083d7ee96adbae734d.png"></div>
+<div class="coverslogan">
+<p class="ll"></p>
+<span>《参考消息》官方网站</span>
+<p class="rl"></p>
+</div>
+</div>
+</div><div id="Header">
+<div class="header">
+<h1 class="test"></h1>
+<div class="logo" style="width:144px;"><a href="/" target="_blank" ><img src="http://news.baidu.com/resource/r/image/2015-02-12/e7246a2a95512b22eb090039970a5b61.png" style="height:31px"/></a></div>
+<div class="menulist large" style="margin:0 144px">
+<ul></ul>
+</div>
+<div class="menulist medium" style="margin:0 144px">
+<ul></ul>
+</div>
+<div class="headerSearch">
+<p class="searchbar">
+<a href="javascript:;" class="searchA"><i class="i"></i></a>
+<i class="txt"><i class="i nodis"></i><input type="text" class="nodis"></i>
+</p>
+<p class="sub-menu"><i class="icon-submenu"></i></p>
+<p class="baiduLogo"><a href="http://news.baidu.com/" target="_blank"><img src="/static/newsmedia/widget/header/baidu_logo_46a3f92.png"></a></p>
+</div>
+</div>
+
+<script type="text/javascript">
+var menu = [];
+
+            menu.push({
+            'name': '首页',
+            'enname':'',
+            'url': '',
+            'list':[
+            	            ]
+        });
+            menu.push({
+            'name': '中国',
+            'enname':'china',
+            'url': '',
+            'list':[
+            	            	{'name' : '时事要闻',
+            	'enname' : 'china\/szyw'
+	            },	                        	{'name' : '中国外交',
+            	'enname' : 'china\/zgwj'
+	            },	                        	{'name' : '社会观察',
+            	'enname' : 'china\/shwx'
+	            },	                        	{'name' : '港澳-台',
+            	'enname' : 'china\/gat'
+	            }	                        ]
+        });
+            menu.push({
+            'name': '国际',
+            'enname':'world',
+            'url': '',
+            'list':[
+            	            	{'name' : '亚太新闻',
+            	'enname' : 'world\/ytxw'
+	            },	                        	{'name' : '欧美新闻',
+            	'enname' : 'world\/omxw'
+	            },	                        	{'name' : '其他地区',
+            	'enname' : 'world\/qtdq'
+	            },	                        	{'name' : '环球博览',
+            	'enname' : 'world\/hqbl'
+	            },	                        	{'name' : '滚动新闻',
+            	'enname' : 'world\/gdxw'
+	            }	                        ]
+        });
+            menu.push({
+            'name': '军事',
+            'enname':'mil',
+            'url': '',
+            'list':[
+            	            	{'name' : '中国军情',
+            	'enname' : 'mil\/zgjq'
+	            },	                        	{'name' : '国际军情',
+            	'enname' : 'mil\/gjjq'
+	            },	                        	{'name' : '周边动态',
+            	'enname' : 'mil\/zbdt'
+	            },	                        	{'name' : '武器装备',
+            	'enname' : 'mil\/wqzb'
+	            },	                        	{'name' : '滚动新闻',
+            	'enname' : 'mil\/gdxw'
+	            }	                        ]
+        });
+            menu.push({
+            'name': '财经',
+            'enname':'finance',
+            'url': '',
+            'list':[
+            	            	{'name' : '中国财经',
+            	'enname' : 'finance\/zgcj'
+	            },	                        	{'name' : '国际财经',
+            	'enname' : 'finance\/gjcj'
+	            },	                        	{'name' : '金融市场',
+            	'enname' : 'finance\/jrsc'
+	            },	                        	{'name' : '滚动新闻',
+            	'enname' : 'finance\/gdxw'
+	            }	                        ]
+        });
+            menu.push({
+            'name': '图片',
+            'enname':'photo',
+            'url': '',
+            'list':[
+            	            ]
+        });
+            menu.push({
+            'name': '评论',
+            'enname':'column',
+            'url': '',
+            'list':[
+            	            	{'name' : '海外看中国',
+            	'enname' : 'column\/hwkzg'
+	            },	                        	{'name' : '论道中国',
+            	'enname' : 'column\/ldzg'
+	            },	                        	{'name' : '中外关系',
+            	'enname' : 'column\/zwgx'
+	            },	                        	{'name' : '逐鹿亚太',
+            	'enname' : 'column\/zlyt'
+	            },	                        	{'name' : '直击东瀛',
+            	'enname' : 'column\/zjdy'
+	            },	                        	{'name' : '欧陆观察',
+            	'enname' : 'column\/olgc'
+	            }	                        ]
+        });
+            menu.push({
+            'name': '科技',
+            'enname':'science',
+            'url': '',
+            'list':[
+            	            	{'name' : 'IT业界',
+            	'enname' : 'science\/ITyj'
+	            },	                        	{'name' : '健康生活',
+            	'enname' : 'science\/jksh'
+	            },	                        	{'name' : '探索发现',
+            	'enname' : 'science\/tsfx'
+	            },	                        	{'name' : '环境保护',
+            	'enname' : 'science\/hjbh'
+	            },	                        	{'name' : '滚动新闻',
+            	'enname' : 'science\/gdxw'
+	            }	                        ]
+        });
+        serverData.menu = menu;
+
+</script>
+
+</div>
+<div id="Body">
+<div class="body">
+<div class="left">
+<div id="banners">
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=12298812209872829155&amp;pos=0&amp;layout=2&amp;token=adfa206ae56eb4861dbb405df1b9018a&amp;url=http%3A%2F%2Fmil.cankaoxiaoxi.com%2Fbd%2F20150422%2F752374.shtml">
+<h4>
+<a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=12298812209872829155&amp;pos=0&amp;layout=2&amp;token=adfa206ae56eb4861dbb405df1b9018a&amp;url=http%3A%2F%2Fmil.cankaoxiaoxi.com%2Fbd%2F20150422%2F752374.shtml" target="_blank">路透：日本拟立法允许支援美军南海军事行动</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=12298812209872829155&amp;pos=0&amp;layout=2&amp;token=adfa206ae56eb4861dbb405df1b9018a&amp;url=http%3A%2F%2Fmil.cankaoxiaoxi.com%2Fbd%2F20150422%2F752374.shtml" target="_blank"><img src="http://upload.cankaoxiaoxi.com/2015/0410/1428669919674.jpg"/></a></p>
+<p class="summary">美国正在削减国防开支，如果日本自卫队...<a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=12298812209872829155&amp;pos=0&amp;layout=2&amp;token=adfa206ae56eb4861dbb405df1b9018a&amp;url=http%3A%2F%2Fmil.cankaoxiaoxi.com%2Fbd%2F20150422%2F752374.shtml" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/mil">军事</a></p>
+<span class="time">04-22 14:33</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=2071141354439464912&amp;pos=1&amp;layout=2&amp;token=d4d74afa8275f6b048464f35a62f521b&amp;url=http%3A%2F%2Ffinance.cankaoxiaoxi.com%2Fbd%2F20150422%2F751793.shtml">
+<h4>
+<a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=2071141354439464912&amp;pos=1&amp;layout=2&amp;token=d4d74afa8275f6b048464f35a62f521b&amp;url=http%3A%2F%2Ffinance.cankaoxiaoxi.com%2Fbd%2F20150422%2F751793.shtml" target="_blank">韩政府欲联手中国留学生在华宣传韩国产品</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=2071141354439464912&amp;pos=1&amp;layout=2&amp;token=d4d74afa8275f6b048464f35a62f521b&amp;url=http%3A%2F%2Ffinance.cankaoxiaoxi.com%2Fbd%2F20150422%2F751793.shtml" target="_blank"><img src="http://www.chinanews.com/hr/2014/10-20/U588P4T8D6694505F107DT20141020093216.jpg"/></a></p>
+<p class="summary">韩国中小企业厅4月22日称，中小企业...<a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=2071141354439464912&amp;pos=1&amp;layout=2&amp;token=d4d74afa8275f6b048464f35a62f521b&amp;url=http%3A%2F%2Ffinance.cankaoxiaoxi.com%2Fbd%2F20150422%2F751793.shtml" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/photo">图片</a></p>
+<span class="time">04-22 14:33</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=1837693668259086292&amp;pos=2&amp;layout=2&amp;token=7af5bf7c80d9d9e8c63bf4c4f8418d40&amp;url=http%3A%2F%2Ffinance.cankaoxiaoxi.com%2Fbd%2F20150422%2F751602.shtml">
+<h4>
+<a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=1837693668259086292&amp;pos=2&amp;layout=2&amp;token=7af5bf7c80d9d9e8c63bf4c4f8418d40&amp;url=http%3A%2F%2Ffinance.cankaoxiaoxi.com%2Fbd%2F20150422%2F751602.shtml" target="_blank">英媒:百胜集团中国业务复苏 预计全年业绩强劲</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=1837693668259086292&amp;pos=2&amp;layout=2&amp;token=7af5bf7c80d9d9e8c63bf4c4f8418d40&amp;url=http%3A%2F%2Ffinance.cankaoxiaoxi.com%2Fbd%2F20150422%2F751602.shtml" target="_blank"><img src="http://www.chinanews.com/tw/2015/01-08/U481P4T8D6948693F107DT20150108111046.jpg"/></a></p>
+<p class="summary">在其最大市场中国的业务正在恢复，中国...<a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=1837693668259086292&amp;pos=2&amp;layout=2&amp;token=7af5bf7c80d9d9e8c63bf4c4f8418d40&amp;url=http%3A%2F%2Ffinance.cankaoxiaoxi.com%2Fbd%2F20150422%2F751602.shtml" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/finance">财经</a></p>
+<span class="time">04-22 14:25</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=6936783475125231608&amp;pos=3&amp;layout=2&amp;token=39390cd215f9a0278eef9becd51692c1&amp;url=http%3A%2F%2Fworld.cankaoxiaoxi.com%2Fbd%2F20150422%2F751606.shtml">
+<h4>
+<a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=6936783475125231608&amp;pos=3&amp;layout=2&amp;token=39390cd215f9a0278eef9becd51692c1&amp;url=http%3A%2F%2Fworld.cankaoxiaoxi.com%2Fbd%2F20150422%2F751606.shtml" target="_blank">韩媒：安倍对战争历史的挑衅将在8月迎来高潮</a>
+</h4>
+<p class="summary">安倍计划把这一意志放入2015年4月末在美国参议两院的联合演说和8月的“安倍谈话”中，预计这将带来历史挑衅的高潮。<a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=6936783475125231608&amp;pos=3&amp;layout=2&amp;token=39390cd215f9a0278eef9becd51692c1&amp;url=http%3A%2F%2Fworld.cankaoxiaoxi.com%2Fbd%2F20150422%2F751606.shtml" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/jrsc">财经</a></p>
+<span class="time">04-22 14:25</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=5604654073494846277&amp;pos=4&amp;layout=2&amp;token=e61aaa9fe35ea82af51aeb356bab05c4&amp;url=http%3A%2F%2Fchina.cankaoxiaoxi.com%2Fbd%2F20150422%2F752342.shtml">
+<h4>
+<a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=5604654073494846277&amp;pos=4&amp;layout=2&amp;token=e61aaa9fe35ea82af51aeb356bab05c4&amp;url=http%3A%2F%2Fchina.cankaoxiaoxi.com%2Fbd%2F20150422%2F752342.shtml" target="_blank">外媒：安倍称已准备好在亚非峰会与习近平会面</a>
+</h4>
+<p class="summary">微信搜索关注公众号“参考消息”，外国媒体每日报道精选，随时随地想看就看，还有会员福利等着您哦。<a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=5604654073494846277&amp;pos=4&amp;layout=2&amp;token=e61aaa9fe35ea82af51aeb356bab05c4&amp;url=http%3A%2F%2Fchina.cankaoxiaoxi.com%2Fbd%2F20150422%2F752342.shtml" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/china">中国</a></p>
+<span class="time">04-22 14:25</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=5464377143053618359&amp;pos=5&amp;layout=2&amp;token=9fa506a694b6c713689b703860df3c14&amp;url=http%3A%2F%2Fchina.cankaoxiaoxi.com%2Fbd%2F20150422%2F752340.shtml">
+<h4>
+<a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=5464377143053618359&amp;pos=5&amp;layout=2&amp;token=9fa506a694b6c713689b703860df3c14&amp;url=http%3A%2F%2Fchina.cankaoxiaoxi.com%2Fbd%2F20150422%2F752340.shtml" target="_blank">境外媒体：中国和日本将在亚非峰会上争夺影响力</a>
+</h4>
+<p class="summary">分析人士称，中国和日本将被认为争相在本周的亚非领导人会议上扩大它们在亚洲以及非洲的影响力。<a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=5464377143053618359&amp;pos=5&amp;layout=2&amp;token=9fa506a694b6c713689b703860df3c14&amp;url=http%3A%2F%2Fchina.cankaoxiaoxi.com%2Fbd%2F20150422%2F752340.shtml" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/china">中国</a></p>
+<span class="time">04-22 14:04</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=6054816996076522848&amp;pos=6&amp;layout=2&amp;token=583d6370b6b96f842c2d5debe626eebf&amp;url=http%3A%2F%2Fchina.cankaoxiaoxi.com%2Fbd%2F20150422%2F752339.shtml">
+<h4>
+<a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=6054816996076522848&amp;pos=6&amp;layout=2&amp;token=583d6370b6b96f842c2d5debe626eebf&amp;url=http%3A%2F%2Fchina.cankaoxiaoxi.com%2Fbd%2F20150422%2F752339.shtml" target="_blank">外媒：中国影响力日益扩大 将主导亚非峰会</a>
+</h4>
+<p class="summary">更多“中国”相关新闻，微信搜索关注公众号“参考消息”，外国媒体每日报道精选，随时随地想看就看，还有会员福利等着您哦。<a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=6054816996076522848&amp;pos=6&amp;layout=2&amp;token=583d6370b6b96f842c2d5debe626eebf&amp;url=http%3A%2F%2Fchina.cankaoxiaoxi.com%2Fbd%2F20150422%2F752339.shtml" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/china">中国</a></p>
+<span class="time">04-22 14:04</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=6644482045455099280&amp;pos=7&amp;layout=2&amp;token=bd0fb9e7578ae3d75943fda4020644d6&amp;url=http%3A%2F%2Fworld.cankaoxiaoxi.com%2Fbd%2F20150422%2F752323.shtml">
+<h4>
+<a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=6644482045455099280&amp;pos=7&amp;layout=2&amp;token=bd0fb9e7578ae3d75943fda4020644d6&amp;url=http%3A%2F%2Fworld.cankaoxiaoxi.com%2Fbd%2F20150422%2F752323.shtml" target="_blank">安倍在亚非峰会发表演讲 反省战争但未提道歉</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=6644482045455099280&amp;pos=7&amp;layout=2&amp;token=bd0fb9e7578ae3d75943fda4020644d6&amp;url=http%3A%2F%2Fworld.cankaoxiaoxi.com%2Fbd%2F20150422%2F752323.shtml" target="_blank"><img src="http://www.chinanews.com/gj/2015/04-07/U589P4T8D7187186F107DT20150407093739.jpg"/></a></p>
+<p class="summary">更多“安倍晋三”相关新闻，微信搜索关...<a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=6644482045455099280&amp;pos=7&amp;layout=2&amp;token=bd0fb9e7578ae3d75943fda4020644d6&amp;url=http%3A%2F%2Fworld.cankaoxiaoxi.com%2Fbd%2F20150422%2F752323.shtml" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/jrsc">财经</a></p>
+<span class="time">04-22 14:04</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=6574343580234485321&amp;pos=8&amp;layout=2&amp;token=75d05aad950b0fdf0eab14ade588ffd9&amp;url=http%3A%2F%2Fworld.cankaoxiaoxi.com%2Fbd%2F20150422%2F752322.shtml">
+<h4>
+<a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=6574343580234485321&amp;pos=8&amp;layout=2&amp;token=75d05aad950b0fdf0eab14ade588ffd9&amp;url=http%3A%2F%2Fworld.cankaoxiaoxi.com%2Fbd%2F20150422%2F752322.shtml" target="_blank">英媒：乌克兰通过立法推动“去共产主义化”</a>
+</h4>
+<p class="summary">普京：乌克兰领导层犯下很多错误、乌俄仍是一家。<a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=6574343580234485321&amp;pos=8&amp;layout=2&amp;token=75d05aad950b0fdf0eab14ade588ffd9&amp;url=http%3A%2F%2Fworld.cankaoxiaoxi.com%2Fbd%2F20150422%2F752322.shtml" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/mil">军事</a></p>
+<span class="time">04-22 14:04</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=6603675711492478138&amp;pos=9&amp;layout=2&amp;token=3b88ffe8b66947ab15dea2b8a85da7d5&amp;url=http%3A%2F%2Fworld.cankaoxiaoxi.com%2Fbd%2F20150422%2F752313.shtml">
+<h4>
+<a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=6603675711492478138&amp;pos=9&amp;layout=2&amp;token=3b88ffe8b66947ab15dea2b8a85da7d5&amp;url=http%3A%2F%2Fworld.cankaoxiaoxi.com%2Fbd%2F20150422%2F752313.shtml" target="_blank">美国:中国若对菲渔船使用水炮将构成挑衅行为 </a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=6603675711492478138&amp;pos=9&amp;layout=2&amp;token=3b88ffe8b66947ab15dea2b8a85da7d5&amp;url=http%3A%2F%2Fworld.cankaoxiaoxi.com%2Fbd%2F20150422%2F752313.shtml" target="_blank"><img src="http://upload.cankaoxiaoxi.com/2014/1006/1412572797562.jpg"/></a></p>
+<p class="summary">如果有关中国海警对菲律宾渔船使用水炮...<a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=6603675711492478138&amp;pos=9&amp;layout=2&amp;token=3b88ffe8b66947ab15dea2b8a85da7d5&amp;url=http%3A%2F%2Fworld.cankaoxiaoxi.com%2Fbd%2F20150422%2F752313.shtml" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/mil">军事</a></p>
+<span class="time">04-22 13:51</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=6928950502745509285&amp;pos=10&amp;layout=2&amp;token=f0f644c6d0f4924f2f039744fd8a5aa7&amp;url=http%3A%2F%2Fworld.cankaoxiaoxi.com%2Fbd%2F20150422%2F751535.shtml">
+<h4>
+<a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=6928950502745509285&amp;pos=10&amp;layout=2&amp;token=f0f644c6d0f4924f2f039744fd8a5aa7&amp;url=http%3A%2F%2Fworld.cankaoxiaoxi.com%2Fbd%2F20150422%2F751535.shtml" target="_blank">英媒:大陆游客高雄飞郑州 迷路搭错飞机到杭州</a>
+</h4>
+<p class="summary">一名中国大陆旅客在台湾搭机返回郑州，但是走错了登机门，航空公司人员疑因检查不确实，结果这名乘客去了杭州。<a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=6928950502745509285&amp;pos=10&amp;layout=2&amp;token=f0f644c6d0f4924f2f039744fd8a5aa7&amp;url=http%3A%2F%2Fworld.cankaoxiaoxi.com%2Fbd%2F20150422%2F751535.shtml" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/jrsc">财经</a></p>
+<span class="time">04-22 13:51</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=6946535065215825610&amp;pos=11&amp;layout=2&amp;token=f5f98093fa1dc8c42e79fdedaa5cab56&amp;url=http%3A%2F%2Fworld.cankaoxiaoxi.com%2Fbd%2F20150422%2F752247.shtml">
+<h4>
+<a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=6946535065215825610&amp;pos=11&amp;layout=2&amp;token=f5f98093fa1dc8c42e79fdedaa5cab56&amp;url=http%3A%2F%2Fworld.cankaoxiaoxi.com%2Fbd%2F20150422%2F752247.shtml" target="_blank">最帅数学老师隐瞒模特身份 称怕被学术界看不起</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=6946535065215825610&amp;pos=11&amp;layout=2&amp;token=f5f98093fa1dc8c42e79fdedaa5cab56&amp;url=http%3A%2F%2Fworld.cankaoxiaoxi.com%2Fbd%2F20150422%2F752247.shtml" target="_blank"><img src="http://upload.cankaoxiaoxi.com/2015/0422/1429677160980.jpg"/></a></p>
+<p class="summary">伯赛利他最近接受《时代》杂志专访坦言...<a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=6946535065215825610&amp;pos=11&amp;layout=2&amp;token=f5f98093fa1dc8c42e79fdedaa5cab56&amp;url=http%3A%2F%2Fworld.cankaoxiaoxi.com%2Fbd%2F20150422%2F752247.shtml" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/jrsc">财经</a></p>
+<span class="time">04-22 13:06</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=2780201469567883716&amp;pos=12&amp;layout=2&amp;token=615a5625904bb9f17ff96e750edda09c&amp;url=http%3A%2F%2Fscience.cankaoxiaoxi.com%2Fbd%2F20150422%2F751771.shtml">
+<h4>
+<a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=2780201469567883716&amp;pos=12&amp;layout=2&amp;token=615a5625904bb9f17ff96e750edda09c&amp;url=http%3A%2F%2Fscience.cankaoxiaoxi.com%2Fbd%2F20150422%2F751771.shtml" target="_blank">研究称富家子女脑容量大 分数比穷人孩子高44%</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=2780201469567883716&amp;pos=12&amp;layout=2&amp;token=615a5625904bb9f17ff96e750edda09c&amp;url=http%3A%2F%2Fscience.cankaoxiaoxi.com%2Fbd%2F20150422%2F751771.shtml" target="_blank"><img src="http://upload.cankaoxiaoxi.com/2014/1008/1412771522727.jpg"/></a></p>
+<p class="summary">富人家的孩子学习成绩更好，是因为他们...<a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=2780201469567883716&amp;pos=12&amp;layout=2&amp;token=615a5625904bb9f17ff96e750edda09c&amp;url=http%3A%2F%2Fscience.cankaoxiaoxi.com%2Fbd%2F20150422%2F751771.shtml" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/science">科技</a></p>
+<span class="time">04-22 12:46</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=2147096730054690700&amp;pos=13&amp;layout=2&amp;token=de40f2ebe0c6793b7f29b48f7d1b3930&amp;url=http%3A%2F%2Ffinance.cankaoxiaoxi.com%2Fbd%2F20150422%2F751864.shtml">
+<h4>
+<a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=2147096730054690700&amp;pos=13&amp;layout=2&amp;token=de40f2ebe0c6793b7f29b48f7d1b3930&amp;url=http%3A%2F%2Ffinance.cankaoxiaoxi.com%2Fbd%2F20150422%2F751864.shtml" target="_blank">新媒：美日距离达成TPP协议只差“一步之遥”</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=2147096730054690700&amp;pos=13&amp;layout=2&amp;token=de40f2ebe0c6793b7f29b48f7d1b3930&amp;url=http%3A%2F%2Ffinance.cankaoxiaoxi.com%2Fbd%2F20150422%2F751864.shtml" target="_blank"><img src="http://upload.cankaoxiaoxi.com/2015/0203/1422935618465.jpg?3.8586950302124023"/></a></p>
+<p class="summary">美国与日本的跨太平洋伙伴关系协议谈判...<a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=2147096730054690700&amp;pos=13&amp;layout=2&amp;token=de40f2ebe0c6793b7f29b48f7d1b3930&amp;url=http%3A%2F%2Ffinance.cankaoxiaoxi.com%2Fbd%2F20150422%2F751864.shtml" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/photo">图片</a></p>
+<span class="time">04-22 12:30</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=7090453225981959530&amp;pos=14&amp;layout=2&amp;token=79be204e8f31e0d7116321a0e4eb5309&amp;url=http%3A%2F%2Fworld.cankaoxiaoxi.com%2Fbd%2F20150422%2F752197.shtml">
+<h4>
+<a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=7090453225981959530&amp;pos=14&amp;layout=2&amp;token=79be204e8f31e0d7116321a0e4eb5309&amp;url=http%3A%2F%2Fworld.cankaoxiaoxi.com%2Fbd%2F20150422%2F752197.shtml" target="_blank">《纽约时报》成普利策奖大赢家 地方小报夺大奖</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=7090453225981959530&amp;pos=14&amp;layout=2&amp;token=79be204e8f31e0d7116321a0e4eb5309&amp;url=http%3A%2F%2Fworld.cankaoxiaoxi.com%2Fbd%2F20150422%2F752197.shtml" target="_blank"><img src="http://upload.cankaoxiaoxi.com/2015/0422/1429675167310.jpg"/></a></p>
+<p class="summary">荣获普利策专题摄影奖的丹尼尔·贝雷胡...<a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=7090453225981959530&amp;pos=14&amp;layout=2&amp;token=79be204e8f31e0d7116321a0e4eb5309&amp;url=http%3A%2F%2Fworld.cankaoxiaoxi.com%2Fbd%2F20150422%2F752197.shtml" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/mil">军事</a></p>
+<span class="time">04-22 12:24</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=7313322699699530365&amp;pos=15&amp;layout=2&amp;token=e2ec3307f7258cdebc1f9c713d0464fd&amp;url=http%3A%2F%2Fworld.cankaoxiaoxi.com%2Fbd%2F20150422%2F751885.shtml">
+<h4>
+<a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=7313322699699530365&amp;pos=15&amp;layout=2&amp;token=e2ec3307f7258cdebc1f9c713d0464fd&amp;url=http%3A%2F%2Fworld.cankaoxiaoxi.com%2Fbd%2F20150422%2F751885.shtml" target="_blank">与电脑“不合” 美国男子连开8枪“杀死电脑”</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=7313322699699530365&amp;pos=15&amp;layout=2&amp;token=e2ec3307f7258cdebc1f9c713d0464fd&amp;url=http%3A%2F%2Fworld.cankaoxiaoxi.com%2Fbd%2F20150422%2F751885.shtml" target="_blank"><img src="http://upload.cankaoxiaoxi.com/2015/0422/1429674892239.jpg?4.200276694027707"/></a></p>
+<p class="summary">标题为“男子杀死电脑”的声明中表示，...<a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=7313322699699530365&amp;pos=15&amp;layout=2&amp;token=e2ec3307f7258cdebc1f9c713d0464fd&amp;url=http%3A%2F%2Fworld.cankaoxiaoxi.com%2Fbd%2F20150422%2F751885.shtml" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/jrsc">财经</a></p>
+<span class="time">04-22 12:24</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=7020314760761345571&amp;pos=16&amp;layout=2&amp;token=eef2d89d1e8492ac8e37d0bfd102b757&amp;url=http%3A%2F%2Fworld.cankaoxiaoxi.com%2Fbd%2F20150422%2F752196.shtml">
+<h4>
+<a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=7020314760761345571&amp;pos=16&amp;layout=2&amp;token=eef2d89d1e8492ac8e37d0bfd102b757&amp;url=http%3A%2F%2Fworld.cankaoxiaoxi.com%2Fbd%2F20150422%2F752196.shtml" target="_blank">外媒：巴基斯坦将派1万名军人保护在巴中国工人</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=7020314760761345571&amp;pos=16&amp;layout=2&amp;token=eef2d89d1e8492ac8e37d0bfd102b757&amp;url=http%3A%2F%2Fworld.cankaoxiaoxi.com%2Fbd%2F20150422%2F752196.shtml" target="_blank"><img src="http://upload.cankaoxiaoxi.com/2015/0422/1429675108263.jpg"/></a></p>
+<p class="summary">巴基斯坦将为获得政府批准在巴基斯坦工...<a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=7020314760761345571&amp;pos=16&amp;layout=2&amp;token=eef2d89d1e8492ac8e37d0bfd102b757&amp;url=http%3A%2F%2Fworld.cankaoxiaoxi.com%2Fbd%2F20150422%2F752196.shtml" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/jrsc">财经</a></p>
+<span class="time">04-22 12:24</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=2381235742598446539&amp;pos=17&amp;layout=2&amp;token=c56b45d117274d2591acd9ad0dd7d35a&amp;url=http%3A%2F%2Fscience.cankaoxiaoxi.com%2Fbd%2F20150422%2F752190.shtml">
+<h4>
+<a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=2381235742598446539&amp;pos=17&amp;layout=2&amp;token=c56b45d117274d2591acd9ad0dd7d35a&amp;url=http%3A%2F%2Fscience.cankaoxiaoxi.com%2Fbd%2F20150422%2F752190.shtml" target="_blank">西媒：科学家称中国人比哥伦布更早到达美洲</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=2381235742598446539&amp;pos=17&amp;layout=2&amp;token=c56b45d117274d2591acd9ad0dd7d35a&amp;url=http%3A%2F%2Fscience.cankaoxiaoxi.com%2Fbd%2F20150422%2F752190.shtml" target="_blank"><img src="http://upload.cankaoxiaoxi.com/2015/0422/1429674629488.jpg"/></a></p>
+<p class="summary">微信搜索关注公众号“参考消息”，外国...<a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=2381235742598446539&amp;pos=17&amp;layout=2&amp;token=c56b45d117274d2591acd9ad0dd7d35a&amp;url=http%3A%2F%2Fscience.cankaoxiaoxi.com%2Fbd%2F20150422%2F752190.shtml" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/science">科技</a></p>
+<span class="time">04-22 12:09</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=6588009766733033492&amp;pos=18&amp;layout=2&amp;token=3eb46ebe7b9a43f61d99312f04a05966&amp;url=http%3A%2F%2Fworld.cankaoxiaoxi.com%2Fbd%2F20150422%2F752171.shtml">
+<h4>
+<a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=6588009766733033492&amp;pos=18&amp;layout=2&amp;token=3eb46ebe7b9a43f61d99312f04a05966&amp;url=http%3A%2F%2Fworld.cankaoxiaoxi.com%2Fbd%2F20150422%2F752171.shtml" target="_blank">港媒:日本百名议员参拜靖国神社 遭韩国猛烈批评</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=6588009766733033492&amp;pos=18&amp;layout=2&amp;token=3eb46ebe7b9a43f61d99312f04a05966&amp;url=http%3A%2F%2Fworld.cankaoxiaoxi.com%2Fbd%2F20150422%2F752171.shtml" target="_blank"><img src="http://upload.cankaoxiaoxi.com/2015/0422/1429663552960.jpg"/></a></p>
+<p class="summary">更多“靖国神社”相关新闻，微信搜索关...<a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=6588009766733033492&amp;pos=18&amp;layout=2&amp;token=3eb46ebe7b9a43f61d99312f04a05966&amp;url=http%3A%2F%2Fworld.cankaoxiaoxi.com%2Fbd%2F20150422%2F752171.shtml" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/jrsc">财经</a></p>
+<span class="time">04-22 11:49</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=6547203432770412350&amp;pos=19&amp;layout=2&amp;token=dcfb1da0199838fe42043092445df908&amp;url=http%3A%2F%2Fworld.cankaoxiaoxi.com%2Fbd%2F20150422%2F752161.shtml">
+<h4>
+<a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=6547203432770412350&amp;pos=19&amp;layout=2&amp;token=dcfb1da0199838fe42043092445df908&amp;url=http%3A%2F%2Fworld.cankaoxiaoxi.com%2Fbd%2F20150422%2F752161.shtml" target="_blank">日媒：中国悄然调整对朝政策 减缓经济压力</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=6547203432770412350&amp;pos=19&amp;layout=2&amp;token=dcfb1da0199838fe42043092445df908&amp;url=http%3A%2F%2Fworld.cankaoxiaoxi.com%2Fbd%2F20150422%2F752161.shtml" target="_blank"><img src="http://upload.cankaoxiaoxi.com/2015/0202/1422841403567.jpg"/></a></p>
+<p class="summary">由于经济因受到制裁而出现萧条，朝鲜表...<a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=6547203432770412350&amp;pos=19&amp;layout=2&amp;token=dcfb1da0199838fe42043092445df908&amp;url=http%3A%2F%2Fworld.cankaoxiaoxi.com%2Fbd%2F20150422%2F752161.shtml" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/jrsc">财经</a></p>
+<span class="time">04-22 11:49</span>
+</div>
+</div>
+</div>
+<div class="loading"><img src="/static/newsmedia/widget/mod_page/jm_loading_d04a658.gif"><b>正在加载，请稍候...</b></div>
+<div class="pages">
+<a href="javascript:;" class="btn btnP nodis">上一页</a>
+<div class="page"></div>
+<a href="javascript:;" class="btn btnN">下一页</a>
+</div>
+<div id="Footer" class="wp-footer">
+<p class="top-nav">
+<a href="http://news.baidu.com/" target="_blank">百度新闻</a>|<a href="mailto:media_news%40baidu.com" target="_blank">联系我们：media_news@baidu.com</a>
+<strong class="wp-wrap">百度新闻&参考消息联合出品</strong>
+<a href="http://news.baidu.com/"><img src="/static/newsmedia/widget/footer/baidunews_footer_d9a758b.png"></a>
+<a href="http://www.cankaoxiaoxi.com" target="_blank"><img src="http://news.baidu.com/resource/r/image/2014-11-11/05666a5bc3d75061566ddf1e758241d6.png"></a>
+</p>
+<p class="site-info">
+<i>京公网安备110000000001号</i>
+<a href="http://news.baidu.com/licence.html">互联网新闻信息服务许可</a>
+<span>©2014 Baidu</span>
+<a class="wp-wrap" href="http://www.baidu.com/duty/">使用百度前必读</a>
+<a class="wp-hide" target="_blank" href="http://net.china.cn/chinese/index.htm"><img src="http://gimg.baidu.com/img/net.gif"></a>
+<a class="wp-hide" target="_blank" href="http://www.bj.cyberpolice.cn/index.htm"><img alt="首都网络110报警服务" src="http://gimg.baidu.com/img/110.gif"></a>
+<a class="wp-hide" target="_blank" href="http://www.bjjubao.org/"><img src="http://news.baidu.com/resource/img/report_center.png"></a>
+</p>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?d09fe258c88c7015c3e6f8232ee9a563";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</div>
+</div>
+<div class="right">
+<div class="ap apRecommend">
+<div class="apt">
+<h4>热门文章</h4>
+<p class="entit"><span>HOT ARTICLE</span></p>
+</div>
+<div class="apc">
+<ul class="ulist">
+<li>
+<span class="num top3">1</span>
+<a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=6603675711492478138&amp;pos=0&amp;layout=4&amp;token=3b88ffe8b66947ab15dea2b8a85da7d5&amp;url=http%3A%2F%2Fworld.cankaoxiaoxi.com%2Fbd%2F20150422%2F752313.shtml" title="美国:中国若对菲渔船使用水炮将构成挑衅行为 ">美国:中国若对菲渔船使用水炮将构成挑衅行为 </a>
+<span class="tm">04-22 13:51</span>
+</li>
+<li>
+<span class="num top3">2</span>
+<a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=6928950502745509285&amp;pos=1&amp;layout=4&amp;token=f0f644c6d0f4924f2f039744fd8a5aa7&amp;url=http%3A%2F%2Fworld.cankaoxiaoxi.com%2Fbd%2F20150422%2F751535.shtml" title="英媒:大陆游客高雄飞郑州 迷路搭错飞机到杭州">英媒:大陆游客高雄飞郑州 迷路搭错飞机到杭州</a>
+<span class="tm">04-22 13:51</span>
+</li>
+<li>
+<span class="num top3">3</span>
+<a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=7090453225981959530&amp;pos=2&amp;layout=4&amp;token=79be204e8f31e0d7116321a0e4eb5309&amp;url=http%3A%2F%2Fworld.cankaoxiaoxi.com%2Fbd%2F20150422%2F752197.shtml" title="《纽约时报》成普利策奖大赢家 地方小报夺大奖">《纽约时报》成普利策奖大赢家 地方小报夺大奖</a>
+<span class="tm">04-22 12:24</span>
+</li>
+<li>
+<span class="num">4</span>
+<a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=7020314760761345571&amp;pos=3&amp;layout=4&amp;token=eef2d89d1e8492ac8e37d0bfd102b757&amp;url=http%3A%2F%2Fworld.cankaoxiaoxi.com%2Fbd%2F20150422%2F752196.shtml" title="外媒：巴基斯坦将派1万名军人保护在巴中国工人">外媒：巴基斯坦将派1万名军人保护在巴中国工人</a>
+<span class="tm">04-22 12:24</span>
+</li>
+<li>
+<span class="num">5</span>
+<a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=6946535065215825610&amp;pos=4&amp;layout=4&amp;token=f5f98093fa1dc8c42e79fdedaa5cab56&amp;url=http%3A%2F%2Fworld.cankaoxiaoxi.com%2Fbd%2F20150422%2F752247.shtml" title="最帅数学老师隐瞒模特身份 称怕被学术界看不起">最帅数学老师隐瞒模特身份 称怕被学术界看不起</a>
+<span class="tm">04-22 13:06</span>
+</li>
+<li>
+<span class="num">6</span>
+<a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=14853224784583642450&amp;pos=5&amp;layout=4&amp;token=b6546b796860f5e890a70abfde384ba5&amp;url=http%3A%2F%2Ftw.cankaoxiaoxi.com%2Fbd%2F20150422%2F751991.shtml" title="台媒：部分赴台陆客不排队说话高声 素养待提高">台媒：部分赴台陆客不排队说话高声 素养待提高</a>
+<span class="tm">04-22 11:00</span>
+</li>
+<li>
+<span class="num">7</span>
+<a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=2294300514951614469&amp;pos=6&amp;layout=4&amp;token=a8428bf6e9ff239f2da602ff724343c5&amp;url=http%3A%2F%2Ffinance.cankaoxiaoxi.com%2Fbd%2F20150422%2F751809.shtml" title="中国国企现首例债券违约 日媒:有利市场机制恢复">中国国企现首例债券违约 日媒:有利市场机制恢复</a>
+<span class="tm">04-22 11:33</span>
+</li>
+<li>
+<span class="num">8</span>
+<a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=2126855219203504585&amp;pos=7&amp;layout=4&amp;token=e4964b6dcaf38865a2bc9b5b3cfbec5f&amp;url=http%3A%2F%2Ffinance.cankaoxiaoxi.com%2Fbd%2F20150422%2F751962.shtml" title="港报：中国南车将竞标英国500亿英镑高铁项目">港报：中国南车将竞标英国500亿英镑高铁项目</a>
+<span class="tm">04-22 11:00</span>
+</li>
+<li>
+<span class="num">9</span>
+<a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=6978059180267738273&amp;pos=8&amp;layout=4&amp;token=034b0a5eeb2117690a3a0c6a8d6a9bb8&amp;url=http%3A%2F%2Fworld.cankaoxiaoxi.com%2Fbd%2F20150422%2F752068.shtml" title="台媒：100克拉完美钻石在美国1.37亿元拍卖">台媒：100克拉完美钻石在美国1.37亿元拍卖</a>
+<span class="tm">04-22 11:32</span>
+</li>
+<li>
+<span class="num">10</span>
+<a href="http://media.baidu.com/redirect?source=cankaoxiaoxi&amp;nid=6574343580234485321&amp;pos=9&amp;layout=4&amp;token=75d05aad950b0fdf0eab14ade588ffd9&amp;url=http%3A%2F%2Fworld.cankaoxiaoxi.com%2Fbd%2F20150422%2F752322.shtml" title="英媒：乌克兰通过立法推动“去共产主义化”">英媒：乌克兰通过立法推动“去共产主义化”</a>
+<span class="tm">04-22 14:04</span>
+</li>
+</ul>
+</div>
+</div></div>
+</div>
+</div>
+<div id="Footer">
+<p class="top-nav">
+<a href="http://news.baidu.com/" target="_blank">百度新闻</a>|<a href="mailto:media_news%40baidu.com" target="_blank">联系我们：media_news@baidu.com</a>
+<strong class="wp-wrap">百度新闻&参考消息联合出品</strong>
+<a href="http://news.baidu.com/"><img src="/static/newsmedia/widget/footer/baidunews_footer_d9a758b.png"></a>
+<a href="http://www.cankaoxiaoxi.com" target="_blank"><img src="http://news.baidu.com/resource/r/image/2014-11-11/05666a5bc3d75061566ddf1e758241d6.png"></a>
+</p>
+<p class="site-info">
+<i>京公网安备110000000001号</i>
+<a href="http://news.baidu.com/licence.html">互联网新闻信息服务许可</a>
+<span>©2014 Baidu</span>
+<a class="wp-wrap" href="http://www.baidu.com/duty/">使用百度前必读</a>
+<a class="wp-hide" target="_blank" href="http://net.china.cn/chinese/index.htm"><img src="http://gimg.baidu.com/img/net.gif"></a>
+<a class="wp-hide" target="_blank" href="http://www.bj.cyberpolice.cn/index.htm"><img alt="首都网络110报警服务" src="http://gimg.baidu.com/img/110.gif"></a>
+<a class="wp-hide" target="_blank" href="http://www.bjjubao.org/"><img src="http://news.baidu.com/resource/img/report_center.png"></a>
+</p>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?d09fe258c88c7015c3e6f8232ee9a563";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</div>
+</div>
+<div class="mod-sidebar">
+<ul class="menu">
+<li class="toolbar">
+<a class="search" href="/search"><i class="icon-search"></i>搜索</a>
+|<a class="login" href="javascript:;">登录</a>
+<p class="username"></p>
+</li>
+<li class="item">
+<a href="/">首页</a>
+</li>
+<li class="item">
+<a href="/china">中国</a>
+<ul class="submenu">
+<li class="sub-item"><a href="/china/szyw">时事要闻</a></li>
+<li class="sub-item"><a href="/china/zgwj">中国外交</a></li>
+<li class="sub-item"><a href="/china/shwx">社会观察</a></li>
+<li class="sub-item"><a href="/china/gat">港澳-台</a></li>
+</ul>
+</li>
+<li class="item">
+<a href="/world">国际</a>
+<ul class="submenu">
+<li class="sub-item"><a href="/world/ytxw">亚太新闻</a></li>
+<li class="sub-item"><a href="/world/omxw">欧美新闻</a></li>
+<li class="sub-item"><a href="/world/qtdq">其他地区</a></li>
+<li class="sub-item"><a href="/world/hqbl">环球博览</a></li>
+<li class="sub-item"><a href="/world/gdxw">滚动新闻</a></li>
+</ul>
+</li>
+<li class="item">
+<a href="/mil">军事</a>
+<ul class="submenu">
+<li class="sub-item"><a href="/mil/zgjq">中国军情</a></li>
+<li class="sub-item"><a href="/mil/gjjq">国际军情</a></li>
+<li class="sub-item"><a href="/mil/zbdt">周边动态</a></li>
+<li class="sub-item"><a href="/mil/wqzb">武器装备</a></li>
+<li class="sub-item"><a href="/mil/gdxw">滚动新闻</a></li>
+</ul>
+</li>
+<li class="item">
+<a href="/finance">财经</a>
+<ul class="submenu">
+<li class="sub-item"><a href="/finance/zgcj">中国财经</a></li>
+<li class="sub-item"><a href="/finance/gjcj">国际财经</a></li>
+<li class="sub-item"><a href="/finance/jrsc">金融市场</a></li>
+<li class="sub-item"><a href="/finance/gdxw">滚动新闻</a></li>
+</ul>
+</li>
+<li class="item">
+<a href="/photo">图片</a>
+</li>
+<li class="item">
+<a href="/column">评论</a>
+<ul class="submenu">
+<li class="sub-item"><a href="/column/hwkzg">海外看中国</a></li>
+<li class="sub-item"><a href="/column/ldzg">论道中国</a></li>
+<li class="sub-item"><a href="/column/zwgx">中外关系</a></li>
+<li class="sub-item"><a href="/column/zlyt">逐鹿亚太</a></li>
+<li class="sub-item"><a href="/column/zjdy">直击东瀛</a></li>
+<li class="sub-item"><a href="/column/olgc">欧陆观察</a></li>
+</ul>
+</li>
+<li class="item">
+<a href="/science">科技</a>
+<ul class="submenu">
+<li class="sub-item"><a href="/science/ITyj">IT业界</a></li>
+<li class="sub-item"><a href="/science/jksh">健康生活</a></li>
+<li class="sub-item"><a href="/science/tsfx">探索发现</a></li>
+<li class="sub-item"><a href="/science/hjbh">环境保护</a></li>
+<li class="sub-item"><a href="/science/gdxw">滚动新闻</a></li>
+</ul>
+</li>
+<li class="logo"><a href="http://news.baidu.com"><img src="/static/newsmedia/widget/mod_sidebar/logo-baidu_941ba05.png" height="26px" alt="baidu logo"></a></li>
+</ul>
+</div>
+</body><script type="text/javascript" src="/static/common/js/mod_b818356.js"></script>
+<script type="text/javascript" src="/static/common/js/jquery-1.10.1_77f5e40.js"></script>
+<script type="text/javascript" src="/static/common/pkg/aio_d41d8cd.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/mod_page/mod_page_78338ec.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/ap_ulist/ap_ulist_60537f4.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/header/header_3f34133.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/cover/cover_2e172d2.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/ui/iscroll/iscroll_93ba427.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/ui/velocity/velocity_022bc13.js"></script>
+<script type="text/javascript" src="/static/newsmedia/lessimgindex/lessimgindex_0e2d48b.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/mod_sidebar/mod_sidebar_5cf9d41.js"></script>
+<script type="text/javascript">!function(){    require.async('newsmedia:widget/mod_sidebar/mod_sidebar.js', function(login) {
+      login();
+    })
+  }();
+!function(){    var device = 'pc';
+    // 手机端直接监听每条新闻并跳转
+    if (device !== 'pc') {
+      $(function() {
+        var $banner = $('#banners');
+
+        $banner.delegate('.feed_tegao', 'click', function(ev) {
+          // 判断是否是点击了tag
+          var $target = $(ev.target);
+          if ($target.attr('href') &&
+            /^\/.*/.test($target.attr('href'))) return;
+
+          var $item = $(ev.currentTarget);
+          var href = $item.attr('data-href');
+
+          setTimeout(function() {
+            window.location.href = href;
+          }, 100)
+        });
+      });
+    }
+
+    alog("set", "alias", {
+         monkey: "http://img.baidu.com/hunter/alog/monkey.min.js",
+         element: "http://img.baidu.com/hunter/alog/element.min.js"
+     });
+
+     alog("require", ["monkey", "element"], function(monkey, element){
+         monkey.create({
+             page: "news-cankaoxiaoxi",
+             pid: "241",
+             p: "133",
+             hid: "424",
+             postUrl: "http://nsclick.baidu.com/u.gif",
+             reports: {
+                refer: 1,
+                staytime: 1
+             }
+         });
+     });
+
+     alog("monkey.send", "pageview", { now: +new Date });
+  }();</script></html>

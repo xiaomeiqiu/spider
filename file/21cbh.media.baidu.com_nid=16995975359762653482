@@ -1,0 +1,572 @@
+<!doctype html>
+<html>
+<head>
+<!--STATUS OK-->
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+<title>21世纪经济报道_百度传媒</title>
+
+<link rel="dns-prefetch" href="//ns0.bdstatic.com">
+<link rel="dns-prefetch" href="//ns1.bdstatic.com">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="" >
+
+
+
+
+<script>
+  var serverData = {
+    maxseg : '3',
+    total : '600',
+    hasMore : '1',
+    rn : '60',
+    lastNid : '17591261095900083722',
+    logowidth : '144',
+    logoheight : '30',
+    coverlogoheight : '49',
+    menuCount : 3,
+    subscribename : '21cbh',
+    terms : '',
+    menu : [],
+    channelname : '',
+    device: 'pc'
+  }
+  if(!''){
+    serverData.channelname = 'index';
+  }else{
+    serverData.channelname = '';
+  }
+
+  // hunter统计
+  void function(e,t,n,a,o,i,m){e.alogObjectName=o,e[o]=e[o]||function(){(e[o].q=e[o].q||[]).push(arguments)},e[o].l=e[o].l||+new Date,i=t.createElement(n),i.asyn=1,i.src=a,m=t.getElementsByTagName(n)[0],m.parentNode.insertBefore(i,m)}(window,document,"script","http://img.baidu.com/hunter/alog.min.js","alog");
+    </script>
+
+<link rel="stylesheet" type="text/css" href="/static/common/pkg/aio_ec06920.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/css/all_e472514.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/skin/green_d65a5cb.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/mod_page/mod_page_aac155e.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/ap_ulist/ap_ulist_c1b4057.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/header/header_6c174ae.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/cover/cover_1a2721a.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/mod_banner/mod_banner_b7ecfb4.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/footer/footer_1ef9d4d.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/mod_sidebar/mod_sidebar_cb6d93e.css"/></head>
+<body>
+
+<style>
+  body{padding-top:0}
+  #Header{position: relative;}
+</style>
+
+
+<div class="wrap">
+<div id="Cover" class="mod-cover">
+<div class="cover">
+<div class="coverbg"></div>
+<div class="coverlogo"><img src="http://news.baidu.com/resource/r/image/2014-12-23/4923267fe219c9d1867d25da45363d96.png"></div>
+<div class="coverslogan">
+<p class="ll"></p>
+<span>商业新闻领导者</span>
+<p class="rl"></p>
+</div>
+</div>
+</div><div id="Header">
+<div class="header">
+<h1 class="test"></h1>
+<div class="logo" style="width:144px;"><a href="/" target="_blank" ><img src="http://news.baidu.com/resource/r/image/2015-02-12/6ece18338eaef94d60b09da78b75d3c7.png" style="height:30px"/></a></div>
+<div class="menulist large" style="margin:0 144px">
+<ul></ul>
+</div>
+<div class="menulist medium" style="margin:0 144px">
+<ul></ul>
+</div>
+<div class="headerSearch">
+<p class="searchbar">
+<a href="javascript:;" class="searchA"><i class="i"></i></a>
+<i class="txt"><i class="i nodis"></i><input type="text" class="nodis"></i>
+</p>
+<p class="sub-menu"><i class="icon-submenu"></i></p>
+<p class="baiduLogo"><a href="http://news.baidu.com/" target="_blank"><img src="/static/newsmedia/widget/header/baidu_logo_46a3f92.png"></a></p>
+</div>
+</div>
+
+<script type="text/javascript">
+var menu = [];
+
+            menu.push({
+            'name': '首页',
+            'enname':'',
+            'url': '',
+            'list':[
+            	            ]
+        });
+            menu.push({
+            'name': '数字报',
+            'enname':'epaper',
+            'url': '',
+            'list':[
+            	            ]
+        });
+            menu.push({
+            'name': '抢鲜报',
+            'enname':'herald',
+            'url': '',
+            'list':[
+            	            ]
+        });
+        serverData.menu = menu;
+
+</script>
+
+</div>
+<div id="Body">
+<div class="body">
+<div class="left">
+<div id="banners">
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=21cbh&amp;nid=6890132287561437680&amp;pos=0&amp;layout=2&amp;token=8f5c3fe292040b7010ee50641a7c758b&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150422%2Fc9caed0d2c469dbab7f2ee693614b4c5_baidunews.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=21cbh&amp;nid=6890132287561437680&amp;pos=0&amp;layout=2&amp;token=8f5c3fe292040b7010ee50641a7c758b&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150422%2Fc9caed0d2c469dbab7f2ee693614b4c5_baidunews.html" target="_blank">A股巨震一日秀模式未破 创业板收获史上第三涨幅</a>
+</h4>
+<p class="summary">当天创业板指单日上涨141.24点，以5.82%创下近四年半来的最大涨幅。<a href="http://media.baidu.com/redirect?source=21cbh&amp;nid=6890132287561437680&amp;pos=0&amp;layout=2&amp;token=8f5c3fe292040b7010ee50641a7c758b&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150422%2Fc9caed0d2c469dbab7f2ee693614b4c5_baidunews.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/epaper">数字报</a></p>
+<span class="author">
+<em>卢远香</em>
+</span>
+<span class="time">04-22 02:12</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=21cbh&amp;nid=7181930933370838065&amp;pos=1&amp;layout=2&amp;token=39d852d55d8e1a1ac34f4d80a1cebb70&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150422%2F420d3c5bd32b07f04bea1983ad8af49c_baidunews.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=21cbh&amp;nid=7181930933370838065&amp;pos=1&amp;layout=2&amp;token=39d852d55d8e1a1ac34f4d80a1cebb70&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150422%2F420d3c5bd32b07f04bea1983ad8af49c_baidunews.html" target="_blank">“两难”运营商</a>
+</h4>
+<p class="summary">期内其收入下滑了0.4%，尤其是在成熟市场欧洲下滑了2.7%，增量主要来自中东、非洲等新兴市场。<a href="http://media.baidu.com/redirect?source=21cbh&amp;nid=7181930933370838065&amp;pos=1&amp;layout=2&amp;token=39d852d55d8e1a1ac34f4d80a1cebb70&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150422%2F420d3c5bd32b07f04bea1983ad8af49c_baidunews.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/epaper">数字报</a></p>
+<span class="time">04-22 02:12</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=21cbh&amp;nid=1127162253750599224&amp;pos=2&amp;layout=2&amp;token=314edb3f93f5f78c0d94378656edd81e&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150422%2F26391fe68b06acfd8e66373a44ed72b7_baidunews.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=21cbh&amp;nid=1127162253750599224&amp;pos=2&amp;layout=2&amp;token=314edb3f93f5f78c0d94378656edd81e&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150422%2F26391fe68b06acfd8e66373a44ed72b7_baidunews.html" target="_blank">一季度全国房地产供地下降38.7%</a>
+</h4>
+<p class="summary">全国国有建设用地供应9.48万公顷，同比下降20.4%，其中。<a href="http://media.baidu.com/redirect?source=21cbh&amp;nid=1127162253750599224&amp;pos=2&amp;layout=2&amp;token=314edb3f93f5f78c0d94378656edd81e&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150422%2F26391fe68b06acfd8e66373a44ed72b7_baidunews.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/epaper">数字报</a></p>
+<span class="author">
+<em>纪睿坤</em>
+</span>
+<span class="time">04-22 02:12</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=21cbh&amp;nid=18083027250354946071&amp;pos=3&amp;layout=2&amp;token=3a999cb3b171eadecf5acc86c0a2e85b&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150422%2Fcdab23f4065e0ac75f924924c0881117_baidunews.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=21cbh&amp;nid=18083027250354946071&amp;pos=3&amp;layout=2&amp;token=3a999cb3b171eadecf5acc86c0a2e85b&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150422%2Fcdab23f4065e0ac75f924924c0881117_baidunews.html" target="_blank">一季度全国房地产供地下降38.7%</a>
+</h4>
+<p class="summary">全国国有建设用地供应9.48万公顷，同比下降20.4%，其中。<a href="http://media.baidu.com/redirect?source=21cbh&amp;nid=18083027250354946071&amp;pos=3&amp;layout=2&amp;token=3a999cb3b171eadecf5acc86c0a2e85b&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150422%2Fcdab23f4065e0ac75f924924c0881117_baidunews.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/epaper">数字报</a></p>
+<span class="author">
+<em>纪睿坤</em>
+</span>
+<span class="time">04-22 02:12</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=21cbh&amp;nid=6283532102360431203&amp;pos=4&amp;layout=2&amp;token=33fd6ce69a0070691f5aab8f8c3c5801&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150422%2F494e6aa898a255bdf3470e42df7eb94c_baidunews.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=21cbh&amp;nid=6283532102360431203&amp;pos=4&amp;layout=2&amp;token=33fd6ce69a0070691f5aab8f8c3c5801&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150422%2F494e6aa898a255bdf3470e42df7eb94c_baidunews.html" target="_blank">业绩下滑 运营商寻找“第三条曲线”</a>
+</h4>
+<p class="summary">中国移动计划缩减开支，但全年资本支出仍然高达1997亿元，其中4G投资为722亿元，中国移动仍将新建数十万4G基站。<a href="http://media.baidu.com/redirect?source=21cbh&amp;nid=6283532102360431203&amp;pos=4&amp;layout=2&amp;token=33fd6ce69a0070691f5aab8f8c3c5801&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150422%2F494e6aa898a255bdf3470e42df7eb94c_baidunews.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/epaper">数字报</a></p>
+<span class="author">
+<em>陈宝亮</em>
+</span>
+<span class="time">04-22 01:26</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=21cbh&amp;nid=10178005623002542305&amp;pos=5&amp;layout=2&amp;token=bd01e72c6df33db3f94fb4796829dc00&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150422%2Fb08edcfae1f5f264ec919fde32ccca81_baidunews.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=21cbh&amp;nid=10178005623002542305&amp;pos=5&amp;layout=2&amp;token=bd01e72c6df33db3f94fb4796829dc00&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150422%2Fb08edcfae1f5f264ec919fde32ccca81_baidunews.html" target="_blank">新一代互联网可实现定制化服务</a>
+</h4>
+<p class="summary">刘韵洁不仅是一位技术专家，还是卓亚网络法治中心名誉主任，这是一家致力于研究互联网法治领域的民间智库。<a href="http://media.baidu.com/redirect?source=21cbh&amp;nid=10178005623002542305&amp;pos=5&amp;layout=2&amp;token=bd01e72c6df33db3f94fb4796829dc00&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150422%2Fb08edcfae1f5f264ec919fde32ccca81_baidunews.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/epaper">数字报</a></p>
+<span class="author">
+<em>王峰</em>
+</span>
+<span class="time">04-22 01:26</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=21cbh&amp;nid=15502326072389335930&amp;pos=6&amp;layout=2&amp;token=30ebf07d20ccd523dba19fa29d213fc0&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150422%2F922425a35280382071fce5da641239df_baidunews.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=21cbh&amp;nid=15502326072389335930&amp;pos=6&amp;layout=2&amp;token=30ebf07d20ccd523dba19fa29d213fc0&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150422%2F922425a35280382071fce5da641239df_baidunews.html" target="_blank">电信业告别“黄金时代” 全球性命题倒逼转型决心</a>
+</h4>
+<p class="summary">期内其收入下滑了0.4%，尤其是在成熟市场欧洲下滑了2.7%，增量主要来自中东、非洲等新兴市场。<a href="http://media.baidu.com/redirect?source=21cbh&amp;nid=15502326072389335930&amp;pos=6&amp;layout=2&amp;token=30ebf07d20ccd523dba19fa29d213fc0&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150422%2F922425a35280382071fce5da641239df_baidunews.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/epaper">数字报</a></p>
+<span class="time">04-22 01:26</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=21cbh&amp;nid=9939106264801676964&amp;pos=7&amp;layout=2&amp;token=699aa8722d674ac930763a60c726110a&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150421%2Fherald%2F59d583811a92bfbaca290f9ac2b8c1c5_baidunews.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=21cbh&amp;nid=9939106264801676964&amp;pos=7&amp;layout=2&amp;token=699aa8722d674ac930763a60c726110a&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150421%2Fherald%2F59d583811a92bfbaca290f9ac2b8c1c5_baidunews.html" target="_blank">民生银行一季报：新增不良贷款19亿 拨备覆盖率下调</a>
+</h4>
+<p class="summary">新增贷款总额740.27亿元，新增存款总额153.3...。<a href="http://media.baidu.com/redirect?source=21cbh&amp;nid=9939106264801676964&amp;pos=7&amp;layout=2&amp;token=699aa8722d674ac930763a60c726110a&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150421%2Fherald%2F59d583811a92bfbaca290f9ac2b8c1c5_baidunews.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/herald">抢鲜报</a></p>
+<span class="author">
+<em>宋佳燕</em>
+</span>
+<span class="time">04-21 23:22</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=21cbh&amp;nid=1190002913888841313&amp;pos=8&amp;layout=2&amp;token=cee6ae4058d507629ad8ee2b5f4bc2c3&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150421%2Fherald%2F3530431e785b531d2811ed7e3e13dbe2_baidunews.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=21cbh&amp;nid=1190002913888841313&amp;pos=8&amp;layout=2&amp;token=cee6ae4058d507629ad8ee2b5f4bc2c3&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150421%2Fherald%2F3530431e785b531d2811ed7e3e13dbe2_baidunews.html" target="_blank">安倍晋三：日美接近达成TPP 汽车农业成最后障碍</a>
+</h4>
+<p class="summary">日本首相安倍晋三在东京接受《华尔街日报》专访时表示日美已经接近达成泛太平洋伙伴关系协议，双方敏感行业是最后障碍。<a href="http://media.baidu.com/redirect?source=21cbh&amp;nid=1190002913888841313&amp;pos=8&amp;layout=2&amp;token=cee6ae4058d507629ad8ee2b5f4bc2c3&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150421%2Fherald%2F3530431e785b531d2811ed7e3e13dbe2_baidunews.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/herald">抢鲜报</a></p>
+<span class="author">
+<em>陆振华</em>
+</span>
+<span class="time">04-21 22:22</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=21cbh&amp;nid=3978841221848776706&amp;pos=9&amp;layout=2&amp;token=cd51b39134bd0f0862106c0e737e5ab8&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150421%2Fherald%2Fc776c61981372e5f354996e9f3f9b4e9_baidunews.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=21cbh&amp;nid=3978841221848776706&amp;pos=9&amp;layout=2&amp;token=cd51b39134bd0f0862106c0e737e5ab8&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150421%2Fherald%2Fc776c61981372e5f354996e9f3f9b4e9_baidunews.html" target="_blank">广东自贸区南沙片区：打造世界一流综合服务枢纽</a>
+</h4>
+<p class="summary">在中国自由贸易试验区挂牌后，隶属广州的南沙新区片区随即举行挂牌仪式，成为广东自贸区三大片区中率先正式运作的片区。<a href="http://media.baidu.com/redirect?source=21cbh&amp;nid=3978841221848776706&amp;pos=9&amp;layout=2&amp;token=cd51b39134bd0f0862106c0e737e5ab8&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150421%2Fherald%2Fc776c61981372e5f354996e9f3f9b4e9_baidunews.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/herald">抢鲜报</a></p>
+<span class="author">
+<em>卜凡</em>
+</span>
+<span class="time">04-21 22:22</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=21cbh&amp;nid=12668949956101813139&amp;pos=10&amp;layout=2&amp;token=908294bde067cf115bef64ab84092745&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150421%2Fherald%2F550d5a6de5b210bbdbbf903a2b7a2f7c_baidunews.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=21cbh&amp;nid=12668949956101813139&amp;pos=10&amp;layout=2&amp;token=908294bde067cf115bef64ab84092745&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150421%2Fherald%2F550d5a6de5b210bbdbbf903a2b7a2f7c_baidunews.html" target="_blank">国务院：能源交通领域可开展特许经营</a>
+</h4>
+<p class="summary">刘世坚表示，财政部43号文指出地方政府举债两种方式，发债和PPP。<a href="http://media.baidu.com/redirect?source=21cbh&amp;nid=12668949956101813139&amp;pos=10&amp;layout=2&amp;token=908294bde067cf115bef64ab84092745&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150421%2Fherald%2F550d5a6de5b210bbdbbf903a2b7a2f7c_baidunews.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/herald">抢鲜报</a></p>
+<span class="author">
+<em>周潇枭</em>
+</span>
+<span class="time">04-21 22:22</span>
+</div>
+</div>
+<div class="feed_tegao" data-href="http://media.baidu.com/redirect?source=21cbh&amp;nid=16995975359762653482&amp;pos=11&amp;layout=2&amp;token=c89de0a7427b563c8c67fef7ba7c13f3&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150421%2Fherald%2F764761970a0cd0c27a5319061456af05_baidunews.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=21cbh&amp;nid=16995975359762653482&amp;pos=11&amp;layout=2&amp;token=c89de0a7427b563c8c67fef7ba7c13f3&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150421%2Fherald%2F764761970a0cd0c27a5319061456af05_baidunews.html" target="_blank">马建堂任国家行政学院常务副院长</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=21cbh&amp;nid=16995975359762653482&amp;pos=11&amp;layout=2&amp;token=c89de0a7427b563c8c67fef7ba7c13f3&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150421%2Fherald%2F764761970a0cd0c27a5319061456af05_baidunews.html" target="_blank"><img src="http://img.21sq.org/uploadfile/cover/201504212151114839_small.jpg"/></a></p>
+<p class="summary">国家行政学院官网的领导简历显示，马建堂简历男，汉族，山东滨州人，毕业于中国社会科学院研究生院，经......<a href="http://media.baidu.com/redirect?source=21cbh&amp;nid=16995975359762653482&amp;pos=11&amp;layout=2&amp;token=c89de0a7427b563c8c67fef7ba7c13f3&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150421%2Fherald%2F764761970a0cd0c27a5319061456af05_baidunews.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/herald">抢鲜报</a></p>
+<span class="author">
+<em>耿雁冰</em>
+</span>
+<span class="time">04-21 22:22</span>
+</div>
+</div>
+<div class="feed_tegao" data-href="http://media.baidu.com/redirect?source=21cbh&amp;nid=710518216310514908&amp;pos=12&amp;layout=2&amp;token=f8f42d59c9f3ef4bd65ef16559acbf3c&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150421%2Fherald%2F399feb495a34d98a12806d668402b2c8_baidunews.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=21cbh&amp;nid=710518216310514908&amp;pos=12&amp;layout=2&amp;token=f8f42d59c9f3ef4bd65ef16559acbf3c&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150421%2Fherald%2F399feb495a34d98a12806d668402b2c8_baidunews.html" target="_blank">据说丨今日数览</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=21cbh&amp;nid=710518216310514908&amp;pos=12&amp;layout=2&amp;token=f8f42d59c9f3ef4bd65ef16559acbf3c&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150421%2Fherald%2F399feb495a34d98a12806d668402b2c8_baidunews.html" target="_blank"><img src="http://img.21sq.org/uploadfile/cover/201504212114401105_small.jpg"/></a></p>
+<p class="summary">一季末资管规模23.82万亿、增幅达16.2%。<a href="http://media.baidu.com/redirect?source=21cbh&amp;nid=710518216310514908&amp;pos=12&amp;layout=2&amp;token=f8f42d59c9f3ef4bd65ef16559acbf3c&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150421%2Fherald%2F399feb495a34d98a12806d668402b2c8_baidunews.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/herald">抢鲜报</a></p>
+<span class="author">
+<em>康妮</em>
+</span>
+<span class="time">04-21 22:22</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=21cbh&amp;nid=9895058552164812464&amp;pos=13&amp;layout=2&amp;token=89dfff7b3d12b9f330f96e41ef9f01f8&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150421%2Fherald%2F673a963fe9f85d5338b2ceade6c86a98_baidunews.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=21cbh&amp;nid=9895058552164812464&amp;pos=13&amp;layout=2&amp;token=89dfff7b3d12b9f330f96e41ef9f01f8&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150421%2Fherald%2F673a963fe9f85d5338b2ceade6c86a98_baidunews.html" target="_blank">存款不翼而飞后续：泸州老窖收到1亿存款以及利息</a>
+</h4>
+<p class="summary">泸州老窖公告称与中国农业银行长沙迎新支行、中国工商银行南阳中州支行等三处储蓄存款合同纠纷事项，共涉及金额5亿元。<a href="http://media.baidu.com/redirect?source=21cbh&amp;nid=9895058552164812464&amp;pos=13&amp;layout=2&amp;token=89dfff7b3d12b9f330f96e41ef9f01f8&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150421%2Fherald%2F673a963fe9f85d5338b2ceade6c86a98_baidunews.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/herald">抢鲜报</a></p>
+<span class="author">
+<em>周松清</em>
+</span>
+<span class="time">04-21 22:22</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=21cbh&amp;nid=5086147792783222968&amp;pos=14&amp;layout=2&amp;token=d4fb6f522de3415e3bf798b04c79cd9e&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150421%2Fherald%2Fb5392d1874a9258fb8d56771b377167d_baidunews.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=21cbh&amp;nid=5086147792783222968&amp;pos=14&amp;layout=2&amp;token=d4fb6f522de3415e3bf798b04c79cd9e&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150421%2Fherald%2Fb5392d1874a9258fb8d56771b377167d_baidunews.html" target="_blank">广东自贸区挂牌：三大片区将享省一级管理权限</a>
+</h4>
+<p class="summary">各个片区运作由各片区管委会组织协调，负责研究制定本片区的发展规划、政策措施，并承担具体改革试点任务。<a href="http://media.baidu.com/redirect?source=21cbh&amp;nid=5086147792783222968&amp;pos=14&amp;layout=2&amp;token=d4fb6f522de3415e3bf798b04c79cd9e&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150421%2Fherald%2Fb5392d1874a9258fb8d56771b377167d_baidunews.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/herald">抢鲜报</a></p>
+<span class="author">
+<em>卜凡</em>
+</span>
+<span class="time">04-21 22:22</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=21cbh&amp;nid=9377217335262869796&amp;pos=15&amp;layout=2&amp;token=e2b700b929a8ef9b7111428fcd14fab8&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150421%2Fherald%2F751d4f95c102be41bc58f1a129dd932f_baidunews.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=21cbh&amp;nid=9377217335262869796&amp;pos=15&amp;layout=2&amp;token=e2b700b929a8ef9b7111428fcd14fab8&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150421%2Fherald%2F751d4f95c102be41bc58f1a129dd932f_baidunews.html" target="_blank">摩根大通朱海斌：人民币加入SDR将贬值1%-2%</a>
+</h4>
+<p class="summary">这将会对中国的金融改革和人民币汇率走势产生重要影响。<a href="http://media.baidu.com/redirect?source=21cbh&amp;nid=9377217335262869796&amp;pos=15&amp;layout=2&amp;token=e2b700b929a8ef9b7111428fcd14fab8&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150421%2Fherald%2F751d4f95c102be41bc58f1a129dd932f_baidunews.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/herald">抢鲜报</a></p>
+<span class="author">
+<em>李玉敏</em>
+</span>
+<span class="time">04-21 22:22</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=21cbh&amp;nid=6563052304913441894&amp;pos=16&amp;layout=2&amp;token=6400ff190df749575d88beb185b86c5a&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150421%2Fherald%2F2c5d8b1c898004be04b71ca0c1a404f4_baidunews.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=21cbh&amp;nid=6563052304913441894&amp;pos=16&amp;layout=2&amp;token=6400ff190df749575d88beb185b86c5a&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150421%2Fherald%2F2c5d8b1c898004be04b71ca0c1a404f4_baidunews.html" target="_blank">控股股东减持不久 美邦服饰再遭泽熙清仓</a>
+</h4>
+<p class="summary">此前美邦服饰控股股东华服投资曾于4月2日公告将在6个月内减持不超过1...。<a href="http://media.baidu.com/redirect?source=21cbh&amp;nid=6563052304913441894&amp;pos=16&amp;layout=2&amp;token=6400ff190df749575d88beb185b86c5a&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150421%2Fherald%2F2c5d8b1c898004be04b71ca0c1a404f4_baidunews.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/herald">抢鲜报</a></p>
+<span class="author">
+<em>周松清</em>
+</span>
+<span class="time">04-21 21:16</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=21cbh&amp;nid=7423775259075192451&amp;pos=17&amp;layout=2&amp;token=d43211d85b2d4aceac1754164009e462&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150421%2Fherald%2F63016cf18a895ac7c369c1bba0fea998_baidunews.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=21cbh&amp;nid=7423775259075192451&amp;pos=17&amp;layout=2&amp;token=d43211d85b2d4aceac1754164009e462&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150421%2Fherald%2F63016cf18a895ac7c369c1bba0fea998_baidunews.html" target="_blank">中国智能手机或遭遇专利陷阱</a>
+</h4>
+<p class="summary">目前中国智能手机企业大多以国内市场为主，国产智能手机集中于中低端市场。<a href="http://media.baidu.com/redirect?source=21cbh&amp;nid=7423775259075192451&amp;pos=17&amp;layout=2&amp;token=d43211d85b2d4aceac1754164009e462&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150421%2Fherald%2F63016cf18a895ac7c369c1bba0fea998_baidunews.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/herald">抢鲜报</a></p>
+<span class="time">04-21 21:16</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=21cbh&amp;nid=3355520861527201249&amp;pos=18&amp;layout=2&amp;token=bea1d9968b357c64f0b20f3f2024ddd1&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150421%2Fherald%2F51f24e1fa12ed0473f0b84e23d5ced55_baidunews.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=21cbh&amp;nid=3355520861527201249&amp;pos=18&amp;layout=2&amp;token=bea1d9968b357c64f0b20f3f2024ddd1&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150421%2Fherald%2F51f24e1fa12ed0473f0b84e23d5ced55_baidunews.html" target="_blank">沪港通使用额度回升 港股通南车净卖出3200万港元</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=21cbh&amp;nid=3355520861527201249&amp;pos=18&amp;layout=2&amp;token=bea1d9968b357c64f0b20f3f2024ddd1&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150421%2Fherald%2F51f24e1fa12ed0473f0b84e23d5ced55_baidunews.html" target="_blank"><img src="http://img.21sq.org/uploadfile/cover/20150421/1429617670962948.jpg"/></a></p>
+<p class="summary">浦发银行净卖出1.13亿元、工商银行...<a href="http://media.baidu.com/redirect?source=21cbh&amp;nid=3355520861527201249&amp;pos=18&amp;layout=2&amp;token=bea1d9968b357c64f0b20f3f2024ddd1&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150421%2Fherald%2F51f24e1fa12ed0473f0b84e23d5ced55_baidunews.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/herald">抢鲜报</a></p>
+<span class="author">
+<em>宁文</em>
+</span>
+<span class="time">04-21 21:16</span>
+</div>
+</div>
+<div class="feed_tegao" data-href="http://media.baidu.com/redirect?source=21cbh&amp;nid=17591261095900083722&amp;pos=19&amp;layout=2&amp;token=56437aee8655483d94d9310c1b9b8659&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150421%2Fherald%2F11958d427c4d620b8a8223ed2373ee95_baidunews.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=21cbh&amp;nid=17591261095900083722&amp;pos=19&amp;layout=2&amp;token=56437aee8655483d94d9310c1b9b8659&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150421%2Fherald%2F11958d427c4d620b8a8223ed2373ee95_baidunews.html" target="_blank">公路建设管理体制改革意见出台</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=21cbh&amp;nid=17591261095900083722&amp;pos=19&amp;layout=2&amp;token=56437aee8655483d94d9310c1b9b8659&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150421%2Fherald%2F11958d427c4d620b8a8223ed2373ee95_baidunews.html" target="_blank"><img src="http://img.21sq.org/uploadfile/cover/201504211958488638_small.jpg"/></a></p>
+<p class="summary">正是在这种交通运输投融资体制改革背景下，此次公路管理体制改革提出多种相应的建设模式。<a href="http://media.baidu.com/redirect?source=21cbh&amp;nid=17591261095900083722&amp;pos=19&amp;layout=2&amp;token=56437aee8655483d94d9310c1b9b8659&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150421%2Fherald%2F11958d427c4d620b8a8223ed2373ee95_baidunews.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/herald">抢鲜报</a></p>
+<span class="author">
+<em>孙春芳</em>
+</span>
+<span class="time">04-21 20:11</span>
+</div>
+</div>
+</div>
+<div class="loading"><img src="/static/newsmedia/widget/mod_page/jm_loading_d04a658.gif"><b>正在加载，请稍候...</b></div>
+<div class="pages">
+<a href="javascript:;" class="btn btnP nodis">上一页</a>
+<div class="page"></div>
+<a href="javascript:;" class="btn btnN">下一页</a>
+</div>
+<div id="Footer" class="wp-footer">
+<p class="top-nav">
+<a href="http://news.baidu.com/" target="_blank">百度新闻</a>|<a href="mailto:media_news%40baidu.com" target="_blank">联系我们：media_news@baidu.com</a>
+<strong class="wp-wrap">百度新闻&21世纪经济报道联合出品</strong>
+<a href="http://news.baidu.com/"><img src="/static/newsmedia/widget/footer/baidunews_footer_d9a758b.png"></a>
+<a href="http://www.21jingji.com" target="_blank"><img src="http://news.baidu.com/resource/r/image/2014-12-23/b60d0cfb0bd73d9a22c0ec7c9ee62cf2.png"></a>
+</p>
+<p class="site-info">
+<i>京公网安备110000000001号</i>
+<a href="http://news.baidu.com/licence.html">互联网新闻信息服务许可</a>
+<span>©2014 Baidu</span>
+<a class="wp-wrap" href="http://www.baidu.com/duty/">使用百度前必读</a>
+<a class="wp-hide" target="_blank" href="http://net.china.cn/chinese/index.htm"><img src="http://gimg.baidu.com/img/net.gif"></a>
+<a class="wp-hide" target="_blank" href="http://www.bj.cyberpolice.cn/index.htm"><img alt="首都网络110报警服务" src="http://gimg.baidu.com/img/110.gif"></a>
+<a class="wp-hide" target="_blank" href="http://www.bjjubao.org/"><img src="http://news.baidu.com/resource/img/report_center.png"></a>
+</p>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?d09fe258c88c7015c3e6f8232ee9a563";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</div>
+</div>
+<div class="right">
+<div class="ap apRecommend">
+<div class="apt">
+<h4>热门文章</h4>
+<p class="entit"><span>HOT ARTICLE</span></p>
+</div>
+<div class="apc">
+<ul class="ulist">
+<li>
+<span class="num top3">1</span>
+<a href="http://media.baidu.com/redirect?source=21cbh&amp;nid=9939106264801676964&amp;pos=0&amp;layout=4&amp;token=699aa8722d674ac930763a60c726110a&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150421%2Fherald%2F59d583811a92bfbaca290f9ac2b8c1c5_baidunews.html" title="民生银行一季报：新增不良贷款19亿 拨备覆盖率下调">民生银行一季报：新增不良贷款19亿 拨备覆盖率下调</a>
+<span class="tm">04-21 23:22</span>
+</li>
+<li>
+<span class="num top3">2</span>
+<a href="http://media.baidu.com/redirect?source=21cbh&amp;nid=3978841221848776706&amp;pos=1&amp;layout=4&amp;token=cd51b39134bd0f0862106c0e737e5ab8&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150421%2Fherald%2Fc776c61981372e5f354996e9f3f9b4e9_baidunews.html" title="广东自贸区南沙片区：打造世界一流综合服务枢纽">广东自贸区南沙片区：打造世界一流综合服务枢纽</a>
+<span class="tm">04-21 22:22</span>
+</li>
+<li>
+<span class="num top3">3</span>
+<a href="http://media.baidu.com/redirect?source=21cbh&amp;nid=9895058552164812464&amp;pos=2&amp;layout=4&amp;token=89dfff7b3d12b9f330f96e41ef9f01f8&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150421%2Fherald%2F673a963fe9f85d5338b2ceade6c86a98_baidunews.html" title="存款不翼而飞后续：泸州老窖收到1亿存款以及利息">存款不翼而飞后续：泸州老窖收到1亿存款以及利息</a>
+<span class="tm">04-21 22:22</span>
+</li>
+<li>
+<span class="num">4</span>
+<a href="http://media.baidu.com/redirect?source=21cbh&amp;nid=9377217335262869796&amp;pos=3&amp;layout=4&amp;token=e2b700b929a8ef9b7111428fcd14fab8&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150421%2Fherald%2F751d4f95c102be41bc58f1a129dd932f_baidunews.html" title="摩根大通朱海斌：人民币加入SDR将贬值1%-2%">摩根大通朱海斌：人民币加入SDR将贬值1%-2%</a>
+<span class="tm">04-21 22:22</span>
+</li>
+<li>
+<span class="num">5</span>
+<a href="http://media.baidu.com/redirect?source=21cbh&amp;nid=7423775259075192451&amp;pos=4&amp;layout=4&amp;token=d43211d85b2d4aceac1754164009e462&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150421%2Fherald%2F63016cf18a895ac7c369c1bba0fea998_baidunews.html" title="中国智能手机或遭遇专利陷阱">中国智能手机或遭遇专利陷阱</a>
+<span class="tm">04-21 21:16</span>
+</li>
+<li>
+<span class="num">6</span>
+<a href="http://media.baidu.com/redirect?source=21cbh&amp;nid=710518216310514908&amp;pos=5&amp;layout=4&amp;token=f8f42d59c9f3ef4bd65ef16559acbf3c&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150421%2Fherald%2F399feb495a34d98a12806d668402b2c8_baidunews.html" title="据说丨今日数览">据说丨今日数览</a>
+<span class="tm">04-21 22:22</span>
+</li>
+<li>
+<span class="num">7</span>
+<a href="http://media.baidu.com/redirect?source=21cbh&amp;nid=6563052304913441894&amp;pos=6&amp;layout=4&amp;token=6400ff190df749575d88beb185b86c5a&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150421%2Fherald%2F2c5d8b1c898004be04b71ca0c1a404f4_baidunews.html" title="控股股东减持不久 美邦服饰再遭泽熙清仓">控股股东减持不久 美邦服饰再遭泽熙清仓</a>
+<span class="tm">04-21 21:16</span>
+</li>
+<li>
+<span class="num">8</span>
+<a href="http://media.baidu.com/redirect?source=21cbh&amp;nid=5086147792783222968&amp;pos=7&amp;layout=4&amp;token=d4fb6f522de3415e3bf798b04c79cd9e&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150421%2Fherald%2Fb5392d1874a9258fb8d56771b377167d_baidunews.html" title="广东自贸区挂牌：三大片区将享省一级管理权限">广东自贸区挂牌：三大片区将享省一级管理权限</a>
+<span class="tm">04-21 22:22</span>
+</li>
+<li>
+<span class="num">9</span>
+<a href="http://media.baidu.com/redirect?source=21cbh&amp;nid=16995975359762653482&amp;pos=8&amp;layout=4&amp;token=c89de0a7427b563c8c67fef7ba7c13f3&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150421%2Fherald%2F764761970a0cd0c27a5319061456af05_baidunews.html" title="马建堂任国家行政学院常务副院长">马建堂任国家行政学院常务副院长</a>
+<span class="tm">04-21 22:22</span>
+</li>
+<li>
+<span class="num">10</span>
+<a href="http://media.baidu.com/redirect?source=21cbh&amp;nid=12668949956101813139&amp;pos=9&amp;layout=4&amp;token=908294bde067cf115bef64ab84092745&amp;url=http%3A%2F%2Fm.21jingji.com%2Farticle%2F20150421%2Fherald%2F550d5a6de5b210bbdbbf903a2b7a2f7c_baidunews.html" title="国务院：能源交通领域可开展特许经营">国务院：能源交通领域可开展特许经营</a>
+<span class="tm">04-21 22:22</span>
+</li>
+</ul>
+</div>
+</div></div>
+</div>
+</div>
+<div id="Footer">
+<p class="top-nav">
+<a href="http://news.baidu.com/" target="_blank">百度新闻</a>|<a href="mailto:media_news%40baidu.com" target="_blank">联系我们：media_news@baidu.com</a>
+<strong class="wp-wrap">百度新闻&21世纪经济报道联合出品</strong>
+<a href="http://news.baidu.com/"><img src="/static/newsmedia/widget/footer/baidunews_footer_d9a758b.png"></a>
+<a href="http://www.21jingji.com" target="_blank"><img src="http://news.baidu.com/resource/r/image/2014-12-23/b60d0cfb0bd73d9a22c0ec7c9ee62cf2.png"></a>
+</p>
+<p class="site-info">
+<i>京公网安备110000000001号</i>
+<a href="http://news.baidu.com/licence.html">互联网新闻信息服务许可</a>
+<span>©2014 Baidu</span>
+<a class="wp-wrap" href="http://www.baidu.com/duty/">使用百度前必读</a>
+<a class="wp-hide" target="_blank" href="http://net.china.cn/chinese/index.htm"><img src="http://gimg.baidu.com/img/net.gif"></a>
+<a class="wp-hide" target="_blank" href="http://www.bj.cyberpolice.cn/index.htm"><img alt="首都网络110报警服务" src="http://gimg.baidu.com/img/110.gif"></a>
+<a class="wp-hide" target="_blank" href="http://www.bjjubao.org/"><img src="http://news.baidu.com/resource/img/report_center.png"></a>
+</p>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?d09fe258c88c7015c3e6f8232ee9a563";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</div>
+</div>
+<div class="mod-sidebar">
+<ul class="menu">
+<li class="toolbar">
+<a class="search" href="/search"><i class="icon-search"></i>搜索</a>
+|<a class="login" href="javascript:;">登录</a>
+<p class="username"></p>
+</li>
+<li class="item">
+<a href="/">首页</a>
+</li>
+<li class="item">
+<a href="/epaper">数字报</a>
+</li>
+<li class="item">
+<a href="/herald">抢鲜报</a>
+</li>
+<li class="logo"><a href="http://news.baidu.com"><img src="/static/newsmedia/widget/mod_sidebar/logo-baidu_941ba05.png" height="26px" alt="baidu logo"></a></li>
+</ul>
+</div>
+</body><script type="text/javascript" src="/static/common/js/mod_b818356.js"></script>
+<script type="text/javascript" src="/static/common/js/jquery-1.10.1_77f5e40.js"></script>
+<script type="text/javascript" src="/static/common/pkg/aio_d41d8cd.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/mod_page/mod_page_78338ec.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/ap_ulist/ap_ulist_60537f4.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/header/header_3f34133.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/cover/cover_2e172d2.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/ui/iscroll/iscroll_93ba427.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/ui/velocity/velocity_022bc13.js"></script>
+<script type="text/javascript" src="/static/newsmedia/lessimgindex/lessimgindex_0e2d48b.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/mod_sidebar/mod_sidebar_5cf9d41.js"></script>
+<script type="text/javascript">!function(){    require.async('newsmedia:widget/mod_sidebar/mod_sidebar.js', function(login) {
+      login();
+    })
+  }();
+!function(){    var device = 'pc';
+    // 手机端直接监听每条新闻并跳转
+    if (device !== 'pc') {
+      $(function() {
+        var $banner = $('#banners');
+
+        $banner.delegate('.feed_tegao', 'click', function(ev) {
+          // 判断是否是点击了tag
+          var $target = $(ev.target);
+          if ($target.attr('href') &&
+            /^\/.*/.test($target.attr('href'))) return;
+
+          var $item = $(ev.currentTarget);
+          var href = $item.attr('data-href');
+
+          setTimeout(function() {
+            window.location.href = href;
+          }, 100)
+        });
+      });
+    }
+
+    alog("set", "alias", {
+         monkey: "http://img.baidu.com/hunter/alog/monkey.min.js",
+         element: "http://img.baidu.com/hunter/alog/element.min.js"
+     });
+
+     alog("require", ["monkey", "element"], function(monkey, element){
+         monkey.create({
+             page: "news-21cbh",
+             pid: "241",
+             p: "133",
+             hid: "424",
+             postUrl: "http://nsclick.baidu.com/u.gif",
+             reports: {
+                refer: 1,
+                staytime: 1
+             }
+         });
+     });
+
+     alog("monkey.send", "pageview", { now: +new Date });
+  }();</script></html>

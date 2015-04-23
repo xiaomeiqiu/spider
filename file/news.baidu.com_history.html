@@ -1,0 +1,146 @@
+<html>
+<head>
+<meta content="text/html; charset=GB2312" http-equiv="content-type">
+<title>百度新闻搜索_历史新闻</title>
+<style>
+.p1,td {FONT-SIZE: 14px; LINE-HEIGHT: 24px; FONT-FAMILY: "宋体"}
+.p2 { FONT-SIZE: 14px; LINE-HEIGHT: 24px; color: #333333}
+.p3 { FONT-SIZE: 14px; LINE-HEIGHT: 24px; color: #0033cc}
+.p4 { font-size: 14px;  LINE-HEIGHT: 24px; color: #0033cc }
+.padd10{padding-left:10px;}
+.f12 {	FONT-SIZE: 13px; LINE-HEIGHT: 20px}
+.c{color:#7777CC;}
+.cp{clear:both;text-align:center;color:#777777;font-size:12px;font-family:Arial}
+.cy,a.cy:link,a.cy:visited{color:#7777CC;font-size:12px;font-family:Arial}
+.g{color:#666666;FONT-SIZE: 9pt; LINE-HEIGHT: 18px}
+#ft{clear:both;line-height:20px;text-align:center;padding-top:10px;padding-bottom:10px;border-top:1px solid #7AA9DF}
+#ft,#ft *{color:#77C;font-size:12px;font-family:Arial;white-space:nowrap}
+.cal{padding-left:95px;margin-top:20px}
+td{font-size:12px; line-height:18px}
+.f14{font-size:14px; line-height:22px}
+form{margin:0}
+</style>
+<link rel="stylesheet" type="text/css" media="all" href="calendar/calendar.css">
+<script type="text/javascript" src="calendar/calendar.js"></script>  
+<script type="text/javascript" src="calendar/calendar-zh.js"></script>
+<script type="text/javascript" src="calendar/calendar-setup.js"></script>
+<script language="javascript">
+<!--
+function h(obj,url){
+obj.style.behavior='url(#default#homepage)';
+obj.setHomePage(url);
+}
+function g(url){
+var url;window.location.href=url;
+}
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+//-->
+</script>
+<script language="javascript">
+<!--
+function h(obj,url){
+obj.style.behavior='url(#default#homepage)';
+obj.setHomePage(url);
+}
+-->
+</script>
+</head>
+<body bgcolor=#ffffff text=#000000 vlink=#0033CC alink=#800080  link=#0033cc topmargin="0">
+<a name="n"></a>
+<table width="95%" border=0 align="center">
+  <tr height=60> 
+      
+    <td width=139 valign="top" height="69"><a href=/view.html><img src="http://img.baidu.com/img/logo-news.gif" width=137 height=46 border=0></a></td>
+      
+    <td valign="bottom"> 
+      <table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr bgcolor="#e5ecf9"> 
+          <td height="24">&nbsp;<b class="p1">历史新闻</b></td>
+          <td height="24" class="p2"> 
+            <div align="right"><a  href="http://www.baidu.com/search/jiqiao.html">帮助中心</a> &nbsp;</div>
+          </td>
+        </tr>
+        <tr> 
+          <td height="20" class="p2" colspan="2"></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+
+</table>
+<b class="p1"><a name="n1"></a></b><br>
+<table width="95%" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td bgcolor="#e5ecf9" width="750">&nbsp;<b class="p1">查看历史新闻</b></td>
+        </tr>
+        <tr> 
+          <td class="padd10 f14"><br>
+            请选择您要查看的历史新闻的日期：<br>
+		  <script>
+function s_history(form){
+var sss="";
+var y,m,d;
+var str ="0";
+sss=fh.begin_date.value;
+var arr=sss.split("-");
+if(arr[1]<=9||arr[2]<=9)
+{
+	
+	fh.y.value=arr[0];
+	if(arr[1]<=9)
+	{
+	fh.m.value=str+arr[1];
+	}else
+	{
+	fh.m.value=arr[1];
+	}
+	if(arr[2]<=9)
+	{
+	fh.d.value=str+arr[2];
+	}else
+	{
+	fh.d.value=arr[2];
+	}
+	sss=fh.y.value+"-"+fh.m.value+"-"+fh.d.value;
+}else
+{
+fh.y.value=arr[0];
+fh.m.value=arr[1];
+fh.d.value=arr[2];
+}
+form.action='http://news.baidu.com/'+sss+'/';
+form.submit();
+//return true;
+}
+</script>
+<div class="cal">
+<form name=fh id=fh action="" onSubmit="return s_history(fh);">
+<input name=y type=hidden value="">
+<input name=m type=hidden value="">
+<input name=d type=hidden value="">
+<input name="begin_date" type="text" size="10"  value="2005-1-1" id="begin_date" onClick="return showCalendar('begin_date', 'y-m-d');"><img src="calendar/rili.gif" align="absmiddle" border="0" onmouseover="this.style.cursor='pointer';" onClick="showCalendar('begin_date', 'y-m-d');" >
+<input type="submit" value="确定">
+</form>
+</div>
+ </td>
+  </tr>
+</table>
+<br><br><br><br><br>
+<script>
+function init(){
+var dCurDate = new Date();
+dCurDate = dCurDate.valueOf();
+dCurDate = dCurDate- 1*24*60*60*1000;
+dCurDate = new Date(dCurDate);
+document.fh.begin_date.value=(dCurDate.getFullYear())+"-"+(dCurDate.getMonth()+1)+"-"+(dCurDate.getDate() );
+}
+
+init();
+</script>
+<div id="ft">&copy;2013 Baidu</div>
+</body></html>

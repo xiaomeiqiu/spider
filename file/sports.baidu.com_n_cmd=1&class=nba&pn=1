@@ -1,0 +1,597 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<!--STATUS OK-->
+<meta http-equiv="X-UA-Compatible" content="IE=7">
+<meta http-equiv=Content-Type content="text/html; charset=gb2312">
+<title>百度新闻搜索——NBA新闻      </title>
+<meta name="description" content="百度新闻是包含海量资讯的新闻服务平台，真实反映每时每刻的新闻热点。您可以搜索新闻事件、热点话题、人物动态、产品资讯等，快速了解它们的最新进展。" >
+<!--ecombegin--><!--ecomend-->
+<script type="text/javascript" src="resource/js/perf_monitor.js"></script>
+<script src="/resource/js/news.js?v=201302261116"></script>
+<script src="resource/js/usertrack.js"></script>
+<link href="resource/css/search_box.css?v=201301051533" rel="stylesheet" type="text/css"></link>
+<link href="resource/css/hot_class_2.css?v=201210182329" rel="stylesheet" type="text/css"></link>
+<link href="resource/css/nav_five.css?v=12120828" rel="stylesheet" type="text/css"></link>
+
+<style type="text/css" rel="stylesheet">
+#page_body #nav_sub .backImg .class_title{color:white;height:17px;line-height:19px;padding:0px 0px 0px 0px;*padding:0px 0px 0px 0px;float:left;}
+ #nav_sub .backImg{background:url(/resource/img/channelBack.png)  0px -208px;margin:8px 0px;overflow:hidden;line-height:17px;height:17px;padding:0px 0px 0px 0px;float:left;*display:inline;}
+ .leftback{width:3px;background:url(/resource/img/channelBack.png) no-repeat -1px -170px;height:17px;}
+ .rightback{width:3px;background:url(/resource/img/channelBack.png) no-repeat 0px -189px;height:17px;}
+.nav_sub_nav_p div{float:left;*padding-top:1px;}
+</style>
+
+</head>
+<body id="section_2" >
+<script type="text/javascript" language="javascript">
+    ClickMonitor.init('TWO_LEVEL_HOT', 'c=nba&cy=0');
+</script>
+
+<div id="usrbar"></div>
+<div id="page">
+<div id="header">
+<form action="http://news.baidu.com/ns" style="postion:relative;" name="fbaidu" class="sbox">
+	<table class="sbox" style="position:relative;">
+		<tr>
+            <td class="logo">
+                <div class="logo"><a href="http://news.baidu.com/view.html"><img src="/resource/img/logo_news_137_46.png" alt="百度新闻"></a></div>
+                <div class="date"><!--datebegin--><!--dateend--></div>
+            </td>
+            <td class="search" style="position:relative;">
+                <div class="tab">
+                    <span class="cur">新闻</span><a href="http://www.baidu.com/" title="web"  mon="col=502&pn=0" onclick="queryTab(this);">网页</a><a href="http://tieba.baidu.com/" title="tieba" mon="col=502&pn=1" onclick="queryTab(this);">贴吧</a><a href="http://zhidao.baidu.com/" title="zhidao" mon="col=502&pn=2" onclick="queryTab(this);">知道</a><a href="http://music.baidu.com/" title="music"  mon="col=502&pn=3" onclick="queryTab(this);">音乐</a><a href="http://image.baidu.com/" title="image" mon="col=502&pn=4" onclick="queryTab(this);">图片</a><a href="http://video.baidu.com/" title="video"  mon="col=502&pn=5" onclick="queryTab(this);">视频</a><a href="http://map.baidu.com/" title="map" mon="col=502&pn=6" onclick="queryTab(this);">地图</a><a href="http://baike.baidu.com/" title="baike" mon="col=502&pn=7" onclick="queryTab(this);">百科</a><a href="http://wenku.baidu.com/" title="wenku"  mon="col=502&pn=8" onclick="queryTab(this);">文库</a></div>
+                </div>
+                <table>
+                    <tr>
+                        <td class="box"><div id="sugarea"><span class="s_ipt_wr" id="s_ipt_wr"><input class="word" id="ww" name="word" size="42"  maxlength="100" tabindex="1"></span><span class="s_btn_wr"><input class="btn" type="submit" value="百度一下" onmousedown="this.className='btn s_btn_h'" onmouseout="this.className='btn'"></span></div></td>
+                        <td class="help" id="top-for-ipad"><a href="http://www.baidu.com/search/news_help.html">帮助</a><span class="sep">|</span><a href="http://news.baidu.com/advanced_news.html">高级搜索</a><span class="sep">|</span><a href="http://news.baidu.com/pianhao.html">设置</a></td>
+                    </tr>
+                </table>
+                <!--ecombegin-->
+                <!--ecomend-->
+                <p class="search-radios">
+					<input type="radio" name="tn" value="news" checked id="news"><label for="news">新闻全文</label>
+					<input type="radio" name="tn" value="newstitle" id="newstitle"><label for="newstitle" style="padding:0px;">新闻标题</label>
+                </p>
+				<input type="hidden" name="from" value="news">
+                <input type="hidden" name="cl" value="2">
+
+                <input type="hidden" name="rn" value="20">
+                <input type="hidden" name="ct" value="1">
+            </td></tr>
+	</table>
+    <a id="searchbox_tuiguang" href="http://app.news.baidu.com/?src=yetou" target="_blank"></a>
+    </form>
+<div id="identifier-pannel" style="display:none"><a href="http://app.news.baidu.com/?src=erweima" target="_blank">百度新闻客户端<img src="http://news.baidu.com/resource/img/video_app_tuiguang/erweima.png" height="90" width="90"/>点击或扫描下载</a></div>
+<style type="text/css">
+#header.for-ipad-style{
+    background:url(http://news.baidu.com/resource/img/video_app_tuiguang/video_ipadapp_header_bg.png) no-repeat right bottom;
+    background-size:210px 68px;
+    -webkit-background-size:210px 68px;
+}
+#identifier-pannel{
+    position:fixed;
+    left: 50%;
+    bottom:0;
+    z-index:9999;
+    width:110px;
+    margin-left:517px;
+	height:156px;
+}
+#identifier-pannel a:link,#identifier-pannel a:visited{
+    display:block;
+    padding:10px;
+    line-height:18px;
+    font-size:12px;
+    color:#333;
+    text-decoration:none;
+    white-space:nowrap;
+    text-align:center;
+    background:#f9f9f9;
+}
+#identifier-pannel a:hover{
+    background:#ccd8db;
+    color:#000;
+}
+#identifier-pannel img{
+    display:block;
+    margin:5px auto;
+    border:none;
+}
+
+
+</style>
+
+<script type="text/javascript" src="resource/js/tangram-1.5.2.2.js?v=20130128"></script>
+<script type="text/javascript">
+(function (){
+    /*temp for ad-for-ipad*/
+    if(navigator.userAgent.match(/(iPad).*OS\s([\d_]+)/)){
+        document.getElementById('header').className = 'for-ipad-style';
+        document.getElementById('searchbox_tuiguang').setAttribute('mon' , 'col=504');
+        document.getElementById('searchbox_tuiguang').href='http://itunes.apple.com/cn/app/bai-du-shi-pinhd/id573885698?mt=8';
+
+    }
+    function __getScrollTop(){
+        var d = document;
+            return window.pageYOffset || d.documentElement.scrollTop || d.body.scrollTop;
+    }
+    function __getHeight() {
+        var doc = document,
+            client = doc.compatMode == 'BackCompat' ? doc.body : doc.documentElement;
+            return client.clientHeight;
+    }
+    function __on(obj, type, func){
+        var t = type.replace(/^on/, '');
+        if(window.attachEvent){
+            obj.attachEvent('on' + t, func);
+        }
+        else if(window.addEventListener){
+            obj.addEventListener(t, func, false);
+        }
+    }
+    function __g(id){
+        return document.getElementById(id);
+        
+    }
+
+   __on(window , 'load', function(){
+    function fixedBar(id, options){
+                /*temp
+                {
+                    addclass : 'string',
+                    top : number,
+                    autoHidden : true,
+                    show : true
+                }
+                */
+         var ele = __g(id);
+             if(!ele) return;
+            var pageHeight=__getHeight();
+            var ieScrollTop=__getScrollTop();
+             if(/msie (\d+\.\d+)/i.test(navigator.userAgent)){
+                    if(options.addclass) ele.className = options.addclass;
+                    ele.style.position= 'absolute';
+                    if(options.show){
+                        ele.style.top = ieScrollTop+pageHeight-options.top + "px";
+                        ele.style.display= 'block';
+                    }
+
+                    __on(window,'scroll' , function (){
+
+                            var ieScrollTop=__getScrollTop();
+                            ele.style.top = ieScrollTop+pageHeight - options.top + "px";
+                            if(options.autoHidden){
+                                    if(ieScrollTop==0){
+                                            ele.style.display="none";
+                                    }else{
+                                            ele.style.display="block";
+                                    }
+                            }
+                    });
+            }else{
+                if(options.show) ele.style.display= 'block';
+                ele.style.top = pageHeight-options.top+'px';
+                __on(window,'scroll',function (){
+                    if(options.autoHidden){
+                            if(__getScrollTop()==0){
+                                    ele.style.display="none";
+                            }else{
+                                    ele.style.display="block";
+                            }
+                    }
+                },false);
+            }
+    }
+
+    fixedBar('backTopBtn' , {autoHidden: true, top : 186});
+    fixedBar('identifier-pannel' , {autoHidden: false , top : 386 , show : true});
+    });
+})();
+</script>
+
+<script src="http://cbjs.baidu.com/js/m.js"></script>
+<script>
+    BAIDU_CLB_addOrientation('newschn', 'nba');
+</script>
+
+<script>read_cookie();</script>
+</div>
+<div id="main">
+<div id="nav"><!--ecombegin-->
+        <ul class="nav_aside">
+            <li><a href="http://news.baidu.com/n?cmd=4&class=rolling&pn=1&from=tab&sub=0">最新</a></li>
+            <!--<li><a href="http://news.baidu.com/n?bypass=lamp&m=pagesother&v=newsgx">定制</a></li>
+			<li><a href="http://www.baidu.com/search/news_more.html" style="*line-height:29px;">更多&gt;&gt;</a></li>-->
+        </ul><!--ecomend-->
+        <ul class="nav_main">
+            <li style="background-image:none;padding-left:0px;"><a href="http://news.baidu.com/view.html">首页</a></li>
+
+            <li><a href="http://news.baidu.com/n?cmd=1&class=civilnews&pn=1&from=tab">国内</a></li>
+
+            <li><a href="http://news.baidu.com/n?cmd=1&class=internews&pn=1&from=tab">国际</a></li>
+
+            <li><a href="http://news.baidu.com/n?cmd=1&class=mil&pn=1&from=tab">军事</a></li>
+
+            <li><a href="http://news.baidu.com/n?cmd=1&class=finannews&pn=1&from=tab">财经</a></li>
+
+            <li><a href="http://news.baidu.com/n?cmd=1&class=internet&pn=1&from=tab">互联网</a></li>
+
+            <li><a href="http://news.baidu.com/n?cmd=1&class=housenews&pn=1&from=tab">房产</a></li>
+
+            <li><a href="http://news.baidu.com/n?cmd=1&class=autonews&pn=1&from=tab">汽车</a></li>
+
+            <li><div><a href="http://news.baidu.com/n?cmd=1&class=sportnews&pn=1&from=tab">体育</a></div></li>
+
+            <li><a href="http://news.baidu.com/n?cmd=1&class=enternews&pn=1&from=tab">娱乐</a></li>
+
+            <li><a href="http://news.baidu.com/n?cmd=1&class=gamenews&pn=1&from=tab">游戏</a></li>
+
+            <li><a href="http://news.baidu.com/n?cmd=1&class=edunews&pn=1&from=tab">教育</a></li>
+
+            <li><a href="http://news.baidu.com/n?cmd=1&class=healthnews&pn=1&from=tab">女人</a></li>
+
+            <li><a href="http://news.baidu.com/n?cmd=1&class=technnews&pn=1&from=tab">科技</a></li>
+
+            <li><a href="http://news.baidu.com/n?cmd=1&class=socianews&pn=1&from=tab">社会</a></li>
+            <!--ecombegin-->
+			<li class="new"><a href="http://news.baidu.com/n?cmd=10&class=vid2top&pn=1&from=tab&sub=0">视频</a></li>
+
+            <li><a href="http://news.baidu.com/n?cmd=9&class=pic2top&pn=1&from=tab&sub=0">图片</a></li>
+
+			<li ><a href="http://renwu.baidu.com/">人物</a></li>
+
+            <!--ecomend-->
+        </ul>
+
+		<div class="nav-left-corner"></div><div class="nav-right-corner"></div>
+</div>
+    <div id="page_body">
+	<div id="nav_sub">
+		<a href="/n?cmd=1&class=sportnews&pn=1"  class="subject">体育新闻</a>
+		<div class="nav_sub_nav_p">
+										<div class="backImg"><div class="leftback"></div><a class="class_title" href="/n?cmd=1&class=nba&pn=1">NBA</a><div class="rightback"></div></div><span class="sepLine">|</span>
+								<div><a href="/n?cmd=1&class=worldsoccer&pn=1">国际足球</a></div><span class="sepLine">|</span>
+								<div><a href="/n?cmd=1&class=chinasoccer&pn=1">国内足球</a></div><span class="sepLine">|</span>
+								<div><a href="/n?cmd=1&class=cba&pn=1">CBA</a></div><span class="sepLine">|</span>
+								<div><a href="/n?cmd=1&class=othersports&pn=1">综合体育</a></div><span class="sepLine">|</span>
+								<div><a href="/n?cmd=1&class=sport_syn&pn=1">体育综合</a></div><span class="sepLine">|</span>
+								<a style="padding-top:1px;" target="_blank" href="http://2012.baidu.com">奥运</a>					</div>
+			 <div class="left-border"></div><div class="right-border"></div>
+	</div><!--nav_sub ends-->
+	<div id="content" style="padding:10px">
+	<div class="news top ">
+		<table class="layout">
+			<tr>
+				<td width="90%">
+                            					<div class="hl2">
+				<!--图片数据类型-->
+                    						<a href="http://sports.163.com/15/0421/10/ANNG2M1L00051CA1.html" target="_blank" mon="a=4&p=1"><img class="img-main" src="http://t1.baidu.com/it/u=http%3A%2F%2Fimg3.cache.netease.com%2Fphoto%2F0005%2F2015-04-20%2FANL513UV4TM10005.550x.0.jpg&fm=30"></a>
+			        						<div style="float:left;width:75%">
+							<a href="http://sports.163.com/15/0421/10/ANNG2M1L00051CA1.html" class="title" target="_blank" mon="a=1&p=1" style="font-size:16px" >帕克:伤痕累累仍为G2全力以赴 马刺能破快船策略</a><span class="s">10:07</span><a href="http://news.baidu.com/n?cmd=2&class=nba&page=http%3A%2F%2Fsports.163.com%2F15%2F0421%2F10%2FANNG2M1L00051CA1.html&cls=nba" target="_blank" class="rnews">53条相关&gt;&gt;</a>							<ul class="relative">
+															<li>&#8226;&nbsp;<a href="http://www.chinanews.com/ty/2015/04-21/7221841.shtml" target="_blank"  mon="a=2&p=1">詹姆斯一场比赛刷新四纪录 和乔丹孰强再掀波澜 </a></li>
+															<li>&#8226;&nbsp;<a href="http://www.chinanews.com/ty/2015/04-21/7221651.shtml" target="_blank"  mon="a=2&p=1">马刺中锋惨成“背景板” 贝恩斯被连续3次隔扣 </a></li>
+														</ul>
+						</div>
+					</div>
+                                            				    					<ul class="list">
+											<li>
+							&#8226;&nbsp;<a href="http://www.chinanews.com/ty/2015/04-21/7222136.shtml" target="_blank"  mon="a=1&p=1&pn=1">大数据透视“变态准”库里：投得更快 角度更陡 </a><span class="s">10:34</span><a href="http://news.baidu.com/n?cmd=2&class=nba&page=http%3A%2F%2Fwww.chinanews.com%2Fty%2F2015%2F04-21%2F7222136.shtml&cls=nba" target="_blank" class="rnews">4条相关&gt;&gt;</a>						</li>
+						                                            				    						<li>
+							&#8226;&nbsp;<a href="http://sports.163.com/15/0421/08/ANN9U40I00051CA1.html" target="_blank"  mon="a=1&p=1&pn=2">板凳匪徒:誓要当好骑士&quot;门卫&quot; LBJ:帕金斯是领袖</a><span class="s">08:20</span><a href="http://news.baidu.com/n?cmd=2&class=nba&page=http%3A%2F%2Fsports.163.com%2F15%2F0421%2F08%2FANN9U40I00051CA1.html&cls=nba" target="_blank" class="rnews">5条相关&gt;&gt;</a>						</li>
+						                                            				    						<li>
+							&#8226;&nbsp;<a href="http://sports.163.com/15/0419/15/ANISQH3P00052UUC.html" target="_blank"  mon="a=1&p=1&pn=3">辽媒:男篮训练与NBA巨星差太多 科比凌晨4点开练</a><span class="s">04-19 15:14</span><a href="http://news.baidu.com/n?cmd=2&class=nba&page=http%3A%2F%2Fsports.163.com%2F15%2F0419%2F15%2FANISQH3P00052UUC.html&cls=nba" target="_blank" class="rnews">5条相关&gt;&gt;</a>						</li>
+						                                            				    						<li>
+							&#8226;&nbsp;<a href="http://sports.163.com/15/0420/15/ANLF53Q100051CA1.html" target="_blank"  mon="a=1&p=1&pn=4">惨败又何惧? 慢热马刺曾三次输首场终捧杯</a><span class="s">04-20 15:13</span><a href="http://news.baidu.com/n?cmd=2&class=nba&page=http%3A%2F%2Fsports.163.com%2F15%2F0420%2F15%2FANLF53Q100051CA1.html&cls=nba" target="_blank" class="rnews">6条相关&gt;&gt;</a>						</li>
+						                                            				    						<li>
+							&#8226;&nbsp;<a href="http://sports.sina.com.cn/nba/2015-04-21/10317582363.shtml" target="_blank"  mon="a=1&p=1&pn=5">巴特勒31分诺阿19板 公牛再胜雄鹿总比分2-0</a><span class="s">10:31</span><a href="http://news.baidu.com/n?cmd=2&class=nba&page=http%3A%2F%2Fsports.sina.com.cn%2Fnba%2F2015-04-21%2F10317582363.shtml&cls=nba" target="_blank" class="rnews">65条相关&gt;&gt;</a>						</li>
+											</ul>
+					<ul class="list">
+						                                            				    						<li>
+							&#8226;&nbsp;<a href="http://sports.qq.com/a/20150421/017073.htm" target="_blank"  mon="a=1&p=1&pn=6">奥拉朱旺看好火箭登顶：他们拥有总冠军配置</a><span class="s">09:07</span><a href="http://news.baidu.com/n?cmd=2&class=nba&page=http%3A%2F%2Fsports.qq.com%2Fa%2F20150421%2F017073.htm&cls=nba" target="_blank" class="rnews">31条相关&gt;&gt;</a>						</li>
+						                                            				    						<li>
+							&#8226;&nbsp;<a href="http://sports.sina.com.cn/nba/2015-04-21/07487582141.shtml" target="_blank"  mon="a=1&p=1&pn=7">韦特斯曝跟女球迷合影冏事 竟被当成韦德(图) </a><span class="s">07:48</span><a href="http://news.baidu.com/n?cmd=2&class=nba&page=http%3A%2F%2Fsports.sina.com.cn%2Fnba%2F2015-04-21%2F07487582141.shtml&cls=nba" target="_blank" class="rnews">4条相关&gt;&gt;</a>						</li>
+						                                            				    						<li>
+							&#8226;&nbsp;<a href="http://sports.163.com/15/0421/07/ANN7HCSJ00051CA1.html" target="_blank"  mon="a=1&p=1&pn=8">莱利:绝不让热火重蹈失败覆辙 对LBJ离开已释怀</a><span class="s">07:38</span><a href="http://news.baidu.com/n?cmd=2&class=nba&page=http%3A%2F%2Fsports.163.com%2F15%2F0421%2F07%2FANN7HCSJ00051CA1.html&cls=nba" target="_blank" class="rnews">35条相关&gt;&gt;</a>						</li>
+						                                            				    						<li>
+							&#8226;&nbsp;<a href="http://sports.qq.com/a/20150420/042546.htm" target="_blank"  mon="a=1&p=1&pn=9">室友为乔丹詹皇争论变斗殴 一人恶意袭击被捕</a><span class="s">04-20 14:21</span><a href="http://news.baidu.com/n?cmd=2&class=nba&page=http%3A%2F%2Fsports.qq.com%2Fa%2F20150420%2F042546.htm&cls=nba" target="_blank" class="rnews">12条相关&gt;&gt;</a>						</li>
+											</ul>
+					<ul class="list">
+						                                            				    						<li>
+							&#8226;&nbsp;<a href="http://www.chinanews.com/ty/2015/04-20/7218279.shtml" target="_blank"  mon="a=1&p=1&pn=10">体坛硬汉：乔丹发烧砍38分 C罗单腿拼到极限 </a><span class="s">04-20 08:47</span><a href="http://news.baidu.com/n?cmd=2&class=nba&page=http%3A%2F%2Fwww.chinanews.com%2Fty%2F2015%2F04-20%2F7218279.shtml&cls=nba" target="_blank" class="rnews">10条相关&gt;&gt;</a>						</li>
+						                                            				    						<li>
+							&#8226;&nbsp;<a href="http://sports.sina.com.cn/nba/2015-04-21/09147582207.shtml" target="_blank"  mon="a=1&p=1&pn=11">开拓者歧视性口号惹争议 矛头所指小加淡定回应</a><span class="s">09:14</span><a href="http://news.baidu.com/n?cmd=2&class=nba&page=http%3A%2F%2Fsports.sina.com.cn%2Fnba%2F2015-04-21%2F09147582207.shtml&cls=nba" target="_blank" class="rnews">6条相关&gt;&gt;</a>						</li>
+						                                            				    						<li>
+							&#8226;&nbsp;<a href="http://sports.163.com/15/0421/08/ANNBA4LO00051CA1.html" target="_blank"  mon="a=1&p=1&pn=12">曝雷霆已认真考虑换帅 新任候选曾是杜兰特队友</a><span class="s">08:44</span><a href="http://news.baidu.com/n?cmd=2&class=nba&page=http%3A%2F%2Fsports.163.com%2F15%2F0421%2F08%2FANNBA4LO00051CA1.html&cls=nba" target="_blank" class="rnews">19条相关&gt;&gt;</a>						</li>
+						                                            				    						<li>
+							&#8226;&nbsp;<a href="http://china.nba.com/news/4/2015-04-21/0746/28031.html" target="_blank"  mon="a=1&p=1&pn=13">勇士疯狂主场引羡嫉恨 浓眉:战术都听不见</a><span class="s">07:46</span><a href="http://news.baidu.com/n?cmd=2&class=nba&page=http%3A%2F%2Fchina.nba.com%2Fnews%2F4%2F2015-04-21%2F0746%2F28031.html&cls=nba" target="_blank" class="rnews">24条相关&gt;&gt;</a>						</li>
+						                                            				    						<li>
+							&#8226;&nbsp;<a href="http://sports.163.com/15/0421/09/ANNCLBBJ00051CA1.html" target="_blank"  mon="a=1&p=1&pn=14">小刺客谈落选第6人:无法控制投票 数据不会说谎</a><span class="s">09:08</span><a href="http://news.baidu.com/n?cmd=2&class=nba&page=http%3A%2F%2Fsports.163.com%2F15%2F0421%2F09%2FANNCLBBJ00051CA1.html&cls=nba" target="_blank" class="rnews">10条相关&gt;&gt;</a>						</li>
+						                                            				    						<li>
+							&#8226;&nbsp;<a href="http://sports.sina.com.cn/l/s/2015-04-21/09487582261.shtml" target="_blank"  mon="a=1&p=1&pn=15">篮彩大势：火箭强势再虐小牛 猛龙主场背水一战</a><span class="s">09:48</span><a href="http://news.baidu.com/n?cmd=2&class=nba&page=http%3A%2F%2Fsports.sina.com.cn%2Fl%2Fs%2F2015-04-21%2F09487582261.shtml&cls=nba" target="_blank" class="rnews">23条相关&gt;&gt;</a>						</li>
+						                            					</ul>
+				</td>
+				<td>
+			<!--若有图片报道，则出图片报道-->
+					<div class="sbar" style="margin-right:3px">
+						<h2>图片报道</h2>
+						<ul>
+												<li>
+						                                <a href="http://sports.southcn.com/s/2015-04/21/content_122641273.htm" target="_blank"  mon="a=12&p=2"><img class="img-aside" src="http://t2.baidu.com/it/u=http%3A%2F%2Fsports.southcn.com%2Fs%2Fimages%2Fattachement%2Fjpg%2Fsite4%2F20150421%2F52%2F3217680649080577928.jpg&fm=30"></a><br>
+                        							    <a class="news-digest" href="http://sports.southcn.com/s/2015-04/21/content_122641273.htm" target="_blank"   mon="a=9&p=2">GDP总得分竟不如保罗一人 马刺怎谈夺冠？</a></li>
+												<li>
+						                                <a href="http://sports.163.com/15/0421/09/ANNCT0VO00051CA1.html" target="_blank"  mon="a=12&p=2"><img class="img-aside" src="http://t1.baidu.com/it/u=http%3A%2F%2Fimg5.cache.netease.com%2Fsports%2F2015%2F4%2F21%2F20150421091224ed474_550.jpg&fm=30"></a><br>
+                        							    <a class="news-digest" href="http://sports.163.com/15/0421/09/ANNCT0VO00051CA1.html" target="_blank"   mon="a=9&p=2">小布被撞倒引火爆冲突 公牛雄鹿4将皆领到技犯</a></li>
+												<li>
+						                                <a href="http://sports.sina.com.cn/nba/2015-04-21/06387582127.shtml" target="_blank"  mon="a=12&p=2"><img class="img-aside" src="http://t2.baidu.com/it/u=http%3A%2F%2Fi1.sinaimg.cn%2Fty%2Fnba%2F2015-04-21%2FU12300P6T12D7582127F44DT20150421063812.jpg&fm=30"></a><br>
+                        							    <a class="news-digest" href="http://sports.sina.com.cn/nba/2015-04-21/06387582127.shtml" target="_blank"   mon="a=9&p=2">大梦：火箭具备夺冠配置 他们有能力击败小牛</a></li>
+											</ul>
+					</div>
+				</td>
+			</tr>
+		</table>
+	</div>
+	<!--三级子分类最新新闻-->
+
+	<div class="col2" style="padding-left: 1px;">
+            <!--10条子分类最新新闻，若不足3条，则不出该子栏目-->
+                    		<div class="box2 m10 height2" style="position:relative">
+		<h2>林书豪</h2>
+		<ul class="list">
+              			<li><nobr>&#8226;&nbsp;<a href="http://sports.163.com/15/0421/10/ANNHJTJH00051CA1.html" mon="a=1&p=1&z=linshuhao&pn=1" target="_blank">哈登:比起单场轰50分更爱砍三双 我绝非纯砍分手</a><span class="s">10:34</span></nobr></li>
+              			<li><nobr>&#8226;&nbsp;<a href="http://news.qtv.com.cn/system/2015/04/21/012314782.shtml" mon="a=1&p=1&z=linshuhao&pn=2" target="_blank">独家图：奥拉朱旺特训霍华德 魔兽低头微笑倾听</a><span class="s">09:32</span></nobr></li>
+              			<li><nobr>&#8226;&nbsp;<a href="http://we.sportscn.com/viewnews-1773988.html" mon="a=1&p=1&z=linshuhao&pn=3" target="_blank">NBA那些险些完成的惊天交易 火箭曾差点得到乔丹</a><span class="s">08:47</span></nobr></li>
+              			<li><nobr>&#8226;&nbsp;<a href="http://sports.sohu.com/20150421/n411596335.shtml" mon="a=1&p=1&z=linshuhao&pn=4" target="_blank">曝阿德留队仅五成可能 湖人尼克斯已抛来橄榄枝</a><span class="s">08:27</span></nobr></li>
+              			<li><nobr>&#8226;&nbsp;<a href="http://sports.qq.com/a/20150420/010126.htm" mon="a=1&p=1&z=linshuhao&pn=5" target="_blank">报国无门？ “下一个林书豪”欲加盟国青遭拒</a><span class="s">04-20 07:52</span></nobr></li>
+              			<li><nobr>&#8226;&nbsp;<a href="http://pic.sports.sohu.com/group-649410.shtml" mon="a=1&p=1&z=linshuhao&pn=6" target="_blank">林书豪赛季10大战役：打76人29分 惨遭科比怒吼</a><span class="s">04-20 07:47</span></nobr></li>
+              			<li><nobr>&#8226;&nbsp;<a href="http://sports.qq.com/a/20150417/041687.htm" mon="a=1&p=1&z=linshuhao&pn=7" target="_blank">安东尼坚信膝伤能彻底痊愈 下赛季将王者归来</a><span class="s">04-17 14:12</span></nobr></li>
+              			<li><nobr>&#8226;&nbsp;<a href="http://sports.qq.com/a/20150417/058572.htm" mon="a=1&p=1&z=linshuhao&pn=8" target="_blank">ESPN：湖人签朗多会后悔 斯科特在书豪必走人</a><span class="s">04-17 20:02</span></nobr></li>
+              			<li><nobr>&#8226;&nbsp;<a href="http://news.xinhuanet.com/sports/2015-04/20/c_127706631.htm" mon="a=1&p=1&z=linshuhao&pn=9" target="_blank">火箭小牛组男模天团 霍华德诺天王西装抢眼</a><span class="s">04-20 06:00</span></nobr></li>
+              			<li><nobr>&#8226;&nbsp;<a href="http://sports.qq.com/a/20150417/043949.htm" mon="a=1&p=1&z=linshuhao&pn=10" target="_blank">霍华德：出场时间不重要 我统治禁区才能赢球</a><span class="s">04-17 14:59</span></nobr></li>
+              		</ul>
+			<p class="more" style="position: absolute; top: 280px; width: 96%; text-align: right;"><a href="http://news.baidu.com/n?cmd=4&class=linshuhao&pn=1" target="_blank">更多林书豪新闻&gt;&gt;</a></p>
+		</div>
+                                		<div class="box2 m10 height2" style="position:relative">
+		<h2>火箭</h2>
+		<ul class="list">
+              			<li><nobr>&#8226;&nbsp;<a href="http://sports.163.com/15/0421/10/ANNHJTJH00051CA1.html" mon="a=1&p=1&z=huojian&pn=1" target="_blank">哈登:比起单场轰50分更爱砍三双 我绝非纯砍分手</a><span class="s">10:34</span></nobr></li>
+              			<li><nobr>&#8226;&nbsp;<a href="http://sports.sina.com.cn/nba/2015-04-21/10317582363.shtml" mon="a=1&p=1&z=huojian&pn=2" target="_blank">巴特勒31分诺阿19板 公牛再胜雄鹿总比分2-0</a><span class="s">10:31</span></nobr></li>
+              			<li><nobr>&#8226;&nbsp;<a href="http://sports.qq.com/a/20150421/014496.htm" mon="a=1&p=1&z=huojian&pn=3" target="_blank">现场—公牛雄鹿险发冲突</a><span class="s">08:43</span></nobr></li>
+              			<li><nobr>&#8226;&nbsp;<a href="http://sports.163.com/15/0421/09/ANNEE6HD00051CA1.html" mon="a=1&p=1&z=huojian&pn=4" target="_blank">帕森斯缺席训练出战成疑 阿里扎:不惧小牛做调整</a><span class="s">09:39</span></nobr></li>
+              			<li><nobr>&#8226;&nbsp;<a href="http://news.qtv.com.cn/system/2015/04/21/012314782.shtml" mon="a=1&p=1&z=huojian&pn=5" target="_blank">独家图：奥拉朱旺特训霍华德 魔兽低头微笑倾听</a><span class="s">09:32</span></nobr></li>
+              			<li><nobr>&#8226;&nbsp;<a href="http://sports.163.com/15/0421/08/ANNBA4LO00051CA1.html" mon="a=1&p=1&z=huojian&pn=6" target="_blank">曝雷霆已认真考虑换帅 新任候选曾是杜兰特队友</a><span class="s">08:44</span></nobr></li>
+              			<li><nobr>&#8226;&nbsp;<a href="http://we.sportscn.com/viewnews-1773891.html" mon="a=1&p=1&z=huojian&pn=7" target="_blank">威廉姆斯荣膺最佳第六人 创纪录!猛龙队史第1人</a><span class="s">06:40</span></nobr></li>
+              			<li><nobr>&#8226;&nbsp;<a href="http://sports.sina.com.cn/nba/2015-04-20/09547581314.shtml" mon="a=1&p=1&z=huojian&pn=8" target="_blank">火箭首战两关键点敛55分 拳王:侵略者赢哨子</a><span class="s">04-20 09:54</span></nobr></li>
+              			<li><nobr>&#8226;&nbsp;<a href="http://sports.qq.com/a/20150420/010126.htm" mon="a=1&p=1&z=huojian&pn=9" target="_blank">报国无门？ “下一个林书豪”欲加盟国青遭拒</a><span class="s">04-20 07:52</span></nobr></li>
+              			<li><nobr>&#8226;&nbsp;<a href="http://voice.hupu.com/nba/1903581.html" mon="a=1&p=1&z=huojian&pn=10" target="_blank">帕帕尼古拉乌：赛前球队的气氛都变得不同了 </a><span class="s">04-19 17:18</span></nobr></li>
+              		</ul>
+			<p class="more" style="position: absolute; top: 280px; width: 96%; text-align: right;"><a href="http://news.baidu.com/n?cmd=4&class=huojian&pn=1" target="_blank">更多火箭新闻&gt;&gt;</a></p>
+		</div>
+                                		<div class="box2 m10 height2" style="position:relative">
+		<h2>湖人</h2>
+		<ul class="list">
+              			<li><nobr>&#8226;&nbsp;<a href="http://sports.163.com/15/0421/10/ANNGBADR00052UUC.html" mon="a=1&p=1&z=huren&pn=1" target="_blank">易建联曝与穆迪埃一起训练 网友:一起来湖人队吧</a><span class="s">10:12</span></nobr></li>
+              			<li><nobr>&#8226;&nbsp;<a href="http://sports.qq.com/a/20150421/014569.htm" mon="a=1&p=1&z=huren&pn=2" target="_blank">丑爆！快船新球衣曝光 为当LA主人也是蛮拼的</a><span class="s">08:44</span></nobr></li>
+              			<li><nobr>&#8226;&nbsp;<a href="http://sports.sohu.com/20150421/n411596335.shtml" mon="a=1&p=1&z=huren&pn=3" target="_blank">曝阿德留队仅五成可能 湖人尼克斯已抛来橄榄枝</a><span class="s">08:27</span></nobr></li>
+              			<li><nobr>&#8226;&nbsp;<a href="http://sports.qq.com/a/20150421/009618.htm" mon="a=1&p=1&z=huren&pn=4" target="_blank">莱利自信能续约德拉季奇 湖人打劫计划或落空</a><span class="s">07:07</span></nobr></li>
+              			<li><nobr>&#8226;&nbsp;<a href="http://sports.qq.com/a/20150420/017810.htm" mon="a=1&p=1&z=huren&pn=5" target="_blank">19分钟4犯规！JR吐槽裁判 科比躺枪惨遭暗讽 </a><span class="s">04-20 09:36</span></nobr></li>
+              			<li><nobr>&#8226;&nbsp;<a href="http://china.nba.com/news/4/2015-04-19/0828/28001.html" mon="a=1&p=1&z=huren&pn=6" target="_blank">19日数据酷:皮尔斯季后赛生涯得分超沃西</a><span class="s">04-19 08:28</span></nobr></li>
+              			<li><nobr>&#8226;&nbsp;<a href="http://sports.qq.com/a/20150418/031144.htm" mon="a=1&p=1&z=huren&pn=7" target="_blank">兰德尔谈单挑科比被虐：他故意犯规完成逆转</a><span class="s">04-18 18:30</span></nobr></li>
+              			<li><nobr>&#8226;&nbsp;<a href="http://voice.hupu.com/nba/1903251.html" mon="a=1&p=1&z=huren&pn=8" target="_blank">帕克：第一次实现卫冕是球队现在的动力 </a><span class="s">04-18 13:48</span></nobr></li>
+              			<li><nobr>&#8226;&nbsp;<a href="http://sports.163.com/15/0419/15/ANISQH3P00052UUC.html" mon="a=1&p=1&z=huren&pn=9" target="_blank">辽媒:男篮训练与NBA巨星差太多 科比凌晨4点开练</a><span class="s">04-19 15:14</span></nobr></li>
+              			<li><nobr>&#8226;&nbsp;<a href="http://sports.sina.com.cn/nba/2015-04-18/17177579531.shtml" mon="a=1&p=1&z=huren&pn=10" target="_blank">今日神吐槽:差评!米兰的小铁匠不替老婆拎包</a><span class="s">04-18 17:17</span></nobr></li>
+              		</ul>
+			<p class="more" style="position: absolute; top: 280px; width: 96%; text-align: right;"><a href="http://news.baidu.com/n?cmd=4&class=huren&pn=1" target="_blank">更多湖人新闻&gt;&gt;</a></p>
+		</div>
+                    	</div>
+
+	<div class="clear"></div>
+	<!--二级焦点页之最新新闻-->
+	<!-- newnews begin -->
+	<div id="update" class="box2" style="margin-right:3px">
+		<h2>最新新闻</h2>
+		<div class="cnt">
+
+			<ul class="list">
+                            <!--为了满足除重需求，空循环10条-->
+                			                <!--为了满足除重需求，空循环10条-->
+                			                <!--为了满足除重需求，空循环10条-->
+                			                <!--为了满足除重需求，空循环10条-->
+                			                <!--为了满足除重需求，空循环10条-->
+                			                <!--为了满足除重需求，空循环10条-->
+                			                <!--为了满足除重需求，空循环10条-->
+                			                <!--为了满足除重需求，空循环10条-->
+                			                <!--为了满足除重需求，空循环10条-->
+                			                <!--为了满足除重需求，空循环10条-->
+                			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://sports.163.com/15/0421/10/ANNGBADR00052UUC.html" mon="a=11&p=1&pn=11" target="_blank">易建联曝与穆迪埃一起训练 网友:一起来湖人队吧</a><span class="s">10:12</span><a href="http://news.baidu.com/n?cmd=5&class=nba&page=http%3A%2F%2Fsports.163.com%2F15%2F0421%2F10%2FANNGBADR00052UUC.html&cls=nba" class="rnews">5条相关&gt;&gt;</a></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://sports.sina.com.cn/cba/2015-04-21/10087582316.shtml" mon="a=11&p=1&pn=12" target="_blank">WCBA赛季总结:共6张罚单 严肃处理罢赛群殴</a><span class="s">10:08</span><a href="http://news.baidu.com/n?cmd=5&class=nba&page=http%3A%2F%2Fsports.sina.com.cn%2Fcba%2F2015-04-21%2F10087582316.shtml&cls=nba" class="rnews">3条相关&gt;&gt;</a></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://sports.163.com/15/0421/10/ANNG2M1L00051CA1.html" mon="a=11&p=1&pn=13" target="_blank">帕克:伤痕累累仍为G2全力以赴 马刺能破快船策略</a><span class="s">10:07</span><a href="http://news.baidu.com/n?cmd=5&class=nba&page=http%3A%2F%2Fsports.163.com%2F15%2F0421%2F10%2FANNG2M1L00051CA1.html&cls=nba" class="rnews">50条相关&gt;&gt;</a></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://sports.sina.com.cn/nba/2015-04-21/10037582305.shtml" mon="a=11&p=1&pn=14" target="_blank">欧文：我与LBJ关系逐月提升 我挺他他也挺我</a><span class="s">10:03</span><a href="http://news.baidu.com/n?cmd=5&class=nba&page=http%3A%2F%2Fsports.sina.com.cn%2Fnba%2F2015-04-21%2F10037582305.shtml&cls=nba" class="rnews">44条相关&gt;&gt;</a></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://voice.hupu.com/nba/1904342.html" mon="a=11&p=1&pn=15" target="_blank">状元热门奥卡福现场观战公牛对雄鹿 </a><span class="s">10:00</span></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://sports.qq.com/a/20150421/020813.htm" mon="a=11&p=1&pn=16" target="_blank">猛攒人品！里弗斯盛赞邓肯：历史第一大前锋</a><span class="s">09:59</span><a href="http://news.baidu.com/n?cmd=5&class=nba&page=http%3A%2F%2Fsports.qq.com%2Fa%2F20150421%2F020813.htm&cls=nba" class="rnews">14条相关&gt;&gt;</a></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://sports.sina.com.cn/nba/2015-04-21/09527582270.shtml" mon="a=11&p=1&pn=17" target="_blank">魔兽：就算被罚下也要全力防守 确信头脑冷静</a><span class="s">09:52</span><a href="http://news.baidu.com/n?cmd=5&class=nba&page=http%3A%2F%2Fsports.sina.com.cn%2Fnba%2F2015-04-21%2F09527582270.shtml&cls=nba" class="rnews">2条相关&gt;&gt;</a></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://voice.hupu.com/nba/1904340.html" mon="a=11&p=1&pn=18" target="_blank">詹姆斯：小托马斯任何时候都是得分威胁 </a><span class="s">09:51</span><a href="http://news.baidu.com/n?cmd=5&class=nba&page=http%3A%2F%2Fvoice.hupu.com%2Fnba%2F1904340.html&cls=nba" class="rnews">3条相关&gt;&gt;</a></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://sports.163.com/15/0421/09/ANNF10MC00051CA1.html" mon="a=11&p=1&pn=19" target="_blank">真理任PF奇才进攻超骑士 自夸:我打PF对手更头痛</a><span class="s">09:49</span><a href="http://news.baidu.com/n?cmd=5&class=nba&page=http%3A%2F%2Fsports.163.com%2F15%2F0421%2F09%2FANNF10MC00051CA1.html&cls=nba" class="rnews">63条相关&gt;&gt;</a></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://voice.hupu.com/nba/1904336.html" mon="a=11&p=1&pn=20" target="_blank">小托马斯：数据不会说谎，祝贺威廉姆斯 </a><span class="s">09:47</span><a href="http://news.baidu.com/n?cmd=5&class=nba&page=http%3A%2F%2Fvoice.hupu.com%2Fnba%2F1904336.html&cls=nba" class="rnews">2条相关&gt;&gt;</a></li>
+                    			</ul>
+			<ul class="list">
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://www.chinanews.com/ty/2015/04-21/7221841.shtml" mon="a=11&p=1&pn=21" target="_blank">詹姆斯一场比赛刷新四纪录 和乔丹孰强再掀波澜 </a><span class="s">09:47</span><a href="http://news.baidu.com/n?cmd=5&class=nba&page=http%3A%2F%2Fwww.chinanews.com%2Fty%2F2015%2F04-21%2F7221841.shtml&cls=nba" class="rnews">84条相关&gt;&gt;</a></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://sports.qq.com/a/20150421/019485.htm" mon="a=11&p=1&pn=22" target="_blank">阿里扎：不惧小牛调整 火箭进攻能爆任何防线</a><span class="s">09:41</span><a href="http://news.baidu.com/n?cmd=5&class=nba&page=http%3A%2F%2Fsports.qq.com%2Fa%2F20150421%2F019485.htm&cls=nba" class="rnews">34条相关&gt;&gt;</a></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://voice.hupu.com/nba/1904328.html" mon="a=11&p=1&pn=23" target="_blank">鹈鹕主帅：我是想称赞对手的主场 </a><span class="s">09:40</span><a href="http://news.baidu.com/n?cmd=5&class=nba&page=http%3A%2F%2Fvoice.hupu.com%2Fnba%2F1904328.html&cls=nba" class="rnews">2条相关&gt;&gt;</a></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://voice.hupu.com/nba/1904325.html" mon="a=11&p=1&pn=24" target="_blank">邓利维从未打入季后赛第二轮：今年是好机会 </a><span class="s">09:39</span><a href="http://news.baidu.com/n?cmd=5&class=nba&page=http%3A%2F%2Fvoice.hupu.com%2Fnba%2F1904325.html&cls=nba" class="rnews">3条相关&gt;&gt;</a></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://sports.163.com/15/0421/09/ANNEE6HD00051CA1.html" mon="a=11&p=1&pn=25" target="_blank">帕森斯缺席训练出战成疑 阿里扎:不惧小牛做调整</a><span class="s">09:39</span><a href="http://news.baidu.com/n?cmd=5&class=nba&page=http%3A%2F%2Fsports.163.com%2F15%2F0421%2F09%2FANNEE6HD00051CA1.html&cls=nba" class="rnews">7条相关&gt;&gt;</a></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://sports.sina.com.cn/nba/2015-04-21/09397582247.shtml" mon="a=11&p=1&pn=26" target="_blank">帕帅小哈双双缺席训练 对火箭第二场出战存疑</a><span class="s">09:39</span><a href="http://news.baidu.com/n?cmd=5&class=nba&page=http%3A%2F%2Fsports.sina.com.cn%2Fnba%2F2015-04-21%2F09397582247.shtml&cls=nba" class="rnews">7条相关&gt;&gt;</a></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://voice.hupu.com/nba/1904324.html" mon="a=11&p=1&pn=27" target="_blank">桑德斯：会在选秀大会上得到一名出色球员 </a><span class="s">09:38</span><a href="http://news.baidu.com/n?cmd=5&class=nba&page=http%3A%2F%2Fvoice.hupu.com%2Fnba%2F1904324.html&cls=nba" class="rnews">3条相关&gt;&gt;</a></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://sports.qq.com/a/20150421/019170.htm" mon="a=11&p=1&pn=28" target="_blank">小牛遭遇伤病侵袭 冥王高富帅双双缺席训练</a><span class="s">09:38</span><a href="http://news.baidu.com/n?cmd=5&class=nba&page=http%3A%2F%2Fsports.qq.com%2Fa%2F20150421%2F019170.htm&cls=nba" class="rnews">7条相关&gt;&gt;</a></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://www.chinanews.com/ty/2015/04-21/7221724.shtml" mon="a=11&p=1&pn=29" target="_blank">欧文季后赛首秀丝毫不怯场 独得30分助骑士获胜 </a><span class="s">09:30</span><a href="http://news.baidu.com/n?cmd=5&class=nba&page=http%3A%2F%2Fwww.chinanews.com%2Fty%2F2015%2F04-21%2F7221724.shtml&cls=nba" class="rnews">76条相关&gt;&gt;</a></li>
+                                    			                <!--为了满足除重需求，空循环10条-->
+                				<li>&#8226;&nbsp;<a href="http://voice.hupu.com/nba/1904321.html" mon="a=11&p=1&pn=30" target="_blank">路易斯-威廉姆斯：续约猛龙会是完美的 </a><span class="s">09:29</span></li>
+                                    						</ul>
+		</div>
+		<p class="more"><a href="http://news.baidu.com/n?cmd=4&class=nba&pn=1" target="_blank">更多NBA新闻&gt;&gt;</a></p>
+	</div>
+
+	<!--若非国内分类的时政子分类-->
+	<!--ecombegin--><div id="rss">
+		<p><a href="http://news.baidu.com/n?cmd=1&class=nba&tn=rss" target="_blank"><img src="http://www.baidu.com/search/img/rss.gif"></a><a href="http://news.baidu.com/n?cmd=1&class=nba&tn=rss" target="_blank">RSS订阅<b>NBA焦点</b>新闻</a></p>
+		<a href="http://www.baidu.com/search/rss.html#02" style="margin-left:46px;" target="_blank">→更多RSS订阅</a>
+	</div><!--ecomend-->
+		</div><!--content ends-->
+	</div><!-- page_body -->
+</div><!--main ends-->
+<script>
+document.write("<img src='http://news.baidu.com/mp/b.jpg?cmd=1&class=nba&cy=0&"+Math.random()+"' style='display:none;'>");
+document.write("<img id='cgif' src='http://c.baidu.com/c.gif?t=5&p=2&"+Math.random()+"' style='display:none'>");
+</script>
+</div>
+ <div id="ft" >
+<p>百度新闻搜索源于互联网新闻网站和频道，系自动分类排列，百度不刊登或转载任何完整的新闻内容</p>
+<font style="color:#7777CC;">&copy;2015 Baidu</font> <a href="http://www.baidu.com/duty/" class="cy">使用百度前必读</a> <a href="http://net.china.cn/chinese/index.htm" target=_blank><img src="http://gimg.baidu.com/img/net.gif"></a>&nbsp;<a href="http://www.bj.cyberpolice.cn/index.htm" target=_blank><img src="http://gimg.baidu.com/img/110.gif" alt="首都网络110报警服务"></a></div>
+
+<div id="backTopBtn" class="toTopOne" style="display:none;">
+<div class="feedback-img" id="feedbackbtn"></div>                                        
+<div class="totop-img" onclick="window.scrollTo(0, 0);"></div>
+</div>
+</div>
+<div id="feedback" style="display:none;">
+<iframe id="postpage" name="postpage" style="height:0;width:0;display:block;border:none;"></iframe>
+<form id="feedbackForm" action="http://api.baiyue.baidu.com/sn/api/feedback" method="post" target="postpage" accept-charset="utf-8" >
+<h2><span>1</span>请选择问题分类：</h2>
+<div id="tab" class="tang-ui tang-tab" tang-param="originalIndex: 0;">
+<ul class="tang-tab-title">
+<li class="tang-tab-title-item">
+<a href="#" onclick="return false;" hidefocus="true"><span>使用不方便</span></a>
+</li>
+<li class="tang-tab-title-item">
+<a href="#" onclick="return false;" hidefocus="true"><span>新闻不好看</span></a>
+</li>
+<li class="tang-tab-title-item">
+<a href="#" onclick="return false;" hidefocus="true"><span>无线与客户端</span></a>
+</li>
+<li class="tang-tab-title-item">
+<a href="#" onclick="return false;" hidefocus="true"><span>新闻源相关</span></a>
+</li>
+<li class="tang-tab-title-item">
+<a href="#" onclick="return false;" hidefocus="true"><span>提建议</span></a>
+</li>
+</ul>
+<div class="tang-tab-body">
+<div class="tang-tab-body-item"><textarea default-value="使用不方便" maxlength="1000"></textarea></div>
+<div class="tang-tab-body-item"><textarea default-value="新闻不好看" maxlength="1000"></textarea></div>
+<div class="tang-tab-body-item"><textarea default-value="无线与客户端" maxlength="1000"></textarea></div>
+<div class="tang-tab-body-item"><textarea default-value="新闻源相关" maxlength="1000"></textarea></div>
+<div class="tang-tab-body-item"><textarea default-value="提建议" maxlength="1000" ></textarea></div>
+</div>
+</div>
+
+<h2><span>2</span>请留下联系方式，您将有机会获得精美礼品！</h2>
+<div class="feedback-contact" id="feedback-contact">
+<div class="box"><input type="text" value="QQ/邮箱/电话" default-value="QQ/邮箱/电话" name="contact" maxlength="50"/></div>
+<div class="des">(可选)</div>
+<div style="clear:both;"></div>
+</div>
+<div class="sub-btn" id="sub-btn"></div>
+<input type="hidden" name="msg" />
+<input type="hidden" name="mid" value="news_pc" />
+</form>
+</div>
+<div id="feedbacklink" style="display:none"></div>
+
+
+<style type="text/css">
+.toTopOne {
+    width: 25px;
+    height: 150px;
+    position: fixed;
+    left: 50%;
+    margin-left: 493px;
+    bottom: 100px;
+    display: none;
+    cursor: pointer;
+    top: 749px;
+}
+.feedback-img{
+    height:74px;
+    background:url(/resource/img/feedback_return.gif) no-repeat 0 0;
+}
+.totop-img{
+    height:74px;
+    margin-top:3px;
+    background:url(/resource/img/feedback_return.gif) no-repeat 0 -77px;
+}
+#ecom_2{
+    font-size:0;
+    line-height:0;
+    width:960px;
+    padding:10px 11px;
+    border:1px solid #ededed;
+}
+</style>
+
+</div>
+
+<link href="http://news.baidu.com/resource/css/focustop_feedback.css?v=201212201032" rel="stylesheet" type="text/css"></link>
+<script type="text/javascript" src="http://news.baidu.com/resource/js/channel_feedback.js?v=201301201816"></script>
+
+<script type="text/javascript">
+/*
+baidu.dom.ready(function(){
+if(baidu.g('nav-hot-link')){
+    baidu.sio.callByBrowser('http://news.baidu.com/z/data/json/cms_page_data.json?v='+new Date().getTime(), function(){
+        baidu.dom.setAttr('nav-hot-link','href',CMS_PAGE_DATA['focustop']['nav_hot_link']);
+
+    });
+}
+});
+*/
+</script>
+<script>
+	if (navigator.cookieEnabled && !/sug?=0/.test(document.cookie)){document.write('<script src=resource/js/browser_sug_new.js><'+'/script>')};
+</script>
+<script>
+if(typeof BAIDU_CLB_fillSlotAsync != 'undefined' && document.getElementById("ecom_2")){
+    BAIDU_CLB_fillSlotAsync('639905', 'ecom_2');
+}
+</script>
+
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fe9e114d958ea263de46e080563e254c4' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+<script type="text/javascript">
+baidu.dom.query('img').each(function(index, item){	
+
+	if(/eiv.baidu.com\/hmt\/icon/.test(baidu.dom.getAttr(item, 'src'))){
+		item.style.display = 'none';		
+	}
+
+});
+</script>
+
+
+</body>
+</html>
+
+
+<!--ecombegin--><script type="text/javascript">enterState("", "");</script><!--ecomend-->

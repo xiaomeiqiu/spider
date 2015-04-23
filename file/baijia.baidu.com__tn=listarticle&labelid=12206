@@ -1,0 +1,1058 @@
+<!DOCTYPE html>
+<!--STATUS OK-->
+<html>
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>百度百家--标签列表</title>
+
+	<script src="/static/js/clickMonitor.js?v=20131212"></script>
+	<script type="text/javascript" src="/static/js/usermonitor.js?v=1.1"></script>
+    <script src="/static/js/baiduTemplate.js?v=20131212"></script>
+    <link href="/static/css/all_7f51415.css" type="text/css" rel="stylesheet"/>
+<script src="/static/js/libs/tangram/tangram-1.5.2.2.js?v=20130128" type="text/javascript"></script>
+<script src="/static/js/libs/jquery/jquery.min.js?v=20131212" type="text/javascript"></script>
+<script src="/static/js/libs/jquery/jquery.cookie.js" type="text/javascript"></script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?7fe4ae9e1d0d01bcf748d066979cd2aa";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+
+    <script>
+        var on=baidu.event.on;Fe = baidu;
+        var PAGE_DATA = {
+                page:1,
+                pagesize:20,
+                labelid:'12206',
+                artical_list_num: 17
+             }
+    </script>
+   
+</head>
+<body class="bg">
+<style>
+#menu{height:60px;border-right:none;left:240px;}
+#menu a{color:#333;height:21px;width:70px;line-height:21px;position:relative;top:20px;margin:0 10px;border:0!important;}
+#menu a:hover{background: none;text-decoration: none;color:#2393df;}
+#menu a.current{background:none;color:#2393df;}
+#menu a.current:hover{background:none;text-decoration: none;}
+#menu a span{width:70px;height:1px;display:block;margin:19px auto 0px;_margin-top:-4px;}
+#menu a:hover span,#menu a.current span{border-bottom:4px solid #2393df;}
+.top-main{position:relative;width:982px;margin:0 auto;height:0px;}
+.top-main a{display: block;width:192px;height:68px;background: url(/static/images/03.png) no-repeat;text-decoration: none;top:-62px;left:0px;position:absolute;z-index:9999;}
+.search{position:absolute;right:230px;top:15px;height:30px;}
+.search_box{width:auto;height:100%;padding-right:5px;padding-left:28px;overflow:hidden;}
+.search_form{position: relative;width:195px;height:28px;border:1px solid #ccc;background: #FAFAFA;}
+.search_txt{display:block;position: absolute;top:4px;left:28px;font-size:14px;font-family:"宋体","Hiragino Sans GB";color:#c2c2c2;}
+.search_input{width:100%;height:26px;line-height:26px;display:block;border:none;border-width: 0px;background: #FAFAFA;}
+.search_btn{position: absolute;top: 0px;left: 0px;display:block;width:28px;height:28px;text-align:center;line-height: 24px;}
+.search_submit{background: url(/static/images/header_search_icon.png) no-repeat;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled='true',sizingMethod='scale',src='/static/images/header_search_icon.png');_background:none;width:16px;height:16px;border:none;cursor:pointer;*margin-top:5px;}
+#header{background:#fff;border-bottom:2px solid #EEE;height:60px;}
+#usrbar{top:20px}
+#usrbar .header_baidu,
+#usrbar .header_home,
+#usrbar .header_person{color:#666;display:inline-block;*display:inline;*zoom:1;height:18px;padding: 0 3px; vertical-align: top}
+
+.userbox{position:relative;width:100%;height:0px;left:0px;z-index:9999;}
+.userbox ul{position:absolute;top:0px;right:0px;border: 1px solid #999;width:80px;height:60px;background:#fff;padding:0px;overflow:hidden;*clear:both;}
+.userbox li{width:100%;height:30px;margin:0px;}
+#usrbar li a{height:100%;display:block;line-height:30px;padding:0px 0px 0px 5px;}
+#usrbar li a:hover{background:none repeat scroll 0 0 #ebebeb; text-decoration: none}
+#register{width:26px;}
+#usrbar .header_person:hover,
+#usrbar .header_baidu:hover,
+#usrbar .header_home:hover{color:#2393df;cursor:pointer;}
+
+#login_user{display:inline-block;*display:inline;*zoom:1;position:relative; vertical-align: top;width:100px;margin-right:5px;}
+#loged{width:100px; text-align: right;overflow: hidden;white-space: normal;word-wrap: break-word;word-break: break-all;color:#666;display:block;height:18px;padding: 0 6px!important;}
+</style>
+<script type='text/javascript' src='http://passport.baidu.com/passApi/js/uni_login_wrapper.js?cdnversion=201504221130'></script>
+<div id="header" alog-group="log-header">
+	<div class="header-content">
+        <div id="menu"><a href="http://baijia.baidu.com"  style="border-left:0px;">首页<span></span></a><a href="http://baijia.baidu.com/?tn=listauthor" >作家<span></span></a><a href="http://baijia.baidu.com/?tn=listtopic" >争鸣<span></span></a></div>
+
+<div class="search">
+  <form method="get" action="http://baijia.baidu.com/" class="search_form" onSubmit="return chkForm(this);">
+    <span title="搜索" alt="搜索" class="search_btn">
+      <input type="submit" class="search_submit" value="">
+    </span>
+    <div class="search_box" >
+      <label for="search" class="search_txt" id="search_txt"></label>
+      <input type="hidden" name="tn" value="search">
+      <input type="text" id="search" maxlength="50" name="word" autocomplete="off" class="search_input">
+    </div>
+  </form>
+</div>
+        <div id="usrbar">
+                    <a href="javascript:void(0);" id="login" class="header_person" >登录</a>
+          <a href="http://news.baidu.com" class="header_home" target="_blank">新闻首页</a>
+          <a class="header_baidu" target="_blank" href="http://www.baidu.com">百度</a>
+        </div>
+	</div>
+</div>
+<div class="top-main"><a href="http://baijia.baidu.com" ></a></div>
+<script>
+(function(baidu, undefined) {
+    window.instance = passport.pop.init({
+         apiOpt: {
+             staticPage: 'http://'+location.host+'/static/html/v3Jump.html',
+             product: 'xw1',
+             memberPass: true,
+             charset:'utf-8',
+             u:location.href,
+             safeFlag: 0
+         },
+         authsite:['tsina','renren','qzone','tqq'],
+	       authsiteCfg:{act:'implicit'},
+         tangram: true,
+         onLoginSuccess: function (args) {
+            // 发送统计日志统计pc主动登陆用户UV
+            args.returnValue = false;
+            sendLog({
+                m: 52,
+                a: 0,
+                args: args
+            });
+         },
+         onShow: function () {
+            sendLog({
+                m: 52,
+                a: 2
+            });
+         }
+    });
+    baidu.on('login', 'click', function(event) {
+         baidu.event.preventDefault(event || window.event);
+         sendLog({
+            m: 52,
+            a: 1
+         });
+         instance.show();
+    });
+})(window.baidu);
+
+function sendLog(option) {
+  var url = 'http://nsclick.baidu.com/v.gif?pid=107&m=' + option.m + '&a=' + option.a + '&v=' + new Date().getTime();
+
+  $('<img/>')
+    .one('load', function() {
+        if (option.args){
+            location.href = option.args.rsp.data.u;
+        }
+    })
+    .each(function() {
+      if(this.complete) $(this).load();
+    })
+    .attr('src', url);
+}
+</script>
+<script type="text/javascript">
+	var __search = baidu.g("search") ;
+	__search && baidu.on(__search, 'blur', function(e){
+		if(!__search.value){
+			baidu.show('search_txt');
+		}
+	});
+	__search && baidu.on(__search, 'focus', function(e){
+		baidu.hide('search_txt');
+	});
+	function chkForm(e){
+		if(!__search.value){
+			return false;
+		}
+		return true ;
+	};
+</script>
+<script type="text/javascript">
+	var __login_user = baidu.g("login_user");
+	var __userbox = baidu.g("userbox"),myTimeout;
+  var uid="";
+	__login_user && baidu.on(__login_user,'mouseenter',function(e){
+    if(myTimeout){
+      clearTimeout(myTimeout);
+    }
+		baidu.show("userbox");
+	});
+	__login_user && baidu.on(__login_user,'mouseleave',function(e){
+    myTimeout = setTimeout(function(){
+      baidu.hide("userbox");
+    },500);
+
+	});
+	var __logout = baidu.g("logout");
+	if(__logout){
+    var uhref = encodeURIComponent(location.href) ;
+    if(uhref.indexOf("userinfo") > 0 ){
+      __logout.href="http://passport.rdtest.baidu.com/?logout&u="+encodeURIComponent("http://baijia.baidu.com/");
+    }else{
+      __logout.href="http://passport.rdtest.baidu.com/?logout&u="+uhref;
+    }
+
+  }
+  if(!uid){
+    $('#cmtbox textarea') && $('#cmtbox textarea').val('');
+  }
+
+</script>
+
+
+<div id="body" class="clearfix">
+<style>
+.time_box{position:relative;width:100%;height:0px;}
+.time_box .box{position:absolute;right:0px;top:-60px;height:54px;width:auto;}
+.time_box .time{float:left;padding-right: 10px;}
+.time_box .vline{float:left;height:100%;width:0px;border-right:1px solid #DFDFDF;}
+.time_box .total{float:left;padding-left:10px;}
+.time_box span{display:block;text-align:center;}
+.time_box .num{font-family:"Arial";color:#999;font-size:24px;}
+.time_box .txt{font-family:"Arial";color:#ccc;font-size:10px;}
+.time_box .select{display:block;width:10px;height:6px;background:url(/static/images/label_select.png) no-repeat;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled='true',sizingMethod='scale',src='/static/images/label_select.png');_background:none;position:absolute;top:-40px;left:75px;}
+#page_title{padding:0px;}
+#page_title h1{padding-left:0px;border-left:0px;font-size:30px;color:#333;padding-bottom: 20px;margin-bottom: 0px;border-bottom: 1px solid #DDDDDD;}
+
+
+.l-main-col{border:none;background:none;}
+.l-right-col{border:none;background:none;padding-top:17px;padding-right:0px;}
+.bottomline{border-bottom: 1px solid #e6e6e6;height: 0px;width: 100%;}
+</style>
+    <div class="l-main-col">
+ 		<div id="page_title">
+             <h1>农村</h1>
+             	 	</div>
+        <div class="feeds" id="feeds">
+                  <div class="feeds-item notb" id="item-52803">
+            <div class="feeds-item-detail clearfix hasImg">
+                                <p class="feeds-item-pic"><a href="http://qingang.baijia.baidu.com/article/52803" target="_blank" class="feeds-item-more" mon="col=13&pn=1&a=12"><img src="http://d.hiphotos.baidu.com/news/crop%3D0%2C0%2C500%2C300%3Bw%3D638/sign=993168debd12c8fca0bcac8dc133be75/e824b899a9014c0885bc325b0e7b02087af4f44d.jpg"/></a></p>
+                                <h3><a href="http://qingang.baijia.baidu.com/article/52803" target="_blank" mon="col=13&pn=1">秦刚访谈：互联网+农村10万亿市场</a></h3>
+                <p class="feeds-item-text">当所有人都将移动互联网的生意瞄准城市人群的时候，秦刚（微信公众号：q1111884)的朋友中有这样一位创业者，却将目标转向了广大的农村市场，在农村玩起了O2O.......<a href="http://qingang.baijia.baidu.com/article/52803" target="_blank" class="feeds-item-more" mon="col=13&pn=1">[详细]</a></p>
+                <div class="feeds-item-info">
+                    <p class="labels">
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=10151" target="_blank">互联网
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=12206" target="_blank">农村
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=28124" target="_blank">10万亿
+                        </a>
+                                        </p>
+                                        <a href="http://qingang.baijia.baidu.com" class="feeds-item-author" target="_blank">秦刚</a>
+                                        <span class="tm">04-08</span>
+                    <span class="count">阅读（2万）</span>
+                    <a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>
+                </div>
+            </div>
+        </div>
+                  <div class="feeds-item " id="item-52217">
+            <div class="feeds-item-detail clearfix hasImg">
+                                <p class="feeds-item-pic"><a href="http://wuhaihong.baijia.baidu.com/article/52217" target="_blank" class="feeds-item-more" mon="col=13&pn=2&a=12"><img src="http://g.hiphotos.baidu.com/news/pic/item/0ff41bd5ad6eddc497a98c793ddbb6fd536633e1.jpg"/></a></p>
+                                <h3><a href="http://wuhaihong.baijia.baidu.com/article/52217" target="_blank" mon="col=13&pn=2">还要创业？看看广大农村市场吧</a></h3>
+                <p class="feeds-item-text">在创业泡沫的时代，北上广深的宣传价值正在逐步的缩水，想创业，先放下高大上的宣传想想广大县城农村市场的需求吧。<a href="http://wuhaihong.baijia.baidu.com/article/52217" target="_blank" class="feeds-item-more" mon="col=13&pn=1">[详细]</a></p>
+                <div class="feeds-item-info">
+                    <p class="labels">
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=10104" target="_blank">创业
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=12206" target="_blank">农村
+                        </a>
+                                        </p>
+                                        <a href="http://wuhaihong.baijia.baidu.com" class="feeds-item-author" target="_blank">海红</a>
+                                        <span class="tm">04-03</span>
+                    <span class="count">阅读（6万）</span>
+                    <a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>
+                </div>
+            </div>
+        </div>
+                  <div class="feeds-item " id="item-48266">
+            <div class="feeds-item-detail clearfix hasImg">
+                                <p class="feeds-item-pic"><a href="http://ganjianying.baijia.baidu.com/article/48266" target="_blank" class="feeds-item-more" mon="col=13&pn=3&a=12"><img src="http://e.hiphotos.baidu.com/news/crop%3D0%2C127%2C854%2C512%3Bw%3D638/sign=4c10dfa650e736d14c5cd648a66063f3/9825bc315c6034a8aac129fbcf134954092376ad.jpg"/></a></p>
+                                <h3><a href="http://ganjianying.baijia.baidu.com/article/48266" target="_blank" mon="col=13&pn=3">农村数字化生存：鸿沟、机遇与挑战</a></h3>
+                <p class="feeds-item-text">作为一个出生于农村，童年时期都是在山间、田头和地里度过的70后，每次回去对于乡下随着国家信息化建设推进而带来的变化也是保持关注的，尤其是近三五年来的变化更是令人感到兴奋，同时又总不免带有一些负能量的<a href="http://ganjianying.baijia.baidu.com/article/48266" target="_blank" class="feeds-item-more" mon="col=13&pn=1">[详细]</a></p>
+                <div class="feeds-item-info">
+                    <p class="labels">
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=12206" target="_blank">农村
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=18721" target="_blank">数字鸿沟
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=26945" target="_blank">机遇挑战
+                        </a>
+                                        </p>
+                                        <a href="http://ganjianying.baijia.baidu.com" class="feeds-item-author" target="_blank">笨手蛇</a>
+                                        <span class="tm">03-05</span>
+                    <span class="count">阅读（1万）</span>
+                    <a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>
+                </div>
+            </div>
+        </div>
+                  <div class="feeds-item " id="item-45071">
+            <div class="feeds-item-detail clearfix hasImg">
+                                <p class="feeds-item-pic"><a href="http://yangjunjun.baijia.baidu.com/article/45071" target="_blank" class="feeds-item-more" mon="col=13&pn=4&a=12"><img src="http://c.hiphotos.baidu.com/news/crop%3D0%2C47%2C750%2C450%3Bw%3D638/sign=a8e5f30aacd3fd1f2246f87a0d7e092b/55e736d12f2eb938b13e1ad6d1628535e5dd6f46.jpg"/></a></p>
+                                <h3><a href="http://yangjunjun.baijia.baidu.com/article/45071" target="_blank" mon="col=13&pn=4">农村电商：发展的关键其实在于运营</a></h3>
+                <p class="feeds-item-text">对于现在的农村电商而言，现在最主要的是如何不要将自己困在小巷中，在开阔的地方多尝试几条路。<a href="http://yangjunjun.baijia.baidu.com/article/45071" target="_blank" class="feeds-item-more" mon="col=13&pn=1">[详细]</a></p>
+                <div class="feeds-item-info">
+                    <p class="labels">
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=12206" target="_blank">农村
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=10139" target="_blank">电商
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=10589" target="_blank">O2O
+                        </a>
+                                        </p>
+                                        <a href="http://yangjunjun.baijia.baidu.com" class="feeds-item-author" target="_blank">杨君君</a>
+                                        <span class="tm">02-05</span>
+                    <span class="count">阅读（5246）</span>
+                    <a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>
+                </div>
+            </div>
+        </div>
+                  <div class="feeds-item " id="item-44868">
+            <div class="feeds-item-detail clearfix hasImg">
+                                <p class="feeds-item-pic"><a href="http://lihaigang.baijia.baidu.com/article/44868" target="_blank" class="feeds-item-more" mon="col=13&pn=5&a=12"><img src="http://d.hiphotos.baidu.com/news/crop%3D0%2C0%2C473%2C284%3Bw%3D638/sign=64982cbb8626cffc7d65e5f2843166a0/0b46f21fbe096b6325f9047208338744ebf8ac34.jpg"/></a></p>
+                                <h3><a href="http://lihaigang.baijia.baidu.com/article/44868" target="_blank" mon="col=13&pn=5">新“上山下乡”：农村O2O大幕开启</a></h3>
+                <p class="feeds-item-text">买方、卖方、渠道兼备，这让我隐隐感觉到：农村O2O时代的大幕已经开启。尽管长期致力于互联网、移动互联网以及O2O的观察和研究，但农村O2O出现的苗头之早，兴起的速度之快，还是多少有些出乎我的意料！<a href="http://lihaigang.baijia.baidu.com/article/44868" target="_blank" class="feeds-item-more" mon="col=13&pn=1">[详细]</a></p>
+                <div class="feeds-item-info">
+                    <p class="labels">
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=25983" target="_blank">农村O2O
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=12206" target="_blank">农村
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=10589" target="_blank">O2O
+                        </a>
+                                        </p>
+                                        <a href="http://lihaigang.baijia.baidu.com" class="feeds-item-author" target="_blank">李海刚</a>
+                                        <span class="tm">02-03</span>
+                    <span class="count">阅读（3万）</span>
+                    <a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>
+                </div>
+            </div>
+        </div>
+                  <div class="feeds-item " id="item-43807">
+            <div class="feeds-item-detail clearfix hasImg">
+                                <p class="feeds-item-pic"><a href="http://lidonglou.baijia.baidu.com/article/43807" target="_blank" class="feeds-item-more" mon="col=13&pn=6&a=12"><img src="http://d.hiphotos.baidu.com/news/crop%3D0%2C14%2C800%2C480%3Bw%3D638/sign=9719995ec8ef76092844c3df13ed8ffd/0b46f21fbe096b636dc9c3930f338744eaf8ac25.jpg"/></a></p>
+                                <h3><a href="http://lidonglou.baijia.baidu.com/article/43807" target="_blank" mon="col=13&pn=6">村村乐胡伟:农村O2O市场是一片蓝海</a></h3>
+                <p class="feeds-item-text">移动互联网浪潮的持续汹涌，已经开始影响我们生活的方方面面并深入到各行各业。而在去年，阿里巴巴、京东等几大电商纷纷喊出“渠道下沉”，吹响了进攻农村互联网市场，并展开了轰轰烈烈的刷墙行动，这也让我们对互<a href="http://lidonglou.baijia.baidu.com/article/43807" target="_blank" class="feeds-item-more" mon="col=13&pn=1">[详细]</a></p>
+                <div class="feeds-item-info">
+                    <p class="labels">
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=12206" target="_blank">农村
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=10589" target="_blank">O2O
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=25859" target="_blank">村村乐
+                        </a>
+                                        </p>
+                                        <a href="http://lidonglou.baijia.baidu.com" class="feeds-item-author" target="_blank">李东楼</a>
+                                        <span class="tm">01-26</span>
+                    <span class="count">阅读（1万）</span>
+                    <a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>
+                </div>
+            </div>
+        </div>
+                  <div class="feeds-item " id="item-43259">
+            <div class="feeds-item-detail clearfix hasImg">
+                                <p class="feeds-item-pic"><a href="http://malianpeng.baijia.baidu.com/article/43259" target="_blank" class="feeds-item-more" mon="col=13&pn=7&a=12"><img src="http://g.hiphotos.baidu.com/news/crop%3D0%2C9%2C384%2C230%3Bw%3D638/sign=12b6d8db02e93901424dd77e46dc78de/d000baa1cd11728b297fecd9cbfcc3cec2fd2cfe.jpg"/></a></p>
+                                <h3><a href="http://malianpeng.baijia.baidu.com/article/43259" target="_blank" mon="col=13&pn=7">2015：农资电商蓝海上演合纵连横？</a></h3>
+                <p class="feeds-item-text">对电商而言，今天的农资市场，已经需要提供农资+金融+物流+服务的综合解决方案，需要电商企业与农资企业的强强联手。但在所谓农资电商即将爆发的2015年的年初，我们还没有看到这种联手的范例。<a href="http://malianpeng.baijia.baidu.com/article/43259" target="_blank" class="feeds-item-more" mon="col=13&pn=1">[详细]</a></p>
+                <div class="feeds-item-info">
+                    <p class="labels">
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=10139" target="_blank">电商
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=24829" target="_blank">农资
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=12206" target="_blank">农村
+                        </a>
+                                        </p>
+                                        <a href="http://malianpeng.baijia.baidu.com" class="feeds-item-author" target="_blank">老醋花生</a>
+                                        <span class="tm">01-21</span>
+                    <span class="count">阅读（3万）</span>
+                    <a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>
+                </div>
+            </div>
+        </div>
+                  <div class="feeds-item " id="item-42585">
+            <div class="feeds-item-detail clearfix hasImg">
+                                <p class="feeds-item-pic"><a href="http://diaolong.baijia.baidu.com/article/42585" target="_blank" class="feeds-item-more" mon="col=13&pn=8&a=12"><img src="http://h.hiphotos.baidu.com/news/crop%3D0%2C43%2C638%2C383%3Bw%3D638/sign=18ca2ccf8635e5dd8463ff9f4bf68bdb/6159252dd42a28346393fa9658b5c9ea15cebf72.jpg"/></a></p>
+                                <h3><a href="http://diaolong.baijia.baidu.com/article/42585" target="_blank" mon="col=13&pn=8">农村O2O模式痛点在哪？</a></h3>
+                <p class="feeds-item-text">2014年注定是农村O2O市场的觉醒之年。电商巨头动作频频，纷纷全线布局农村O2O市场，而物流公司也不甘示弱，凭借渠道优势染指农村O2O。阿里把全国100名县长书记召集在杭州开会，宣布要大家电进入县<a href="http://diaolong.baijia.baidu.com/article/42585" target="_blank" class="feeds-item-more" mon="col=13&pn=1">[详细]</a></p>
+                <div class="feeds-item-info">
+                    <p class="labels">
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=12206" target="_blank">农村
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=10589" target="_blank">O2O
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=10139" target="_blank">电商
+                        </a>
+                                        </p>
+                                        <a href="http://diaolong.baijia.baidu.com" class="feeds-item-author" target="_blank">新媒体砖家</a>
+                                        <span class="tm">01-14</span>
+                    <span class="count">阅读（4万）</span>
+                    <a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>
+                </div>
+            </div>
+        </div>
+                  <div class="feeds-item " id="item-40211">
+            <div class="feeds-item-detail clearfix hasImg">
+                                <p class="feeds-item-pic"><a href="http://jiyongqing.baijia.baidu.com/article/40211" target="_blank" class="feeds-item-more" mon="col=13&pn=9&a=12"><img src="http://a.hiphotos.baidu.com/news/crop%3D6%2C13%2C444%2C266%3Bw%3D638/sign=7a5e5a8cb0de9c82b22aa3cf51b7ac3b/caef76094b36acafc6db28497fd98d1001e99c48.jpg"/></a></p>
+                                <h3><a href="http://jiyongqing.baijia.baidu.com/article/40211" target="_blank" mon="col=13&pn=9">京东下乡</a></h3>
+                <p class="feeds-item-text">改变家乡的面貌，让先进的电商和互联网金融惠及更多的农民朋友，是刘强东的夙愿，他正在一步步将这个愿望变成现实<a href="http://jiyongqing.baijia.baidu.com/article/40211" target="_blank" class="feeds-item-more" mon="col=13&pn=1">[详细]</a></p>
+                <div class="feeds-item-info">
+                    <p class="labels">
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=10427" target="_blank">刘强东
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=24816" target="_blank">尤努斯
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=12206" target="_blank">农村
+                        </a>
+                                        </p>
+                                        <a href="http://jiyongqing.baijia.baidu.com" class="feeds-item-author" target="_blank">冀勇庆</a>
+                                        <span class="tm">12-19</span>
+                    <span class="count">阅读（449）</span>
+                    <a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>
+                </div>
+            </div>
+        </div>
+                  <div class="feeds-item " id="item-40082">
+            <div class="feeds-item-detail clearfix hasImg">
+                                <p class="feeds-item-pic"><a href="http://aoxiaobai.baijia.baidu.com/article/40082" target="_blank" class="feeds-item-more" mon="col=13&pn=10&a=12"><img src="http://d.hiphotos.baidu.com/news/pic/item/060828381f30e9249b535c854f086e061c95f78b.jpg"/></a></p>
+                                <h3><a href="http://aoxiaobai.baijia.baidu.com/article/40082" target="_blank" mon="col=13&pn=10">刘强东的农村战略</a></h3>
+                <p class="feeds-item-text">京东希望通过电商平台，连接生产者和终端消费者，把农业物资直接送到田间地头。具体就是通过赊销模式送给农民们，等他们收获时再还京东的钱。<a href="http://aoxiaobai.baijia.baidu.com/article/40082" target="_blank" class="feeds-item-more" mon="col=13&pn=1">[详细]</a></p>
+                <div class="feeds-item-info">
+                    <p class="labels">
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=10174" target="_blank">京东
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=12206" target="_blank">农村
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=11765" target="_blank">金融
+                        </a>
+                                        </p>
+                                        <a href="http://aoxiaobai.baijia.baidu.com" class="feeds-item-author" target="_blank">敖小白</a>
+                                        <span class="tm">12-18</span>
+                    <span class="count">阅读（8425）</span>
+                    <a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>
+                </div>
+            </div>
+        </div>
+                  <div class="feeds-item " id="item-39942">
+            <div class="feeds-item-detail clearfix hasImg">
+                                <p class="feeds-item-pic"><a href="http://chenfang.baijia.baidu.com/article/39942" target="_blank" class="feeds-item-more" mon="col=13&pn=11&a=12"><img src="http://h.hiphotos.baidu.com/news/crop%3D9%2C9%2C631%2C379%3Bw%3D638/sign=3c907974f436afc31a4365258e20c7fd/0df3d7ca7bcb0a46cdc0bf8d6863f6246a60afa7.jpg"/></a></p>
+                                <h3><a href="http://chenfang.baijia.baidu.com/article/39942" target="_blank" mon="col=13&pn=11">农村为何“先嫁女儿后娶媳妇”</a></h3>
+                <p class="feeds-item-text">只有提高结婚的成本，男方才会珍惜婚姻，才能对自己的闺女好。农村人不懂什么“婚姻经济学”，但他们却试图用经济制约的手段，来保证晚辈们婚姻的稳定，特别是女方的角度考虑，聘礼越高，婚姻的安全阀门会越牢固。<a href="http://chenfang.baijia.baidu.com/article/39942" target="_blank" class="feeds-item-more" mon="col=13&pn=1">[详细]</a></p>
+                <div class="feeds-item-info">
+                    <p class="labels">
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=12206" target="_blank">农村
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=20089" target="_blank">聘礼
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=24782" target="_blank">娶媳妇
+                        </a>
+                                        </p>
+                                        <a href="http://chenfang.baijia.baidu.com" class="feeds-item-author" target="_blank">陈方</a>
+                                        <span class="tm">12-17</span>
+                    <span class="count">阅读（17万）</span>
+                    <a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>
+                </div>
+            </div>
+        </div>
+                  <div class="feeds-item " id="item-24141">
+            <div class="feeds-item-detail clearfix hasImg">
+                                <p class="feeds-item-pic"><a href="http://lihuafang.baijia.baidu.com/article/24141" target="_blank" class="feeds-item-more" mon="col=13&pn=12&a=12"><img src="http://b.hiphotos.baidu.com/news/crop%3D12%2C0%2C608%2C365%3Bw%3D638/sign=e525e391a7c27d1eb169618426e49f42/f11f3a292df5e0fea83fd8345f6034a85edf72db.jpg"/></a></p>
+                                <h3><a href="http://lihuafang.baijia.baidu.com/article/24141" target="_blank" mon="col=13&pn=12">读习近平博士论文</a></h3>
+                <p class="feeds-item-text">“马克思主义辩证法”在此得到了应用，不熟悉这种说辞的读者很难从其中了解到作者的确切想法。<a href="http://lihuafang.baijia.baidu.com/article/24141" target="_blank" class="feeds-item-more" mon="col=13&pn=1">[详细]</a></p>
+                <div class="feeds-item-info">
+                    <p class="labels">
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=11774" target="_blank">城市化
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=12457" target="_blank">市场化
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=12206" target="_blank">农村
+                        </a>
+                                        </p>
+                                        <a href="http://lihuafang.baijia.baidu.com" class="feeds-item-author" target="_blank">李华芳</a>
+                                        <span class="tm">07-31</span>
+                    <span class="count">阅读（7258）</span>
+                    <a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>
+                </div>
+            </div>
+        </div>
+                  <div class="feeds-item " id="item-23992">
+            <div class="feeds-item-detail clearfix hasImg">
+                                <p class="feeds-item-pic"><a href="http://chenfang.baijia.baidu.com/article/23992" target="_blank" class="feeds-item-more" mon="col=13&pn=13&a=12"><img src="http://f.hiphotos.baidu.com/news/crop%3D1%2C41%2C444%2C266%3Bw%3D638/sign=76f0a5ab2ddda3cc1fabe2603cd81535/6a63f6246b600c33ba82e2fc194c510fd9f9a10e.jpg"/></a></p>
+                                <h3><a href="http://chenfang.baijia.baidu.com/article/23992" target="_blank" mon="col=13&pn=13">农村人结婚没安全感，所以要聘礼？</a></h3>
+                <p class="feeds-item-text">农村人可能会觉得，结婚不能太容易，越折腾，男方越会对自己的姑娘好。如果轻而易举就把婚事办了，如果让男方感觉结婚太容易了，万一将来两口子出现了矛盾，离婚岂不是也变得容易了？只有提高结婚的成本，男方才会<a href="http://chenfang.baijia.baidu.com/article/23992" target="_blank" class="feeds-item-more" mon="col=13&pn=1">[详细]</a></p>
+                <div class="feeds-item-info">
+                    <p class="labels">
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=12206" target="_blank">农村
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=20089" target="_blank">聘礼
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=11043" target="_blank">安全感
+                        </a>
+                                        </p>
+                                        <a href="http://chenfang.baijia.baidu.com" class="feeds-item-author" target="_blank">陈方</a>
+                                        <span class="tm">07-29</span>
+                    <span class="count">阅读（3万）</span>
+                    <a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>
+                </div>
+            </div>
+        </div>
+                  <div class="feeds-item " id="item-21317">
+            <div class="feeds-item-detail clearfix hasImg">
+                                <p class="feeds-item-pic"><a href="http://majihua.baijia.baidu.com/article/21317" target="_blank" class="feeds-item-more" mon="col=13&pn=14&a=12"><img src="http://g.hiphotos.baidu.com/news/crop%3D0%2C56%2C800%2C480%3Bw%3D638/sign=2b84fc2a53da81cb5aa9d98d6f56fc23/b2de9c82d158ccbfea6ba1e41bd8bc3eb035411c.jpg"/></a></p>
+                                <h3><a href="http://majihua.baijia.baidu.com/article/21317" target="_blank" mon="col=13&pn=14">电商下乡决不能再玩互联网思维</a></h3>
+                <p class="feeds-item-text">中国的电子商务正在进入上山下乡的新阶段，而这恰恰是那些只知道所谓的互联网思维的人看不懂的。与被舆论和业界炒的火热的智能家居相比，电商下乡才真正是中国互联网的下一个风口。<a href="http://majihua.baijia.baidu.com/article/21317" target="_blank" class="feeds-item-more" mon="col=13&pn=1">[详细]</a></p>
+                <div class="feeds-item-info">
+                    <p class="labels">
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=10225" target="_blank">电子商务
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=11643" target="_blank">网购
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=12206" target="_blank">农村
+                        </a>
+                                        </p>
+                                        <a href="http://majihua.baijia.baidu.com" class="feeds-item-author" target="_blank">马继华</a>
+                                        <span class="tm">07-08</span>
+                    <span class="count">阅读（1万）</span>
+                    <a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>
+                </div>
+            </div>
+        </div>
+                  <div class="feeds-item " id="item-20622">
+            <div class="feeds-item-detail clearfix hasImg">
+                                <p class="feeds-item-pic"><a href="http://munan.baijia.baidu.com/article/20622" target="_blank" class="feeds-item-more" mon="col=13&pn=15&a=12"><img src="http://g.hiphotos.baidu.com/news/crop%3D0%2C0%2C442%2C265%3Bw%3D638/sign=04a8131c08d162d991a1385c2cef85dc/ac345982b2b7d0a20a545945c9ef76094a369a4c.jpg"/></a></p>
+                                <h3><a href="http://munan.baijia.baidu.com/article/20622" target="_blank" mon="col=13&pn=15">电商大佬为何去村儿里刷墙？</a></h3>
+                <p class="feeds-item-text">与北上广电视和户外凸显X格的高大上广告不同，刷墙广告基本是以简单+粗暴为主。<a href="http://munan.baijia.baidu.com/article/20622" target="_blank" class="feeds-item-more" mon="col=13&pn=1">[详细]</a></p>
+                <div class="feeds-item-info">
+                    <p class="labels">
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=10139" target="_blank">电商
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=10401" target="_blank">广告
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=12206" target="_blank">农村
+                        </a>
+                                        </p>
+                                        <a href="http://munan.baijia.baidu.com" class="feeds-item-author" target="_blank">一言楠尽</a>
+                                        <span class="tm">06-30</span>
+                    <span class="count">阅读（3万）</span>
+                    <a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>
+                </div>
+            </div>
+        </div>
+                  <div class="feeds-item " id="item-6848">
+            <div class="feeds-item-detail clearfix hasImg">
+                                <p class="feeds-item-pic"><a href="http://liaobaoping.baijia.baidu.com/article/6848" target="_blank" class="feeds-item-more" mon="col=13&pn=16&a=12"><img src="http://e.hiphotos.baidu.com/news/crop%3D0%2C12%2C310%2C186%3Bw%3D638/sign=c7ea62859045d688b74de8e499f2512f/0823dd54564e9258d51e2d589e82d158ccbf4e59.jpg"/></a></p>
+                                <h3><a href="http://liaobaoping.baijia.baidu.com/article/6848" target="_blank" mon="col=13&pn=16">不鼓励农村孩子上大学的账该怎么算</a></h3>
+                <p class="feeds-item-text">有研究表明，接受更多的教育，积累更多人力资本的人，总体上要比接受更少的教育要获得更多的收入。<a href="http://liaobaoping.baijia.baidu.com/article/6848" target="_blank" class="feeds-item-more" mon="col=13&pn=1">[详细]</a></p>
+                <div class="feeds-item-info">
+                    <p class="labels">
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=13846" target="_blank">读书无用
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=12206" target="_blank">农村
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=12273" target="_blank">大学
+                        </a>
+                                        </p>
+                                        <a href="http://liaobaoping.baijia.baidu.com" class="feeds-item-author" target="_blank">廖保平</a>
+                                        <span class="tm">03-11</span>
+                    <span class="count">阅读（13万）</span>
+                    <a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>
+                </div>
+            </div>
+        </div>
+                  <div class="feeds-item " id="item-6671">
+            <div class="feeds-item-detail clearfix hasImg">
+                                <p class="feeds-item-pic"><a href="http://chenfang.baijia.baidu.com/article/6671" target="_blank" class="feeds-item-more" mon="col=13&pn=17&a=12"><img src="http://a.hiphotos.baidu.com/news/crop%3D0%2C12%2C356%2C214%3Bw%3D638/sign=a77ebbb40855b31988b6d8357e99ae17/c9fcc3cec3fdfc039af8140dd63f8794a5c22686.jpg"/></a></p>
+                                <h3><a href="http://chenfang.baijia.baidu.com/article/6671" target="_blank" mon="col=13&pn=17">为何两会委员不鼓励农村孩子上大学</a></h3>
+                <p class="feeds-item-text">至于农村孩子是否应该上大学，这是个伪问题。真正的问题是，农村孩子上大学是否能改变命运。或者说，从实用主义的角度看，农村孩子上大学的性价比到底高不高？在若干破解大学生就业难的招数里，“上大学当蓝领”近<a href="http://chenfang.baijia.baidu.com/article/6671" target="_blank" class="feeds-item-more" mon="col=13&pn=1">[详细]</a></p>
+                <div class="feeds-item-info">
+                    <p class="labels">
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=13814" target="_blank">职业教育
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=12206" target="_blank">农村
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=13815" target="_blank">高等教育
+                        </a>
+                                        </p>
+                                        <a href="http://chenfang.baijia.baidu.com" class="feeds-item-author" target="_blank">陈方</a>
+                                        <span class="tm">03-10</span>
+                    <span class="count">阅读（41万）</span>
+                    <a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>
+                </div>
+            </div>
+        </div>
+                </div>
+                <div class="feeds-more" id="feeds_more"><a href="javascript:void(0)"><span>加载更多</span></a></div>
+            </div>
+    <div class="l-right-col">
+                <div class="mod" id="author_list" alog-group="log-recommend">
+<div class="hd">
+    <div class="title_box" ><div class="title_container"><span class="title">相关作家</span><span class="sub_title">AUTHORS</span><div class="line"><div class="left"></div><div class="right"></div></div></div></div>
+</div>
+<div class="bd">
+<div class="author-m notb">
+    <div class="author-pic">
+    	<a href="http://qingang.baijia.baidu.com" mon="name=recommend&pos=pic&pn=1" target="_blank">
+    		<img src="http://h.hiphotos.baidu.com/news/pic/item/95eef01f3a292df5ef3d1f85be315c6035a873a7.jpg">
+    	</a>
+    </div>
+    <div class="author-name">
+    	<a href="http://qingang.baijia.baidu.com" mon="name=recommend&pos=name&pn=1" target="_blank">秦刚</a>
+    </div>
+    <div class="author-text">垂直门户网站实战教练</div>
+    <div class="author-artical"><a href="http://qingang.baijia.baidu.com/article/52803" mon="name=recommend&pos=title&pn=1" target="_blank">秦刚访谈：互联网+农村10万亿市场</a></div>
+</div>
+<div class="author-m ">
+    <div class="author-pic">
+    	<a href="http://wuhaihong.baijia.baidu.com" mon="name=recommend&pos=pic&pn=2" target="_blank">
+    		<img src="http://b.hiphotos.baidu.com/news/pic/item/4d086e061d950a7b53c6b6ec09d162d9f2d3c923.jpg">
+    	</a>
+    </div>
+    <div class="author-name">
+    	<a href="http://wuhaihong.baijia.baidu.com" mon="name=recommend&pos=name&pn=2" target="_blank">海红</a>
+    </div>
+    <div class="author-text">科技媒体人</div>
+    <div class="author-artical"><a href="http://wuhaihong.baijia.baidu.com/article/52217" mon="name=recommend&pos=title&pn=2" target="_blank">还要创业？看看广大农村市场吧</a></div>
+</div>
+<div class="author-m ">
+    <div class="author-pic">
+    	<a href="http://ganjianying.baijia.baidu.com" mon="name=recommend&pos=pic&pn=3" target="_blank">
+    		<img src="http://c.hiphotos.baidu.com/news/pic/item/241f95cad1c8a786f38b02ba6409c93d71cf50e4.jpg">
+    	</a>
+    </div>
+    <div class="author-name">
+    	<a href="http://ganjianying.baijia.baidu.com" mon="name=recommend&pos=name&pn=3" target="_blank">笨手蛇</a>
+    </div>
+    <div class="author-text">网络时代，大胆扯淡，尽量靠谱！</div>
+    <div class="author-artical"><a href="http://ganjianying.baijia.baidu.com/article/48266" mon="name=recommend&pos=title&pn=3" target="_blank">农村数字化生存：鸿沟、机遇与挑战</a></div>
+</div>
+<div class="author-m ">
+    <div class="author-pic">
+    	<a href="http://yangjunjun.baijia.baidu.com" mon="name=recommend&pos=pic&pn=4" target="_blank">
+    		<img src="http://c.hiphotos.baidu.com/news/pic/item/8ad4b31c8701a18bb528c7b39c2f07082938fe0f.jpg">
+    	</a>
+    </div>
+    <div class="author-name">
+    	<a href="http://yangjunjun.baijia.baidu.com" mon="name=recommend&pos=name&pn=4" target="_blank">杨君君</a>
+    </div>
+    <div class="author-text">自媒体作者</div>
+    <div class="author-artical"><a href="http://yangjunjun.baijia.baidu.com/article/45071" mon="name=recommend&pos=title&pn=4" target="_blank">农村电商：发展的关键其实在于运营</a></div>
+</div>
+</div>
+</div>
+
+        <div class="mod" id="artical" alog-group="log-hotartical-num">
+    <div class="hd">
+        <div class="title_box" ><div class="title_container"><span class="title">文章排行</span><span class="sub_title">TOP ARTICLES</span><div class="line"><div class="left"></div><div class="right"></div></div></div></div>
+    </div>
+    <div class="bd">
+                <ul class="artical-top-num" id="topArtical">
+                                                                            <li class="top-1">
+                        <span class="num">01</span>
+                        <p class="title"><a href="http://jiyongqing.baijia.baidu.com/article/40211" mon="name=bjhotarticle" target="_blank">京东下乡</a></p>
+                                                <p class="desc">改变家乡的面貌，让先进的电商和互联网金融惠及更多的农民朋友，是...</p>
+                                            </li>
+                                                                                                                            <li class="top-2">
+                        <span class="nm"></span>
+                        <span class="num">02</span>
+                        <p class="title"><a href="http://chenfang.baijia.baidu.com/article/23992" mon="name=bjhotarticle" target="_blank">农村人结婚没安全感，所以要聘礼？</a></p>
+                    </li>
+                                                                                                                            <li class="top-3">
+                        <span class="nm"></span>
+                        <span class="num">03</span>
+                        <p class="title"><a href="http://qingang.baijia.baidu.com/article/52803" mon="name=bjhotarticle" target="_blank">秦刚访谈：互联网+农村10万亿市场</a></p>
+                    </li>
+                                                                                                        <li>
+                        <span class="nm"></span>
+                        <span class="num">04</span>
+                        <p class="title"><a href="http://laoyu.baijia.baidu.com/article/4199" mon="name=bjhotarticle"  target="_blank">他们为何娶不起媳妇？ </a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm"></span>
+                        <span class="num">05</span>
+                        <p class="title"><a href="http://wuhaihong.baijia.baidu.com/article/52217" mon="name=bjhotarticle"  target="_blank">还要创业？看看广大农村市场吧</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm"></span>
+                        <span class="num">06</span>
+                        <p class="title"><a href="http://lidonglou.baijia.baidu.com/article/43807" mon="name=bjhotarticle"  target="_blank">村村乐胡伟:农村O2O市场是一片蓝海</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm"></span>
+                        <span class="num">07</span>
+                        <p class="title"><a href="http://diaolong.baijia.baidu.com/article/42585" mon="name=bjhotarticle"  target="_blank">农村O2O模式痛点在哪？</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm"></span>
+                        <span class="num">08</span>
+                        <p class="title"><a href="http://chenfang.baijia.baidu.com/article/39942" mon="name=bjhotarticle"  target="_blank">农村为何“先嫁女儿后娶媳妇”</a></p>
+                    </li>
+                                            </ul>
+            </div>
+</div>
+
+<script type="text/javascript">
+;$(function(){
+    if($('#artical').find('.tab').length){
+        $('#artical').find('.tab').on('click',switchTab);
+    }
+    
+
+    function switchTab(e){
+        var $e=$(this),
+            tabId = $e.data('id');
+
+        $.each($('#artical').find('.artical-top-num'),function(i,e){
+            $(e).hide();
+        });
+        $.each($('#artical').find('.tab'),function(i,e){
+            $(e).removeClass('on');
+        });
+
+        $e.addClass('on');
+        $('#'+tabId).show();
+    }
+});
+</script>
+    </div>
+</div>
+
+<style>
+#footer{width:100%;background:#f0f0f0;height:249px;}
+#footer .site-nav{margin-top:34px;}
+#footer .site-nav a{background:#fff;display: inline-block;border: 1px solid #ececec;padding: 0 22px;margin: 0 5px;height: 30px;line-height: 30px;color: #666;vertical-align: bottom;}
+#footer .site-nav a.bottom-logo{background:none;border: 0;height: 38px;}
+</style>
+<div id="footer" alog-group="log-footer">
+<p class="site-nav"><a href="http://baijia.baidu.com/" target="_blank" class="bottom-logo"><img src="/static/images/baijia_logo_color.png"/></a><a href="http://baijia.baidu.com/?tn=listarticle&labelid=2" target="_blank">互联网</a><a href="http://baijia.baidu.com/?tn=listarticle&labelid=3" target="_blank">文化</a><a href="http://baijia.baidu.com/?tn=listarticle&labelid=4" target="_blank">娱乐</a><a href="http://baijia.baidu.com/?tn=listarticle&labelid=5" target="_blank">体育</a><a href="http://baijia.baidu.com/?tn=listarticle&labelid=6" target="_blank">财经</a><a href="http://baijia.baidu.com/?tn=listarticle&labelid=1" target="_blank">热点</a>
+</p>
+<p class="top-nav">
+<a href="http://baijia.baidu.com/" target="_blank">百家首页</a>|
+<a href="http://news.baidu.com/" target="_blank">百度新闻</a>|
+<a href="mailto:Baijia@baidu.com" target="_blank">联系我们：Baijia@baidu.com</a>
+<strong> 百度新闻独家出品</strong>
+</p>
+<p class="site-info">
+京公网安备110000000001号 <a href="http://news.baidu.com/licence.html">互联网新闻信息服务许可</a><span>&copy;2015 Baidu</span><a href="http://www.baidu.com/duty/">使用百度前必读</a><a target="_blank" href="http://net.china.cn/chinese/index.htm"><img src="http://gimg.baidu.com/img/net.gif"></a><a target="_blank" href="http://www.bj.cyberpolice.cn/index.htm"><img alt="首都网络110报警服务" src="http://gimg.baidu.com/img/110.gif"></a><a target="_blank" href="http://www.bjjubao.org/"><img src="http://news.baidu.com/resource/img/report_center.png"></a> 
+</p>
+</div>
+
+<script type="text/template" id="new-feed-tmp">
+
+    <%var data = data.list%>
+    <%for(var i=0; i<data.length;i++){%>
+    <div class="feeds-item" id="item-<%=data[i]['ID']%>">
+        <h3 style="position:relative;"><a href="<%=data[i]['m_display_url']%>" target="_blank" mon="col=13&pn=<%=PAGE_DATA.artical_list_num+i+1%>"><%=baidu.string.subByte(data[i]['m_title'],46)%></a><span class="feeds-item-time"><%=data[i]['m_create_time']%></span></h3>
+    <%if(i == data.length-1){%>
+        <div class="feeds-item-detail clearfix white-bdr">
+    <%}else{%>
+        <div class="feeds-item-detail clearfix">
+    <%}%>
+            <%if (data[i]['m_image_url']){%>
+            <p class="feeds-item-pic"><a href="<%=data[i]['m_display_url']%>" target="_blank" class="feeds-item-more" mon="col=13&pn=<%=PAGE_DATA.artical_list_num+i+1%>&a=12"><img src="<%=data[i]['m_image_url']%>"/></a></p>
+            <%}%>
+            <p class="feeds-item-text"><%=baidu.string.subByte(data[i]['m_summary'],200,'...')%><a href="<%=data[i]['m_display_url']%>" target="_blank" class="feeds-item-more" mon="col=13&pn=<%=PAGE_DATA.artical_list_num+i+1%>">[详细]</a></p>
+            <p class="feeds-item-info">
+            <%if(!data.isAuthor){%><span><a href="<%=data[i]['m_writer_url']%>" class="feeds-item-author" target="_blank"><%=data[i]['m_writer_name']%></a></span><%}%><span>阅读（<%=data[i].hotcount%>）</span>
+            <span><a href="javascript:void(0)" class="share-article">分享</a></span>
+            <%var label = data[i]['m_label_names']%>
+            <%for(var j=0; j<label.length;j++){%>
+                <%if (label.length == j+1){%>
+                    <a href="http://baijia.baidu.com/?tn=listarticle&labelid=<%=label[j].m_id%>"><%=label[j].m_name%></a>
+                <%}else{%>
+                    <a href="http://baijia.baidu.com/?tn=listarticle&labelid=<%=label[j].m_id%>"><%=label[j].m_name%></a>|
+                <%}%>
+            <%}%>
+            </p>
+        </div>
+    </div>
+    <%}%>
+
+</script>
+
+<!-- Baidu Button BEGIN -->
+<div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare" style="float:right;display:none" data='{}'>
+<span class="bds_more" style="background:#fff!important;padding:0; display:none">分享到：</span>
+<a class="bds_tsina"></a>
+<a class="bds_qzone"></a>
+<a class="bds_tqq"></a>
+<a class="bds_renren"></a>
+<a class="bds_t163"></a>
+<a class="shareCount" style="display:none"></a>
+</div>
+<script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=0" ></script>
+<script type="text/javascript" id="bdshell_js"></script>
+<script type="text/javascript">
+document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000)
+</script>
+<!-- Baidu Button END -->
+
+
+<script type="text/javascript">
+baidu.dom.ready(function(){
+    function render(data){
+        var _html = []; 
+        for(var i=0; i<data.length;i++){
+            _html.push('<div class="feeds-item" id="item-'+data[i]['ID']+'">');
+
+            if (data[i]['m_image_url']){
+                _html.push('<div class="feeds-item-detail hasImg">');
+                _html.push('<p class="feeds-item-pic"><a href="'+data[i]['m_display_url']+'" target="_blank" mon="col=13&pn=&a=12"><img src="'+data[i]['m_image_url']+'"/></a></p>');
+            }else{
+                _html.push('<div class="feeds-item-detail">');
+            }
+            _html.push('<h3><a href="'+data[i]['m_display_url']+'" target="_blank" mon="col=13&pn=">'+data[i]['m_title']+'</a></h3>');
+            _html.push('<p class="feeds-item-text">'+data[i]['m_summary']+'<a href="'+data[i]['m_display_url']+'" target="_blank" class="feeds-item-more" mon="col=13&pn=">[详细]</a></p>');
+            _html.push('<div class="feeds-item-info">');
+            _html.push('<p class="labels">');
+                var label = data[i]['m_label_names'];
+                for(var j=0; j<label.length;j++){
+                    _html.push('<a href="http://baijia.baidu.com/?tn=listarticle&labelid='+label[j].m_id+'" target="_blank">'+label[j].m_name+'</a>');
+                }
+            _html.push('</p>');
+            if(!data.isAuthor){
+                _html.push('<a href="'+data[i]['m_writer_url']+'" class="feeds-item-author" target="_blank">'+data[i]['m_writer_name']+'</a>');
+            }
+            _html.push('<span class="tm">'+data[i]['m_create_time']+'</span>');
+            _html.push('<span class="count">阅读（'+data[i]['hotcount']+'）</span>');
+            _html.push('<a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>');
+            _html.push('</div></div></div>');
+        }
+        return _html.join('');
+    }
+    var __el = baidu.g('feeds_more'), __parent = baidu.g('feeds'),disable=false,mytimeout;
+        __el && baidu.on(__el, 'click', function(e){
+            var previd = baidu.dom.last('feeds').id.match(/\d.*/)[0];
+			if(disable == false){
+				disable = true;
+                __el.innerHTML='<a href="javascript:void(0)"><span class="feeds-loading"><i class="i"></i>正在加载</span></a>';
+                baidu.ajax.get("/ajax/labellatestarticle?page="+(PAGE_DATA.page+1)+"&pagesize="+PAGE_DATA.pagesize+"&labelid="+PAGE_DATA.labelid+'&prevarticalid='+previd,function(h,r){
+                    var req = baidu.json.parse(r);
+                        if(req.errno == 0 && req.data.total > 0){
+                            var tpl=render(req.data.list);
+                            //var tpl=baidu.template('new-feed-tmp', req.data);
+                                baidu.dom.insertHTML(__parent,'beforeEnd',tpl);
+                                PAGE_DATA.artical_list_num += req.data.list.length+1;
+                                if(PAGE_DATA.artical_list_num >= req.data.total){
+                                    __el.innerHTML='<a href="javascript:void(0)"><span>没有了，亲！</span></a>';
+                                }else{
+                                    __el.innerHTML='<a href="javascript:void(0)"><span>加载更多</span></a>';
+                                }
+                                PAGE_DATA.page+=1;
+                                disable = false;
+                        }else{
+                            __el.innerHTML='<a href="javascript:void(0)"><span>没有了，亲！</span></a>';
+                        }
+                });
+            }
+       });
+       baidu.on('feeds','mouseover',function(e){
+             var target = baidu.event.getTarget(e);
+             if(/share-article/.test(target.className)){
+                if(mytimeout){
+                        clearTimeout(mytimeout);
+                    }
+                var pos = baidu.dom.getPosition(target),
+                    _parent = baidu.dom.getAncestorByClass(target, 'feeds-item'),
+                    _item = baidu.dom.query('h3 a', _parent)[0];
+                    title =baidu.dom.getText(_item),
+                    url = baidu.dom.getAttr(_item, 'href'), 
+                    _pic =  baidu.dom.query('img', _parent).length ? baidu.dom.query('img', _parent)[0].src : 'http://baijia.baidu.com/static/images/baijia_weibopic.jpg';
+                    _text = baidu.dom.setAttr('bdshare','data','{"text" : "一篇好文,推荐之-【'+ title +'】（来自:百度百家）","url":"'+url+'","pic":"'+_pic+'"}');
+                    baidu.show('bdshare');
+                    baidu.dom.setStyles('bdshare',{position:'absolute',top:pos.top-4, left: pos.left+50});
+             }
+       });
+       baidu.on('feeds','mouseout',function(e){
+            if(/share-article/.test(baidu.event.getTarget(e).className)){
+                mytimeout = setTimeout(function(){
+                    baidu.hide('bdshare');
+                },500);
+            }
+       });
+       baidu.on('bdshare', 'mouseover' , function(e){
+            if(mytimeout){
+                clearTimeout(mytimeout);
+            }
+            baidu.show(this);
+       });
+       baidu.on('bdshare', 'mouseout' , function(e){
+            baidu.hide(this);
+       });
+
+       //$('#tags').on('click','.btnM',tagRss);
+
+        function tagRss(){
+            if(!$("#login").is(":hidden")){
+                baidu.g("login").click();
+                return false;
+            }
+            var $e = $(this),
+                txt = $e.find('b').text(),
+                mid = $e.closest('li').find('.tagnm').data('mid'),
+                changeTxt,changeClass,status;
+            if(txt == '取消'){
+                status = 2;
+                changeTxt = '关注';
+                changeClass = 'i iadd';
+            }else if(txt == '关注'){
+                status = 1;
+                changeTxt = '取消';
+                changeClass = 'i iminus';
+            }
+
+            $.ajaxSetup({ cache: false });
+            $.ajax({
+                url: "/ajax/subscribe?uid="+uid+"&mid="+mid+"&type=1&status="+status,
+                type: 'GET',
+                dataType: 'json',
+                success: function(res){
+                    if(res.errno == '0'){
+                        $e.find('.b').text(changeTxt);
+                        $e.find('.i').removeClass().addClass(changeClass);
+                    }
+                }
+            });
+        }
+
+});
+</script>
+<style>
+#bj_erweima {
+    bottom:115px;
+    margin-left:512px;
+    position:fixed;
+    _position:absolute;
+    left:50%;
+    width:128px;
+    _top:expression(eval(document.documentElement.scrollTop || document.body.scrollTop) +eval(document.documentElement.clientHeight || document.body.clientHeight) -295 +'px');
+    z-index:998;
+}
+</style>
+<div id="bj_erweima">
+    <a class="box" href="http://app.news.baidu.com/?src=erweima" target="_blank">
+        <img src="/static/images/baijia_erweima.jpg" >
+    </a>
+</div>
+<link href="/static/js/libs/magic/resources/default/magic.control.Dialog/magic.control.Dialog.css?v=20131212" rel="stylesheet" type="text/css"></link>
+<!--用户反馈-->
+<div id="goTop" >
+    <div class="feedback" id="feedbackbtn"><a href="javascript:;">用户反馈</a></div>
+    <div class="gotop"><a id="gotop_btn" style="display:none" onclick="window.scroll(0, 0)"></a></div>
+</div>
+<style>
+#goTop {
+    position:fixed;
+    width:54px;
+    left:50%;
+    margin-left:512px;
+    bottom:10px;
+    *+bottom:10px;
+    _position:absolute;
+    _top:expression(eval(document.documentElement.scrollTop || document.body.scrollTop) +eval(document.documentElement.clientHeight || document.body.clientHeight) -110+'px');
+    z-index:998;
+}
+#goTop div {
+    height:48px;
+    margin-top:3px;
+    position:relative;
+    width:48px;
+}
+#goTop div a,#goTop div a:link {
+    display:inline-block;
+    height  :18px;
+    width:100%;
+    color:#fff;
+    background:#b7c5ca url(http://news.baidu.com/resource/img/gotop.png) no-repeat;
+    font-size:12px;
+    line-height:14px;
+    text-align:center;
+    text-decoration:none;
+    padding-top:30px;
+}
+#goTop div.feedback a {
+    padding:10px;
+    height:28px;
+    width:28px;
+    line-height:14px;
+    background:#b7c5ca;
+}
+#goTop .feedback a:hover {
+    background:#59a9c6;
+}
+#goTop div.gotop a {
+    background-position:-147px -48px;
+}
+#goTop .gotop a:hover {
+    background-position:-147px 0;
+}
+/*UI控件*/
+.tang-dialog{position:fixed;top:100px;_position:absolute;_top:100px;_bottom:100px;}
+.tang-dialog .tang-title{background:#fff;border:none;}
+.tang-dialog .tang-title span{color:#fff;height:35px;line-height: 35px;background:#fff;}
+.tang-dialog .tang-body{border:none;background:#fff;}
+.tang-dialog .tang-body .content{color:#666;font-family: "微软雅黑";}
+.tang-dialog .tang-title .buttons a{background: transparent url(http://baijia.baidu.com/static/js/libs/magic/resources/default/magic.control.Dialog/btns.gif) no-repeat;}
+.tang-dialog .tang-title .buttons a:hover{background: transparent url(http://baijia.baidu.com/static/js/libs/magic/resources/default/magic.control.Dialog/btns.gif) no-repeat;}
+/*用户反馈*/
+.feed_describe{font: 16px "微软雅黑",arial,tahoma;color: #666;font-weight: bold;margin-bottom:10px;float:left;margin-left:20px;_margin-left:10px;}
+.feed_describe span{font: 30px arial;color: #377cca;font-style: italic;margin-right: 8px;}
+.feed_content{width: 630px;_width:630px;height: 170px;resize:none;overflow:auto;font-size:16px;border: 1px solid #ddd;padding-left:10px;font-family: "微软雅黑",arial,tahoma;margin-left:20px;float:left;}
+.feed_contact{clear:left;width:630px;height:40px;margin-left:20px;*margin-left:10px;}
+.feed_contact_txt{width: 286px;height: 32px;overflow: hidden;border: 1px solid #ddd;float: left;margin-right: 10px;padding-left:10px;font:16px/32px "微软雅黑",arial,tahoma;}
+.feed_contact_comment{font-size:16px;line-height:32px;color:#bbb;display: block;float:left;}
+.feed_contact_button{width:120px;height:35px;display:block;margin:15px auto 0px;background: #3F88D2;color: #fff;font-size: 16px;border: 1px solid #3F88D2;*+margin-top:8px;}
+</style>
+<script>var on=baidu.event.on;Fe = baidu;</script>
+<script src="/static/js/libs/magic/magic.js?v=20131212" type="text/javascript"></script>
+<script src="/static/js/utils.js?v=20131212" type="text/javascript"></script>
+<script type="text/javascript">
+    baidu.on(window,'load', function(){
+        var eleTop = baidu.g("gotop_btn");
+        baidu.on(window, 'scroll', function(){
+            baidu.page.getScrollTop() >= 200 ? baidu.show(eleTop) : baidu.hide(eleTop);
+            if(baidu.browser.ie&&baidu.browser.ie < 7){
+                var scrolltop = baidu.page.getScrollTop(),
+                    viewheight = baidu.page.getViewHeight(),
+                    pageheight = baidu.page.getHeight();
+                baidu.dom.setStyle('goTop','top',(scrolltop+viewheight-110));
+            }
+        });
+        var feedback = baidu.g("feedbackbtn");
+        var feedbackDialog = null , feedactionDialog = null ;
+        baidu.on(feedback , "click",function(e){
+            if(!feedbackDialog){
+                feedbackDialog = ZMT.notice({title:'用户反馈',content:'<h2 class="feed_describe"><span>1</span>请描述您遇到的问题或您的意见、建议：</h2><textarea type="text" class="feed_content" id="feed_content"></textarea><h2 class="feed_describe"><span>2</span>请留下联系方式，您将有机会获得精美礼品</h2><div class="feed_contact"><input type="text" class="feed_contact_txt" id="feed_content_txt" value="" placeholder="QQ/邮箱/电话"><span class="feed_contact_comment">(可选)</span></div><input id="submit_feed" type="button" class="feed_contact_button" value="提交反馈">',height:430,width:700});
+                setTimeout(function(){
+                    baidu.on(baidu.g("submit_feed"),"click",function(){
+                        var browser = "";
+                        var content = baidu.g("feed_content").value;
+                        var contactway = baidu.g("feed_content_txt").value; 
+                        if(!content){return false;}
+                        for(var p in baidu.browser){
+                            if(baidu.browser[p]){
+                                browser += " "+p+":"+baidu.browser[p] ;
+                            }
+                        }
+                        var url = 'mid=baijia_pc&content='+content+'&contactway='+contactway+'&browse='+browser; 
+                        baidu.ajax.post('/ajax/feedback',url,function(h,r){
+                            var req = baidu.json.parse(r);
+                            if(req.errno == 0){
+                                feedbackDialog.hide();
+                                feedactionDialog = ZMT.notice({content:'<div style="width:100%;height:100%;text-align:center;">提交成功！</div>',autohide:true});
+                                feedactionDialog.setPosition({top:100});
+                            }
+                        });
+                    });
+                },500);
+                feedbackDialog.setPosition({top:100});
+            }else{
+                baidu.g("feed_content").value = "";
+                baidu.g("feed_content_txt").value = ""; 
+                feedbackDialog.show();
+            }
+        });
+    });
+</script>
+</body>
+</html>

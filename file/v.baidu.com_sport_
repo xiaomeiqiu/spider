@@ -1,0 +1,877 @@
+ <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<!--STATUS OK-->
+<html>
+<head>
+    <meta content="text/html; charset=gb2312" http-equiv="Content-Type" />
+    <meta http-equiv="X-UA-Compatible" content="IE=7" />
+    <meta name="description" content="百度视频搜索是全球最大的中文视频搜索引擎，拥有最多的中文视频资源，提供用户最完美的观看体验。在百度视频，您可以便捷地找到最新、最热的互联网视频，更有丰富的视频榜单、多样的视频专题满足您不同的视频观看需求。百度视频，你的视界。" />
+    <title>百度视频广场_体育</title>
+    <script>bdvGlobal={}</script>
+
+<script type="text/javascript" src="http://vs1.bdstatic.com/browse_static/widget/common/base_js/base_js_407377a6.js"></script>
+
+<script type="text/javascript">
+F._fileMap({'http://vs1.bdstatic.com/browse_static/widget/common/framework_static/framework_static_628baa9f.js' : ['/browse_static/common/lib/tangram/base/base.js',
+'/browse_static/common/lib/tangram/fx/fx.js',
+'/browse_static/common/lib/tangram/fx/current/current.js',
+'/browse_static/common/lib/tangram/fx/opacity/opacity.js',
+'/browse_static/common/lib/tangram/fx/create/create.js',
+'/browse_static/common/lib/tangram/fx/Timeline/Timeline.js',
+'/browse_static/common/lib/tangram/fx/fadeIn/fadeIn.js',
+'/browse_static/common/lib/tangram/fx/scale/scale.js',
+'/browse_static/common/lib/tangram/fx/fadeOut/fadeOut.js',
+'/browse_static/common/lib/tangram/fx/scrollBy/scrollBy.js',
+'/browse_static/common/lib/tangram/fx/getTransition/getTransition.js',
+'/browse_static/common/lib/tangram/fx/mask/mask.js',
+'/browse_static/common/lib/tangram/fx/shake/shake.js',
+'/browse_static/common/lib/tangram/fx/remove/remove.js',
+'/browse_static/common/lib/tangram/fx/zoomOut/zoomOut.js',
+'/browse_static/common/lib/tangram/fx/puff/puff.js',
+'/browse_static/common/lib/tangram/fx/move/move.js',
+'/browse_static/common/lib/tangram/fx/moveBy/moveBy.js',
+'/browse_static/common/lib/tangram/fx/scrollTo/scrollTo.js',
+'/browse_static/common/lib/tangram/fx/collapse/collapse.js',
+'/browse_static/common/lib/tangram/fx/highlight/highlight.js',
+'/browse_static/common/lib/tangram/fx/moveTo/moveTo.js',
+'/browse_static/common/lib/tangram/fx/zoomIn/zoomIn.js',
+'/browse_static/common/lib/tangram/fx/pulsate/pulsate.js',
+'/browse_static/common/lib/tangram/fx/expand/expand.js']});
+</script>
+
+
+
+<script type="text/javascript">
+F._fileMap({'http://vs1.bdstatic.com/browse_static/widget/common/module_static/module_static_43748ebd.js' : ['/browse_static/common/lib/tangram/core/core.js',
+'/browse_static/common/lib/tangram/plugin/selectable/selectable.js',
+'/browse_static/common/lib/tangram/plugin/draggable/draggable.js',
+'/browse_static/common/lib/tangram/plugin/sortable/sortable.js',
+'/browse_static/common/lib/tangram/plugin/fx/fx.js',
+'/browse_static/common/ui/baidutemplate/baidutemplate.js',
+'/browse_static/common/ui/magic/Background/$styleBox/$styleBox.js',
+'/browse_static/common/ui/magic/Background/Background.js',
+'/browse_static/common/ui/magic/Dialog/Dialog.js',
+'/browse_static/common/ui/magic/control/Slider/$fx/$fx.js',
+'/browse_static/common/ui/magic/control/Slider/$cache/$cache.js',
+'/browse_static/common/ui/magic/control/Slider/Slider.js',
+'/browse_static/common/ui/magic/control/Popup/Popup.js',
+'/browse_static/common/ui/magic/control/Tab/Tab.js',
+'/browse_static/common/ui/magic/control/Suggestion/Suggestion.js',
+'/browse_static/common/ui/magic/control/Tooltip/Tooltip.js',
+'/browse_static/common/ui/magic/control/Layer/Layer.js',
+'/browse_static/common/ui/magic/control/Carousel/$itemModify/$itemModify.js',
+'/browse_static/common/ui/magic/control/Carousel/$autoScroll/$autoScroll.js',
+'/browse_static/common/ui/magic/control/Carousel/$button/$button.js',
+'/browse_static/common/ui/magic/control/Carousel/$fx/$fx.js',
+'/browse_static/common/ui/magic/control/Carousel/Carousel.js',
+'/browse_static/common/ui/magic/control/Dialog/$mask/$mask.js',
+'/browse_static/common/ui/magic/control/Dialog/Dialog.js',
+'/browse_static/common/ui/magic/control/control.js',
+'/browse_static/common/ui/magic/setup/tab/tab.js',
+'/browse_static/common/ui/magic/setup/suggestion/suggestion.js',
+'/browse_static/common/ui/magic/setup/carousel/carousel.js',
+'/browse_static/common/ui/magic/setup/pager/pager.js',
+'/browse_static/common/ui/magic/setup/background/background.js',
+'/browse_static/common/ui/magic/setup/dialog/dialog.js',
+'/browse_static/common/ui/magic/setup/slider/slider.js',
+'/browse_static/common/ui/magic/setup/setup.js',
+'/browse_static/common/ui/magic/Slider/Slider.js',
+'/browse_static/common/ui/magic/Popup/Popup.js',
+'/browse_static/common/ui/magic/_query/_query.js',
+'/browse_static/common/ui/magic/Tab/Tab.js',
+'/browse_static/common/ui/magic/Base/Base.js',
+'/browse_static/common/ui/magic/Tooltip/Tooltip.js',
+'/browse_static/common/ui/magic/Mask/Mask.js',
+'/browse_static/common/ui/magic/Carousel/$button/$button.js',
+'/browse_static/common/ui/magic/Carousel/Carousel.js',
+'/browse_static/common/ui/magic/Pager/Pager.js',
+'/browse_static/common/ui/magic/magic.js',
+'/browse_static/common/ui/eventcenter/eventcenter.js',
+'/browse_static/common/ui/vs/tmpl/tmpl.js',
+'/browse_static/common/ui/vs/loadimg/loadimg.js',
+'/browse_static/common/ui/vs/client/client.js',
+'/browse_static/common/ui/vs/DetailTip/DetailTip.js',
+'/browse_static/common/ui/vs/lazyload/lazyload.js',
+'/browse_static/common/ui/vs/imgPlus/imgPlus.js',
+'/browse_static/common/ui/vs/log/log.js',
+'/browse_static/common/ui/vs/ABTest/ABTest.js',
+'/browse_static/common/ui/vs/vipConfig/vipConfig.js',
+'/browse_static/common/ui/vs/showFeedBack/showFeedBack.js',
+'/browse_static/common/ui/vs/vipRegisterPopup/vipRegisterPopup.js',
+'/browse_static/common/ui/vs/subDetailTip/subDetailTip.js',
+'/browse_static/common/ui/vs/statistics/statistics.js',
+'/browse_static/common/ui/vs/bdvTrace/config/config.js',
+'/browse_static/common/ui/vs/bdvTrace/ugcRpTrack/ugcRpTrack.js',
+'/browse_static/common/ui/vs/bdvTrace/core/core.js',
+'/browse_static/common/ui/vs/bdPassPop/bdPassPop.js',
+'/browse_static/common/ui/vs/scrolling/scrolling.js',
+'/browse_static/common/ui/vs/SiteList/SiteList.js',
+'/browse_static/common/ui/vs/quicksearch/quicksearch.js',
+'/browse_static/common/ui/vs/utility/dialog/dialog.js',
+'/browse_static/common/ui/vs/utility/mask/mask.js',
+'/browse_static/common/ui/vs/vipPlayPortal/vipPlayPortal.js',
+'/browse_static/common/ui/vs/loginCheck/loginCheck.js',
+'/browse_static/common/ui/vs/search_placeholder/search_placeholder.js',
+'/browse_static/common/ui/vs/vs.js',
+'/browse_static/widget/common/header_baoku/header_baoku.js',
+'/browse_static/widget/common/ui_searchbox/ui_searchbox.js',
+'/browse_static/widget/common/focuslayer/focuslayer.js',
+'/browse_static/widget/common/focuscarousel/focuscarousel.js',
+'/browse_static/widget/common/navGuider/navGuider.js',
+'/browse_static/widget/common/header_baoku_player/header_baoku_player.js',
+'/browse_static/widget/common/tabtoplist/tabtoplist.js',
+'/browse_static/widget/common/gamepromo/gamepromo.js',
+'/browse_static/widget/common/bdv_trace_carousel/bdv_trace_carousel.js',
+'/browse_static/widget/common/bdv_trace/bdv_trace.js',
+'/browse_static/widget/common/userinfo/userinfo.js',
+'/browse_static/widget/common/userbar/userbar.js',
+'/browse_static/widget/common/userinfo_hao123/userinfo_hao123.js',
+'/browse_static/widget/common/navbar/navbar.js',
+'/browse_static/widget/common/searchKeyword/searchKeyword.js',
+'/browse_static/widget/common/searchbox/searchbox.js',
+'/browse_static/widget/common/backtop/backtop.js',
+'/browse_static/widget/common/feedback/feedback.js',
+'/browse_static/widget/common/tabpicarea/tabpicarea.js',
+'/browse_static/widget/common/bdv_login/bdv_login.js',
+'/browse_static/widget/common/header_hao123/header_hao123.js',
+'/browse_static/widget/common/tabtoplist_worldcup_ajax/tabtoplist_worldcup_ajax.js']});
+</script>
+<link type="text/css" rel="stylesheet" href="http://vs1.bdstatic.com/browse_static/widget/common/module_static/module_static_e5cad639.css"/>
+
+
+<script type="text/javascript">
+F._fileMap({'http://vs6.bdstatic.com/browse_static/widget/short/module_static/module_static_393fe068.js' : ['/browse_static/widget/short/statistics_pv/statistics_pv.js',
+'/browse_static/widget/short/side_quick/side_quick.js',
+'/browse_static/widget/short/share/share.js',
+'/browse_static/widget/short/header/header.js',
+'/browse_static/widget/short/navbar/navbar.js',
+'/browse_static/widget/short/usertip/usertip.js']});
+</script>
+<link type="text/css" rel="stylesheet" href="http://vs6.bdstatic.com/browse_static/widget/short/module_static/module_static_23d110b1.css"/>
+
+<script type="text/javascript">F._fileMap({'http://vs6.bdstatic.com/browse_static/short/index/index_d366cadb.js' : ['/browse_static/short/ui/fixedScroll/fixedScroll.js', '/browse_static/short/ui/waterfall/waterfall.js', '/browse_static/short/ui/waterfall/dataCenter/dataCenter.js', '/browse_static/short/ui/waterfall/params/params.js', '/browse_static/short/ui/waterfall/basicMode/basicMode.js', '/browse_static/short/ui/waterfall/scrollMode/scrollMode.js', '/browse_static/short/ui/waterfall/ugcRecommend/ugcRecommend.js', '__virsul__']});F.use('__virsul__');</script><link href="http://vs6.bdstatic.com/browse_static/short/index/index_a99cd17c.css" rel="stylesheet" type="text/css"/>
+
+</head>
+<body>
+<div id="flashTestElem" style="height: 0px;overflow: hidden;"></div>
+<script type="text/javascript">
+	F.use(['/browse_static/common/lib/tangram/core/core.js'], function(T, vipConfig, loginCheck) {
+		if(!window['advPlayLog']){
+			window['advPlayLog'] = function(logstr){
+				var pimg = new Image();
+				window["bd_" + (new Date()).getTime()] = pimg;
+				pimg.src = logstr+'&refer='+ encodeURIComponent(document.referrer) +'&r='+Math.random();
+			}
+		}
+		advPlayLog('http://nsclick.baidu.com/u.gif?pid=104&tpl=square&stp=probestart');
+		var flashData = {
+			id: 'flashTester',
+			url: 'http://list.video.baidu.com/swf/probe.swf?v=20150311&r=' + Math.random(),
+			width: 1,
+			height: 1,
+			wmode: 'transparent',
+			vars: {
+				"log": "tpl=square"
+			},
+			allowScriptAccess: 'always',
+			allowFullScreen: 'true'
+		};
+		T.swf.create(flashData, 'flashTestElem');
+	});
+</script>
+
+<script type="text/javascript">
+(function(){var a=document.body.className,b=screen.width>1024?"gt1024":"lte1024";isipad=navigator.userAgent.match(/(iPad).*OS\s([\d_]+)/);a=a?a+" "+b:b;if(isipad){a+=" ipad"}document.body.className=a;if(isipad&&!/fr=video/.test(location.href)){F.use("/browse_static/common/lib/tangram/base/base.js",function(c){c.sio.callByBrowser("http://vs3.bdstatic.com/padpromotion/promotion.js?v="+Math.ceil(new Date()/7200000),function(){if(typeof videoPromotion==="function"){videoPromotion(c)}})})}}());
+</script>
+
+
+<script type="text/javascript">
+(function(){var a=function(){var g=false,f=[],c;if(document.addEventListener){c=function(){document.removeEventListener("DOMContentLoaded",c,false);d()}}else{if(document.attachEvent){c=function(){if(document.readyState==="complete"){document.detachEvent("onreadystatechange",c);d()}}}}function d(){if(!d.isReady){d.isReady=true;for(var k=0,h=f.length;k<h;k++){f[k]()}}}function b(){try{document.documentElement.doScroll("left")}catch(h){setTimeout(b,1);return}d()}function e(){if(g){return}g=true;if(document.readyState==="complete"){d.isReady=true}else{if(document.addEventListener){document.addEventListener("DOMContentLoaded",c,false);window.addEventListener("load",d,false)}else{if(document.attachEvent){document.attachEvent("onreadystatechange",c);window.attachEvent("onload",d);var h=false;try{h=window.frameElement==null}catch(i){}if(document.documentElement.doScroll&&h){b()}}}}}e();return function(h){d.isReady?h():f.push(h)}}();a.isReady=false;F.use("/browse_static/common/lib/tangram/base/base.js",function(b){b.dom.ready=a})})();
+</script>
+
+
+<div id="square" alog-alias="square">
+	<div id="squareHd">
+        
+<div id="squareHeader" alog-alias="searchBoxWrapper">
+    <div class="vui newheader" monkey="newheader">
+        <div class="logo" static="s=1608&tn=square&bl=newheader&stp=po">
+            <a href="http://v.baidu.com"><img src="http://img.baidu.com/video/img/video_logo_new.gif" alt="百度视频"></a>
+            <span class="mark"></span>
+        </div>
+        
+<div id="userbar" static="s=1608&tn=square&bl=userbar" monkey="userbar" alog-alias="userbar">
+    <ul></ul>
+</div>
+<script type="text/javascript">
+    F.use(["/browse_static/widget/short/usertip/usertip.js","/browse_static/common/ui/vs/loginCheck/loginCheck.js"], function(initUserTip, loginCheck) {
+        loginCheck(initUserTip);
+    });
+</script>
+
+
+        
+<form action="http://v.baidu.com/v" method="get" name="f1" id="bdvSearch" class="bdv-search" target="_blank">
+	<span class="bdv-search-inputs">
+		<input type="text" maxlength="120" id="kw" name="word" value="" />
+	</span>
+	<span class="bdv-search-btns">
+		<input type="submit" value="百度一下" id="bdvSearchBtn" onmousedown="this.className='bdv-search-btn-down'" onmouseout="this.className=''" />
+	</span>
+	<input name="ct" type="hidden" value="301989888" />
+	<input name="rn" type="hidden" value="20" />
+	<input name="pn" type="hidden" value="0" />
+	<input name="db" type="hidden" value="0" />
+	<input name="s" type="hidden" value="0" />
+	<input name="fbl" type="hidden" value="800" />
+	<input name="oq" type="hidden"  disabled="disabled" />
+	<input name="f" type="hidden" value="3"  disabled="disabled" />
+	<input name="rsp" type="hidden"  disabled="disabled" />
+	</form>
+<script type="text/javascript" id="bdvsug_js" charset="utf-8"></script>
+<script type="text/javascript">
+var bdvSugConfig = {
+	form: 'bdvSearch',
+	input: 'kw',
+	num: 6,
+	delay: 0
+};
+(function() {
+	function loadImg(src) {
+		var t = new Date().getTime(),
+			img = window['V_fix_img'+t] = new Image();
+		img.onload = img.onerror = img.onabort = function() {
+			img.onload = img.onerror = img.onabort = null;
+			try {
+				delete window['V_fix_img'+t];
+				img = null;
+			} catch(e) {
+				img = null;
+			}
+		}
+		img.src = src+'&r='+t;
+	};
+	var types = {
+		movie: 21,
+		tv: 22,
+		show: 26,
+		comic: 43,
+		person: 50
+	};
+	var match = location.search.match(/[&?]q=([^&]+)/);
+	if(match){
+		document.getElementById('kw').value = decodeURIComponent(match[1]);
+	}
+	bdvSugConfig.onsubmit = function(evt) {
+		loadImg('http://nsclick.baidu.com/v.gif?pid=104&tn=sug&searchpage=square&s=zdjs&input=' + encodeURIComponent(evt.query) + '&wd=' + encodeURIComponent(evt.title) + ( evt.index ? '&li=' + evt.index : '' ) + ( evt.eventType ? '&eventtype=' + evt.eventType : '' ));
+	};
+	bdvSugConfig.onclicklink = function(evt) {
+		loadImg('http://nsclick.baidu.com/v.gif?pid=104&tn=sug&s=zdjs&bl=spa&input=' + encodeURIComponent(evt.query) + '&wd=' + encodeURIComponent(evt.title) + '&id=' + evt.id + '&ty=' + types[evt.type] + '&stp=' + evt.target + '&li=' + evt.index + '&u=' + encodeURIComponent(evt.url));
+	};
+	F.use(['/browse_static/common/lib/tangram/base/base.js','/browse_static/common/ui/vs/search_placeholder/search_placeholder.js'], function(T,searchHolder) {
+		var sHolder = new searchHolder('kw');
+					T.on('bdvSearchBtn', 'click', function(e) {
+				var newheader = T('.mini-nav')[0] && '&newheader=1' || '';
+				var logUrl = 'http://nsclick.baidu.com/v.gif?pid=104&searchpage=square&s=zdjs&eventtype=click'+ newheader +'&wd=' + encodeURIComponent(T.dom.g('kw').value);
+				//T.event.preventDefault(e);
+				//T.event.stopPropagation(e);
+				if(sHolder.isPrekeyword()){
+					logUrl += '&bl=default'
+				}
+				loadImg(logUrl);
+				/*setTimeout(function() {
+					T.dom.g('bdvSearch').submit();
+				}, 200);*/
+			});
+				if ( document.documentElement.className !== 'quickSearchMod') {
+			T.dom.ready(function(){
+				sHolder.init('square');
+			});
+		}
+	});
+}());
+document.getElementById('bdvsug_js').src = 'http://list.video.baidu.com/pc_static/open/suggestion/sug-quick-search-min.js?v=' + Math.ceil(new Date() / 7200000);
+</script>
+
+
+    </div>
+</div>
+
+
+
+        
+<div id="squareMenuTag" static="tn=square&tag=%E4%BD%93%E8%82%B2&type=%E4%BD%93%E8%82%B2&bl=tags" alog-alias="navbarWrapper">
+    <!-- 导航主分类 -->
+    <ul class="menu" id="menu" monkey="main-sort">
+        <li class="home" static="tn=square&tag=%E4%BD%93%E8%82%B2&bl=tags&type=%E4%BD%93%E8%82%B2&stp=home">
+            <a href="http://v.baidu.com">百度视频首页</a>
+        </li>
+                                                                
+            <li >
+                <a href="/square/?tag=%E7%83%AD%E9%97%A8&sort=hot" >热门</a>
+            </li>
+                                                                
+            <li >
+                <a href="/square/?tag=%E6%90%9E%E7%AC%91&sort=hot" >搞笑</a>
+            </li>
+                                                                
+            <li >
+                <a href="/square/?tag=%E5%A8%B1%E4%B9%90&sort=hot" >娱乐</a>
+            </li>
+                                                                
+            <li >
+                <a href="/square/?tag=%E9%9F%B3%E4%B9%90&sort=hot" >音乐</a>
+            </li>
+                                                                
+            <li >
+                <a href="/square/?tag=%E8%88%9E%E8%B9%88&sort=hot" >舞蹈</a>
+            </li>
+                                                                
+            <li >
+                <a href="/square/?tag=%E7%94%9F%E6%B4%BB&sort=hot" >生活</a>
+            </li>
+                                                                
+            <li  class="cur">
+                <a href="/square/?tag=%E4%BD%93%E8%82%B2&sort=hot" >体育</a>
+            </li>
+                                                                
+            <li >
+                <a href="/square/?tag=%E8%B5%84%E8%AE%AF&sort=hot" >资讯</a>
+            </li>
+                                                                
+            <li >
+                <a href="/square/?tag=%E5%8E%9F%E5%88%9B&sort=hot" >原创</a>
+            </li>
+                                                                
+            <li >
+                <a href="/square/?tag=%E6%97%B6%E5%B0%9A&sort=hot" >时尚</a>
+            </li>
+                                                                
+            <li >
+                <a href="/square/?tag=%E6%B8%B8%E6%88%8F&sort=hot" >游戏</a>
+            </li>
+                <li id="menuGuessLike" style="display: none">
+            <a href="javascript:;" title="猜你喜欢">猜你喜欢</a>
+        </li>
+    </ul>
+    <!-- 子分类 -->
+    <div class="viewBox" id="viewBox">
+        <div class="viewCont" id="viewCont">
+                                                                			            <ul class="tags" id="tags" style="top: 0;" monkey="subsort_104" alog-alias="subsort_104">
+                                                                                    <li  class="cur">
+                    <a href="/square/?tag=%E4%BD%93%E8%82%B2&sort=hot" ><span>全部</span></a>
+                </li>
+
+                                                                                                                            <li >
+                        <a href="/square/?fid=104&tag=%E4%BA%9A%E6%B4%B2%E6%9D%AF&sort=hot" ><span>亚洲杯</span></a>                    </li>
+                                                                                                                            <li >
+                        <a href="/square/?fid=104&tag=%E4%B8%96%E7%95%8C%E6%9D%AF&sort=hot" ><span>世界杯</span></a>                    </li>
+                                                                                                                            <li >
+                        <a href="/square/?fid=104&tag=%E9%82%B9%E5%B8%82%E6%98%8E&sort=hot" ><span>邹市明</span></a>                    </li>
+                                                                                                                            <li >
+                        <a href="/square/?fid=104&tag=%E5%A5%B3%E6%8E%92&sort=hot" ><span>女排</span></a>                    </li>
+                                                                                                                            <li >
+                        <a href="/square/?fid=104&tag=%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86&sort=hot" ><span>贝克汉姆</span></a>                    </li>
+                                                                                                                            <li >
+                        <a href="/square/?fid=104&tag=NBA&sort=hot" ><span>NBA</span></a>                    </li>
+                                                                                                                            <li >
+                        <a href="/square/?fid=104&tag=%E5%93%88%E7%99%BB&sort=hot" ><span>哈登</span></a>                    </li>
+                                                                                                                            <li >
+                        <a href="/square/?fid=104&tag=%E7%BE%BD%E6%AF%9B%E7%90%83&sort=hot" ><span>羽毛球</span></a>                    </li>
+                                                                                                                            <li >
+                        <a href="/square/?fid=104&tag=%E9%BA%A6%E8%BF%AA&sort=hot" ><span>麦迪</span></a>                    </li>
+                                                                                                                            <li >
+                        <a href="/square/?fid=104&tag=%E6%98%93%E5%BB%BA%E8%81%94&sort=hot" ><span>易建联</span></a>                    </li>
+                                                                                                                            <li >
+                        <a href="/square/?fid=104&tag=%E5%AE%81%E6%B3%BD%E6%B6%9B&sort=hot" ><span>宁泽涛</span></a>                    </li>
+                                                                                                                            <li >
+                        <a href="/square/?fid=104&tag=%E7%A7%91%E6%AF%94&sort=hot" ><span>科比</span></a>                    </li>
+                                                                                                                            <li >
+                        <a href="/square/?fid=104&tag=%E6%9E%97%E4%B8%B9&sort=hot" ><span>林丹</span></a>                    </li>
+                                                                                                                            <li >
+                        <a href="/square/?fid=104&tag=%E8%B7%91%E9%85%B7&sort=hot" ><span>跑酷</span></a>                    </li>
+                                                                                                                            <li >
+                        <a href="/square/?fid=104&tag=%E4%BA%9A%E5%86%A0&sort=hot" ><span>亚冠</span></a>                    </li>
+                                                                                                                            <li >
+                        <a href="/square/?fid=104&tag=%E8%8B%B1%E8%B6%85&sort=hot" ><span>英超</span></a>                    </li>
+                                                                                                                            <li >
+                        <a href="/square/?fid=104&tag=CBA&sort=hot" ><span>CBA</span></a>                    </li>
+                                                                                                                            <li >
+                        <a href="/square/?fid=104&tag=%E6%84%8F%E7%94%B2&sort=hot" ><span>意甲</span></a>                    </li>
+                                                                                                                            <li >
+                        <a href="/square/?fid=104&tag=%E4%B8%AD%E8%B6%85&sort=hot" ><span>中超</span></a>                    </li>
+                                                                                                                            <li >
+                        <a href="/square/?fid=104&tag=%E5%A5%B3%E8%B6%B3%E4%B8%96%E7%95%8C%E6%9D%AF&sort=hot" ><span>女足世界杯</span></a>                    </li>
+                                                                                                                            <li >
+                        <a href="/square/?fid=104&tag=%E5%A5%A5%E8%BF%90%E4%BC%9A&sort=hot" ><span>奥运会</span></a>                    </li>
+                                                                                                                            <li >
+                        <a href="/square/?fid=104&tag=%E6%B8%A9%E7%BD%91&sort=hot" ><span>温网</span></a>                    </li>
+                                                                                                                            <li >
+                        <a href="/square/?fid=104&tag=%E7%AF%AE%E7%90%83&sort=hot" ><span>篮球</span></a>                    </li>
+                                                                                                                            <li >
+                        <a href="/square/?fid=104&tag=%E8%B6%B3%E7%90%83&sort=hot" ><span>足球</span></a>                    </li>
+                                                                                                                            <li >
+                        <a href="/square/?fid=104&tag=%E8%B5%9B%E8%BD%A6&sort=hot" ><span>赛车</span></a>                    </li>
+                                                                                                                            <li >
+                        <a href="/square/?fid=104&tag=%E5%8F%B0%E7%90%83&sort=hot" ><span>台球</span></a>                    </li>
+                                                                                                                            <li >
+                        <a href="/square/?fid=104&tag=%E9%A9%AC%E6%8B%89%E6%9D%BE&sort=hot" ><span>马拉松</span></a>                    </li>
+                                                                                                                            <li >
+                        <a href="/square/?fid=104&tag=%E7%BD%91%E7%90%83&sort=hot" ><span>网球</span></a>                    </li>
+                                                                                                                            <li >
+                        <a href="/square/?fid=104&tag=%E5%81%A5%E8%BA%AB&sort=hot" ><span>健身</span></a>                    </li>
+                                                                                                                            <li >
+                        <a href="/square/?fid=104&tag=WWE&sort=hot" ><span>WWE</span></a>                    </li>
+                                                                                                                            <li >
+                        <a href="/square/?fid=104&tag=%E6%8B%B3%E5%87%BB&sort=hot" ><span>拳击</span></a>                    </li>
+                                                                                                                            <li >
+                        <a href="/square/?fid=104&tag=%E6%8E%92%E7%90%83&sort=hot" ><span>排球</span></a>                    </li>
+                                                                                                                            <li >
+                        <a href="/square/?fid=104&tag=%E6%BB%91%E6%9D%BF&sort=hot" ><span>滑板</span></a>                    </li>
+                                                                                                                            <li >
+                        <a href="/square/?fid=104&tag=%E6%89%A3%E7%AF%AE&sort=hot" ><span>扣篮</span></a>                    </li>
+                                                                                                                            <li >
+                        <a href="/square/?fid=104&tag=%E6%A0%BC%E6%96%97&sort=hot" ><span>格斗</span></a>                    </li>
+                                                                                                                            <li >
+                        <a href="/square/?fid=104&tag=%E6%9E%81%E9%99%90%E8%BF%90%E5%8A%A8&sort=hot" ><span>极限运动</span></a>                    </li>
+                            </ul>
+        </div>
+        <!-- 样式set：可点击：sort_pre_btn sort_next_btn 不可点击：unable_pre_btn unable_next_btn -->
+        <a href="javascript:void(0);" id="sort_pre_btn" class="unable_pre_btn"></a>
+        <a href="javascript:void(0);" id="sort_next_btn" class="sort_next_btn"></a>
+    </div>
+    <!-- 展合子分类开关位 -->
+    <div class="swidth" id="swidth">
+        <span class="open" id="opra"></span>
+    </div>
+</div>
+
+<script type="text/javascript">
+    F.use('/browse_static/widget/short/navbar/navbar.js');
+    F.use('/browse_static/short/ui/fixedScroll/fixedScroll.js', function(fixed) {
+        fixed('squareMenuTag');
+        //fixed('menu');
+    });
+    /*F.use('sortFixedScroll', function(sortFixed) {
+        sortFixed('swidth', {
+            top: "36px",
+            callback: function() {
+            }
+        })
+    });*/
+</script>
+
+        <div static="tn=square&tpl=square&bl=adv_full_top" videoadv="page=square&el=adv_full_top" monkey="adv_full_top" style="line-height:0"></div>
+		
+<div id="squareQuick">
+			                        			    <p class="crumb">
+        <a href="/square/?tag=%E4%BD%93%E8%82%B2&"><span class="sort-main">体育</span></a>
+        <span class="arrow">&gt;</span>
+        <span class="sort-sub">全部</span>
+    </p>
+	<ul class="order order-hot" static="tn=square&tag=%E4%BD%93%E8%82%B2&type=%E4%BD%93%E8%82%B2&bl=order">
+		<li class="hot"><a href="/square/?fid=0&tag=%E4%BD%93%E8%82%B2&sort=hot" static="stp=hot">最热</a></li>
+		<li class="new"><a href="/square/?fid=0&tag=%E4%BD%93%E8%82%B2&sort=new" static="stp=new">最新</a></li>
+	</ul>
+	<a href="http://v.baidu.com/kan/tag/%E4%BD%93%E8%82%B2?fr=video.baidu.com" target="_blank" class="link-play" static="tn=square&tag=%E4%BD%93%E8%82%B2&type=%E4%BD%93%E8%82%B2&stp=playall&to=play">随便看看</a>
+</div>
+
+
+	</div>
+	<div id="squareBd">
+		
+<div id="squareVideos"></div>
+<script type="text/html" id="htmlSquareCols">
+	<% for ( var colIndex = 0, colNum = cols.length; colIndex < colNum; colIndex++ ) {
+		var videos = cols[colIndex], videoNum = videos.length;
+	%>
+		<div class="column<%=(colIndex===0 ? ' column-first' : '')%>" style="margin-top:<%=(indent)%>px" static="tn=square&tag=%E4%BD%93%E8%82%B2&type=%E4%BD%93%E8%82%B2&bl=list&column=<%=(colIndex + 1)%>">
+			<% for ( var i = 0; i < videoNum; i++ ) { %>
+				<%=widget('htmlSquareVideoItem', { item: videos[i] })%>
+			<% } %>
+		</div>
+	<% } %>
+</script>
+<script type="text/html" id="htmlSquareVideos">
+	<%
+		for ( var i = 0, len = videos.length; i < len; i++ ) {
+	%>
+		<%=widget('htmlSquareVideoItem', { item: videos[i] })%>
+	<% } %>
+</script>
+<script type="text/html" id="htmlSquareVideoItem">
+	<div class="item">
+		<a href="<%=item.url%>?fr=video.baidu.com/square" target="_blank" class="poster" static="stp=pic&to=play<%if (item.site_name) { %>&site=<%=item.site_name%><% } %>"<%if (item.img_ratio) { %> style="height:<%=Math.round(220 / item.img_ratio)%>px"<% } %>>
+			<img src="<%=item.img_url%>" alt="<%=item.title%>" />
+			<% if (item.duration || item.play_num) { %>
+				<span class="s-duration-mask"></span>
+				<% if (item.duration){ %> <span class="s-text"><%=item.duration%></span> <% } %>
+				<% if (item.play_num){ %>
+				<p class="meta">
+					<% if (item.play_num) { %>
+					<span class="play-num">
+						<%if (item.play_num < 10000) { %>
+						<%=item.play_num%>
+						<% } else { %>
+							<% var match = /^(\d+(\.\d)?)(\d*)$/; var ok = match.test(item.play_num/10000); %>
+						<%=RegExp.$1%>万
+						<% } %>
+					</span>
+					<% } %>
+				</p>
+				<% } %>
+			<% } %>
+			<% if (item.is_hot) { %>
+			<span class="s-hot"></span>
+			<% } else if (item.is_new) { %>
+			<span class="s-new"></span>
+			<% } %>
+			<span class="s-mask"></span>
+			<span class="s-play"></span>
+		</a>
+		<a href="<%=item.url%>?fr=video.baidu.com/square" target="_blank" class="title"<%if (item.titlefull) { %> title="<%=item.titlefull%>"<% } %> static="stp=title&to=play<%if (item.site_name) { %>&site=<%=item.site_name%><% } %>"><%=item.title.replace(/^\s+|\s+$/g, '')%></a>
+	</div>
+</script>
+
+
+	</div>
+</div>
+
+<script type="text/javascript">
+F.use(['/browse_static/common/lib/tangram/base/base.js', '/browse_static/short/ui/waterfall/waterfall.js', '/browse_static/short/ui/waterfall/dataCenter/dataCenter.js'], function(T, waterfall, dataCenter) {
+	
+		dataCenter.push([
+{
+	"url": "http://baidu.fun.tv/kan/cO1M",
+		"title": "中国飞人再见 刘翔发微博正式宣布退役 ",
+		"img_url": "http://t2.baidu.com/it/u=1045947692,1145127104&fm=20",
+		"img_ratio": 1.553,
+			"duration": "01:31",
+			"play_num": "25122",
+			"site_logo": "http://list.video.baidu.com/logo/fengxing.gif",
+			"site_name": "fengxing",
+		"is_hot": 0,
+	"is_new": 0
+},{
+	"url": "http://baidu.fun.tv/kan/cP9i",
+		"title": "【声音】刘翔首评伦敦伤退 尽力倒也倒在场上 ",
+		"img_url": "http://t2.baidu.com/it/u=863770857,726622954&fm=20",
+		"img_ratio": 1.553,
+			"duration": "04:30",
+			"play_num": "17991",
+			"site_logo": "http://list.video.baidu.com/logo/fengxing.gif",
+			"site_name": "fengxing",
+		"is_hot": 0,
+	"is_new": 0
+},{
+	"url": "http://baidu.fun.tv/kan/cP9r",
+		"title": "【震惊】刘翔11年入5.35亿 12年若退役或赔30亿 ",
+		"img_url": "http://t3.baidu.com/it/u=873675928,724088719&fm=20",
+		"img_ratio": 1.553,
+			"duration": "01:47",
+			"play_num": "26567",
+			"site_logo": "http://list.video.baidu.com/logo/fengxing.gif",
+			"site_name": "fengxing",
+		"is_hot": 0,
+	"is_new": 0
+},{
+	"url": "http://baidu.fun.tv/kan/cK5A",
+		"title": "刘翔退役做什么？飞人新身份大猜想 ",
+		"img_url": "http://t1.baidu.com/it/u=970481156,881267308&fm=20",
+		"img_ratio": 1.553,
+			"duration": "03:34",
+			"play_num": "1884",
+			"site_logo": "http://list.video.baidu.com/logo/fengxing.gif",
+			"site_name": "fengxing",
+		"is_hot": 0,
+	"is_new": 0
+},{
+	"url": "http://baidu.hz.letv.com/kan/1huh",
+		"title": "NBA-詹皇里程碑托马斯22分 骑士113-100胜绿军 ",
+		"img_url": "http://t1.baidu.com/it/u=2544496536,3563743110&fm=20",
+		"img_ratio": 1.333,
+			"duration": "02:51",
+			"play_num": "11661",
+			"site_logo": "http://list.video.baidu.com/logo/letv.gif",
+			"site_name": "letv",
+		"is_hot": 0,
+	"is_new": 0
+},{
+	"url": "http://baidu.hz.letv.com/kan/1NVx",
+		"title": "地面缠斗耗尽体力 町田龙太难逃裸绞厄运 ",
+		"img_url": "http://t3.baidu.com/it/u=2801881747,3871682089&fm=20",
+		"img_ratio": 1.333,
+			"duration": "12:01",
+			"play_num": "8111",
+			"site_logo": "http://list.video.baidu.com/logo/letv.gif",
+			"site_name": "letv",
+		"is_hot": 0,
+	"is_new": 0
+},{
+	"url": "http://baidu.fun.tv/kan/1oYg",
+		"title": "【中超第6轮】建业VS申花 前场三打一破门 ",
+		"img_url": "http://t3.baidu.com/it/u=1019516285,786036381&fm=20",
+		"img_ratio": 1.553,
+			"duration": "01:43",
+			"play_num": "1249",
+			"site_logo": "http://list.video.baidu.com/logo/fengxing.gif",
+			"site_name": "fengxing",
+		"is_hot": 0,
+	"is_new": 0
+},{
+	"url": "http://baidu.hz.letv.com/kan/1hbQ",
+		"title": "威少14-15赛季官方十佳球 惊天1打9+战斧隔扣约什 ",
+		"img_url": "http://t2.baidu.com/it/u=2257126887,2743481683&fm=20",
+		"img_ratio": 1.333,
+			"duration": "02:19",
+			"play_num": "4479",
+			"site_logo": "http://list.video.baidu.com/logo/letv.gif",
+			"site_name": "letv",
+		"is_hot": 0,
+	"is_new": 0
+},{
+	"url": "http://baidu.fun.tv/kan/1hKY",
+		"title": "【中超第6轮】建业VS申花 哈维尔闪击进球 ",
+		"img_url": "http://t3.baidu.com/it/u=600169073,340998663&fm=20",
+		"img_ratio": 1.553,
+			"duration": "00:49",
+			"play_num": "1314",
+			"site_logo": "http://list.video.baidu.com/logo/fengxing.gif",
+			"site_name": "fengxing",
+		"is_hot": 0,
+	"is_new": 0
+},{
+	"url": "http://baidu.hz.letv.com/kan/1NHq",
+		"title": "梅西巴萨400球全回顾 10年见证巨星成长之路 ",
+		"img_url": "http://t2.baidu.com/it/u=1273247792,3523102133&fm=20",
+		"img_ratio": 1.333,
+			"duration": "33:02",
+			"play_num": "3471",
+			"site_logo": "http://list.video.baidu.com/logo/letv.gif",
+			"site_name": "letv",
+		"is_hot": 0,
+	"is_new": 0
+},{
+	"url": "http://baidu.fun.tv/kan/1hf6",
+		"title": "【意甲第31轮】托蒂建奇功 罗马1-1亚特兰大 ",
+		"img_url": "http://t2.baidu.com/it/u=720907631,357165101&fm=20",
+		"img_ratio": 1.553,
+			"duration": "04:58",
+			"play_num": "1063",
+			"site_logo": "http://list.video.baidu.com/logo/fengxing.gif",
+			"site_name": "fengxing",
+		"is_hot": 0,
+	"is_new": 0
+},{
+	"url": "http://baidu.fun.tv/kan/1oom",
+		"title": "【中超第6轮】建业VS申花 莫雷诺脚后跟射门 ",
+		"img_url": "http://t3.baidu.com/it/u=568668456,234015728&fm=20",
+		"img_ratio": 1.553,
+			"duration": "00:15",
+			"play_num": "1022",
+			"site_logo": "http://list.video.baidu.com/logo/fengxing.gif",
+			"site_name": "fengxing",
+		"is_hot": 0,
+	"is_new": 0
+},{
+	"url": "http://baidu.hz.letv.com/kan/1hbP",
+		"title": "《超级比赛日》第6期 黄健翔徐阳掐架裁判中枪 ",
+		"img_url": "http://t2.baidu.com/it/u=2889206647,2792426292&fm=20",
+		"img_ratio": 1.333,
+			"duration": "50:00",
+			"play_num": "2405",
+			"site_logo": "http://list.video.baidu.com/logo/letv.gif",
+			"site_name": "letv",
+		"is_hot": 0,
+	"is_new": 0
+},{
+	"url": "http://baidu.fun.tv/kan/1h0m",
+		"title": "【中超第6轮】建业VS申花 耿晓峰门线救险 ",
+		"img_url": "http://t3.baidu.com/it/u=493437686,198972573&fm=20",
+		"img_ratio": 1.553,
+			"duration": "00:27",
+			"play_num": "1568",
+			"site_logo": "http://list.video.baidu.com/logo/fengxing.gif",
+			"site_name": "fengxing",
+		"is_hot": 0,
+	"is_new": 0
+},{
+	"url": "http://baidu.fun.tv/kan/1oo1",
+		"title": "【中超第6轮】建业VS申花 莫雷诺咆哮裁判 ",
+		"img_url": "http://t2.baidu.com/it/u=792718721,768655472&fm=20",
+		"img_ratio": 1.553,
+			"duration": "00:14",
+			"play_num": "1820",
+			"site_logo": "http://list.video.baidu.com/logo/fengxing.gif",
+			"site_name": "fengxing",
+		"is_hot": 0,
+	"is_new": 0
+},{
+	"url": "http://baidu.fun.tv/kan/1hE3",
+		"title": "【意甲第31轮】卡列洪进球 那不勒斯3-0卡利亚里 ",
+		"img_url": "http://t3.baidu.com/it/u=675086338,523754161&fm=20",
+		"img_ratio": 1.553,
+			"duration": "01:20",
+			"play_num": "1653",
+			"site_logo": "http://list.video.baidu.com/logo/fengxing.gif",
+			"site_name": "fengxing",
+		"is_hot": 0,
+	"is_new": 0
+},{
+	"url": "http://baidu.hz.letv.com/kan/1huS",
+		"title": "意甲-辫帅失良机两进球被吹 米兰德比0-0互交白卷 ",
+		"img_url": "http://t3.baidu.com/it/u=1032437523,1652510846&fm=20",
+		"img_ratio": 1.333,
+			"duration": "04:29",
+			"play_num": "2316",
+			"site_logo": "http://list.video.baidu.com/logo/letv.gif",
+			"site_name": "letv",
+		"is_hot": 0,
+	"is_new": 0
+},{
+	"url": "http://baidu.hz.letv.com/kan/1h0z",
+		"title": "蒙卡赛-小德三盘胜伯蒂奇 夺大师赛第23冠平费德勒纪录 ",
+		"img_url": "http://t3.baidu.com/it/u=980417890,2086016137&fm=20",
+		"img_ratio": 1.333,
+			"duration": "08:44",
+			"play_num": "1838",
+			"site_logo": "http://list.video.baidu.com/logo/letv.gif",
+			"site_name": "letv",
+		"is_hot": 0,
+	"is_new": 0
+},{
+	"url": "http://baidu.fun.tv/kan/1hEl",
+		"title": "【意甲第31轮】辫帅两进球被吹 米兰0-0国米 ",
+		"img_url": "http://t3.baidu.com/it/u=258982162,325621939&fm=20",
+		"img_ratio": 1.553,
+			"duration": "04:17",
+			"play_num": "1671",
+			"site_logo": "http://list.video.baidu.com/logo/fengxing.gif",
+			"site_name": "fengxing",
+		"is_hot": 0,
+	"is_new": 0
+},{
+	"url": "http://baidu.fun.tv/kan/1hfF",
+		"title": "【大神】半场6记三分 乔丹92年总决赛十佳球 ",
+		"img_url": "http://t1.baidu.com/it/u=549715892,246876169&fm=20",
+		"img_ratio": 1.553,
+			"duration": "03:01",
+			"play_num": "1000",
+			"site_logo": "http://list.video.baidu.com/logo/fengxing.gif",
+			"site_name": "fengxing",
+		"is_hot": 0,
+	"is_new": 0
+},{
+	"url": "http://baidu.fun.tv/kan/1hfZ",
+		"title": "【英超第33轮】凯恩高光破门 热刺3-1纽卡 ",
+		"img_url": "http://t2.baidu.com/it/u=694925567,397629077&fm=20",
+		"img_ratio": 1.553,
+			"duration": "03:42",
+			"play_num": "1809",
+			"site_logo": "http://list.video.baidu.com/logo/fengxing.gif",
+			"site_name": "fengxing",
+		"is_hot": 0,
+	"is_new": 0
+},{
+	"url": "http://baidu.fun.tv/kan/1h4N",
+		"title": "中超：哈维尔三分钟闪袭 建业2-1申花 ",
+		"img_url": "http://t3.baidu.com/it/u=249530170,125042464&fm=20",
+		"img_ratio": 1.553,
+			"duration": "04:35",
+			"play_num": "1071",
+			"site_logo": "http://list.video.baidu.com/logo/fengxing.gif",
+			"site_name": "fengxing",
+		"is_hot": 0,
+	"is_new": 0
+},{
+	"url": "http://baidu.fun.tv/kan/1hEL",
+		"title": "【震撼】打破记录！三浦知良进球再创传奇 ",
+		"img_url": "http://t1.baidu.com/it/u=491246058,461174694&fm=20",
+		"img_ratio": 1.553,
+			"duration": "01:14",
+			"play_num": "1503",
+			"site_logo": "http://list.video.baidu.com/logo/fengxing.gif",
+			"site_name": "fengxing",
+		"is_hot": 0,
+	"is_new": 0
+},{
+	"url": "http://baidu.fun.tv/kan/1hfL",
+		"title": "【惊艳】范冰冰帅气打台球 谈笑间妩媚撩人 ",
+		"img_url": "http://t1.baidu.com/it/u=523028219,367145848&fm=20",
+		"img_ratio": 1.553,
+			"duration": "00:56",
+			"play_num": "1151",
+			"site_logo": "http://list.video.baidu.com/logo/fengxing.gif",
+			"site_name": "fengxing",
+		"is_hot": 0,
+	"is_new": 0
+}]);
+
+
+	T.dom.ready(function() {
+		waterfall.init({
+			api: '/square/?sort=hot&tag=%E4%BD%93%E8%82%B2',
+			total: 499
+		});
+		T.sio.callByBrowser('http://list.video.baidu.com/videoadv.js', null, {charset:'gb2312'});
+	});
+});
+</script>
+
+
+
+    <div id="sideQuick" static="tn=square&tag=%E4%BD%93%E8%82%B2&bl=side_quick">
+        <ul>
+            <li class="back-top"><a href="#" id="backToTop" title="回到顶部" hidefocus="true" static="stp=backtop">回到顶部</a></li>
+            <li class="feedback"><a target="_blank" href="http://qingting.baidu.com/index?pid=4" title="用户反馈" static="stp=feedback" id="showFeed">用户反馈</a></li>
+        </ul>
+    </div>
+    <script>
+        F.use('/browse_static/widget/short/side_quick/side_quick.js',function(sideQuick){
+			sideQuick.init();
+        });
+    </script>
+<script id="DQTuisong" src="http://static.pay.baidu.com/resource/tuisong/v1/tuiSong.js" data-config="false"></script>
+	
+
+
+
+<script type="text/javascript">
+F.use('/browse_static/widget/short/statistics_pv/statistics_pv.js', function(statistics) {
+	statistics.init('square','%E4%BD%93%E8%82%B2','%E4%BD%93%E8%82%B2');
+});
+</script>
+
+
+
+<script type="text/javascript">
+F.use(['/browse_static/common/lib/tangram/base/base.js', '/browse_static/common/ui/vs/loginCheck/loginCheck.js', '/browse_static/common/ui/vs/statistics/statistics.js'], function(T, loginCheck) {
+	if ( location.hostname.match(/(?:\.baidu\.com$)|(?:\.hao123\.com$)/) ) {
+		var bdvref = T.cookie.get('bdvref');
+		if ( bdvref ) {
+			V.nsclick.setParam('VIDEO_FR', bdvref);
+		}
+	} else {
+		loginCheck(function(userinfo) {
+			if ( userinfo && userinfo.cookie && userinfo.cookie.bdvref ) {
+				V.nsclick.setParam('VIDEO_FR', userinfo.cookie.bdvref);
+			}
+		});
+	}
+						});
+</script>
+
+
+
+
+
+<script>
+    var pageId='page-video-square';
+</script>
+<script src="http://img.baidu.com/hunter/videomonkey.min.20130304.js"></script>
+<script>with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://img.baidu.com/hunter/video.js?st='+~(new Date()/864e5)];</script>
+
+
+</body>
+</html>
+<!--30878864550751905290042109-->
+<script> var _trace_page_logid = 3087886455; </script>

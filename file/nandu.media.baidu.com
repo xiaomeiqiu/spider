@@ -1,0 +1,560 @@
+<!doctype html>
+<html>
+<head>
+<!--STATUS OK-->
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+<title>南方都市报_百度传媒</title>
+
+<link rel="dns-prefetch" href="//ns0.bdstatic.com">
+<link rel="dns-prefetch" href="//ns1.bdstatic.com">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="" >
+
+
+
+
+<script>
+  var serverData = {
+    maxseg : '3',
+    total : '600',
+    hasMore : '1',
+    rn : '60',
+    lastNid : '5172098760360835417',
+    logowidth : '144',
+    logoheight : '24',
+    coverlogoheight : '65',
+    menuCount : 6,
+    subscribename : 'nandu',
+    terms : '',
+    menu : [],
+    channelname : '',
+    device: 'pc'
+  }
+  if(!''){
+    serverData.channelname = 'index';
+  }else{
+    serverData.channelname = '';
+  }
+
+  // hunter统计
+  void function(e,t,n,a,o,i,m){e.alogObjectName=o,e[o]=e[o]||function(){(e[o].q=e[o].q||[]).push(arguments)},e[o].l=e[o].l||+new Date,i=t.createElement(n),i.asyn=1,i.src=a,m=t.getElementsByTagName(n)[0],m.parentNode.insertBefore(i,m)}(window,document,"script","http://img.baidu.com/hunter/alog.min.js","alog");
+    </script>
+
+<link rel="stylesheet" type="text/css" href="/static/common/pkg/aio_ec06920.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/css/all_e472514.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/skin/red_6957012.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/mod_page/mod_page_aac155e.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/ap_ulist/ap_ulist_c1b4057.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/header/header_6c174ae.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/cover/cover_1a2721a.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/mod_banner/mod_banner_b7ecfb4.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/footer/footer_1ef9d4d.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/mod_sidebar/mod_sidebar_cb6d93e.css"/></head>
+<body>
+
+<style>
+  body{padding-top:0}
+  #Header{position: relative;}
+</style>
+
+
+<div class="wrap">
+<div id="Cover" class="mod-cover">
+<div class="cover">
+<div class="coverbg"></div>
+<div class="coverlogo"><img src="http://news.baidu.com/resource/r/image/2015-04-02/c647d32b08d6c5e194614128ba7c19a2.png"></div>
+</div>
+</div><div id="Header">
+<div class="header">
+<h1 class="test"></h1>
+<div class="logo" style="width:144px;"><a href="/" target="_blank" ><img src="http://news.baidu.com/resource/r/image/2015-04-02/f51f0313aa9d5599f11eb3798a660ad5.png" style="height:24px"/></a></div>
+<div class="menulist large" style="margin:0 144px">
+<ul></ul>
+</div>
+<div class="menulist medium" style="margin:0 144px">
+<ul></ul>
+</div>
+<div class="headerSearch">
+<p class="searchbar">
+<a href="javascript:;" class="searchA"><i class="i"></i></a>
+<i class="txt"><i class="i nodis"></i><input type="text" class="nodis"></i>
+</p>
+<p class="sub-menu"><i class="icon-submenu"></i></p>
+<p class="baiduLogo"><a href="http://news.baidu.com/" target="_blank"><img src="/static/newsmedia/widget/header/baidu_logo_46a3f92.png"></a></p>
+</div>
+</div>
+
+<script type="text/javascript">
+var menu = [];
+
+            menu.push({
+            'name': '首页',
+            'enname':'',
+            'url': '',
+            'list':[
+            	            ]
+        });
+            menu.push({
+            'name': '要闻',
+            'enname':'yaowen',
+            'url': '',
+            'list':[
+            	            ]
+        });
+            menu.push({
+            'name': '社会',
+            'enname':'society',
+            'url': '',
+            'list':[
+            	            ]
+        });
+            menu.push({
+            'name': '广东',
+            'enname':'gd',
+            'url': '',
+            'list':[
+            	            ]
+        });
+            menu.push({
+            'name': '文娱',
+            'enname':'wenyu',
+            'url': '',
+            'list':[
+            	            ]
+        });
+            menu.push({
+            'name': '财经',
+            'enname':'finance',
+            'url': '',
+            'list':[
+            	            ]
+        });
+        serverData.menu = menu;
+
+</script>
+
+</div>
+<div id="Body">
+<div class="body">
+<div class="left">
+<div id="banners">
+<div class="feed_tegao" data-href="http://media.baidu.com/redirect?source=nandu&amp;nid=11687779787695299374&amp;pos=0&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/11687779787695299374">
+<h4>
+<a href="http://media.baidu.com/redirect?source=nandu&amp;nid=11687779787695299374&amp;pos=0&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/11687779787695299374" target="_blank">团贷网唐军获史玉柱等5亿注资</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=nandu&amp;nid=11687779787695299374&amp;pos=0&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/11687779787695299374" target="_blank"><img src="http://ndapp.oeeee.com/resource/images/5535a57bdcc4a.jpg"/></a></p>
+<p class="summary">近日消息再传出，团贷网已经完成B轮融资，总金额近5亿人民币，由九鼎投资领投，史玉柱和多家投资机构跟投。<a href="http://media.baidu.com/redirect?source=nandu&amp;nid=11687779787695299374&amp;pos=0&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/11687779787695299374" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/finance">财经</a></p>
+<span class="author">
+<em>陈淑仪</em>
+</span>
+<span class="time">04-21 09:31</span>
+</div>
+</div>
+<div class="feed_tegao" data-href="http://media.baidu.com/redirect?source=nandu&amp;nid=15826755645152811404&amp;pos=1&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/15826755645152811404">
+<h4>
+<a href="http://media.baidu.com/redirect?source=nandu&amp;nid=15826755645152811404&amp;pos=1&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/15826755645152811404" target="_blank">感受一下来自金像奖的满满恶意</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=nandu&amp;nid=15826755645152811404&amp;pos=1&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/15826755645152811404" target="_blank"><img src="http://img2.cache.oeeee.com/Nis/201504/21/dcrb062106_b_e3c6299f23.jpg"/></a></p>
+<p class="summary">想看更多新鲜资讯请浏览奥一网或关注奥一网官方微信。<a href="http://media.baidu.com/redirect?source=nandu&amp;nid=15826755645152811404&amp;pos=1&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/15826755645152811404" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/wenyu">文娱</a></p>
+<span class="time">04-21 08:55</span>
+</div>
+</div>
+<div class="feed_tegao" data-href="http://media.baidu.com/redirect?source=nandu&amp;nid=15705089997682404265&amp;pos=2&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/15705089997682404265">
+<h4>
+<a href="http://media.baidu.com/redirect?source=nandu&amp;nid=15705089997682404265&amp;pos=2&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/15705089997682404265" target="_blank">五奖大赢家为何是《黄金时代》？</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=nandu&amp;nid=15705089997682404265&amp;pos=2&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/15705089997682404265" target="_blank"><img src="http://img1.cache.oeeee.com/Nis/201504/21/dcrb042105_b_e3c6299f23.jpg"/></a></p>
+<p class="summary">想看更多新鲜资讯请浏览奥一网或关注奥一网官方微信。<a href="http://media.baidu.com/redirect?source=nandu&amp;nid=15705089997682404265&amp;pos=2&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/15705089997682404265" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/wenyu">文娱</a></p>
+<span class="time">04-21 08:55</span>
+</div>
+</div>
+<div class="feed_tegao" data-href="http://media.baidu.com/redirect?source=nandu&amp;nid=15727070764138271488&amp;pos=3&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/15727070764138271488">
+<h4>
+<a href="http://media.baidu.com/redirect?source=nandu&amp;nid=15727070764138271488&amp;pos=3&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/15727070764138271488" target="_blank">影帝怀里只有郭蔼明就够了！</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=nandu&amp;nid=15727070764138271488&amp;pos=3&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/15727070764138271488" target="_blank"><img src="http://img1.cache.oeeee.com/Nis/201504/21/p1E_b_be275dc242.jpg"/></a></p>
+<p class="summary">想看更多新鲜资讯请浏览奥一网或关注奥一网官方微信。<a href="http://media.baidu.com/redirect?source=nandu&amp;nid=15727070764138271488&amp;pos=3&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/15727070764138271488" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/wenyu">文娱</a></p>
+<span class="time">04-21 08:55</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=nandu&amp;nid=15858955362873474826&amp;pos=4&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/15858955362873474826">
+<h4>
+<a href="http://media.baidu.com/redirect?source=nandu&amp;nid=15858955362873474826&amp;pos=4&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/15858955362873474826" target="_blank">穿上你的比基尼，戴上你的翅膀，美眉们下水咯！</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=nandu&amp;nid=15858955362873474826&amp;pos=4&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/15858955362873474826" target="_blank"><img src="http://img2.cache.oeeee.com/Nis/201504/21/dcrb082107_b_be275dc242.jpg"/></a></p>
+<p class="summary">比基尼女郎们戴着如此沉重夸张的翅膀，...<a href="http://media.baidu.com/redirect?source=nandu&amp;nid=15858955362873474826&amp;pos=4&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/15858955362873474826" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/wenyu">文娱</a></p>
+<span class="time">04-21 08:55</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=nandu&amp;nid=15737289715403067687&amp;pos=5&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/15737289715403067687">
+<h4>
+<a href="http://media.baidu.com/redirect?source=nandu&amp;nid=15737289715403067687&amp;pos=5&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/15737289715403067687" target="_blank">金像奖，情话讲给懂的人听</a>
+</h4>
+<p class="summary">想看更多新鲜资讯请浏览奥一网或关注奥一网官方微信。<a href="http://media.baidu.com/redirect?source=nandu&amp;nid=15737289715403067687&amp;pos=5&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/15737289715403067687" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/wenyu">文娱</a></p>
+<span class="time">04-21 08:55</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=nandu&amp;nid=15759270481858934910&amp;pos=6&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/15759270481858934910">
+<h4>
+<a href="http://media.baidu.com/redirect?source=nandu&amp;nid=15759270481858934910&amp;pos=6&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/15759270481858934910" target="_blank">德约横扫赛季前三项大师赛冠军 大步踏入“最伟大”之争</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=nandu&amp;nid=15759270481858934910&amp;pos=6&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/15759270481858934910" target="_blank"><img src="http://img2.cache.oeeee.com/Nis/201504/21/p16_b_2f1bc8cc12.jpg"/></a></p>
+<p class="summary">想看更多新鲜资讯请浏览奥一网或关注奥...<a href="http://media.baidu.com/redirect?source=nandu&amp;nid=15759270481858934910&amp;pos=6&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/15759270481858934910" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/wenyu">文娱</a></p>
+<span class="time">04-21 08:55</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=nandu&amp;nid=15803232014770669356&amp;pos=7&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/15803232014770669356">
+<h4>
+<a href="http://media.baidu.com/redirect?source=nandu&amp;nid=15803232014770669356&amp;pos=7&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/15803232014770669356" target="_blank">跟穆里尼奥学讲故事：把一则碎料描成谍战大片</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=nandu&amp;nid=15803232014770669356&amp;pos=7&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/15803232014770669356" target="_blank"><img src="http://img2.cache.oeeee.com/Nis/201504/21/dkrb102109_b_2f1bc8cc12.jpg"/></a></p>
+<p class="summary">切尔西在本轮英超1比0击败曼联，朝冠...<a href="http://media.baidu.com/redirect?source=nandu&amp;nid=15803232014770669356&amp;pos=7&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/15803232014770669356" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/wenyu">文娱</a></p>
+<span class="time">04-21 08:55</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=nandu&amp;nid=15825212781226536579&amp;pos=8&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/15825212781226536579">
+<h4>
+<a href="http://media.baidu.com/redirect?source=nandu&amp;nid=15825212781226536579&amp;pos=8&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/15825212781226536579" target="_blank">CBA帅哥杨鸣：明明可以靠脸吃饭 偏偏跑去打球</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=nandu&amp;nid=15825212781226536579&amp;pos=8&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/15825212781226536579" target="_blank"><img src="http://img1.cache.oeeee.com/Nis/201504/21/dkrb102103_b_2f1bc8cc12.jpg"/></a></p>
+<p class="summary">对于30岁的辽宁男篮队员杨鸣来说，青...<a href="http://media.baidu.com/redirect?source=nandu&amp;nid=15825212781226536579&amp;pos=8&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/15825212781226536579" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/wenyu">文娱</a></p>
+<span class="time">04-21 08:55</span>
+</div>
+</div>
+<div class="feed_tegao" data-href="http://media.baidu.com/redirect?source=nandu&amp;nid=4477749650772862110&amp;pos=9&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/4477749650772862110">
+<h4>
+<a href="http://media.baidu.com/redirect?source=nandu&amp;nid=4477749650772862110&amp;pos=9&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/4477749650772862110" target="_blank">证监、央妈放大招段子手周末最欢乐！</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=nandu&amp;nid=4477749650772862110&amp;pos=9&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/4477749650772862110" target="_blank"><img src="http://img1.cache.oeeee.com/Nis/201504/21/dcgc082101_b_e03d0d791c.jpg"/></a></p>
+<p class="summary">刚刚过去的周末实在精彩：证监会与央行加班加点连抛多个利空、利多举措，苦逼了券商分析师，乐坏了段子手们...<a href="http://media.baidu.com/redirect?source=nandu&amp;nid=4477749650772862110&amp;pos=9&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/4477749650772862110" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/finance">财经</a></p>
+<span class="time">04-21 08:55</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=nandu&amp;nid=4499730417228729333&amp;pos=10&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/4499730417228729333">
+<h4>
+<a href="http://media.baidu.com/redirect?source=nandu&amp;nid=4499730417228729333&amp;pos=10&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/4499730417228729333" target="_blank">纠结的政策暴露了底牌，慢牛遥望6124+</a>
+</h4>
+<p class="summary">想看更多新鲜资讯请浏览奥一网或关注奥一网官方微信。<a href="http://media.baidu.com/redirect?source=nandu&amp;nid=4499730417228729333&amp;pos=10&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/4499730417228729333" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/finance">财经</a></p>
+<span class="time">04-21 08:55</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=nandu&amp;nid=4521711183684596556&amp;pos=11&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/4521711183684596556">
+<h4>
+<a href="http://media.baidu.com/redirect?source=nandu&amp;nid=4521711183684596556&amp;pos=11&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/4521711183684596556" target="_blank">中国上网贵到底贵在哪儿</a>
+</h4>
+<p class="summary">工信部回应，将推动企业加大网络投资、降低手机流量资费，并声称已经布置相关企业研究落实。<a href="http://media.baidu.com/redirect?source=nandu&amp;nid=4521711183684596556&amp;pos=11&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/4521711183684596556" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/finance">财经</a></p>
+<span class="time">04-21 08:55</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=nandu&amp;nid=4543691950140463779&amp;pos=12&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/4543691950140463779">
+<h4>
+<a href="http://media.baidu.com/redirect?source=nandu&amp;nid=4543691950140463779&amp;pos=12&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/4543691950140463779" target="_blank">央行大幅降准在对冲什么？</a>
+</h4>
+<p class="summary">想看更多新鲜资讯请浏览奥一网或关注奥一网官方微信。<a href="http://media.baidu.com/redirect?source=nandu&amp;nid=4543691950140463779&amp;pos=12&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/4543691950140463779" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/finance">财经</a></p>
+<span class="time">04-21 08:55</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=nandu&amp;nid=5563874939682037994&amp;pos=13&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/5563874939682037994">
+<h4>
+<a href="http://media.baidu.com/redirect?source=nandu&amp;nid=5563874939682037994&amp;pos=13&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/5563874939682037994" target="_blank">江门：妈妈买菜忘拿车匙 2岁女童被反锁车内</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=nandu&amp;nid=5563874939682037994&amp;pos=13&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/5563874939682037994" target="_blank"><img src="http://img2.cache.oeeee.com/Nis/201504/21/dkma072101_b_6a37202005.jpg"/></a></p>
+<p class="summary">年轻妈妈急得掉泪却想不出办法，交警巡...<a href="http://media.baidu.com/redirect?source=nandu&amp;nid=5563874939682037994&amp;pos=13&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/5563874939682037994" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/society">社会</a></p>
+<span class="time">04-21 08:22</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=nandu&amp;nid=5574093890946834193&amp;pos=14&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/5574093890946834193">
+<h4>
+<a href="http://media.baidu.com/redirect?source=nandu&amp;nid=5574093890946834193&amp;pos=14&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/5574093890946834193" target="_blank">江门：19岁男子刚辞完工去野泳不幸溺亡</a>
+</h4>
+<p class="summary">鹤山市共和镇三名外来工相约去一个山边深潭游水，一名年轻男子疑因抽筋不幸溺亡。<a href="http://media.baidu.com/redirect?source=nandu&amp;nid=5574093890946834193&amp;pos=14&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/5574093890946834193" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/society">社会</a></p>
+<span class="time">04-21 08:22</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=nandu&amp;nid=5603556060935602997&amp;pos=15&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/5603556060935602997">
+<h4>
+<a href="http://media.baidu.com/redirect?source=nandu&amp;nid=5603556060935602997&amp;pos=15&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/5603556060935602997" target="_blank">江门多地下冰雹有的大如乒乓球 下月还有强对流天气</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=nandu&amp;nid=5603556060935602997&amp;pos=15&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/5603556060935602997" target="_blank"><img src="http://img1.cache.oeeee.com/Nis/201504/21/dcma042102_b_ab56315910.jpg"/></a></p>
+<p class="summary">鹤山市气象局证实，今天下午，该市双合...<a href="http://media.baidu.com/redirect?source=nandu&amp;nid=5603556060935602997&amp;pos=15&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/5603556060935602997" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/society">社会</a></p>
+<span class="time">04-21 08:22</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=nandu&amp;nid=5343316300228948726&amp;pos=16&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/5343316300228948726">
+<h4>
+<a href="http://media.baidu.com/redirect?source=nandu&amp;nid=5343316300228948726&amp;pos=16&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/5343316300228948726" target="_blank">雅居乐惠州区域裁员50%：人员冗余 销售业绩未达标</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=nandu&amp;nid=5343316300228948726&amp;pos=16&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/5343316300228948726" target="_blank"><img src="http://img2.cache.oeeee.com/Nis/201504/21/dcha012102_b_9c3a5f1a6f.jpg"/></a></p>
+<p class="summary">想看更多新鲜资讯请浏览奥一网或关注奥...<a href="http://media.baidu.com/redirect?source=nandu&amp;nid=5343316300228948726&amp;pos=16&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/5343316300228948726" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/society">社会</a></p>
+<span class="time">04-21 08:22</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=nandu&amp;nid=5312659446434560129&amp;pos=17&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/5312659446434560129">
+<h4>
+<a href="http://media.baidu.com/redirect?source=nandu&amp;nid=5312659446434560129&amp;pos=17&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/5312659446434560129" target="_blank">2015福布斯华人富豪榜公布 佛山六人再度上榜</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=nandu&amp;nid=5312659446434560129&amp;pos=17&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/5312659446434560129" target="_blank"><img src="http://img2.cache.oeeee.com/Nis/201504/21/p5E_b_535b0e914d.jpg"/></a></p>
+<p class="summary">在最新公布的350位的全球华人富豪榜...<a href="http://media.baidu.com/redirect?source=nandu&amp;nid=5312659446434560129&amp;pos=17&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/5312659446434560129" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/society">社会</a></p>
+<span class="time">04-21 08:23</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=nandu&amp;nid=5205841342007773664&amp;pos=18&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/5205841342007773664">
+<h4>
+<a href="http://media.baidu.com/redirect?source=nandu&amp;nid=5205841342007773664&amp;pos=18&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/5205841342007773664" target="_blank">深圳：吐槽“宜停车”网文刷爆朋友圈 市民感叹路边停车难</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=nandu&amp;nid=5205841342007773664&amp;pos=18&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/5205841342007773664" target="_blank"><img src="http://img2.cache.oeeee.com/Nis/201504/21/dcna042101_b_a7463414aa.jpg"/></a></p>
+<p class="summary">路边停车收费执行至今已有4个多月，却...<a href="http://media.baidu.com/redirect?source=nandu&amp;nid=5205841342007773664&amp;pos=18&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/5205841342007773664" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/society">社会</a></p>
+<span class="time">04-21 08:23</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=nandu&amp;nid=5172098760360835417&amp;pos=19&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/5172098760360835417">
+<h4>
+<a href="http://media.baidu.com/redirect?source=nandu&amp;nid=5172098760360835417&amp;pos=19&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/5172098760360835417" target="_blank">港府缩短旺角行人专区开放时间 被街头艺人状告</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=nandu&amp;nid=5172098760360835417&amp;pos=19&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/5172098760360835417" target="_blank"><img src="http://img2.cache.oeeee.com/Nis/201504/21/dcna122102_b_560a3c08d5.jpg"/></a></p>
+<p class="summary">为了获取表演权，昨日，在旺角专用区表...<a href="http://media.baidu.com/redirect?source=nandu&amp;nid=5172098760360835417&amp;pos=19&amp;layout=2&amp;url=http://nandu.media.baidu.com/article/5172098760360835417" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/society">社会</a></p>
+<span class="time">04-21 08:23</span>
+</div>
+</div>
+</div>
+<div class="loading"><img src="/static/newsmedia/widget/mod_page/jm_loading_d04a658.gif"><b>正在加载，请稍候...</b></div>
+<div class="pages">
+<a href="javascript:;" class="btn btnP nodis">上一页</a>
+<div class="page"></div>
+<a href="javascript:;" class="btn btnN">下一页</a>
+</div>
+<div id="Footer" class="wp-footer">
+<p class="top-nav">
+<a href="http://news.baidu.com/" target="_blank">百度新闻</a>|<a href="mailto:media_news%40baidu.com" target="_blank">联系我们：media_news@baidu.com</a>
+<strong class="wp-wrap">百度新闻&南方都市报联合出品</strong>
+<a href="http://news.baidu.com/"><img src="/static/newsmedia/widget/footer/baidunews_footer_d9a758b.png"></a>
+<a href="http://www.nandu.com" target="_blank"><img src="http://news.baidu.com/resource/r/image/2015-04-02/07f0609094eb34ad15bafa38c1c72cf9.png"></a>
+</p>
+<p class="site-info">
+<i>京公网安备110000000001号</i>
+<a href="http://news.baidu.com/licence.html">互联网新闻信息服务许可</a>
+<span>©2014 Baidu</span>
+<a class="wp-wrap" href="http://www.baidu.com/duty/">使用百度前必读</a>
+<a class="wp-hide" target="_blank" href="http://net.china.cn/chinese/index.htm"><img src="http://gimg.baidu.com/img/net.gif"></a>
+<a class="wp-hide" target="_blank" href="http://www.bj.cyberpolice.cn/index.htm"><img alt="首都网络110报警服务" src="http://gimg.baidu.com/img/110.gif"></a>
+<a class="wp-hide" target="_blank" href="http://www.bjjubao.org/"><img src="http://news.baidu.com/resource/img/report_center.png"></a>
+</p>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?d09fe258c88c7015c3e6f8232ee9a563";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</div>
+</div>
+<div class="right">
+<div class="ap apRecommend">
+<div class="apt">
+<h4>热门文章</h4>
+<p class="entit"><span>HOT ARTICLE</span></p>
+</div>
+<div class="apc">
+<ul class="ulist">
+<li>
+<span class="num top3">1</span>
+<a href="http://media.baidu.com/redirect?source=nandu&amp;nid=4477749650772862110&amp;pos=0&amp;layout=4&amp;url=http://nandu.media.baidu.com/article/4477749650772862110" title="证监、央妈放大招段子手周末最欢乐！">证监、央妈放大招段子手周末最欢乐！</a>
+<span class="tm">04-21 08:55</span>
+</li>
+<li>
+<span class="num top3">2</span>
+<a href="http://media.baidu.com/redirect?source=nandu&amp;nid=4499730417228729333&amp;pos=1&amp;layout=4&amp;url=http://nandu.media.baidu.com/article/4499730417228729333" title="纠结的政策暴露了底牌，慢牛遥望6124+">纠结的政策暴露了底牌，慢牛遥望6124+</a>
+<span class="tm">04-21 08:55</span>
+</li>
+<li>
+<span class="num top3">3</span>
+<a href="http://media.baidu.com/redirect?source=nandu&amp;nid=11548161039473569805&amp;pos=2&amp;layout=4&amp;url=http://nandu.media.baidu.com/article/11548161039473569805" title="直击李嘉诚重组:和记黄埔将于5月26日停牌">直击李嘉诚重组:和记黄埔将于5月26日停牌</a>
+<span class="tm">04-21 00:25</span>
+</li>
+<li>
+<span class="num">4</span>
+<a href="http://media.baidu.com/redirect?source=nandu&amp;nid=6375019812366957621&amp;pos=3&amp;layout=4&amp;url=http://nandu.media.baidu.com/article/6375019812366957621" title="广州10个会所上了整改“黑名单” 白云山占4个">广州10个会所上了整改“黑名单” 白云山占4个</a>
+<span class="tm">04-21 07:08</span>
+</li>
+<li>
+<span class="num">5</span>
+<a href="http://media.baidu.com/redirect?source=nandu&amp;nid=8651605897179812953&amp;pos=4&amp;layout=4&amp;url=http://nandu.media.baidu.com/article/8651605897179812953" title="以后要年满28周岁，才能当人民陪审员">以后要年满28周岁，才能当人民陪审员</a>
+<span class="tm">04-20 20:35</span>
+</li>
+<li>
+<span class="num">6</span>
+<a href="http://media.baidu.com/redirect?source=nandu&amp;nid=8517622176093105435&amp;pos=5&amp;layout=4&amp;url=http://nandu.media.baidu.com/article/8517622176093105435" title="保卫种子！种子法实施15年首次修订">保卫种子！种子法实施15年首次修订</a>
+<span class="tm">04-20 21:09</span>
+</li>
+<li>
+<span class="num">7</span>
+<a href="http://media.baidu.com/redirect?source=nandu&amp;nid=12546516176070774716&amp;pos=6&amp;layout=4&amp;url=http://nandu.media.baidu.com/article/12546516176070774716" title="电脑上留“遗书” 广州白云29岁男子疑似抑郁出走">电脑上留“遗书” 广州白云29岁男子疑似抑郁出走</a>
+<span class="tm">04-20 23:11</span>
+</li>
+<li>
+<span class="num">8</span>
+<a href="http://media.baidu.com/redirect?source=nandu&amp;nid=12308048682566974328&amp;pos=7&amp;layout=4&amp;url=http://nandu.media.baidu.com/article/12308048682566974328" title="天上捡到15万美元！ 这位空乘愣是没心动…">天上捡到15万美元！ 这位空乘愣是没心动…</a>
+<span class="tm">04-20 21:09</span>
+</li>
+<li>
+<span class="num">9</span>
+<a href="http://media.baidu.com/redirect?source=nandu&amp;nid=12817498710987280175&amp;pos=8&amp;layout=4&amp;url=http://nandu.media.baidu.com/article/12817498710987280175" title="台山白沙下冰雹 四九镇刮起11级雷雨大风">台山白沙下冰雹 四九镇刮起11级雷雨大风</a>
+<span class="tm">04-20 22:39</span>
+</li>
+<li>
+<span class="num">10</span>
+<a href="http://media.baidu.com/redirect?source=nandu&amp;nid=13091615189072686756&amp;pos=9&amp;layout=4&amp;url=http://nandu.media.baidu.com/article/13091615189072686756" title="雷雨搅局！深圳机场大面积延误 五千人滞留">雷雨搅局！深圳机场大面积延误 五千人滞留</a>
+<span class="tm">04-20 19:43</span>
+</li>
+</ul>
+</div>
+</div></div>
+</div>
+</div>
+<div id="Footer">
+<p class="top-nav">
+<a href="http://news.baidu.com/" target="_blank">百度新闻</a>|<a href="mailto:media_news%40baidu.com" target="_blank">联系我们：media_news@baidu.com</a>
+<strong class="wp-wrap">百度新闻&南方都市报联合出品</strong>
+<a href="http://news.baidu.com/"><img src="/static/newsmedia/widget/footer/baidunews_footer_d9a758b.png"></a>
+<a href="http://www.nandu.com" target="_blank"><img src="http://news.baidu.com/resource/r/image/2015-04-02/07f0609094eb34ad15bafa38c1c72cf9.png"></a>
+</p>
+<p class="site-info">
+<i>京公网安备110000000001号</i>
+<a href="http://news.baidu.com/licence.html">互联网新闻信息服务许可</a>
+<span>©2014 Baidu</span>
+<a class="wp-wrap" href="http://www.baidu.com/duty/">使用百度前必读</a>
+<a class="wp-hide" target="_blank" href="http://net.china.cn/chinese/index.htm"><img src="http://gimg.baidu.com/img/net.gif"></a>
+<a class="wp-hide" target="_blank" href="http://www.bj.cyberpolice.cn/index.htm"><img alt="首都网络110报警服务" src="http://gimg.baidu.com/img/110.gif"></a>
+<a class="wp-hide" target="_blank" href="http://www.bjjubao.org/"><img src="http://news.baidu.com/resource/img/report_center.png"></a>
+</p>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?d09fe258c88c7015c3e6f8232ee9a563";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</div>
+</div>
+<div class="mod-sidebar">
+<ul class="menu">
+<li class="toolbar">
+<a class="search" href="/search"><i class="icon-search"></i>搜索</a>
+|<a class="login" href="javascript:;">登录</a>
+<p class="username"></p>
+</li>
+<li class="item">
+<a href="/">首页</a>
+</li>
+<li class="item">
+<a href="/yaowen">要闻</a>
+</li>
+<li class="item">
+<a href="/society">社会</a>
+</li>
+<li class="item">
+<a href="/gd">广东</a>
+</li>
+<li class="item">
+<a href="/wenyu">文娱</a>
+</li>
+<li class="item">
+<a href="/finance">财经</a>
+</li>
+<li class="logo"><a href="http://news.baidu.com"><img src="/static/newsmedia/widget/mod_sidebar/logo-baidu_941ba05.png" height="26px" alt="baidu logo"></a></li>
+</ul>
+</div>
+</body><script type="text/javascript" src="/static/common/js/mod_b818356.js"></script>
+<script type="text/javascript" src="/static/common/js/jquery-1.10.1_77f5e40.js"></script>
+<script type="text/javascript" src="/static/common/pkg/aio_d41d8cd.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/mod_page/mod_page_78338ec.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/ap_ulist/ap_ulist_60537f4.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/header/header_3f34133.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/cover/cover_2e172d2.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/ui/iscroll/iscroll_93ba427.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/ui/velocity/velocity_022bc13.js"></script>
+<script type="text/javascript" src="/static/newsmedia/lessimgindex/lessimgindex_0e2d48b.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/mod_sidebar/mod_sidebar_5cf9d41.js"></script>
+<script type="text/javascript">!function(){    require.async('newsmedia:widget/mod_sidebar/mod_sidebar.js', function(login) {
+      login();
+    })
+  }();
+!function(){    var device = 'pc';
+    // 手机端直接监听每条新闻并跳转
+    if (device !== 'pc') {
+      $(function() {
+        var $banner = $('#banners');
+
+        $banner.delegate('.feed_tegao', 'click', function(ev) {
+          // 判断是否是点击了tag
+          var $target = $(ev.target);
+          if ($target.attr('href') &&
+            /^\/.*/.test($target.attr('href'))) return;
+
+          var $item = $(ev.currentTarget);
+          var href = $item.attr('data-href');
+
+          setTimeout(function() {
+            window.location.href = href;
+          }, 100)
+        });
+      });
+    }
+
+    alog("set", "alias", {
+         monkey: "http://img.baidu.com/hunter/alog/monkey.min.js",
+         element: "http://img.baidu.com/hunter/alog/element.min.js"
+     });
+
+     alog("require", ["monkey", "element"], function(monkey, element){
+         monkey.create({
+             page: "news-nandu",
+             pid: "241",
+             p: "133",
+             hid: "424",
+             postUrl: "http://nsclick.baidu.com/u.gif",
+             reports: {
+                refer: 1,
+                staytime: 1
+             }
+         });
+     });
+
+     alog("monkey.send", "pageview", { now: +new Date });
+  }();</script></html>

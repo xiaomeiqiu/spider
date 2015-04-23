@@ -1,0 +1,1119 @@
+<!DOCTYPE html>
+<!--STATUS OK-->
+<html>
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="publishtime" content="2015-04-20 21:49:41" />
+	<title>奇虎360如此作弊，AV-C如何能忍？--百度百家</title>
+	<script src="/static/js/clickMonitor.js?v=20131212"></script>
+    <script type="text/javascript" src="/static/js/usermonitor.js?v=20131212"></script>
+	<script src="/static/js/baiduTemplate.js?v=20131212"></script>
+    <link href="/static/css/all_7f51415.css" type="text/css" rel="stylesheet"/>
+<script src="/static/js/libs/tangram/tangram-1.5.2.2.js?v=20130128" type="text/javascript"></script>
+<script src="/static/js/libs/jquery/jquery.min.js?v=20131212" type="text/javascript"></script>
+<script src="/static/js/libs/jquery/jquery.cookie.js" type="text/javascript"></script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?7fe4ae9e1d0d01bcf748d066979cd2aa";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+
+    <script>
+    var on=baidu.event.on;
+    Fe = baidu;
+    var serverData = {
+        tokentm : '1429599469',
+        token : ''
+    }
+    </script>
+<style>
+
+#body .l-main-col .mod{border-top:none;}
+.l-right-col{border:none;}
+.l-main-col{border:none;}
+#body{border:none;}
+a:active{outline:0}
+
+.up_down{
+    float:right;
+    margin-right:10px;
+    _margin-right:0px;
+}
+.up_down_btn{
+    position: relative;
+    display: block;
+    text-decoration: none;
+    text-align: left;
+    color: #fff;
+    background: #fff;
+    font-size: 16px;
+    line-height: 25px;
+    font-family: "微软雅黑","Hiragino Sans GB";
+    border-radius: 5px;
+    padding:5px;
+    float:left;
+    margin-right:10px;
+}
+.up_down_icon {
+    position: absolute;
+    top: 3px;
+    left: 10px;
+    width: 27px;
+    height: 27px;
+    display: block;
+}
+.up_down_btn_num{
+    font:14px/24px "宋体","Hiragino Sans GB";
+    margin-left:35px;
+    color:#369;
+}
+.up_down_btn_num_gray{
+    color:#666;
+}
+.up_down_txt{
+    font:14px/24px "宋体","Hiragino Sans GB";
+    color:#666;
+}
+.up_down_txt_hover{
+    color:#369;
+}
+.up_down_btn_gray{ background:#fbfbfb;}
+.up{ background: url(/static/images/article_up.png) no-repeat;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled='true',sizingMethod='scale',src='/static/images/article_up.png');_background:none;}
+.down{ background: url(/static/images/article_down.png) no-repeat;top:6px;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled='true',sizingMethod='scale',src='/static/images/article_down.png');_background:none;}
+.up_gray{ background: url(/static/images/article_up_gray.png) no-repeat;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled='true',sizingMethod='scale',src='/static/images/article_up_gray.png');_background:none;}
+.down_gray{ background: url(/static/images/article_down_gray.png) no-repeat;top:6px;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled='true',sizingMethod='scale',src='/static/images/article_down_gray.png');_background:none;}
+
+
+
+#body{background:none;}
+.l-main-col{background:none;}
+.l-right-col{background:none;padding-right:0px;}
+#page{padding-left:0px;margin-bottom:61px;}
+
+</style>
+<script src="/static/js/ckplayer/ckplayer_c468efa.js" type="text/javascript"></script>
+</head>
+<body>
+<script type="text/javascript" language="javascript">
+        clickMonitor.init('BAIJIA_PAGE', 'c=article');
+</script>
+<style>
+#menu{height:60px;border-right:none;left:240px;}
+#menu a{color:#333;height:21px;width:70px;line-height:21px;position:relative;top:20px;margin:0 10px;border:0!important;}
+#menu a:hover{background: none;text-decoration: none;color:#2393df;}
+#menu a.current{background:none;color:#2393df;}
+#menu a.current:hover{background:none;text-decoration: none;}
+#menu a span{width:70px;height:1px;display:block;margin:19px auto 0px;_margin-top:-4px;}
+#menu a:hover span,#menu a.current span{border-bottom:4px solid #2393df;}
+.top-main{position:relative;width:982px;margin:0 auto;height:0px;}
+.top-main a{display: block;width:192px;height:68px;background: url(/static/images/03.png) no-repeat;text-decoration: none;top:-62px;left:0px;position:absolute;z-index:9999;}
+.search{position:absolute;right:230px;top:15px;height:30px;}
+.search_box{width:auto;height:100%;padding-right:5px;padding-left:28px;overflow:hidden;}
+.search_form{position: relative;width:195px;height:28px;border:1px solid #ccc;background: #FAFAFA;}
+.search_txt{display:block;position: absolute;top:4px;left:28px;font-size:14px;font-family:"宋体","Hiragino Sans GB";color:#c2c2c2;}
+.search_input{width:100%;height:26px;line-height:26px;display:block;border:none;border-width: 0px;background: #FAFAFA;}
+.search_btn{position: absolute;top: 0px;left: 0px;display:block;width:28px;height:28px;text-align:center;line-height: 24px;}
+.search_submit{background: url(/static/images/header_search_icon.png) no-repeat;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled='true',sizingMethod='scale',src='/static/images/header_search_icon.png');_background:none;width:16px;height:16px;border:none;cursor:pointer;*margin-top:5px;}
+#header{background:#fff;border-bottom:2px solid #EEE;height:60px;}
+#usrbar{top:20px}
+#usrbar .header_baidu,
+#usrbar .header_home,
+#usrbar .header_person{color:#666;display:inline-block;*display:inline;*zoom:1;height:18px;padding: 0 3px; vertical-align: top}
+
+.userbox{position:relative;width:100%;height:0px;left:0px;z-index:9999;}
+.userbox ul{position:absolute;top:0px;right:0px;border: 1px solid #999;width:80px;height:60px;background:#fff;padding:0px;overflow:hidden;*clear:both;}
+.userbox li{width:100%;height:30px;margin:0px;}
+#usrbar li a{height:100%;display:block;line-height:30px;padding:0px 0px 0px 5px;}
+#usrbar li a:hover{background:none repeat scroll 0 0 #ebebeb; text-decoration: none}
+#register{width:26px;}
+#usrbar .header_person:hover,
+#usrbar .header_baidu:hover,
+#usrbar .header_home:hover{color:#2393df;cursor:pointer;}
+
+#login_user{display:inline-block;*display:inline;*zoom:1;position:relative; vertical-align: top;width:100px;margin-right:5px;}
+#loged{width:100px; text-align: right;overflow: hidden;white-space: normal;word-wrap: break-word;word-break: break-all;color:#666;display:block;height:18px;padding: 0 6px!important;}
+</style>
+<script type='text/javascript' src='http://passport.baidu.com/passApi/js/uni_login_wrapper.js?cdnversion=201504211457'></script>
+<div id="header" alog-group="log-header">
+	<div class="header-content">
+        <div id="menu"><a href="http://baijia.baidu.com"  style="border-left:0px;">首页<span></span></a><a href="http://baijia.baidu.com/?tn=listauthor" >作家<span></span></a><a href="http://baijia.baidu.com/?tn=listtopic" >争鸣<span></span></a></div>
+
+<div class="search">
+  <form method="get" action="http://baijia.baidu.com/" class="search_form" onSubmit="return chkForm(this);">
+    <span title="搜索" alt="搜索" class="search_btn">
+      <input type="submit" class="search_submit" value="">
+    </span>
+    <div class="search_box" >
+      <label for="search" class="search_txt" id="search_txt"></label>
+      <input type="hidden" name="tn" value="search">
+      <input type="text" id="search" maxlength="50" name="word" autocomplete="off" class="search_input">
+    </div>
+  </form>
+</div>
+        <div id="usrbar">
+                    <a href="javascript:void(0);" id="login" class="header_person" >登录</a>
+          <a href="http://news.baidu.com" class="header_home" target="_blank">新闻首页</a>
+          <a class="header_baidu" target="_blank" href="http://www.baidu.com">百度</a>
+        </div>
+	</div>
+</div>
+<div class="top-main"><a href="http://baijia.baidu.com" ></a></div>
+<script>
+(function(baidu, undefined) {
+    window.instance = passport.pop.init({
+         apiOpt: {
+             staticPage: 'http://'+location.host+'/static/html/v3Jump.html',
+             product: 'xw1',
+             memberPass: true,
+             charset:'utf-8',
+             u:location.href,
+             safeFlag: 0
+         },
+         authsite:['tsina','renren','qzone','tqq'],
+	       authsiteCfg:{act:'implicit'},
+         tangram: true,
+         onLoginSuccess: function (args) {
+            // 发送统计日志统计pc主动登陆用户UV
+            args.returnValue = false;
+            sendLog({
+                m: 52,
+                a: 0,
+                args: args
+            });
+         },
+         onShow: function () {
+            sendLog({
+                m: 52,
+                a: 2
+            });
+         }
+    });
+    baidu.on('login', 'click', function(event) {
+         baidu.event.preventDefault(event || window.event);
+         sendLog({
+            m: 52,
+            a: 1
+         });
+         instance.show();
+    });
+})(window.baidu);
+
+function sendLog(option) {
+  var url = 'http://nsclick.baidu.com/v.gif?pid=107&m=' + option.m + '&a=' + option.a + '&v=' + new Date().getTime();
+
+  $('<img/>')
+    .one('load', function() {
+        if (option.args){
+            location.href = option.args.rsp.data.u;
+        }
+    })
+    .each(function() {
+      if(this.complete) $(this).load();
+    })
+    .attr('src', url);
+}
+</script>
+<script type="text/javascript">
+	var __search = baidu.g("search") ;
+	__search && baidu.on(__search, 'blur', function(e){
+		if(!__search.value){
+			baidu.show('search_txt');
+		}
+	});
+	__search && baidu.on(__search, 'focus', function(e){
+		baidu.hide('search_txt');
+	});
+	function chkForm(e){
+		if(!__search.value){
+			return false;
+		}
+		return true ;
+	};
+</script>
+<script type="text/javascript">
+	var __login_user = baidu.g("login_user");
+	var __userbox = baidu.g("userbox"),myTimeout;
+  var uid="";
+	__login_user && baidu.on(__login_user,'mouseenter',function(e){
+    if(myTimeout){
+      clearTimeout(myTimeout);
+    }
+		baidu.show("userbox");
+	});
+	__login_user && baidu.on(__login_user,'mouseleave',function(e){
+    myTimeout = setTimeout(function(){
+      baidu.hide("userbox");
+    },500);
+
+	});
+	var __logout = baidu.g("logout");
+	if(__logout){
+    var uhref = encodeURIComponent(location.href) ;
+    if(uhref.indexOf("userinfo") > 0 ){
+      __logout.href="http://passport.rdtest.baidu.com/?logout&u="+encodeURIComponent("http://baijia.baidu.com/");
+    }else{
+      __logout.href="http://passport.rdtest.baidu.com/?logout&u="+uhref;
+    }
+
+  }
+  if(!uid){
+    $('#cmtbox textarea') && $('#cmtbox textarea').val('');
+  }
+
+</script>
+
+<div class="l-header-ad" >
+    <script type="text/javascript">
+    /*960*90 创建于 2014-12-12*/
+    var cpro_id = "u1857462";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script>
+
+</div>
+<div id="body" class="clearfix">
+    <div class="l-main-col">
+         <div id="page" style="padding-bottom:0px;">
+             <h1 style="font:bold 34px/40px 微软雅黑;color:#333;padding-left:0px;border-left:0px;margin:30px 0;">奇虎360如此作弊，AV-C如何能忍？</h1>
+             <div class="article-info">
+                 <div class="article-author-time">
+                     <a href="http://diaochayuan.baijia.baidu.com" target="_blank" mon="name=bjarticle&pos=name">特别调查员</a><span class="time">04月20日 21:49</span>
+                 </div>
+                 <div class="share-area">
+                    <!-- Baidu Button BEGIN -->
+                    <div class="bdsharebuttonbox" data-tag="share_1" style="float:right">
+                        <a class="bds_more" data-cmd="more">分享到：</a>
+                        <a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a>
+                        <a href="#" class="bds_renren" data-cmd="renren" title="分享到人人网"></a>
+                        <a href="#" class="bds_douban" data-cmd="douban" title="分享到豆瓣网"></a>
+                        <a href="#" class="bds_tqq" data-cmd="tqq" title="分享到腾讯微博"></a>
+                        <a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a>
+                        <a class="bds_count" data-cmd="count" style="display:none"></a>
+                    </div>
+                    <!-- Baidu Button END -->
+                 </div>
+                 <div class="article-tags" style="float:left;width:auto;margin-left:10px;">
+                                      <a href="http://baijia.baidu.com/?tn=listarticle&labelid=11584" target="_blank" style="background: #f6f6f6;text-decoration: none;padding: 5px;" mon="name=bjarticle&pos=tag">奇虎360</a>
+                                      <a href="http://baijia.baidu.com/?tn=listarticle&labelid=28573" target="_blank" style="background: #f6f6f6;text-decoration: none;padding: 5px;" mon="name=bjarticle&pos=tag">AV-C</a>
+                                      <a href="http://baijia.baidu.com/?tn=listarticle&labelid=28574" target="_blank" style="background: #f6f6f6;text-decoration: none;padding: 5px;" mon="name=bjarticle&pos=tag">安全评测</a>
+                                  </div>
+                 <div style="margin-left:10px;margin-right:10px;float:right;color:#ccc;">分类 : <a href="/?tn=listarticle&labelid=2" style="color:#369;" mon="name=bjarticle&pos=category">互联网</a></div>
+             </div>
+
+                        <!--div class="l-main-top-text-ad"></div-->
+             
+                          <blockquote style="text-indent:0px;color:#333;font-size:14px;line-height:24px;"><span style="color:#999;">摘要 : </span>“其实第一次听说要评测奇虎360安全产品我是拒绝的，因为，你不能让我测，我就马上去测，第一我要试一下，因为我不愿意测试之前被加一些特技上去，Duang一下，很快速、很精准，这样网民出来一定会骂我，根本没有这样的产品，就证明上面那个是假的……”</blockquote>
+                          <div class="article-detail" style="letter-spacing: 0.5px;">
+                                                        
+                                                        <p class="image"><img src="http://d.hiphotos.baidu.com/news/crop%3D0%2C0%2C432%2C259%3Bw%3D638/sign=4b93f4c29a3df8dcb272d5d1f0215ebb/8718367adab44aed152f44d1b61c8701a18bfba6.jpg"/></p>
+                                                                                                                                                                                                                                                                                                                                                    <div  class="l-main-inner-ad"><script type="text/javascript">
+    /*250*250 创建于 2014-12-12*/
+    var cpro_id = "u1857464";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script>
+</div>
+                                                                                                <p class="text">（本文百度百家独家首发，转载请注明来源）</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text"><strong>移花接木 接连作弊</strong></p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">近日（2015年4月），国际知名安全评测机构AV-Comparatives（简称“AV-C”）公布最新一期桌面安全软件评测报告《恶意文件检测率测试（包括误报测试）》，间接指出奇虎360以没有用户基础的特别版参评。报告称，“奇虎360用于本次测试的产品是360 AntiVirus(英文)，该款产品使用的是Bitdefender引擎，不是QVM引擎”、“（本次测试的结果）不适用于其官网上的任何其他产品”。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">较早前（2014年10月），AV-C在一份移动安全软件评测报告中声明取消奇虎360移动安全产品认证，“奇虎360不能得到认证，因为该测试的产品的版本目前无法下载，且谷歌商店也没有相同的产品”、“该测试版本与其在自己官网提供的中文和英文版本都不同”、“奇虎360错用本次测试认证进行自己的市场宣传，所以该款产品本次测试认证被取消”。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">安全产品的性能、可用性、检出率、误报率等关键指标具有一定的相关性，其引擎和默认设置是产品的重要组成部分，为特定测试目的定制特别版参评，包括但不限于更换默认引擎（组）、以偏执设置代替默认设置等，形同考试作弊。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">这次与上次不同的是，奇虎360学乖了：其参评产品可从其官网获取，市场宣传对象则以公司名称（360）取代具体产品名称（360杀毒），形式上规避了AV-C的相关约束条款，成绩暂未被取消。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">奇虎360把作弊当行为艺术，可AV-C也不是省油的灯，不仅在评测报告中注明奇虎360参评产品来源(http://sd.360.cn/download_center.html，英文版)，而且特别强调其引擎“不是QVM”，留下了明确的重要线索，为我等闲人挖掘真相指明了方向：奇虎360参评产品不是国内版（360杀毒软件），更不是国际版（360 Total Security），而是基于国内版特别定制的评测专用版（360 AntiVirus）。所谓“英文版”只是其移花接木的遮羞布，实为“作弊版”。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">需要说明的是，这份评测报告同时注明百度杀毒产品来源（因参评产品是国际版），但实质与奇虎360完全不同。百度杀毒自2014年参评以来均使用国际通用版（同时支持包括中文在内的9种语言，产品官网<a href="http://antivirus.baidu.com/">http://antivirus.baidu.com/</a>），该产品在国内外市场表现不俗，拥有广泛用户基础，其相关市场宣传也谨守分际、从未故意把国际版与国内版混为一谈。腾讯参评产品则是来自其官网的腾讯电脑管家（产品官网<a href="http://guanjia.qq.com/">http://guanjia.qq.com/</a>），其第三方评测结论对国内用户最具参考价值，高检出率、低误报率，兼顾整体平衡，获得优秀级认证，综合排名位列国内第一阵营。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">事后，奇虎360与腾讯电脑管家在各自官方微博上就“究竟谁第一”的问题公开掐架（图1），好不热闹。对于掐架过程，本人不予评论，在此仅建议腾讯：面对那个热衷作弊的差等生，你们可以更淡定点。</p>
+                                                                                            
+                                                        <p class="image"><img src="http://d.hiphotos.baidu.com/news/w%3D638/sign=e514e42bbc389b5038ffe351bd34e5f1/48540923dd54564e419d1a0cb6de9c82d1584f0f.jpg"/></p>
+                                                                                                                                                                                                                                                                                                                                                                                <p class="text">图1</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">来吧，看完热闹后，请随我看看门道。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text"><strong>虚晃一枪 一箭双雕</strong></p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">打开360杀毒软件下载中文页面<a href="http://sd.360.cn/download_center.html">http://sd.360.cn/download_center.html</a>（图2），可发现其右上角有一个很不起眼的“[English]”链接，该链接指向360杀毒英文版 (360 AntiVirus)(<a href="http://down.sd.360.cn/360sd/360sd_5.0.0.5104X64_en.exe">http://down.sd.360.cn/360sd/360sd_5.0.0.5104X64_en.exe</a>)，直接下载安装包，没有相关产品页面，查其英文官网（http://www.360safe.com/ ）桌面安全产品列表也找不到360 AntiVirus的身影（图3）。</p>
+                                                                                            
+                                                        <p class="image"><img src="http://g.hiphotos.baidu.com/news/w%3D638/sign=b0d98033a9af2eddd4f14aeab5110102/8d5494eef01f3a29eb252bfb9c25bc315c607c12.jpg"/></p>
+                                                                                                                                                                                                                                                                                                                                                                                <p class="text">图2</p>
+                                                                                            
+                                                        <p class="image"><img src="http://d.hiphotos.baidu.com/news/w%3D638/sign=5e7f1e1e0bf41bd5da53ebf769da81a0/a50f4bfbfbedab64202eb4f5f236afc379311ea2.jpg"/></p>
+                                                                                                                                                                                                                                                                                                                                                                                <p class="text">图3</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">给国外用户使用的英文产品 360 AntiVirus，却仅在中文官网提供下载（且只支持64位）、也不提供英文介绍，与目标用户玩起了“躲猫猫”。不仅如此，该安装包下载速度被人为限制在极低水平，仅15KB/S，下载线程数最多允许2个，实际下载时间最长达3个小时。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">挂个下载链接以向AV-C表明其官网“存在”该产品，同时对其目标用户发现和下载该产品设置技术性障碍，可谓一箭双雕。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text"><strong>偷工减料 原形毕露</strong></p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">安装运行时发现，该产品界面大量中文图文未翻译，中文文字在英文Windows下无法正常显示，包括功能和提示窗口、主菜单、产品主页、隐私声明页、帮助主页、使用反馈页等（部分图示，图4~7），真不知道这个“英文版”是给外国人用的，还是给外星人用的？</p>
+                                                                                            
+                                                        <p class="image"><img src="http://e.hiphotos.baidu.com/news/w%3D638/sign=2b536d41a8345982c58ae69134f5310b/91ef76c6a7efce1b219831ffaa51f3deb48f6550.jpg"/></p>
+                                                                                                                                                                                                                                                                                                                                                                                <p class="text">图4</p>
+                                                                                            
+                                                        <p class="image"><img src="http://e.hiphotos.baidu.com/news/w%3D638/sign=0f61ba0c4e36acaf59e095ff44d88d03/b58f8c5494eef01ffea7e1f0e5fe9925bc317d50.jpg"/></p>
+                                                                                                                                                                                                                                                                                                                                                                                <p class="text">图5</p>
+                                                                                            
+                                                        <p class="image"><img src="http://d.hiphotos.baidu.com/news/w%3D638/sign=fca0753d9e504fc2a25fb306dddce7f0/0823dd54564e925802877fdb9982d158ccbf4e50.jpg"/></p>
+                                                                                                                                                                                                                                                                                                                                                                                <p class="text">图6</p>
+                                                                                            
+                                                        <p class="image"><img src="http://e.hiphotos.baidu.com/news/w%3D638/sign=6d5357554ac2d562f208d3eedf1190f3/dc54564e9258d10967b55087d458ccbf6c814db5.jpg"/></p>
+                                                                                                                                                                                                                                                                                                                                                                                <p class="text">图7</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text"><strong>张冠李戴 欺世盗名</strong></p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">360 AntiVirus默认设置仅开启云引擎和BitDefender引擎，关闭了系统文件修复、QVM和AVIRA引擎，其中QVM引擎是奇虎360公开声称“全球首创QVM人工智能引擎，是第一，更是唯一”、“十二次获得AV-C全球权威评测最佳奖项”（图8），竟然不敢进“考场”？所谓“首创人工智能”、“第一”、“唯一”、“十二次最佳”有几分真、几分水？实在令人好奇。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">事实上，奇虎360自2011年参评以来，AV-C定期发布的几乎所有评测报告（下载入口：<a href="http://www.av-comparatives.org/detection-test/">http://www.av-comparatives.org/detection-test/</a>）都强调其以没有用户基础的特别版本参评且未开启QVM引擎，并非无的放矢。相信令AV-C不耐烦但无奈的是，奇虎360针对每次评测的侧重点更改软件默认设置以获取单项高分，并把基于第三方引擎Bitdefender获得的评测成绩悉数计入其QVM引擎名下，所谓“十二次获得AV-C全球权威评测最佳奖项”实为十二次TreeNewBee。</p>
+                                                                                            
+                                                        <p class="image"><img src="http://g.hiphotos.baidu.com/news/w%3D638/sign=64c58a15bc12c8fcb4f3f5cec40392b4/9f510fb30f2442a7cf7d0590d443ad4bd1130297.jpg"/></p>
+                                                                                                                                                                                                                                                                                                                                                                                <p class="text">图8</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">在手动打开被默认关闭的系统文件修复、QVM和AVIRA等三个引擎开关后，使用Process Explorer（监视工具）找不到各自相关程序文件加载记录，分别搜索 sysfile、qvm和aecore，均无匹配项（图9），仅能搜索到云引擎和BitDefender引擎相关的deepscan和bdcore，而其主界面和运行日志均虚假指示相关引擎已开启，欺骗普通用户（图10~11）。</p>
+                                                                                            
+                                                        <p class="image"><img src="http://c.hiphotos.baidu.com/news/w%3D638/sign=ea8f1c05bfa1cd1105b671238112c8b0/d50735fae6cd7b898c02c2b60a2442a7d9330e9c.jpg"/></p>
+                                                                                                                                                                                                                                                                                                                                                                                <p class="text">图9</p>
+                                                                                            
+                                                        <p class="image"><img src="http://h.hiphotos.baidu.com/news/w%3D638/sign=242884510c23dd542173a46be909b3df/c83d70cf3bc79f3d17e71c05bfa1cd11728b2985.jpg"/></p>
+                                                                                                                                                                                                                                                                                                                                                                                <p class="text">图10</p>
+                                                                                            
+                                                        <p class="image"><img src="http://e.hiphotos.baidu.com/news/w%3D638/sign=b2368633a9af2eddd4f14aeab5100102/8d5494eef01f3a29e9ca2dfb9c25bc315c607c81.jpg"/></p>
+                                                                                                                                                                                                                                                                                                                                                                                <p class="text">图11</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text"><strong>此时此刻，AV-C可能想说，</strong></p>
+                                                                                                                                                                                                                                                                                                                                <p class="text"><strong>“其实第一次听说要评测奇虎360安全产品我是拒绝的，因为，你不能让我测，我就马上去测，第一我要试一下，因为我不愿意测试之前被加一些特技上去，Duang一下，很快速、很精准，这样网民出来一定会骂我，根本没有这样的产品，就证明上面那个是假的……”</strong></p>
+                                                                    
+                
+             </div>
+        </div>
+        <div style="position:relative;width:100%;height:36px;">
+            <div class="up_down">
+                <a id="up_article" class="up_down_btn" href="javascript:void(0);" style="text-decoration:none;">
+                    <i id="up_icon" class="up_down_icon up_gray"></i>
+                    <span class="up_down_btn_num" id="up_btn_num">514</span>
+                    <span class="up_down_txt" id="up_txt">好文</span>
+                </a>
+                <a id="down_article" class="up_down_btn" href="javascript:void(0);" style="text-decoration:none;">
+                    <i id="down_icon" class="up_down_icon down_gray"></i>
+                    <span class="up_down_btn_num" id="down_btn_num">375</span>
+                    <span class="up_down_txt" id="down_txt">太水</span>
+                </a>
+            </div>
+            <span style="color:#999;font-family:'宋体';font-size:15px;">阅读（101215）</span>
+        </div>
+        <div class="bottom-share" style="padding:30px 20px 30px 0px;height:60px" id="share_box">
+            <span>分享 : </span>
+            <!-- Baidu Button BEGIN -->
+            <div id="bdshare" class="bdsharebuttonbox" data-tag="share_2">
+                <a href="#" class="bds bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a>
+                <a href="#" class="bds bds_renren" data-cmd="renren" title="分享到人人网"></a>
+                <a href="#" class="bds bds_douban" data-cmd="douban" title="分享到豆瓣网"></a>
+                <a href="#" class="bds bds_tqq" data-cmd="tqq" title="分享到腾讯微博"></a>
+                <a href="#" class="bds bds_weixin" data-cmd="weixin" title="分享到微信"></a>
+                <a href="#" class="bds bds_more" data-cmd="more"></a>
+                <a class="bds_count" data-cmd="count"></a>
+            </div>
+            <script>
+            window._bd_share_config={
+                "common":{
+                    "bdSnsKey":{},
+                    "bdMini":"2",
+                    "bdMiniList":false,
+                    "bdStyle":"0",
+                    "bdText":"一篇好文,推荐之-【"+baidu.dom.query('#page h1')[0].innerHTML+"】（来自:百度百家）",
+                    "bdPic" : "http://d.hiphotos.baidu.com/news/crop%3D0%2C0%2C432%2C259%3Bw%3D638/sign=4b93f4c29a3df8dcb272d5d1f0215ebb/8718367adab44aed152f44d1b61c8701a18bfba6.jpg",
+                    "bdUrl": location.href
+                },
+                "share" : [{
+                        "tag" : "share_1",
+                        "bdSize" : "16"
+                    },{
+                        "tag" : "share_2",
+                        "bdSize" : "32"
+                    }]
+            };
+            with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];
+            </script>
+            <!-- Baidu Button END -->
+        </div>
+        <!--拓展阅读-->
+        
+
+        <!--上一篇，下一篇文章-->
+        <div style="padding: 0 20px 0 0;margin-bottom:20px;font-size:12px;height:18px">
+                                </div>
+        <div id="mod-comment" class="mod-comment">
+            <h3>精彩评论</h3>
+            <div class="comment-box">
+                <div class="opt">
+                                        <p class="login">
+                        <a href="javascript:;" class="cmtlogin">登录</a>
+                    </p>
+                                    </div>
+                <div class="cmtbox" >
+                    <p class="avt">
+                                                <img src="http://himg.bdimg.com/sys/portrait/item/982f4a616d65736a697869616f6875694206">
+                                            </p>
+                    <i class="tarea">
+                        <textarea placeholder="随便说点什么吧"></textarea>
+                    </i>
+                </div>
+                <p class="btns3">
+                    <span class="checknum">还可以输入<em>250</em>个字</span>
+                    <a href="javascript:;" class="btn btndis cmtbtn">评论</a>
+                </p>
+            </div>
+
+            <!--comment start-->
+            <div class="comments">
+                <div class="cmtlist"></div>
+                <div class="load_more">
+                    <a class="loadLine nocmt" href="javascript:;"><span class="ico"></span><span class="txt">还没有人评论过，赶快抢沙发吧！</span></a>
+                </div>
+            </div>
+            <!--模态弹窗-->
+            <div class="comment-success" ></div>
+            <div class="comment-fail" ></div>
+            <!--end-->
+
+            <script language="javascript" type="text/javascript" src="/static/js/comment_16da2f4.js"></script>
+        </div>
+
+
+        
+            </div>
+
+    <div class="l-right-col" style="padding-top:30px;">
+        <div class="mod authorInfos">
+    <div class="authorInfo">
+        <p class="avt"><a href="http://diaochayuan.baijia.baidu.com" mon="name=bjcard&pos=pic"><img src="http://e.hiphotos.baidu.com/news/pic/item/42a98226cffc1e178e0e406b4e90f603738de933.jpg"></a></p>
+        <div class="info">
+            <a href="http://diaochayuan.baijia.baidu.com" title="特别调查员" class="nm" mon="name=bjcard&pos=name">特别调查员</a>
+            <p class="label">高级工程师</p>
+        </div>
+        <p class="btns">
+                <a href="javascript:;" class="btn authorRssBtn" hidefocus="true" >
+                                        <i class="i iadd"><i class="i1"></i><i class="i2"></i></i>
+                    <b class="b">关注</b>
+                                    </a>
+            </p>
+    </div>
+    <ul class="articleLis">
+        </ul>
+    <p class="tip"><a href="http://diaochayuan.baijia.baidu.com" mon="name=bjcard&pos=morearticle">TA的更多文章>></a></p>
+</div>
+        <div class="mod" alog-group="log-hotartical">			
+<div class="hd">
+    <div class="title_box" ><div class="title_container"><span class="title">推荐文章</span><span class="sub_title">RECOMMEND</span><div class="line"><div class="left"></div><div class="right"></div></div></div></div>
+</div>
+<div class="bd">
+    <ul class="artical-top">
+                            <li class="first-item hasImg notb" >
+            <p class="artImg">
+                <a href="http://diaochayuan.baijia.baidu.com/article/50277" target="_blank" mon="name=bjrecommend&pos=pic">
+                    <img src="http://d.hiphotos.baidu.com/news/crop%3D28%2C13%2C432%2C259%3Bw%3D638/sign=caeb5966672762d09471feff9dde30d6/42166d224f4a20a42524da8294529822720ed0b9.jpg" class="top_hot_img" />
+                </a>
+            </p>
+            <p class="title">
+                <a href="http://diaochayuan.baijia.baidu.com/article/50277" target="_blank" title="微软免费推广Win10 360任性挑事" mon="name=bjrecommend&pos=title">微软免费推广Win10 360任性挑事</a>
+            </p>
+            <p class="text">
+                
+                                    <a href="http://diaochayuan.baijia.baidu.com" class="nm" mon="name=bjrecommend&pos=name">特别调查员</a>
+                                <span class="tip">阅读(4万)</span>
+            </p>
+        </li>
+                                            <li class="first-item hasImg " >
+            <p class="artImg">
+                <a href="http://diaochayuan.baijia.baidu.com/article/42054" target="_blank" mon="name=bjrecommend&pos=pic">
+                    <img src="http://c.hiphotos.baidu.com/news/crop%3D13%2C0%2C267%2C160%3Bw%3D638/sign=aac98d5a9c3df8dcb272d5d1f02041a7/ae51f3deb48f8c544ee8468239292df5e0fe7f60.jpg" class="top_hot_img" />
+                </a>
+            </p>
+            <p class="title">
+                <a href="http://diaochayuan.baijia.baidu.com/article/42054" target="_blank" title="特许经营权的掘墓人 “黑车”不黑" mon="name=bjrecommend&pos=title">特许经营权的掘墓人 “黑车”不黑</a>
+            </p>
+            <p class="text">
+                
+                                    <a href="http://diaochayuan.baijia.baidu.com" class="nm" mon="name=bjrecommend&pos=name">特别调查员</a>
+                                <span class="tip">阅读(4万)</span>
+            </p>
+        </li>
+                                            <li class="first-item hasImg " >
+            <p class="artImg">
+                <a href="http://kangsitanding.baijia.baidu.com/article/54210" target="_blank" mon="name=bjrecommend&pos=pic">
+                    <img src="http://f.hiphotos.baidu.com/news/crop%3D8%2C23%2C542%2C325%3Bw%3D638/sign=13fd6c6b0e7b0208188665a15fe1dee1/83025aafa40f4bfb8616da9a074f78f0f636183d.jpg" class="top_hot_img" />
+                </a>
+            </p>
+            <p class="title">
+                <a href="http://kangsitanding.baijia.baidu.com/article/54210" target="_blank" title="我们真的需要智能自行车吗？" mon="name=bjrecommend&pos=title">我们真的需要智能自行车吗？</a>
+            </p>
+            <p class="text">
+                
+                                    <a href="http://kangsitanding.baijia.baidu.com" class="nm" mon="name=bjrecommend&pos=name">康斯坦丁</a>
+                                <span class="tip">阅读(24万)</span>
+            </p>
+        </li>
+                                            <li class="first-item hasImg " >
+            <p class="artImg">
+                <a href="http://fangyu.baijia.baidu.com/article/54251" target="_blank" mon="name=bjrecommend&pos=pic">
+                    <img src="http://a.hiphotos.baidu.com/news/crop%3D4%2C9%2C837%2C502%3Bw%3D638/sign=7333680db6119313d30ca5f0580c20ee/4034970a304e251fb5ba4237a386c9177e3e53ab.jpg" class="top_hot_img" />
+                </a>
+            </p>
+            <p class="title">
+                <a href="http://fangyu.baijia.baidu.com/article/54251" target="_blank" title="哪些微商团队会很快死掉" mon="name=bjrecommend&pos=title">哪些微商团队会很快死掉</a>
+            </p>
+            <p class="text">
+                
+                                    <a href="http://fangyu.baijia.baidu.com" class="nm" mon="name=bjrecommend&pos=name">方雨007</a>
+                                <span class="tip">阅读(22万)</span>
+            </p>
+        </li>
+                                            <li class="first-item hasImg " >
+            <p class="artImg">
+                <a href="http://penghailiang.baijia.baidu.com/article/54013" target="_blank" mon="name=bjrecommend&pos=pic">
+                    <img src="http://c.hiphotos.baidu.com/news/crop%3D0%2C0%2C462%2C277%3Bw%3D638/sign=7984622666d9f2d3345e7eaf94dca623/96dda144ad345982b0c7b85508f431adcaef84a3.jpg" class="top_hot_img" />
+                </a>
+            </p>
+            <p class="title">
+                <a href="http://penghailiang.baijia.baidu.com/article/54013" target="_blank" title="马云要收购中石化5000加油站？" mon="name=bjrecommend&pos=title">马云要收购中石化5000加油站？</a>
+            </p>
+            <p class="text">
+                
+                                    <a href="http://penghailiang.baijia.baidu.com" class="nm" mon="name=bjrecommend&pos=name">电商老..</a>
+                                <span class="tip">阅读(16万)</span>
+            </p>
+        </li>
+                        </ul>
+
+</div>
+</div>
+
+
+        <div class="mod" alog-group="log-hotartical">			
+<div class="hd">
+    <div class="title_box" ><div class="title_container"><span class="title">最新文章</span><span class="sub_title">NEW</span><div class="line"><div class="left"></div><div class="right"></div></div></div></div>
+</div>
+<div class="bd">
+    <ul class="artical-top">
+                            <li class="first-item hasImg notb" >
+            <p class="artImg">
+                <a href="http://diaolong.baijia.baidu.com/article/54494" target="_blank" mon="name=bjnew&pos=pic">
+                    <img src="http://f.hiphotos.baidu.com/news/crop%3D0%2C0%2C550%2C330%3Bw%3D638/sign=74ef7fcc3cdbb6fd3114bf6634148728/63d9f2d3572c11df8cd97414662762d0f703c2f9.jpg" class="top_hot_img" />
+                </a>
+            </p>
+            <p class="title">
+                <a href="http://diaolong.baijia.baidu.com/article/54494" target="_blank" title="腾讯为音乐侵权为什么要闹到武汉去" mon="name=bjnew&pos=title">腾讯为音乐侵权为什么要闹到武汉去</a>
+            </p>
+            <p class="text">
+                
+                                    <a href="http://diaolong.baijia.baidu.com" class="nm" mon="name=bjnew&pos=name">新媒体砖家</a>
+                                <span class="tip">31分钟前</span>
+            </p>
+        </li>
+                                            <li class="first-item hasImg " >
+            <p class="artImg">
+                <a href="http://yunfeiyang.baijia.baidu.com/article/54495" target="_blank" mon="name=bjnew&pos=pic">
+                    <img src="http://d.hiphotos.baidu.com/news/crop%3D0%2C9%2C550%2C330%3Bw%3D638/sign=101809d967d9f2d3345e7eaf94dca62a/d1a20cf431adcbef1de5483ea9af2edda3cc9f30.jpg" class="top_hot_img" />
+                </a>
+            </p>
+            <p class="title">
+                <a href="http://yunfeiyang.baijia.baidu.com/article/54495" target="_blank" title="《王大花》张博：抗日暖痞姐弟恋" mon="name=bjnew&pos=title">《王大花》张博：抗日暖痞姐弟恋</a>
+            </p>
+            <p class="text">
+                
+                                    <a href="http://yunfeiyang.baijia.baidu.com" class="nm" mon="name=bjnew&pos=name">云飞扬</a>
+                                <span class="tip">46分钟前</span>
+            </p>
+        </li>
+                                            <li class="first-item hasImg " >
+            <p class="artImg">
+                <a href="http://huangmin.baijia.baidu.com/article/54492" target="_blank" mon="name=bjnew&pos=pic">
+                    <img src="http://c.hiphotos.baidu.com/news/crop%3D0%2C7%2C640%2C384%3Bw%3D638/sign=c3df7ed1227f9e2f647a47482200c513/3b87e950352ac65c726caa44fef2b21193138a98.jpg" class="top_hot_img" />
+                </a>
+            </p>
+            <p class="title">
+                <a href="http://huangmin.baijia.baidu.com/article/54492" target="_blank" title="罗斯演王者归来，公牛再上争冠路？" mon="name=bjnew&pos=title">罗斯演王者归来，公牛再上争冠路？</a>
+            </p>
+            <p class="text">
+                
+                                    <a href="http://huangmin.baijia.baidu.com" class="nm" mon="name=bjnew&pos=name">醉卧浮生</a>
+                                <span class="tip">47分钟前</span>
+            </p>
+        </li>
+                                            <li class="first-item hasImg " >
+            <p class="artImg">
+                <a href="http://laotie.baijia.baidu.com/article/54488" target="_blank" mon="name=bjnew&pos=pic">
+                    <img src="http://e.hiphotos.baidu.com/news/crop%3D0%2C0%2C441%2C265%3Bw%3D638/sign=323efad2a86eddc432a8eebb04eb9acd/6f061d950a7b0208473eebd667d9f2d3572cc816.jpg" class="top_hot_img" />
+                </a>
+            </p>
+            <p class="title">
+                <a href="http://laotie.baijia.baidu.com/article/54488" target="_blank" title="阿里2014年纳税109亿的背后是什么" mon="name=bjnew&pos=title">阿里2014年纳税109亿的背后是什么</a>
+            </p>
+            <p class="text">
+                
+                                    <a href="http://laotie.baijia.baidu.com" class="nm" mon="name=bjnew&pos=name">老铁</a>
+                                <span class="tip">52分钟前</span>
+            </p>
+        </li>
+                                            <li class="first-item hasImg " >
+            <p class="artImg">
+                <a href="http://mengbin.baijia.baidu.com/article/54489" target="_blank" mon="name=bjnew&pos=pic">
+                    <img src="http://h.hiphotos.baidu.com/news/crop%3D223%2C96%2C1217%2C730%3Bw%3D638/sign=1bc213183f292df5838cf65581036e53/77094b36acaf2edd2ce09fde881001e9390193f0.jpg" class="top_hot_img" />
+                </a>
+            </p>
+            <p class="title">
+                <a href="http://mengbin.baijia.baidu.com/article/54489" target="_blank" title="阿里CTO：YunOS将改变操作系统格局" mon="name=bjnew&pos=title">阿里CTO：YunOS将改变操作系统格局</a>
+            </p>
+            <p class="text">
+                
+                                    <a href="http://mengbin.baijia.baidu.com" class="nm" mon="name=bjnew&pos=name">孟滨</a>
+                                <span class="tip">56分钟前</span>
+            </p>
+        </li>
+                        </ul>
+
+</div>
+</div>
+
+
+                <div class="l-right-bottom-cloud-ad"><script type="text/javascript">
+    /*300*250 创建于 2014-12-12*/
+    var cpro_id = "u1857465";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script>
+</div>
+                <div class="mod" id="artical" alog-group="log-hotartical-num">
+    <div class="hd">
+        <div class="title_box" ><div class="title_container"><span class="title">热门文章</span><span class="sub_title">HOT NEWS</span><div class="line"><div class="left"></div><div class="right"></div></div></div></div>
+    </div>
+    <div class="bd">
+                <div class="tabs">
+            <span class="tab on" data-id="topArtical"><a href="javascript:;">日榜</a></span>
+            <span class="tab" data-id="topWeekArtical"><a href="javascript:;">周榜</a></span>
+        </div>
+        <ul class="artical-top-num" id="topArtical">
+                                                                            <li class="top-1">
+                        <span class="num">01</span>
+                        <p class="title"><a href="http://diaochayuan.baijia.baidu.com/article/54413" mon="name=bjhotarticle" target="_blank">奇虎360如此作弊，AV-C如何能忍？</a></p>
+                                                <p class="desc">“其实第一次听说要评测奇虎360安全产品我是拒绝的，因为，你不...</p>
+                                            </li>
+                                                                                                                            <li class="top-2">
+                        <span class="nm">王长胜</span>
+                        <span class="num">02</span>
+                        <p class="title"><a href="http://wangchangsheng.baijia.baidu.com/article/54441" mon="name=bjhotarticle" target="_blank">神秘的DST从京东套现了多少钱？</a></p>
+                    </li>
+                                                                                                                            <li class="top-3">
+                        <span class="nm">林紫玉</span>
+                        <span class="num">03</span>
+                        <p class="title"><a href="http://linziyun.baijia.baidu.com/article/54439" mon="name=bjhotarticle" target="_blank">铁塔公司为何步履蹒跚？</a></p>
+                    </li>
+                                                                                                        <li>
+                        <span class="nm">齐俊杰</span>
+                        <span class="num">04</span>
+                        <p class="title"><a href="http://qijunjie.baijia.baidu.com/article/54380" mon="name=bjhotarticle"  target="_blank">中国版注册制来了 股市要坏菜</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm">俊世太保</span>
+                        <span class="num">05</span>
+                        <p class="title"><a href="http://junstapo.baijia.baidu.com/article/54417" mon="name=bjhotarticle"  target="_blank">美国科技大佬成功之前混得都有多惨</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm">齐俊杰</span>
+                        <span class="num">06</span>
+                        <p class="title"><a href="http://qijunjie.baijia.baidu.com/article/54407" mon="name=bjhotarticle"  target="_blank">苹果投中国光伏 可能是真爱</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm">慕容散</span>
+                        <span class="num">07</span>
+                        <p class="title"><a href="http://jinzhu.baijia.baidu.com/article/54381" mon="name=bjhotarticle"  target="_blank">摆好姿势，跳一场价值万亿的广场舞</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm">李书航</span>
+                        <span class="num">08</span>
+                        <p class="title"><a href="http://lishuhang.baijia.baidu.com/article/54447" mon="name=bjhotarticle"  target="_blank">苹果买光伏果然只为“赶考”</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm">葛甲</span>
+                        <span class="num">09</span>
+                        <p class="title"><a href="http://gejia.baijia.baidu.com/article/54408" mon="name=bjhotarticle"  target="_blank">百度搜索退出日本再正常不过</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm">老铁</span>
+                        <span class="num">10</span>
+                        <p class="title"><a href="http://laotie.baijia.baidu.com/article/54442" mon="name=bjhotarticle"  target="_blank">苹果投资国内光伏真的只是为了环保</a></p>
+                    </li>
+                                            </ul>
+        <ul class="artical-top-num" id="topWeekArtical" style="display:none">
+                                                                            <li class="top-1"  style="height:auto;">
+                        <span class="num">01</span>
+                        <p class="title"><a href="http://kangsitanding.baijia.baidu.com/article/54210" mon="name=bjhotarticle" target="_blank">我们真的需要智能自行车吗？</a></p>
+                                                <p class="desc">作为代步的工具，自行车必然也未能幸免。斑马、洛克菲勒、BICI...</p>
+                                            </li>
+                                                                                                                            <li class="top-2">
+                        <span class="nm">方雨007</span>
+                        <span class="num">02</span>
+                        <p class="title"><a href="http://fangyu.baijia.baidu.com/article/54251" mon="name=bjhotarticle" target="_blank">哪些微商团队会很快死掉</a></p>
+                    </li>
+                                                                                                                            <li class="top-3">
+                        <span class="nm">易宪容</span>
+                        <span class="num">03</span>
+                        <p class="title"><a href="http://yixianrong.baijia.baidu.com/article/53816" mon="name=bjhotarticle" target="_blank">当前国内房地产形势更为严峻</a></p>
+                    </li>
+                                                                                                        <li>
+                        <span class="nm">易宪容</span>
+                        <span class="num">04</span>
+                        <p class="title"><a href="http://yixianrong.baijia.baidu.com/article/54014" mon="name=bjhotarticle"  target="_blank">中国政府为何不愿人民币贬值？</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm">电商老兵斗牛士</span>
+                        <span class="num">05</span>
+                        <p class="title"><a href="http://penghailiang.baijia.baidu.com/article/54013" mon="name=bjhotarticle"  target="_blank">马云要收购中石化5000加油站？</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm">图宾根木匠</span>
+                        <span class="num">06</span>
+                        <p class="title"><a href="http://tubingenmujiang.baijia.baidu.com/article/53620" mon="name=bjhotarticle"  target="_blank">《速度与激情7》：被吹上天的猪</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm">承哲</span>
+                        <span class="num">07</span>
+                        <p class="title"><a href="http://chengzhe.baijia.baidu.com/article/54201" mon="name=bjhotarticle"  target="_blank">从微信逻辑，看58为何选错靠山</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm">林紫玉</span>
+                        <span class="num">08</span>
+                        <p class="title"><a href="http://linziyun.baijia.baidu.com/article/53728" mon="name=bjhotarticle"  target="_blank">注定悲剧：诺基亚-阿朗无奈合并</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm">文庚淼</span>
+                        <span class="num">09</span>
+                        <p class="title"><a href="http://wengengmiao.baijia.baidu.com/article/43690" mon="name=bjhotarticle"  target="_blank">苹果女副总裁薪酬为何达库克8倍?</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm">南七道</span>
+                        <span class="num">10</span>
+                        <p class="title"><a href="http://liluyong.baijia.baidu.com/article/53640" mon="name=bjhotarticle"  target="_blank">为啥大多数创业者都不开心？</a></p>
+                    </li>
+                                            </ul>
+            </div>
+</div>
+
+<script type="text/javascript">
+;$(function(){
+    if($('#artical').find('.tab').length){
+        $('#artical').find('.tab').on('click',switchTab);
+    }
+    
+
+    function switchTab(e){
+        var $e=$(this),
+            tabId = $e.data('id');
+
+        $.each($('#artical').find('.artical-top-num'),function(i,e){
+            $(e).hide();
+        });
+        $.each($('#artical').find('.tab'),function(i,e){
+            $(e).removeClass('on');
+        });
+
+        $e.addClass('on');
+        $('#'+tabId).show();
+    }
+});
+</script>
+                <div class="l-right-bottom-img-ad"><script type="text/javascript">
+    /*250*250 创建于 2014-12-12*/
+    var cpro_id = "u1857466";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script>
+</div>
+            </div>
+</div>
+<script type="text/template" id="new-comment-list">
+
+    <%var data = data.list%>
+    <%for(var i=0 ; i < data.length ;i++){%>
+        <div class="wc_list_nod clearfix">
+            <div class="nod_inner clearfix">
+                <div class="wbavatar">
+                    <a href="<%=data[i]['user_url']%>" title="<%=data[i]['user_name']%>" target="_blank">
+                        <img src="<%=data[i]['user_pic']%>" alt="<%=data[i]['user_name']%>" title="<%=data[i]['user_name']%>">
+                    </a>
+                </div>
+                <div class="wb_cmR comm_main">
+                    <div class="user_info">
+                        <a href="<%=data[i]['user_url']%>" title="<%=data[i]['user_name']%>" target="_blank" class="user_name"><%=data[i]['user_name']%></a>
+                        <span class="pub_time"><%=data[i]['format_ts']%></span>
+                    </div>
+                    <div class="content_txt"><%=data[i]['text']%></div>
+                </div>
+            </div>
+        </div>
+    <%}%>
+
+</script>
+
+<style>
+#footer{width:100%;background:#f0f0f0;height:249px;}
+#footer .site-nav{margin-top:34px;}
+#footer .site-nav a{background:#fff;display: inline-block;border: 1px solid #ececec;padding: 0 22px;margin: 0 5px;height: 30px;line-height: 30px;color: #666;vertical-align: bottom;}
+#footer .site-nav a.bottom-logo{background:none;border: 0;height: 38px;}
+</style>
+<div id="footer" alog-group="log-footer">
+<p class="site-nav"><a href="http://baijia.baidu.com/" target="_blank" class="bottom-logo"><img src="/static/images/baijia_logo_color.png"/></a><a href="http://baijia.baidu.com/?tn=listarticle&labelid=2" target="_blank">互联网</a><a href="http://baijia.baidu.com/?tn=listarticle&labelid=3" target="_blank">文化</a><a href="http://baijia.baidu.com/?tn=listarticle&labelid=4" target="_blank">娱乐</a><a href="http://baijia.baidu.com/?tn=listarticle&labelid=5" target="_blank">体育</a><a href="http://baijia.baidu.com/?tn=listarticle&labelid=6" target="_blank">财经</a><a href="http://baijia.baidu.com/?tn=listarticle&labelid=1" target="_blank">热点</a>
+</p>
+<p class="top-nav">
+<a href="http://baijia.baidu.com/" target="_blank">百家首页</a>|
+<a href="http://news.baidu.com/" target="_blank">百度新闻</a>|
+<a href="mailto:Baijia@baidu.com" target="_blank">联系我们：Baijia@baidu.com</a>
+<strong> 百度新闻独家出品</strong>
+</p>
+<p class="site-info">
+京公网安备110000000001号 <a href="http://news.baidu.com/licence.html">互联网新闻信息服务许可</a><span>&copy;2015 Baidu</span><a href="http://www.baidu.com/duty/">使用百度前必读</a><a target="_blank" href="http://net.china.cn/chinese/index.htm"><img src="http://gimg.baidu.com/img/net.gif"></a><a target="_blank" href="http://www.bj.cyberpolice.cn/index.htm"><img alt="首都网络110报警服务" src="http://gimg.baidu.com/img/110.gif"></a><a target="_blank" href="http://www.bjjubao.org/"><img src="http://news.baidu.com/resource/img/report_center.png"></a> 
+</p>
+</div>
+
+    <script type="text/javascript">
+    /*120*300 创建于 2014-12-12*/
+var cpro_id = "u1857463";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/f.js" type="text/javascript"></script>
+
+
+
+<script type="text/javascript">
+
+var uid="",
+    mid="1456027242",
+    articleId = "54413",
+    displayname = "",
+    userImage = "";
+
+var image = new Image(1, 1);
+image.src = '/static/images/b.gif?articleId=' + articleId;
+
+   baidu.dom.ready(function(){
+
+    var __up = baidu.g('up_article') , __down = baidu.g('down_article'), __up_num = baidu.g('up_btn_num') , __down_num = baidu.g('down_btn_num'),up_down_flag = false;
+
+    function num2str(str){
+        var num = (str*1) + 1 ;
+        return num ;
+    }
+    function upvsdown(action){
+        var url = "nid=1976022778052665375&type="+action;
+        baidu.ajax.post("/ajax/newssupport",url,function(h,r){
+            var req = baidu.json.parse(r);
+            if(req.errno == 0 ){
+                if(action == "up"){
+                    __up_num.innerHTML = num2str(__up_num.innerHTML);
+                }else{
+                    __down_num.innerHTML = num2str(__down_num.innerHTML);
+                }
+                up_down_flag = true ;
+                if(action == "up"){
+                    baidu.dom.removeClass('up_icon','up_gray');
+                    baidu.dom.addClass('up_icon','up');
+                }else{
+                    baidu.dom.removeClass('down_icon','down_gray');
+                    baidu.dom.addClass('down_icon','down');
+                }
+                /*baidu.dom.addClass("up_article","up_down_btn_gray");
+                baidu.dom.addClass("down_article","up_down_btn_gray");
+                baidu.dom.addClass("up_btn_num","up_down_btn_num_gray");
+                baidu.dom.addClass("down_btn_num","up_down_btn_num_gray");
+                baidu.dom.removeClass("up_txt","up_down_txt_hover");
+                baidu.dom.removeClass("down_txt","up_down_txt_hover");*/
+            }
+        });
+    }
+    __up&&baidu.event.on(__up,'click',function(e){
+        if(up_down_flag){return false;}
+        upvsdown("up");
+    });
+    __down&&baidu.event.on(__down,'click',function(e){
+        if(up_down_flag){return false;}
+        upvsdown("down");
+    });
+
+    $('.authorRssBtn').click(function(e){
+        if(!$("#login").is(":hidden")){
+            baidu.g("login").click();
+            return false;
+        }
+        var $e = $(this),
+            txt = $e.find('.b').text(),
+            changeTxt,changeClass,status;
+        if(txt == '已关注'){
+            status = 2;
+            changeTxt = '关注';
+            changeClass = 'i iadd';
+        }else if(txt == '关注'){
+            status = 1;
+            changeTxt = '已关注';
+            changeClass = 'i iminus';
+        }
+        if(serverData.token){
+            var url = "/ajax/subscribe?uid="+uid+"&mid="+mid+"&type=1&status="+status+"&token=" + serverData.token + "&time=" + serverData.tokentm;
+        }else{
+            var url = "/ajax/subscribe?uid="+uid+"&mid="+mid+"&type=1&status="+status;
+        }
+        $.ajaxSetup({ cache: false });
+        $.ajax({
+            url: url,
+            type: 'GET',
+            dataType: 'json',
+            success: function(res){
+                if(res.errno == '0'){
+                    $e.find('.b').text(changeTxt);
+                    $e.find('.i').removeClass().addClass(changeClass);
+                }
+            }
+        });
+
+    });
+
+    $.each($('.videoArea'),function(i,e){
+        var $e = $(e),
+            id = $e.attr('id'),
+            name = 'video' + i,
+            width = $e.data('width'),
+            height = $e.data('height'),
+            url = $e.data('url'),
+            flashvars={
+                f:url,
+                c:0,
+                b:1,
+                p:0
+            };
+
+        CKobject.embedSWF('/static/js/ckplayer/ckplayer.swf',id,name,width,height,flashvars,'');
+    });
+
+    new Comment('mod-comment', {
+        url: encodeURIComponent(window.location.href),
+        articleId: '54413',
+        displayname: '',
+        subscribename: 'baijia',
+        userImage: ''
+    });
+
+});
+
+
+</script>
+
+<link href="/static/js/libs/magic/resources/default/magic.control.Dialog/magic.control.Dialog.css?v=20131212" rel="stylesheet" type="text/css"></link>
+<!--用户反馈-->
+<div id="goTop" >
+    <div class="feedback" id="feedbackbtn"><a href="javascript:;">用户反馈</a></div>
+    <div class="gotop"><a id="gotop_btn" style="display:none" onclick="window.scroll(0, 0)"></a></div>
+</div>
+<style>
+#goTop {
+    position:fixed;
+    width:54px;
+    left:50%;
+    margin-left:512px;
+    bottom:10px;
+    *+bottom:10px;
+    _position:absolute;
+    _top:expression(eval(document.documentElement.scrollTop || document.body.scrollTop) +eval(document.documentElement.clientHeight || document.body.clientHeight) -110+'px');
+    z-index:998;
+}
+#goTop div {
+    height:48px;
+    margin-top:3px;
+    position:relative;
+    width:48px;
+}
+#goTop div a,#goTop div a:link {
+    display:inline-block;
+    height  :18px;
+    width:100%;
+    color:#fff;
+    background:#b7c5ca url(http://news.baidu.com/resource/img/gotop.png) no-repeat;
+    font-size:12px;
+    line-height:14px;
+    text-align:center;
+    text-decoration:none;
+    padding-top:30px;
+}
+#goTop div.feedback a {
+    padding:10px;
+    height:28px;
+    width:28px;
+    line-height:14px;
+    background:#b7c5ca;
+}
+#goTop .feedback a:hover {
+    background:#59a9c6;
+}
+#goTop div.gotop a {
+    background-position:-147px -48px;
+}
+#goTop .gotop a:hover {
+    background-position:-147px 0;
+}
+/*UI控件*/
+.tang-dialog{position:fixed;top:100px;_position:absolute;_top:100px;_bottom:100px;}
+.tang-dialog .tang-title{background:#fff;border:none;}
+.tang-dialog .tang-title span{color:#fff;height:35px;line-height: 35px;background:#fff;}
+.tang-dialog .tang-body{border:none;background:#fff;}
+.tang-dialog .tang-body .content{color:#666;font-family: "微软雅黑";}
+.tang-dialog .tang-title .buttons a{background: transparent url(http://baijia.baidu.com/static/js/libs/magic/resources/default/magic.control.Dialog/btns.gif) no-repeat;}
+.tang-dialog .tang-title .buttons a:hover{background: transparent url(http://baijia.baidu.com/static/js/libs/magic/resources/default/magic.control.Dialog/btns.gif) no-repeat;}
+/*用户反馈*/
+.feed_describe{font: 16px "微软雅黑",arial,tahoma;color: #666;font-weight: bold;margin-bottom:10px;float:left;margin-left:20px;_margin-left:10px;}
+.feed_describe span{font: 30px arial;color: #377cca;font-style: italic;margin-right: 8px;}
+.feed_content{width: 630px;_width:630px;height: 170px;resize:none;overflow:auto;font-size:16px;border: 1px solid #ddd;padding-left:10px;font-family: "微软雅黑",arial,tahoma;margin-left:20px;float:left;}
+.feed_contact{clear:left;width:630px;height:40px;margin-left:20px;*margin-left:10px;}
+.feed_contact_txt{width: 286px;height: 32px;overflow: hidden;border: 1px solid #ddd;float: left;margin-right: 10px;padding-left:10px;font:16px/32px "微软雅黑",arial,tahoma;}
+.feed_contact_comment{font-size:16px;line-height:32px;color:#bbb;display: block;float:left;}
+.feed_contact_button{width:120px;height:35px;display:block;margin:15px auto 0px;background: #3F88D2;color: #fff;font-size: 16px;border: 1px solid #3F88D2;*+margin-top:8px;}
+</style>
+<script>var on=baidu.event.on;Fe = baidu;</script>
+<script src="/static/js/libs/magic/magic.js?v=20131212" type="text/javascript"></script>
+<script src="/static/js/utils.js?v=20131212" type="text/javascript"></script>
+<script type="text/javascript">
+    baidu.on(window,'load', function(){
+        var eleTop = baidu.g("gotop_btn");
+        baidu.on(window, 'scroll', function(){
+            baidu.page.getScrollTop() >= 200 ? baidu.show(eleTop) : baidu.hide(eleTop);
+            if(baidu.browser.ie&&baidu.browser.ie < 7){
+                var scrolltop = baidu.page.getScrollTop(),
+                    viewheight = baidu.page.getViewHeight(),
+                    pageheight = baidu.page.getHeight();
+                baidu.dom.setStyle('goTop','top',(scrolltop+viewheight-110));
+            }
+        });
+        var feedback = baidu.g("feedbackbtn");
+        var feedbackDialog = null , feedactionDialog = null ;
+        baidu.on(feedback , "click",function(e){
+            if(!feedbackDialog){
+                feedbackDialog = ZMT.notice({title:'用户反馈',content:'<h2 class="feed_describe"><span>1</span>请描述您遇到的问题或您的意见、建议：</h2><textarea type="text" class="feed_content" id="feed_content"></textarea><h2 class="feed_describe"><span>2</span>请留下联系方式，您将有机会获得精美礼品</h2><div class="feed_contact"><input type="text" class="feed_contact_txt" id="feed_content_txt" value="" placeholder="QQ/邮箱/电话"><span class="feed_contact_comment">(可选)</span></div><input id="submit_feed" type="button" class="feed_contact_button" value="提交反馈">',height:430,width:700});
+                setTimeout(function(){
+                    baidu.on(baidu.g("submit_feed"),"click",function(){
+                        var browser = "";
+                        var content = baidu.g("feed_content").value;
+                        var contactway = baidu.g("feed_content_txt").value; 
+                        if(!content){return false;}
+                        for(var p in baidu.browser){
+                            if(baidu.browser[p]){
+                                browser += " "+p+":"+baidu.browser[p] ;
+                            }
+                        }
+                        var url = 'mid=baijia_pc&content='+content+'&contactway='+contactway+'&browse='+browser; 
+                        baidu.ajax.post('/ajax/feedback',url,function(h,r){
+                            var req = baidu.json.parse(r);
+                            if(req.errno == 0){
+                                feedbackDialog.hide();
+                                feedactionDialog = ZMT.notice({content:'<div style="width:100%;height:100%;text-align:center;">提交成功！</div>',autohide:true});
+                                feedactionDialog.setPosition({top:100});
+                            }
+                        });
+                    });
+                },500);
+                feedbackDialog.setPosition({top:100});
+            }else{
+                baidu.g("feed_content").value = "";
+                baidu.g("feed_content_txt").value = ""; 
+                feedbackDialog.show();
+            }
+        });
+    });
+</script>
+<img src="/static/images/article_up.png" style="display:none;">
+<img src="/static/images/article_down.png" style="display:none;">
+</body>
+</html>

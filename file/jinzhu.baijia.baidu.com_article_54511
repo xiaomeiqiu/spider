@@ -1,0 +1,1075 @@
+<!DOCTYPE html>
+<!--STATUS OK-->
+<html>
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="publishtime" content="2015-04-21 17:15:53" />
+	<title>不为浮盈遮望眼，只求身在最高层--百度百家</title>
+	<script src="/static/js/clickMonitor.js?v=20131212"></script>
+    <script type="text/javascript" src="/static/js/usermonitor.js?v=20131212"></script>
+	<script src="/static/js/baiduTemplate.js?v=20131212"></script>
+    <link href="/static/css/all_7f51415.css" type="text/css" rel="stylesheet"/>
+<script src="/static/js/libs/tangram/tangram-1.5.2.2.js?v=20130128" type="text/javascript"></script>
+<script src="/static/js/libs/jquery/jquery.min.js?v=20131212" type="text/javascript"></script>
+<script src="/static/js/libs/jquery/jquery.cookie.js" type="text/javascript"></script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?7fe4ae9e1d0d01bcf748d066979cd2aa";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+
+    <script>
+    var on=baidu.event.on;
+    Fe = baidu;
+    var serverData = {
+        tokentm : '1429668909',
+        token : ''
+    }
+    </script>
+<style>
+
+#body .l-main-col .mod{border-top:none;}
+.l-right-col{border:none;}
+.l-main-col{border:none;}
+#body{border:none;}
+a:active{outline:0}
+
+.up_down{
+    float:right;
+    margin-right:10px;
+    _margin-right:0px;
+}
+.up_down_btn{
+    position: relative;
+    display: block;
+    text-decoration: none;
+    text-align: left;
+    color: #fff;
+    background: #fff;
+    font-size: 16px;
+    line-height: 25px;
+    font-family: "微软雅黑","Hiragino Sans GB";
+    border-radius: 5px;
+    padding:5px;
+    float:left;
+    margin-right:10px;
+}
+.up_down_icon {
+    position: absolute;
+    top: 3px;
+    left: 10px;
+    width: 27px;
+    height: 27px;
+    display: block;
+}
+.up_down_btn_num{
+    font:14px/24px "宋体","Hiragino Sans GB";
+    margin-left:35px;
+    color:#369;
+}
+.up_down_btn_num_gray{
+    color:#666;
+}
+.up_down_txt{
+    font:14px/24px "宋体","Hiragino Sans GB";
+    color:#666;
+}
+.up_down_txt_hover{
+    color:#369;
+}
+.up_down_btn_gray{ background:#fbfbfb;}
+.up{ background: url(/static/images/article_up.png) no-repeat;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled='true',sizingMethod='scale',src='/static/images/article_up.png');_background:none;}
+.down{ background: url(/static/images/article_down.png) no-repeat;top:6px;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled='true',sizingMethod='scale',src='/static/images/article_down.png');_background:none;}
+.up_gray{ background: url(/static/images/article_up_gray.png) no-repeat;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled='true',sizingMethod='scale',src='/static/images/article_up_gray.png');_background:none;}
+.down_gray{ background: url(/static/images/article_down_gray.png) no-repeat;top:6px;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled='true',sizingMethod='scale',src='/static/images/article_down_gray.png');_background:none;}
+
+
+
+#body{background:none;}
+.l-main-col{background:none;}
+.l-right-col{background:none;padding-right:0px;}
+#page{padding-left:0px;margin-bottom:61px;}
+
+</style>
+<script src="/static/js/ckplayer/ckplayer_c468efa.js" type="text/javascript"></script>
+</head>
+<body>
+<script type="text/javascript" language="javascript">
+        clickMonitor.init('BAIJIA_PAGE', 'c=article');
+</script>
+<style>
+#menu{height:60px;border-right:none;left:240px;}
+#menu a{color:#333;height:21px;width:70px;line-height:21px;position:relative;top:20px;margin:0 10px;border:0!important;}
+#menu a:hover{background: none;text-decoration: none;color:#2393df;}
+#menu a.current{background:none;color:#2393df;}
+#menu a.current:hover{background:none;text-decoration: none;}
+#menu a span{width:70px;height:1px;display:block;margin:19px auto 0px;_margin-top:-4px;}
+#menu a:hover span,#menu a.current span{border-bottom:4px solid #2393df;}
+.top-main{position:relative;width:982px;margin:0 auto;height:0px;}
+.top-main a{display: block;width:192px;height:68px;background: url(/static/images/03.png) no-repeat;text-decoration: none;top:-62px;left:0px;position:absolute;z-index:9999;}
+.search{position:absolute;right:230px;top:15px;height:30px;}
+.search_box{width:auto;height:100%;padding-right:5px;padding-left:28px;overflow:hidden;}
+.search_form{position: relative;width:195px;height:28px;border:1px solid #ccc;background: #FAFAFA;}
+.search_txt{display:block;position: absolute;top:4px;left:28px;font-size:14px;font-family:"宋体","Hiragino Sans GB";color:#c2c2c2;}
+.search_input{width:100%;height:26px;line-height:26px;display:block;border:none;border-width: 0px;background: #FAFAFA;}
+.search_btn{position: absolute;top: 0px;left: 0px;display:block;width:28px;height:28px;text-align:center;line-height: 24px;}
+.search_submit{background: url(/static/images/header_search_icon.png) no-repeat;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled='true',sizingMethod='scale',src='/static/images/header_search_icon.png');_background:none;width:16px;height:16px;border:none;cursor:pointer;*margin-top:5px;}
+#header{background:#fff;border-bottom:2px solid #EEE;height:60px;}
+#usrbar{top:20px}
+#usrbar .header_baidu,
+#usrbar .header_home,
+#usrbar .header_person{color:#666;display:inline-block;*display:inline;*zoom:1;height:18px;padding: 0 3px; vertical-align: top}
+
+.userbox{position:relative;width:100%;height:0px;left:0px;z-index:9999;}
+.userbox ul{position:absolute;top:0px;right:0px;border: 1px solid #999;width:80px;height:60px;background:#fff;padding:0px;overflow:hidden;*clear:both;}
+.userbox li{width:100%;height:30px;margin:0px;}
+#usrbar li a{height:100%;display:block;line-height:30px;padding:0px 0px 0px 5px;}
+#usrbar li a:hover{background:none repeat scroll 0 0 #ebebeb; text-decoration: none}
+#register{width:26px;}
+#usrbar .header_person:hover,
+#usrbar .header_baidu:hover,
+#usrbar .header_home:hover{color:#2393df;cursor:pointer;}
+
+#login_user{display:inline-block;*display:inline;*zoom:1;position:relative; vertical-align: top;width:100px;margin-right:5px;}
+#loged{width:100px; text-align: right;overflow: hidden;white-space: normal;word-wrap: break-word;word-break: break-all;color:#666;display:block;height:18px;padding: 0 6px!important;}
+</style>
+<script type='text/javascript' src='http://passport.baidu.com/passApi/js/uni_login_wrapper.js?cdnversion=201504221015'></script>
+<div id="header" alog-group="log-header">
+	<div class="header-content">
+        <div id="menu"><a href="http://baijia.baidu.com"  style="border-left:0px;">首页<span></span></a><a href="http://baijia.baidu.com/?tn=listauthor" >作家<span></span></a><a href="http://baijia.baidu.com/?tn=listtopic" >争鸣<span></span></a></div>
+
+<div class="search">
+  <form method="get" action="http://baijia.baidu.com/" class="search_form" onSubmit="return chkForm(this);">
+    <span title="搜索" alt="搜索" class="search_btn">
+      <input type="submit" class="search_submit" value="">
+    </span>
+    <div class="search_box" >
+      <label for="search" class="search_txt" id="search_txt"></label>
+      <input type="hidden" name="tn" value="search">
+      <input type="text" id="search" maxlength="50" name="word" autocomplete="off" class="search_input">
+    </div>
+  </form>
+</div>
+        <div id="usrbar">
+                    <a href="javascript:void(0);" id="login" class="header_person" >登录</a>
+          <a href="http://news.baidu.com" class="header_home" target="_blank">新闻首页</a>
+          <a class="header_baidu" target="_blank" href="http://www.baidu.com">百度</a>
+        </div>
+	</div>
+</div>
+<div class="top-main"><a href="http://baijia.baidu.com" ></a></div>
+<script>
+(function(baidu, undefined) {
+    window.instance = passport.pop.init({
+         apiOpt: {
+             staticPage: 'http://'+location.host+'/static/html/v3Jump.html',
+             product: 'xw1',
+             memberPass: true,
+             charset:'utf-8',
+             u:location.href,
+             safeFlag: 0
+         },
+         authsite:['tsina','renren','qzone','tqq'],
+	       authsiteCfg:{act:'implicit'},
+         tangram: true,
+         onLoginSuccess: function (args) {
+            // 发送统计日志统计pc主动登陆用户UV
+            args.returnValue = false;
+            sendLog({
+                m: 52,
+                a: 0,
+                args: args
+            });
+         },
+         onShow: function () {
+            sendLog({
+                m: 52,
+                a: 2
+            });
+         }
+    });
+    baidu.on('login', 'click', function(event) {
+         baidu.event.preventDefault(event || window.event);
+         sendLog({
+            m: 52,
+            a: 1
+         });
+         instance.show();
+    });
+})(window.baidu);
+
+function sendLog(option) {
+  var url = 'http://nsclick.baidu.com/v.gif?pid=107&m=' + option.m + '&a=' + option.a + '&v=' + new Date().getTime();
+
+  $('<img/>')
+    .one('load', function() {
+        if (option.args){
+            location.href = option.args.rsp.data.u;
+        }
+    })
+    .each(function() {
+      if(this.complete) $(this).load();
+    })
+    .attr('src', url);
+}
+</script>
+<script type="text/javascript">
+	var __search = baidu.g("search") ;
+	__search && baidu.on(__search, 'blur', function(e){
+		if(!__search.value){
+			baidu.show('search_txt');
+		}
+	});
+	__search && baidu.on(__search, 'focus', function(e){
+		baidu.hide('search_txt');
+	});
+	function chkForm(e){
+		if(!__search.value){
+			return false;
+		}
+		return true ;
+	};
+</script>
+<script type="text/javascript">
+	var __login_user = baidu.g("login_user");
+	var __userbox = baidu.g("userbox"),myTimeout;
+  var uid="";
+	__login_user && baidu.on(__login_user,'mouseenter',function(e){
+    if(myTimeout){
+      clearTimeout(myTimeout);
+    }
+		baidu.show("userbox");
+	});
+	__login_user && baidu.on(__login_user,'mouseleave',function(e){
+    myTimeout = setTimeout(function(){
+      baidu.hide("userbox");
+    },500);
+
+	});
+	var __logout = baidu.g("logout");
+	if(__logout){
+    var uhref = encodeURIComponent(location.href) ;
+    if(uhref.indexOf("userinfo") > 0 ){
+      __logout.href="http://passport.rdtest.baidu.com/?logout&u="+encodeURIComponent("http://baijia.baidu.com/");
+    }else{
+      __logout.href="http://passport.rdtest.baidu.com/?logout&u="+uhref;
+    }
+
+  }
+  if(!uid){
+    $('#cmtbox textarea') && $('#cmtbox textarea').val('');
+  }
+
+</script>
+
+<div class="l-header-ad" >
+    <script type="text/javascript">
+/*顶部横幅通栏*/
+var cpro_id = "u1601232";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script>
+</div>
+<div id="body" class="clearfix">
+    <div class="l-main-col">
+         <div id="page" style="padding-bottom:0px;">
+             <h1 style="font:bold 34px/40px 微软雅黑;color:#333;padding-left:0px;border-left:0px;margin:30px 0;">不为浮盈遮望眼，只求身在最高层</h1>
+             <div class="article-info">
+                 <div class="article-author-time">
+                     <a href="http://jinzhu.baijia.baidu.com" target="_blank" mon="name=bjarticle&pos=name">慕容散</a><span class="time">04月21日 17:15</span>
+                 </div>
+                 <div class="share-area">
+                    <!-- Baidu Button BEGIN -->
+                    <div class="bdsharebuttonbox" data-tag="share_1" style="float:right">
+                        <a class="bds_more" data-cmd="more">分享到：</a>
+                        <a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a>
+                        <a href="#" class="bds_renren" data-cmd="renren" title="分享到人人网"></a>
+                        <a href="#" class="bds_douban" data-cmd="douban" title="分享到豆瓣网"></a>
+                        <a href="#" class="bds_tqq" data-cmd="tqq" title="分享到腾讯微博"></a>
+                        <a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a>
+                        <a class="bds_count" data-cmd="count" style="display:none"></a>
+                    </div>
+                    <!-- Baidu Button END -->
+                 </div>
+                 <div class="article-tags" style="float:left;width:auto;margin-left:10px;">
+                                      <a href="http://baijia.baidu.com/?tn=listarticle&labelid=28593" target="_blank" style="background: #f6f6f6;text-decoration: none;padding: 5px;" mon="name=bjarticle&pos=tag">杠杆</a>
+                                      <a href="http://baijia.baidu.com/?tn=listarticle&labelid=19911" target="_blank" style="background: #f6f6f6;text-decoration: none;padding: 5px;" mon="name=bjarticle&pos=tag">牛市</a>
+                                      <a href="http://baijia.baidu.com/?tn=listarticle&labelid=28534" target="_blank" style="background: #f6f6f6;text-decoration: none;padding: 5px;" mon="name=bjarticle&pos=tag">融资融券</a>
+                                  </div>
+                 <div style="margin-left:10px;margin-right:10px;float:right;color:#ccc;">分类 : <a href="/?tn=listarticle&labelid=6" style="color:#369;" mon="name=bjarticle&pos=category">财经</a></div>
+             </div>
+
+                        <!--div class="l-main-top-text-ad"></div-->
+             
+                          <blockquote style="text-indent:0px;color:#333;font-size:14px;line-height:24px;"><span style="color:#999;">摘要 : </span>浮盈变浮云？想一想，太TM可怕了！</blockquote>
+                          <div class="article-detail" style="letter-spacing: 0.5px;">
+                                                        
+                                                        <p class="image"><img src="http://b.hiphotos.baidu.com/news/crop%3D0%2C60%2C800%2C480%3Bw%3D638/sign=ee47a7779b2f07084b4a7040d41494af/d043ad4bd11373f0eb93daa7a10f4bfbfbed045d.jpg"/></p>
+                                                                                                                                                                                                                                                                                                                                                    <div  class="l-main-inner-ad"><script type="text/javascript">
+/*正文内嵌图片*/
+var cpro_id = "u1601235";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script></div>
+                                                                                                <p class="text">任何质疑中国大妈的言行都是危险的，特别是当你身处牛市之中的时候。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">周二早开盘后沪深两市走势相左，震荡剧烈。沪指两度走低跌破4200点防线，南北车双双跌停，中字头集体跳水。与此同时深市却是热火朝天，创业板疯狂反攻，中小板不甘其后。临近午盘，沪指亦展开反击，金融板块联袂拉升。午后更是万箭齐发，沪指在券商板块暴涨的带动下震荡走高，尾盘强劲抬升，深市强势不改、个股普涨。截至收盘，沪指报4293.62点，涨1.82%；深成指报14439.00点，涨4.09%；创业板报2566.09点，涨5.82%。全天沪市成交额8624亿元，深市成交额5751亿元，两市共成交14375亿元。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">一句话，投资者并未被昨日的大跳水吓倒，反而有越挫越勇的态势。但个人却隐约有点担心，毕竟，在阳线背后埋着的矛盾太明显。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">南北车的跌停是个颇具标志性的事件。从某种意义上说来，南北车既是铁路基建板块的龙头个股，亦是央企合并概念板块的龙头个股，针对它们的爆炒在告一段落之后，或许会给整个板块和概念泼上一盆冷水。而这一板块及概念涵盖的个股之多、牵涉的资金之广诸位想必心里都有数，若是这种心理冲击迅速蔓延，短期势必影响市场。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">当然，有报道指日前在南北车暴跌之时沪股通录得机构巨量买入，亦有媒体声称中国大妈也在逢跌蜂拥上车——若是报道属实，以南北车为代表的铁公基和央企改革大板块后市或仍有表现。只是，眼下风险必然大于机会。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">另一点则是创业板的暴力长阳。没错，暴力背后一定是有暴利的，问题只是你已经落袋为安没有。细心的人一定注意到了创业板成交量的萎缩，虽然相较上一交易日十来个亿的量能减少说明不了太大的问题，但是，这种形态分明有点诱多的意味。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">不过，是日题材股、成长股的全面开花，似乎又在表现着资金主力炒作重心重归中小股的意愿。毕竟上周末监管层已经或多或少的释放了担忧股指过快上涨的信号，机构若是心领神会，此时不应该大肆做多蓝筹权重。不搞大的，自然只好来搞搞小的。况且还有近20只中小盘股近日将集中亮相创业板、中小板市场，也算得上是冲淡高估值的及时雨。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">矛盾——押注蓝筹权重，担心坐上的是继续俯冲的南北车；冲锋中小创，又害怕成了高位接盘的哨兵，拿着眼下最贵的筹码做后市的看客……</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">在做决定之前，也许我们该听听官媒的声音。21日盘后，新华社在一篇题为《受消息面影响市场情绪跌宕 沪市单日成交创天量首破万亿元》的文章中指出，虽然降准并没能提振A股，但本轮牛市的格局并未因阶段性调整而改变。中国经济转型需要牛市支持，在乐观看待A股后市的同时，投资者仍需提防“非理性泡沫”。这已是新华社本月第七次发文论股市。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">一篇文章肯定改变不了市场规律，可多少堪作心理参数。券商股的暴涨，背后的逻辑定是1.8万亿巨量成交的刺激，以及《证券法》大幅修改带来的利好。牛市看券商，就是这个理，它属于“理性泡沫”。何谓“非理性泡沫”呢？是创业板那飙升至逾90倍高估值的“市梦率”么？个人看来或许不是。“市梦率”只是果，投资者的“市胆率”才是因。“泡沫”是应对经济下行的手段，它并没有错，错的是胆大包天的“非理性”。所以，政策层面挤出“非理性泡沫”的重点一定在于扭转“非理性”而不是直接刺穿“泡沫”。</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">由是观之，目前作为个人投资者的我们最应该检讨的是自己究竟加了多大的杠杆，自己能够承受多高的杠杆风险。目前沪深两市融资余额已高达近1.73万亿元，意味着越来越多的人开始“借钱炒股”。而上周末来自监管层的态度已经非常坦白——你不主动降杠杆，就会逼你被动降杠杆。如果眼下你的浮盈主要来自杠杆的撬动，那么你真该如履薄冰了——杠杆好借，支点不好找，当政策支点被移除之后，杠杆那头的重量轻而易举便能将你连根拔起……</p>
+                                                                                                                                                                                                                                                                                                                                <p class="text">浮盈变浮云？想一想，太可怕了！（慕容散）</p>
+                                                                    
+                
+             </div>
+        </div>
+        <div style="position:relative;width:100%;height:36px;">
+            <div class="up_down">
+                <a id="up_article" class="up_down_btn" href="javascript:void(0);" style="text-decoration:none;">
+                    <i id="up_icon" class="up_down_icon up_gray"></i>
+                    <span class="up_down_btn_num" id="up_btn_num">102</span>
+                    <span class="up_down_txt" id="up_txt">好文</span>
+                </a>
+                <a id="down_article" class="up_down_btn" href="javascript:void(0);" style="text-decoration:none;">
+                    <i id="down_icon" class="up_down_icon down_gray"></i>
+                    <span class="up_down_btn_num" id="down_btn_num">20</span>
+                    <span class="up_down_txt" id="down_txt">太水</span>
+                </a>
+            </div>
+            <span style="color:#999;font-family:'宋体';font-size:15px;">阅读（37571）</span>
+        </div>
+        <div class="bottom-share" style="padding:30px 20px 30px 0px;height:60px" id="share_box">
+            <span>分享 : </span>
+            <!-- Baidu Button BEGIN -->
+            <div id="bdshare" class="bdsharebuttonbox" data-tag="share_2">
+                <a href="#" class="bds bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a>
+                <a href="#" class="bds bds_renren" data-cmd="renren" title="分享到人人网"></a>
+                <a href="#" class="bds bds_douban" data-cmd="douban" title="分享到豆瓣网"></a>
+                <a href="#" class="bds bds_tqq" data-cmd="tqq" title="分享到腾讯微博"></a>
+                <a href="#" class="bds bds_weixin" data-cmd="weixin" title="分享到微信"></a>
+                <a href="#" class="bds bds_more" data-cmd="more"></a>
+                <a class="bds_count" data-cmd="count"></a>
+            </div>
+            <script>
+            window._bd_share_config={
+                "common":{
+                    "bdSnsKey":{},
+                    "bdMini":"2",
+                    "bdMiniList":false,
+                    "bdStyle":"0",
+                    "bdText":"一篇好文,推荐之-【"+baidu.dom.query('#page h1')[0].innerHTML+"】（来自:百度百家）",
+                    "bdPic" : "http://b.hiphotos.baidu.com/news/crop%3D0%2C60%2C800%2C480%3Bw%3D638/sign=ee47a7779b2f07084b4a7040d41494af/d043ad4bd11373f0eb93daa7a10f4bfbfbed045d.jpg",
+                    "bdUrl": location.href
+                },
+                "share" : [{
+                        "tag" : "share_1",
+                        "bdSize" : "16"
+                    },{
+                        "tag" : "share_2",
+                        "bdSize" : "32"
+                    }]
+            };
+            with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];
+            </script>
+            <!-- Baidu Button END -->
+        </div>
+        <!--拓展阅读-->
+        
+
+        <!--上一篇，下一篇文章-->
+        <div style="padding: 0 20px 0 0;margin-bottom:20px;font-size:12px;height:18px">
+                                        <div style="float:right;color:#999;">下一篇 : <a href="http://jinzhu.baijia.baidu.com/article/53908" style="color:#369;"  mon="name=bjcard&pos=nextarticle">怕丁蟹，你还炒什么股呢？</a></div>
+                    </div>
+        <div id="mod-comment" class="mod-comment">
+            <h3>精彩评论</h3>
+            <div class="comment-box">
+                <div class="opt">
+                                        <p class="login">
+                        <a href="javascript:;" class="cmtlogin">登录</a>
+                    </p>
+                                    </div>
+                <div class="cmtbox" >
+                    <p class="avt">
+                                                <img src="http://himg.bdimg.com/sys/portrait/item/982f4a616d65736a697869616f6875694206">
+                                            </p>
+                    <i class="tarea">
+                        <textarea placeholder="随便说点什么吧"></textarea>
+                    </i>
+                </div>
+                <p class="btns3">
+                    <span class="checknum">还可以输入<em>250</em>个字</span>
+                    <a href="javascript:;" class="btn btndis cmtbtn">评论</a>
+                </p>
+            </div>
+
+            <!--comment start-->
+            <div class="comments">
+                <div class="cmtlist"></div>
+                <div class="load_more">
+                    <a class="loadLine nocmt" href="javascript:;"><span class="ico"></span><span class="txt">还没有人评论过，赶快抢沙发吧！</span></a>
+                </div>
+            </div>
+            <!--模态弹窗-->
+            <div class="comment-success" ></div>
+            <div class="comment-fail" ></div>
+            <!--end-->
+
+            <script language="javascript" type="text/javascript" src="/static/js/comment_16da2f4.js"></script>
+        </div>
+
+
+        
+            </div>
+
+    <div class="l-right-col" style="padding-top:30px;">
+        <div class="mod authorInfos">
+    <div class="authorInfo">
+        <p class="avt"><a href="http://jinzhu.baijia.baidu.com" mon="name=bjcard&pos=pic"><img src="http://g.hiphotos.baidu.com/news/pic/item/730e0cf3d7ca7bcbccb38b0ebd096b63f724a8c3.jpg"></a></p>
+        <div class="info">
+            <a href="http://jinzhu.baijia.baidu.com" title="慕容散" class="nm" mon="name=bjcard&pos=name">慕容散</a>
+            <p class="label">全景网财经专栏作家，虎嗅作者，80后首席节操散户，资深媒体人。</p>
+        </div>
+        <p class="btns">
+                <a href="javascript:;" class="btn authorRssBtn" hidefocus="true" >
+                                        <i class="i iadd"><i class="i1"></i><i class="i2"></i></i>
+                    <b class="b">关注</b>
+                                    </a>
+            </p>
+    </div>
+    <ul class="articleLis">
+                        <li class="articleLi">
+                <a href="http://jinzhu.baijia.baidu.com/article/53723" mon="name=bjcard&pos=article" title="巨震之后，小股已死？">巨震之后，小股已死？</a>
+            </li>
+                                <li class="articleLi">
+                <a href="http://jinzhu.baijia.baidu.com/article/53573" mon="name=bjcard&pos=article" title="享受泡沫，泡沫是个球">享受泡沫，泡沫是个球</a>
+            </li>
+                                <li class="articleLi">
+                <a href="http://jinzhu.baijia.baidu.com/article/53407" mon="name=bjcard&pos=article" title="一人多户以后，我们怎么办？">一人多户以后，我们怎么办？</a>
+            </li>
+                </ul>
+    <p class="tip"><a href="http://jinzhu.baijia.baidu.com" mon="name=bjcard&pos=morearticle">TA的更多文章>></a></p>
+</div>
+        <div class="mod" alog-group="log-hotartical">			
+<div class="hd">
+    <div class="title_box" ><div class="title_container"><span class="title">推荐文章</span><span class="sub_title">RECOMMEND</span><div class="line"><div class="left"></div><div class="right"></div></div></div></div>
+</div>
+<div class="bd">
+    <ul class="artical-top">
+                            <li class="first-item hasImg notb" >
+            <p class="artImg">
+                <a href="http://jinzhu.baijia.baidu.com/article/54104" target="_blank" mon="name=bjrecommend&pos=pic">
+                    <img src="http://b.hiphotos.baidu.com/news/crop%3D0%2C92%2C450%2C270%3Bw%3D638/sign=66e590397d310a55d06b84b48a756f90/a5c27d1ed21b0ef48a069294d9c451da80cb3e09.jpg" class="top_hot_img" />
+                </a>
+            </p>
+            <p class="title">
+                <a href="http://jinzhu.baijia.baidu.com/article/54104" target="_blank" title="世界那么大，总有人接盘" mon="name=bjrecommend&pos=title">世界那么大，总有人接盘</a>
+            </p>
+            <p class="text">
+                
+                                    <a href="http://jinzhu.baijia.baidu.com" class="nm" mon="name=bjrecommend&pos=name">慕容散</a>
+                                <span class="tip">阅读(8万)</span>
+            </p>
+        </li>
+                                            <li class="first-item hasImg " >
+            <p class="artImg">
+                <a href="http://jinzhu.baijia.baidu.com/article/54381" target="_blank" mon="name=bjrecommend&pos=pic">
+                    <img src="http://c.hiphotos.baidu.com/news/crop%3D189%2C49%2C791%2C475%3Bw%3D638/sign=0942978a895494ee936d555910c4d8c7/6f061d950a7b0208816829d467d9f2d3572cc866.jpg" class="top_hot_img" />
+                </a>
+            </p>
+            <p class="title">
+                <a href="http://jinzhu.baijia.baidu.com/article/54381" target="_blank" title="摆好姿势，跳一场价值万亿的广场舞" mon="name=bjrecommend&pos=title">摆好姿势，跳一场价值万亿的广场舞</a>
+            </p>
+            <p class="text">
+                
+                                    <a href="http://jinzhu.baijia.baidu.com" class="nm" mon="name=bjrecommend&pos=name">慕容散</a>
+                                <span class="tip">阅读(2万)</span>
+            </p>
+        </li>
+                                            <li class="first-item ">
+            <p class="title">
+                <a href="http://yixianrong.baijia.baidu.com/article/53816" target="_blank" title="当前国内房地产形势更为严峻"  mon="name=bjrecommend&pos=title">当前国内房地产形势更为严峻</a>
+            </p>
+            <p class="desc">从国家统计局刚发布的房地产数据可以看到，当前国内房地产市场形势仍然十分严...</p>
+            <p class="text">
+                
+                                    <a href="http://yixianrong.baijia.baidu.com" class="nm" mon="name=bjrecommend&pos=name">易宪容
+                    </a>
+                                <span class="tip">阅读(20万)</span>
+            </p>
+        </li>
+                                            <li class="first-item ">
+            <p class="title">
+                <a href="http://yixianrong.baijia.baidu.com/article/54014" target="_blank" title="中国政府为何不愿人民币贬值？"  mon="name=bjrecommend&pos=title">中国政府为何不愿人民币贬值？</a>
+            </p>
+            <p class="desc">在当前的情况下，从利益来权衡，中国政府是不希望人民币贬值的。但是，人民币...</p>
+            <p class="text">
+                
+                                    <a href="http://yixianrong.baijia.baidu.com" class="nm" mon="name=bjrecommend&pos=name">易宪容
+                    </a>
+                                <span class="tip">阅读(19万)</span>
+            </p>
+        </li>
+                                            <li class="first-item hasImg " >
+            <p class="artImg">
+                <a href="http://yufannuo.baijia.baidu.com/article/54268" target="_blank" mon="name=bjrecommend&pos=pic">
+                    <img src="http://h.hiphotos.baidu.com/news/crop%3D0%2C0%2C500%2C300%3Bw%3D638/sign=99e99a8dac773912d069df21c529aa28/d439b6003af33a8786badc2ac35c10385343b52f.jpg" class="top_hot_img" />
+                </a>
+            </p>
+            <p class="title">
+                <a href="http://yufannuo.baijia.baidu.com/article/54268" target="_blank" title="股票明天为什么会暴涨?!" mon="name=bjrecommend&pos=title">股票明天为什么会暴涨?!</a>
+            </p>
+            <p class="text">
+                
+                                    <a href="http://yufannuo.baijia.baidu.com" class="nm" mon="name=bjrecommend&pos=name">于凡诺</a>
+                                <span class="tip">阅读(9万)</span>
+            </p>
+        </li>
+                        </ul>
+
+</div>
+</div>
+
+
+        <div class="mod" alog-group="log-hotartical">			
+<div class="hd">
+    <div class="title_box" ><div class="title_container"><span class="title">最新文章</span><span class="sub_title">NEW</span><div class="line"><div class="left"></div><div class="right"></div></div></div></div>
+</div>
+<div class="bd">
+    <ul class="artical-top">
+                            <li class="first-item hasImg notb" >
+            <p class="artImg">
+                <a href="http://linshifeng.baijia.baidu.com/article/54588" target="_blank" mon="name=bjnew&pos=pic">
+                    <img src="http://d.hiphotos.baidu.com/news/crop%3D18%2C0%2C562%2C337%3Bw%3D638/sign=d7730af0feedab64603d1780ca0797ef/314e251f95cad1c8d4fa881c7a3e6709c93d5143.jpg" class="top_hot_img" />
+                </a>
+            </p>
+            <p class="title">
+                <a href="http://linshifeng.baijia.baidu.com/article/54588" target="_blank" title="《机械心》稀奇古怪爱情传说" mon="name=bjnew&pos=title">《机械心》稀奇古怪爱情传说</a>
+            </p>
+            <p class="text">
+                
+                                    <a href="http://linshifeng.baijia.baidu.com" class="nm" mon="name=bjnew&pos=name">桃桃淘电影</a>
+                                <span class="tip">36分钟前</span>
+            </p>
+        </li>
+                                            <li class="first-item hasImg " >
+            <p class="artImg">
+                <a href="http://dingaoxi.baijia.baidu.com/article/54585" target="_blank" mon="name=bjnew&pos=pic">
+                    <img src="http://b.hiphotos.baidu.com/news/crop%3D0%2C0%2C960%2C576%3Bw%3D638/sign=525b22dbf203918fc39e678a6c0d0aa7/caef76094b36acaf1fa1e3c779d98d1001e99c43.jpg" class="top_hot_img" />
+                </a>
+            </p>
+            <p class="title">
+                <a href="http://dingaoxi.baijia.baidu.com/article/54585" target="_blank" title="我们的宽带网络为何又慢又贵？" mon="name=bjnew&pos=title">我们的宽带网络为何又慢又贵？</a>
+            </p>
+            <p class="text">
+                
+                                    <a href="http://dingaoxi.baijia.baidu.com" class="nm" mon="name=bjnew&pos=name">丁傲西</a>
+                                <span class="tip">37分钟前</span>
+            </p>
+        </li>
+                                            <li class="first-item hasImg " >
+            <p class="artImg">
+                <a href="http://linshifeng.baijia.baidu.com/article/54584" target="_blank" mon="name=bjnew&pos=pic">
+                    <img src="http://h.hiphotos.baidu.com/news/crop%3D0%2C16%2C600%2C360%3Bw%3D638/sign=e4b864beccea15ce55a1ba498b3016c2/10dfa9ec8a1363278553c808948fa0ec08fac74b.jpg" class="top_hot_img" />
+                </a>
+            </p>
+            <p class="title">
+                <a href="http://linshifeng.baijia.baidu.com/article/54584" target="_blank" title="北京国际电影节展映《吸血鬼生活》" mon="name=bjnew&pos=title">北京国际电影节展映《吸血鬼生活》</a>
+            </p>
+            <p class="text">
+                
+                                    <a href="http://linshifeng.baijia.baidu.com" class="nm" mon="name=bjnew&pos=name">桃桃淘电影</a>
+                                <span class="tip">41分钟前</span>
+            </p>
+        </li>
+                                            <li class="first-item hasImg " >
+            <p class="artImg">
+                <a href="http://liaobaoping.baijia.baidu.com/article/54583" target="_blank" mon="name=bjnew&pos=pic">
+                    <img src="http://f.hiphotos.baidu.com/news/crop%3D0%2C66%2C800%2C480%3Bw%3D638/sign=1fb712fee5fe9925df433310099872e9/b17eca8065380cd7b4bda8d6a444ad345982816d.jpg" class="top_hot_img" />
+                </a>
+            </p>
+            <p class="title">
+                <a href="http://liaobaoping.baijia.baidu.com/article/54583" target="_blank" title="古人亦爱养宠物" mon="name=bjnew&pos=title">古人亦爱养宠物</a>
+            </p>
+            <p class="text">
+                
+                                    <a href="http://liaobaoping.baijia.baidu.com" class="nm" mon="name=bjnew&pos=name">廖保平</a>
+                                <span class="tip">41分钟前</span>
+            </p>
+        </li>
+                                            <li class="first-item hasImg " >
+            <p class="artImg">
+                <a href="http://yangyuliang.baijia.baidu.com/article/54567" target="_blank" mon="name=bjnew&pos=pic">
+                    <img src="http://h.hiphotos.baidu.com/news/crop%3D0%2C0%2C1201%2C720%3Bw%3D638/sign=5a61a3449758d109d0acf3f2ec68e08f/b90e7bec54e736d1a81b4c329e504fc2d5626984.jpg" class="top_hot_img" />
+                </a>
+            </p>
+            <p class="title">
+                <a href="http://yangyuliang.baijia.baidu.com/article/54567" target="_blank" title="bee姐乱带表！苹果到底要闹哪样？" mon="name=bjnew&pos=title">bee姐乱带表！苹果到底要闹哪样？</a>
+            </p>
+            <p class="text">
+                
+                                    <a href="http://yangyuliang.baijia.baidu.com" class="nm" mon="name=bjnew&pos=name">杨宇良</a>
+                                <span class="tip">41分钟前</span>
+            </p>
+        </li>
+                        </ul>
+
+</div>
+</div>
+
+
+                <div class="l-right-bottom-cloud-ad"><script type="text/javascript">
+/*标签云*/
+var cpro_id = "u1601237";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script></div>
+                <div class="mod" id="artical" alog-group="log-hotartical-num">
+    <div class="hd">
+        <div class="title_box" ><div class="title_container"><span class="title">热门文章</span><span class="sub_title">HOT NEWS</span><div class="line"><div class="left"></div><div class="right"></div></div></div></div>
+    </div>
+    <div class="bd">
+                <div class="tabs">
+            <span class="tab on" data-id="topArtical"><a href="javascript:;">日榜</a></span>
+            <span class="tab" data-id="topWeekArtical"><a href="javascript:;">周榜</a></span>
+        </div>
+        <ul class="artical-top-num" id="topArtical">
+                                                                            <li class="top-1">
+                        <span class="num">01</span>
+                        <p class="title"><a href="http://guojing.baijia.baidu.com/article/54476" mon="name=bjhotarticle" target="_blank">内容的两极分化，强者恒强</a></p>
+                                                <p class="desc">当下的网络内容有一个很明显的现象是，优质内容被强势抢夺，大量垃...</p>
+                                            </li>
+                                                                                                                            <li class="top-2">
+                        <span class="nm">赵虎</span>
+                        <span class="num">02</span>
+                        <p class="title"><a href="http://david.baijia.baidu.com/article/54484" mon="name=bjhotarticle" target="_blank">知识产权将成为创业型公司的命门</a></p>
+                    </li>
+                                                                                                                            <li class="top-3">
+                        <span class="nm">慕容散</span>
+                        <span class="num">03</span>
+                        <p class="title"><a href="http://jinzhu.baijia.baidu.com/article/54511" mon="name=bjhotarticle" target="_blank">不为浮盈遮望眼，只求身在最高层</a></p>
+                    </li>
+                                                                                                        <li>
+                        <span class="nm">中国派</span>
+                        <span class="num">04</span>
+                        <p class="title"><a href="http://wumaolin.baijia.baidu.com/article/54467" mon="name=bjhotarticle"  target="_blank">乐视还是锋尚 如此没下限也是醉了</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm">爆料汇</span>
+                        <span class="num">05</span>
+                        <p class="title"><a href="http://tanhaisheng.baijia.baidu.com/article/54461" mon="name=bjhotarticle"  target="_blank">网络电台大战：最文艺的圈子也撕逼</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm">李书航</span>
+                        <span class="num">06</span>
+                        <p class="title"><a href="http://lishuhang.baijia.baidu.com/article/54466" mon="name=bjhotarticle"  target="_blank">智能车“占领”上海车展</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm">老铁</span>
+                        <span class="num">07</span>
+                        <p class="title"><a href="http://laotie.baijia.baidu.com/article/54488" mon="name=bjhotarticle"  target="_blank">阿里2014年纳税109亿的背后是什么</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm">铁任</span>
+                        <span class="num">08</span>
+                        <p class="title"><a href="http://tieren.baijia.baidu.com/article/54496" mon="name=bjhotarticle"  target="_blank">刘青云：天生吃定影帝这口饭</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm">陶志波 柯尔特</span>
+                        <span class="num">09</span>
+                        <p class="title"><a href="http://taozhibo.baijia.baidu.com/article/54502" mon="name=bjhotarticle"  target="_blank">经典影片中的十大最糟糕历史谬误</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm">黑马良驹</span>
+                        <span class="num">10</span>
+                        <p class="title"><a href="http://zhangjunliang.baijia.baidu.com/article/54471" mon="name=bjhotarticle"  target="_blank">小米打破世界纪录背后的营销哲学</a></p>
+                    </li>
+                                            </ul>
+        <ul class="artical-top-num" id="topWeekArtical" style="display:none">
+                                                                            <li class="top-1"  style="height:auto;">
+                        <span class="num">01</span>
+                        <p class="title"><a href="http://kangsitanding.baijia.baidu.com/article/54210" mon="name=bjhotarticle" target="_blank">我们真的需要智能自行车吗？</a></p>
+                                                <p class="desc">作为代步的工具，自行车必然也未能幸免。斑马、洛克菲勒、BICI...</p>
+                                            </li>
+                                                                                                                            <li class="top-2">
+                        <span class="nm">方雨007</span>
+                        <span class="num">02</span>
+                        <p class="title"><a href="http://fangyu.baijia.baidu.com/article/54251" mon="name=bjhotarticle" target="_blank">哪些微商团队会很快死掉</a></p>
+                    </li>
+                                                                                                                            <li class="top-3">
+                        <span class="nm">易宪容</span>
+                        <span class="num">03</span>
+                        <p class="title"><a href="http://yixianrong.baijia.baidu.com/article/53816" mon="name=bjhotarticle" target="_blank">当前国内房地产形势更为严峻</a></p>
+                    </li>
+                                                                                                        <li>
+                        <span class="nm">易宪容</span>
+                        <span class="num">04</span>
+                        <p class="title"><a href="http://yixianrong.baijia.baidu.com/article/54014" mon="name=bjhotarticle"  target="_blank">中国政府为何不愿人民币贬值？</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm">电商老兵斗牛士</span>
+                        <span class="num">05</span>
+                        <p class="title"><a href="http://penghailiang.baijia.baidu.com/article/54013" mon="name=bjhotarticle"  target="_blank">马云要收购中石化5000加油站？</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm">特别调查员</span>
+                        <span class="num">06</span>
+                        <p class="title"><a href="http://diaochayuan.baijia.baidu.com/article/54413" mon="name=bjhotarticle"  target="_blank">奇虎360如此作弊，AV-C如何能忍？</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm">承哲</span>
+                        <span class="num">07</span>
+                        <p class="title"><a href="http://chengzhe.baijia.baidu.com/article/54201" mon="name=bjhotarticle"  target="_blank">从微信逻辑，看58为何选错靠山</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm">文庚淼</span>
+                        <span class="num">08</span>
+                        <p class="title"><a href="http://wengengmiao.baijia.baidu.com/article/43690" mon="name=bjhotarticle"  target="_blank">苹果女副总裁薪酬为何达库克8倍?</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm">丁鹏Gamewower</span>
+                        <span class="num">09</span>
+                        <p class="title"><a href="http://dingpeng.baijia.baidu.com/article/54296" mon="name=bjhotarticle"  target="_blank">炉石传说 暴雪为何一直在错失机会</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm">陈纪英</span>
+                        <span class="num">10</span>
+                        <p class="title"><a href="http://chenjiying.baijia.baidu.com/article/54276" mon="name=bjhotarticle"  target="_blank">上门O2O三条路,做头牌还是玩跨界？</a></p>
+                    </li>
+                                            </ul>
+            </div>
+</div>
+
+<script type="text/javascript">
+;$(function(){
+    if($('#artical').find('.tab').length){
+        $('#artical').find('.tab').on('click',switchTab);
+    }
+    
+
+    function switchTab(e){
+        var $e=$(this),
+            tabId = $e.data('id');
+
+        $.each($('#artical').find('.artical-top-num'),function(i,e){
+            $(e).hide();
+        });
+        $.each($('#artical').find('.tab'),function(i,e){
+            $(e).removeClass('on');
+        });
+
+        $e.addClass('on');
+        $('#'+tabId).show();
+    }
+});
+</script>
+                <div class="l-right-bottom-img-ad"><script type="text/javascript">
+/*右侧下方图片*/
+var cpro_id = "u1601238";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script></div>
+            </div>
+</div>
+<script type="text/template" id="new-comment-list">
+
+    <%var data = data.list%>
+    <%for(var i=0 ; i < data.length ;i++){%>
+        <div class="wc_list_nod clearfix">
+            <div class="nod_inner clearfix">
+                <div class="wbavatar">
+                    <a href="<%=data[i]['user_url']%>" title="<%=data[i]['user_name']%>" target="_blank">
+                        <img src="<%=data[i]['user_pic']%>" alt="<%=data[i]['user_name']%>" title="<%=data[i]['user_name']%>">
+                    </a>
+                </div>
+                <div class="wb_cmR comm_main">
+                    <div class="user_info">
+                        <a href="<%=data[i]['user_url']%>" title="<%=data[i]['user_name']%>" target="_blank" class="user_name"><%=data[i]['user_name']%></a>
+                        <span class="pub_time"><%=data[i]['format_ts']%></span>
+                    </div>
+                    <div class="content_txt"><%=data[i]['text']%></div>
+                </div>
+            </div>
+        </div>
+    <%}%>
+
+</script>
+
+<style>
+#footer{width:100%;background:#f0f0f0;height:249px;}
+#footer .site-nav{margin-top:34px;}
+#footer .site-nav a{background:#fff;display: inline-block;border: 1px solid #ececec;padding: 0 22px;margin: 0 5px;height: 30px;line-height: 30px;color: #666;vertical-align: bottom;}
+#footer .site-nav a.bottom-logo{background:none;border: 0;height: 38px;}
+</style>
+<div id="footer" alog-group="log-footer">
+<p class="site-nav"><a href="http://baijia.baidu.com/" target="_blank" class="bottom-logo"><img src="/static/images/baijia_logo_color.png"/></a><a href="http://baijia.baidu.com/?tn=listarticle&labelid=2" target="_blank">互联网</a><a href="http://baijia.baidu.com/?tn=listarticle&labelid=3" target="_blank">文化</a><a href="http://baijia.baidu.com/?tn=listarticle&labelid=4" target="_blank">娱乐</a><a href="http://baijia.baidu.com/?tn=listarticle&labelid=5" target="_blank">体育</a><a href="http://baijia.baidu.com/?tn=listarticle&labelid=6" target="_blank">财经</a><a href="http://baijia.baidu.com/?tn=listarticle&labelid=1" target="_blank">热点</a>
+</p>
+<p class="top-nav">
+<a href="http://baijia.baidu.com/" target="_blank">百家首页</a>|
+<a href="http://news.baidu.com/" target="_blank">百度新闻</a>|
+<a href="mailto:Baijia@baidu.com" target="_blank">联系我们：Baijia@baidu.com</a>
+<strong> 百度新闻独家出品</strong>
+</p>
+<p class="site-info">
+京公网安备110000000001号 <a href="http://news.baidu.com/licence.html">互联网新闻信息服务许可</a><span>&copy;2015 Baidu</span><a href="http://www.baidu.com/duty/">使用百度前必读</a><a target="_blank" href="http://net.china.cn/chinese/index.htm"><img src="http://gimg.baidu.com/img/net.gif"></a><a target="_blank" href="http://www.bj.cyberpolice.cn/index.htm"><img alt="首都网络110报警服务" src="http://gimg.baidu.com/img/110.gif"></a><a target="_blank" href="http://www.bjjubao.org/"><img src="http://news.baidu.com/resource/img/report_center.png"></a> 
+</p>
+</div>
+
+    <script type="text/javascript">
+/*对联*/
+var cpro_id = "u1601234";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/f.js" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+
+var uid="",
+    mid="1246101684",
+    articleId = "54511",
+    displayname = "",
+    userImage = "";
+
+var image = new Image(1, 1);
+image.src = '/static/images/b.gif?articleId=' + articleId;
+
+   baidu.dom.ready(function(){
+
+    var __up = baidu.g('up_article') , __down = baidu.g('down_article'), __up_num = baidu.g('up_btn_num') , __down_num = baidu.g('down_btn_num'),up_down_flag = false;
+
+    function num2str(str){
+        var num = (str*1) + 1 ;
+        return num ;
+    }
+    function upvsdown(action){
+        var url = "nid=791612380399988825&type="+action;
+        baidu.ajax.post("/ajax/newssupport",url,function(h,r){
+            var req = baidu.json.parse(r);
+            if(req.errno == 0 ){
+                if(action == "up"){
+                    __up_num.innerHTML = num2str(__up_num.innerHTML);
+                }else{
+                    __down_num.innerHTML = num2str(__down_num.innerHTML);
+                }
+                up_down_flag = true ;
+                if(action == "up"){
+                    baidu.dom.removeClass('up_icon','up_gray');
+                    baidu.dom.addClass('up_icon','up');
+                }else{
+                    baidu.dom.removeClass('down_icon','down_gray');
+                    baidu.dom.addClass('down_icon','down');
+                }
+                /*baidu.dom.addClass("up_article","up_down_btn_gray");
+                baidu.dom.addClass("down_article","up_down_btn_gray");
+                baidu.dom.addClass("up_btn_num","up_down_btn_num_gray");
+                baidu.dom.addClass("down_btn_num","up_down_btn_num_gray");
+                baidu.dom.removeClass("up_txt","up_down_txt_hover");
+                baidu.dom.removeClass("down_txt","up_down_txt_hover");*/
+            }
+        });
+    }
+    __up&&baidu.event.on(__up,'click',function(e){
+        if(up_down_flag){return false;}
+        upvsdown("up");
+    });
+    __down&&baidu.event.on(__down,'click',function(e){
+        if(up_down_flag){return false;}
+        upvsdown("down");
+    });
+
+    $('.authorRssBtn').click(function(e){
+        if(!$("#login").is(":hidden")){
+            baidu.g("login").click();
+            return false;
+        }
+        var $e = $(this),
+            txt = $e.find('.b').text(),
+            changeTxt,changeClass,status;
+        if(txt == '已关注'){
+            status = 2;
+            changeTxt = '关注';
+            changeClass = 'i iadd';
+        }else if(txt == '关注'){
+            status = 1;
+            changeTxt = '已关注';
+            changeClass = 'i iminus';
+        }
+        if(serverData.token){
+            var url = "/ajax/subscribe?uid="+uid+"&mid="+mid+"&type=1&status="+status+"&token=" + serverData.token + "&time=" + serverData.tokentm;
+        }else{
+            var url = "/ajax/subscribe?uid="+uid+"&mid="+mid+"&type=1&status="+status;
+        }
+        $.ajaxSetup({ cache: false });
+        $.ajax({
+            url: url,
+            type: 'GET',
+            dataType: 'json',
+            success: function(res){
+                if(res.errno == '0'){
+                    $e.find('.b').text(changeTxt);
+                    $e.find('.i').removeClass().addClass(changeClass);
+                }
+            }
+        });
+
+    });
+
+    $.each($('.videoArea'),function(i,e){
+        var $e = $(e),
+            id = $e.attr('id'),
+            name = 'video' + i,
+            width = $e.data('width'),
+            height = $e.data('height'),
+            url = $e.data('url'),
+            flashvars={
+                f:url,
+                c:0,
+                b:1,
+                p:0
+            };
+
+        CKobject.embedSWF('/static/js/ckplayer/ckplayer.swf',id,name,width,height,flashvars,'');
+    });
+
+    new Comment('mod-comment', {
+        url: encodeURIComponent(window.location.href),
+        articleId: '54511',
+        displayname: '',
+        subscribename: 'baijia',
+        userImage: ''
+    });
+
+});
+
+
+</script>
+
+<link href="/static/js/libs/magic/resources/default/magic.control.Dialog/magic.control.Dialog.css?v=20131212" rel="stylesheet" type="text/css"></link>
+<!--用户反馈-->
+<div id="goTop" >
+    <div class="feedback" id="feedbackbtn"><a href="javascript:;">用户反馈</a></div>
+    <div class="gotop"><a id="gotop_btn" style="display:none" onclick="window.scroll(0, 0)"></a></div>
+</div>
+<style>
+#goTop {
+    position:fixed;
+    width:54px;
+    left:50%;
+    margin-left:512px;
+    bottom:10px;
+    *+bottom:10px;
+    _position:absolute;
+    _top:expression(eval(document.documentElement.scrollTop || document.body.scrollTop) +eval(document.documentElement.clientHeight || document.body.clientHeight) -110+'px');
+    z-index:998;
+}
+#goTop div {
+    height:48px;
+    margin-top:3px;
+    position:relative;
+    width:48px;
+}
+#goTop div a,#goTop div a:link {
+    display:inline-block;
+    height  :18px;
+    width:100%;
+    color:#fff;
+    background:#b7c5ca url(http://news.baidu.com/resource/img/gotop.png) no-repeat;
+    font-size:12px;
+    line-height:14px;
+    text-align:center;
+    text-decoration:none;
+    padding-top:30px;
+}
+#goTop div.feedback a {
+    padding:10px;
+    height:28px;
+    width:28px;
+    line-height:14px;
+    background:#b7c5ca;
+}
+#goTop .feedback a:hover {
+    background:#59a9c6;
+}
+#goTop div.gotop a {
+    background-position:-147px -48px;
+}
+#goTop .gotop a:hover {
+    background-position:-147px 0;
+}
+/*UI控件*/
+.tang-dialog{position:fixed;top:100px;_position:absolute;_top:100px;_bottom:100px;}
+.tang-dialog .tang-title{background:#fff;border:none;}
+.tang-dialog .tang-title span{color:#fff;height:35px;line-height: 35px;background:#fff;}
+.tang-dialog .tang-body{border:none;background:#fff;}
+.tang-dialog .tang-body .content{color:#666;font-family: "微软雅黑";}
+.tang-dialog .tang-title .buttons a{background: transparent url(http://baijia.baidu.com/static/js/libs/magic/resources/default/magic.control.Dialog/btns.gif) no-repeat;}
+.tang-dialog .tang-title .buttons a:hover{background: transparent url(http://baijia.baidu.com/static/js/libs/magic/resources/default/magic.control.Dialog/btns.gif) no-repeat;}
+/*用户反馈*/
+.feed_describe{font: 16px "微软雅黑",arial,tahoma;color: #666;font-weight: bold;margin-bottom:10px;float:left;margin-left:20px;_margin-left:10px;}
+.feed_describe span{font: 30px arial;color: #377cca;font-style: italic;margin-right: 8px;}
+.feed_content{width: 630px;_width:630px;height: 170px;resize:none;overflow:auto;font-size:16px;border: 1px solid #ddd;padding-left:10px;font-family: "微软雅黑",arial,tahoma;margin-left:20px;float:left;}
+.feed_contact{clear:left;width:630px;height:40px;margin-left:20px;*margin-left:10px;}
+.feed_contact_txt{width: 286px;height: 32px;overflow: hidden;border: 1px solid #ddd;float: left;margin-right: 10px;padding-left:10px;font:16px/32px "微软雅黑",arial,tahoma;}
+.feed_contact_comment{font-size:16px;line-height:32px;color:#bbb;display: block;float:left;}
+.feed_contact_button{width:120px;height:35px;display:block;margin:15px auto 0px;background: #3F88D2;color: #fff;font-size: 16px;border: 1px solid #3F88D2;*+margin-top:8px;}
+</style>
+<script>var on=baidu.event.on;Fe = baidu;</script>
+<script src="/static/js/libs/magic/magic.js?v=20131212" type="text/javascript"></script>
+<script src="/static/js/utils.js?v=20131212" type="text/javascript"></script>
+<script type="text/javascript">
+    baidu.on(window,'load', function(){
+        var eleTop = baidu.g("gotop_btn");
+        baidu.on(window, 'scroll', function(){
+            baidu.page.getScrollTop() >= 200 ? baidu.show(eleTop) : baidu.hide(eleTop);
+            if(baidu.browser.ie&&baidu.browser.ie < 7){
+                var scrolltop = baidu.page.getScrollTop(),
+                    viewheight = baidu.page.getViewHeight(),
+                    pageheight = baidu.page.getHeight();
+                baidu.dom.setStyle('goTop','top',(scrolltop+viewheight-110));
+            }
+        });
+        var feedback = baidu.g("feedbackbtn");
+        var feedbackDialog = null , feedactionDialog = null ;
+        baidu.on(feedback , "click",function(e){
+            if(!feedbackDialog){
+                feedbackDialog = ZMT.notice({title:'用户反馈',content:'<h2 class="feed_describe"><span>1</span>请描述您遇到的问题或您的意见、建议：</h2><textarea type="text" class="feed_content" id="feed_content"></textarea><h2 class="feed_describe"><span>2</span>请留下联系方式，您将有机会获得精美礼品</h2><div class="feed_contact"><input type="text" class="feed_contact_txt" id="feed_content_txt" value="" placeholder="QQ/邮箱/电话"><span class="feed_contact_comment">(可选)</span></div><input id="submit_feed" type="button" class="feed_contact_button" value="提交反馈">',height:430,width:700});
+                setTimeout(function(){
+                    baidu.on(baidu.g("submit_feed"),"click",function(){
+                        var browser = "";
+                        var content = baidu.g("feed_content").value;
+                        var contactway = baidu.g("feed_content_txt").value; 
+                        if(!content){return false;}
+                        for(var p in baidu.browser){
+                            if(baidu.browser[p]){
+                                browser += " "+p+":"+baidu.browser[p] ;
+                            }
+                        }
+                        var url = 'mid=baijia_pc&content='+content+'&contactway='+contactway+'&browse='+browser; 
+                        baidu.ajax.post('/ajax/feedback',url,function(h,r){
+                            var req = baidu.json.parse(r);
+                            if(req.errno == 0){
+                                feedbackDialog.hide();
+                                feedactionDialog = ZMT.notice({content:'<div style="width:100%;height:100%;text-align:center;">提交成功！</div>',autohide:true});
+                                feedactionDialog.setPosition({top:100});
+                            }
+                        });
+                    });
+                },500);
+                feedbackDialog.setPosition({top:100});
+            }else{
+                baidu.g("feed_content").value = "";
+                baidu.g("feed_content_txt").value = ""; 
+                feedbackDialog.show();
+            }
+        });
+    });
+</script>
+<img src="/static/images/article_up.png" style="display:none;">
+<img src="/static/images/article_down.png" style="display:none;">
+</body>
+</html>

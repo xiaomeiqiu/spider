@@ -1,0 +1,280 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<!--STATUS OK-->
+<meta http-equiv="X-UA-Compatible" content="IE=7">
+<meta http-equiv=Content-Type content="text/html; charset=gb2312">
+<title>百度新闻搜索      </title>
+<meta name="description" content="百度新闻是包含海量资讯的新闻服务平台，真实反映每时每刻的新闻热点。您可以搜索新闻事件、热点话题、人物动态、产品资讯等，快速了解它们的最新进展。" >
+<!--ecombegin--><!--ecomend-->
+<script src="/resource/js/news.js?v=20131218"></script>
+<script src="resource/js/usertrack.js?v=20100409"></script>
+
+
+
+
+<style>
+<!--
+html,body,div,h2,h3,h4,p,td,tr,ul,ol,li,table,dl,dd,dt,img,form{margin:0;padding:0;}
+ol,ul,li {list-style:none}
+body {font-size: 14px;line-height: 24px;font-family: arial}
+#ft {clear: both;border-top: #7aa9df 1px solid;	font-size: 12px;margin: 10px 0px;color: #737573;	padding-top: 4px;	text-align: center}
+a:link {color: #261cdc}
+img {border:1px}
+#ft img {border:none}
+a.cy:link, a.cy:visited, a.cy:hover, a.cy:active {font-size: 12px;color: #77c;}
+#con {margin: 0px 10px}
+table {	border-collapse: collapse;	border-spacing: 0}
+.htb {margin-bottom: 8px}
+.htb td {font-size: 9pt;line-height: 18px}
+td {font-size: 9pt;	line-height: 18px}
+.formfont {	font-size: 16px;font-family:arial}
+.tab {font-size: 14px;height: 21px}
+.tab a:link {color: #261cdc}
+.b {font-weight: bold}
+.htb img {border:none}
+#usrbar {padding-right: 10px;margin-top: 4px;font-size: 12px;line-height: 19px;height: 19px;text-align: right}
+#usrbar a {	color: #00c;font-family:Arial}
+#page{width:984px;margin:0 auto;text-align:left;}
+/*-- nav --*/
+#nav{height:30px; background-image:url(img/line.gif); background-position: -9px 0px; width:984px;margin:auto;*overflow:hidden;}
+#nav ul{display:inline;}
+#nav ul.nav_main{float:left;margin-left:10px;height:100%;width:810px;}
+#nav ul.nav_aside{float:right;margin-right:13px;width:133px;}
+#nav li{font-size:12px;float:left;color:#fff;line-height:30px;*line-height:32px;}
+#nav ul.nav_main li{font-weight:bold;background:url(img/icon.gif?v=1.1) no-repeat -45px -91px;padding:0px 7px 0px 11px;line-height:30px;*line-height:32px;}
+#nav ul.nav_aside li{padding-left:15px;}
+#nav ul li.new{position:relative;}
+#nav ul div{background:url(img/icon.gif?v=1.1) no-repeat center 4px;}
+#nav ul li.new div.n_new{position:absolute;top:-4px;right:-10px;width:22px;height:10px;background:transparent url(resource/img/bg.gif) -33px -71px no-repeat;}
+#nav a{display:block;}
+#nav a:link, #nav a:visited {color:#FFF;text-decoration:none;font-size:12px;}
+a:link{color:#261cdc;}
+a:visited{color:#800080;}
+.visit a:visited {color:#261cdc;}
+.htb a:visited {color:#261cdc;}
+.rnews:link,.rnews:visited{font-size:12px;margin-left:10px;color:#008000;}
+.more a:visited{color:#261cdc;}
+#rss a:visited{color:#261cdc}
+//-->
+</style>
+<link href="/resource/css/search_box.css?v=201301051533" rel="stylesheet" type="text/css"></link>
+</head>
+
+<body style="padding-right:20px;">
+
+<div id="usrbar"></div>
+<div id="page">
+<table width="100%" border=0 cellpadding="0" cellspacing="0" class="htb">
+	<form action="http://news.baidu.com/ns" style="postion:relative;" name="fbaidu" class="sbox">
+	<table class="sbox" style="position:relative;">
+		<tr>
+            <td class="logo">
+                <div class="logo"><a href="http://news.baidu.com/view.html"><img src="/resource/img/logo_news_137_46.png" alt="百度新闻"></a></div>
+                <div class="date"><!--datebegin--><!--dateend--></div>
+            </td>
+            <td class="search" style="position:relative;">
+                <div class="tab">
+                    <span class="cur">新闻</span><a href="http://www.baidu.com/" title="web"  mon="col=502&pn=0" onclick="queryTab(this);">网页</a><a href="http://tieba.baidu.com/" title="tieba" mon="col=502&pn=1" onclick="queryTab(this);">贴吧</a><a href="http://zhidao.baidu.com/" title="zhidao" mon="col=502&pn=2" onclick="queryTab(this);">知道</a><a href="http://music.baidu.com/" title="music"  mon="col=502&pn=3" onclick="queryTab(this);">音乐</a><a href="http://image.baidu.com/" title="image" mon="col=502&pn=4" onclick="queryTab(this);">图片</a><a href="http://video.baidu.com/" title="video"  mon="col=502&pn=5" onclick="queryTab(this);">视频</a><a href="http://map.baidu.com/" title="map" mon="col=502&pn=6" onclick="queryTab(this);">地图</a><a href="http://baike.baidu.com/" title="baike" mon="col=502&pn=7" onclick="queryTab(this);">百科</a><a href="http://wenku.baidu.com/" title="wenku"  mon="col=502&pn=8" onclick="queryTab(this);">文库</a></div>
+                </div>
+                <table>
+                    <tr>
+                        <td class="box"><div id="sugarea"><span class="s_ipt_wr" id="s_ipt_wr"><input class="word" id="ww" name="word" size="42"  maxlength="100" tabindex="1"></span><span class="s_btn_wr"><input class="btn" type="submit" value="百度一下" onmousedown="this.className='btn s_btn_h'" onmouseout="this.className='btn'"></span></div></td>
+                        <td class="help" id="top-for-ipad"><a href="http://www.baidu.com/search/news_help.html">帮助</a><span class="sep">|</span><a href="http://news.baidu.com/advanced_news.html">高级搜索</a><span class="sep">|</span><a href="http://news.baidu.com/pianhao.html">设置</a></td>
+                    </tr>
+                </table>
+                <!--ecombegin-->
+                <!--ecomend-->
+                <p class="search-radios">
+					<input type="radio" name="tn" value="news" checked id="news"><label for="news">新闻全文</label>
+					<input type="radio" name="tn" value="newstitle" id="newstitle"><label for="newstitle" style="padding:0px;">新闻标题</label>
+                </p>
+				<input type="hidden" name="from" value="news">
+                <input type="hidden" name="cl" value="2">
+
+                <input type="hidden" name="rn" value="20">
+                <input type="hidden" name="ct" value="1">
+            </td></tr>
+	</table>
+    <a id="searchbox_tuiguang" href="http://app.news.baidu.com/?src=yetou" target="_blank"></a>
+    </form>
+<div id="identifier-pannel" style="display:none"><a href="http://app.news.baidu.com/?src=erweima" target="_blank">百度新闻客户端<img src="http://news.baidu.com/resource/img/video_app_tuiguang/erweima.png" height="90" width="90"/>点击或扫描下载</a></div>
+<style type="text/css">
+#header.for-ipad-style{
+    background:url(http://news.baidu.com/resource/img/video_app_tuiguang/video_ipadapp_header_bg.png) no-repeat right bottom;
+    background-size:210px 68px;
+    -webkit-background-size:210px 68px;
+}
+#identifier-pannel{
+    position:fixed;
+    left: 50%;
+    bottom:0;
+    z-index:9999;
+    width:110px;
+    margin-left:517px;
+	height:156px;
+}
+#identifier-pannel a:link,#identifier-pannel a:visited{
+    display:block;
+    padding:10px;
+    line-height:18px;
+    font-size:12px;
+    color:#333;
+    text-decoration:none;
+    white-space:nowrap;
+    text-align:center;
+    background:#f9f9f9;
+}
+#identifier-pannel a:hover{
+    background:#ccd8db;
+    color:#000;
+}
+#identifier-pannel img{
+    display:block;
+    margin:5px auto;
+    border:none;
+}
+
+
+</style>
+
+<script type="text/javascript" src="resource/js/tangram-1.5.2.2.js?v=20130128"></script>
+<script type="text/javascript">
+(function (){
+    /*temp for ad-for-ipad*/
+    if(navigator.userAgent.match(/(iPad).*OS\s([\d_]+)/)){
+        document.getElementById('header').className = 'for-ipad-style';
+        document.getElementById('searchbox_tuiguang').setAttribute('mon' , 'col=504');
+        document.getElementById('searchbox_tuiguang').href='http://itunes.apple.com/cn/app/bai-du-shi-pinhd/id573885698?mt=8';
+
+    }
+    function __getScrollTop(){
+        var d = document;
+            return window.pageYOffset || d.documentElement.scrollTop || d.body.scrollTop;
+    }
+    function __getHeight() {
+        var doc = document,
+            client = doc.compatMode == 'BackCompat' ? doc.body : doc.documentElement;
+            return client.clientHeight;
+    }
+    function __on(obj, type, func){
+        var t = type.replace(/^on/, '');
+        if(window.attachEvent){
+            obj.attachEvent('on' + t, func);
+        }
+        else if(window.addEventListener){
+            obj.addEventListener(t, func, false);
+        }
+    }
+    function __g(id){
+        return document.getElementById(id);
+        
+    }
+
+   __on(window , 'load', function(){
+    function fixedBar(id, options){
+                /*temp
+                {
+                    addclass : 'string',
+                    top : number,
+                    autoHidden : true,
+                    show : true
+                }
+                */
+         var ele = __g(id);
+             if(!ele) return;
+            var pageHeight=__getHeight();
+            var ieScrollTop=__getScrollTop();
+             if(/msie (\d+\.\d+)/i.test(navigator.userAgent)){
+                    if(options.addclass) ele.className = options.addclass;
+                    ele.style.position= 'absolute';
+                    if(options.show){
+                        ele.style.top = ieScrollTop+pageHeight-options.top + "px";
+                        ele.style.display= 'block';
+                    }
+
+                    __on(window,'scroll' , function (){
+
+                            var ieScrollTop=__getScrollTop();
+                            ele.style.top = ieScrollTop+pageHeight - options.top + "px";
+                            if(options.autoHidden){
+                                    if(ieScrollTop==0){
+                                            ele.style.display="none";
+                                    }else{
+                                            ele.style.display="block";
+                                    }
+                            }
+                    });
+            }else{
+                if(options.show) ele.style.display= 'block';
+                ele.style.top = pageHeight-options.top+'px';
+                __on(window,'scroll',function (){
+                    if(options.autoHidden){
+                            if(__getScrollTop()==0){
+                                    ele.style.display="none";
+                            }else{
+                                    ele.style.display="block";
+                            }
+                    }
+                },false);
+            }
+    }
+
+    fixedBar('backTopBtn' , {autoHidden: true, top : 186});
+    fixedBar('identifier-pannel' , {autoHidden: false , top : 386 , show : true});
+    });
+})();
+</script>
+
+<script src="http://cbjs.baidu.com/js/m.js"></script>
+<script>
+    BAIDU_CLB_addOrientation('newschn', '');
+</script>
+
+	<script>read_cookie();</script>
+</table>
+
+<div id="main">
+	<div id="nav">
+        <ul class="nav_aside">
+			<li><a href="http://news.baidu.com/n?bypass=lamp&m=pagesother&v=newsgx">个性化新闻</a></li>
+			<li><a href="http://www.baidu.com/search/news_more.html" style="*line-height:29px;">更多&gt;&gt;</a></li>
+        </ul>
+        <ul class="nav_main">
+            <li style="background-image:none;"><a href="http://news.baidu.com/view.html">新闻首页</a></li>
+
+            <li><a href="http://guonei.news.baidu.com/n?cmd=1&class=civilnews&pn=1&from=tab">国内</a></li>
+            <li><a href="http://guoji.news.baidu.com/n?cmd=1&class=internews&pn=1&from=tab">国际</a></li>
+            <li><a href="http://finance.baidu.com/n?cmd=1&class=finannews&pn=1&from=tab">财经</a></li>
+            <li><a href="http://internet.baidu.com/n?cmd=1&class=internet&pn=1&from=tab">互联网</a></li>
+            <li><a href="http://fangchan.news.baidu.com/n?cmd=1&class=housenews&pn=1&from=tab">房产</a></li>
+            <li><a href="http://auto.baidu.com/n?cmd=1&class=autonews&pn=1&from=tab">汽车</a></li>
+
+            <li><a href="http://sports.baidu.com/n?cmd=1&class=sportnews&pn=1&from=tab">体育</a></li>
+            <li><a href="http://yule.baidu.com/n?cmd=1&class=enternews&pn=1&from=tab">娱乐</a></li>
+            <li><a href="http://youxi.news.baidu.com/n?cmd=1&class=gamenews&pn=1&from=tab">游戏</a></li>
+            <li><a href="http://jiaoyu.news.baidu.com/n?cmd=1&class=edunews&pn=1&from=tab">教育</a></li>
+            <li><a href="http://lady.baidu.com/n?cmd=1&class=healthnews&pn=1&from=tab">女人</a></li>
+            <li><a href="http://tech.baidu.com/n?cmd=1&class=technnews&pn=1&from=tab">科技</a></li>
+
+            <li><a href="http://shehui.news.baidu.com/n?cmd=1&class=socianews&pn=1&from=tab">社会</a></li>
+			<li class="new"><a href="http://shipin.news.baidu.com/n?cmd=10&class=vid2top&pn=1&from=tab&sub=0">视频</a></li>
+			<li><a href="http://tupian.news.baidu.com/n?cmd=9&class=pic2top&pn=1&from=tab&sub=0">图片</a></li>
+			<li><a href="http://news.baidu.com/n?cmd=4&class=rolling&pn=1&from=tab&sub=0">最新</a></li>
+        </ul>
+	</div>
+</div>
+
+<div id="con"><p></p><br><br>
+您所搜索的页面临时被移走了。请返回 <a href="http://news.baidu.com/view.html">新闻主页面 </a>，刷新后再试。
+<p></p><br><br></div>
+<div id="ft" >
+<p>百度新闻搜索源于互联网新闻网站和频道，系自动分类排列，百度不刊登或转载任何完整的新闻内容</p>
+
+<font style="color:#7777CC;">&copy;2015 Baidu</font> <a href="http://www.baidu.com/duty/" class="cy">使用百度前必读</a> <a href="http://net.china.cn/chinese/index.htm" target=_blank><img src="http://gimg.baidu.com/img/net.gif"></a>&nbsp;<a href="http://www.bj.cyberpolice.cn/index.htm" target=_blank><img src="http://gimg.baidu.com/img/110.gif" alt="首都网络110报警服务"></a></div>
+
+</div>
+</body>
+</html>
+
+<!--ecombegin--><script type="text/javascript">enterState("", "");</script><!--ecomend-->

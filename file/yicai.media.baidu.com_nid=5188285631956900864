@@ -1,0 +1,678 @@
+<!doctype html>
+<html>
+<head>
+<!--STATUS OK-->
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+<title>第一财经日报_百度传媒</title>
+
+<link rel="dns-prefetch" href="//ns0.bdstatic.com">
+<link rel="dns-prefetch" href="//ns1.bdstatic.com">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="" >
+
+
+
+
+<script>
+  var serverData = {
+    maxseg : '3',
+    total : '600',
+    hasMore : '1',
+    rn : '60',
+    lastNid : '5083166298784597398',
+    logowidth : '144',
+    logoheight : '23',
+    coverlogoheight : '43',
+    menuCount : 12,
+    subscribename : 'yicai',
+    terms : '',
+    menu : [],
+    channelname : '',
+    device: 'pc'
+  }
+  if(!''){
+    serverData.channelname = 'index';
+  }else{
+    serverData.channelname = '';
+  }
+
+  // hunter统计
+  void function(e,t,n,a,o,i,m){e.alogObjectName=o,e[o]=e[o]||function(){(e[o].q=e[o].q||[]).push(arguments)},e[o].l=e[o].l||+new Date,i=t.createElement(n),i.asyn=1,i.src=a,m=t.getElementsByTagName(n)[0],m.parentNode.insertBefore(i,m)}(window,document,"script","http://img.baidu.com/hunter/alog.min.js","alog");
+    </script>
+
+<link rel="stylesheet" type="text/css" href="/static/common/pkg/aio_ec06920.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/css/all_e472514.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/skin/cobalt_922814f.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/mod_page/mod_page_aac155e.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/ap_ulist/ap_ulist_c1b4057.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/header/header_6c174ae.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/cover/cover_1a2721a.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/mod_banner/mod_banner_b7ecfb4.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/footer/footer_1ef9d4d.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/mod_sidebar/mod_sidebar_cb6d93e.css"/></head>
+<body>
+
+<style>
+  body{padding-top:0}
+  #Header{position: relative;}
+</style>
+
+
+<div class="wrap">
+<div id="Cover" class="mod-cover">
+<div class="cover">
+<div class="coverbg"></div>
+<div class="coverlogo"><img src="http://news.baidu.com/resource/r/image/2015-01-19/d225955905d29ef9acc2f350201c22c8.png"></div>
+<div class="coverslogan">
+<p class="ll"></p>
+<span>中国最好的财经新闻</span>
+<p class="rl"></p>
+</div>
+</div>
+</div><div id="Header">
+<div class="header">
+<h1 class="test"></h1>
+<div class="logo" style="width:144px;"><a href="/" target="_blank" ><img src="http://news.baidu.com/resource/r/image/2015-02-12/0cecf8625dd2778e017e9cc9e8f92ee0.png" style="height:23px"/></a></div>
+<div class="menulist large" style="margin:0 144px">
+<ul></ul>
+</div>
+<div class="menulist medium" style="margin:0 144px">
+<ul></ul>
+</div>
+<div class="headerSearch">
+<p class="searchbar">
+<a href="javascript:;" class="searchA"><i class="i"></i></a>
+<i class="txt"><i class="i nodis"></i><input type="text" class="nodis"></i>
+</p>
+<p class="sub-menu"><i class="icon-submenu"></i></p>
+<p class="baiduLogo"><a href="http://news.baidu.com/" target="_blank"><img src="/static/newsmedia/widget/header/baidu_logo_46a3f92.png"></a></p>
+</div>
+</div>
+
+<script type="text/javascript">
+var menu = [];
+
+            menu.push({
+            'name': '首页',
+            'enname':'',
+            'url': '',
+            'list':[
+            	            ]
+        });
+            menu.push({
+            'name': '宏观',
+            'enname':'economy',
+            'url': '',
+            'list':[
+            	            ]
+        });
+            menu.push({
+            'name': '时政',
+            'enname':'politics',
+            'url': '',
+            'list':[
+            	            ]
+        });
+            menu.push({
+            'name': '全球',
+            'enname':'world',
+            'url': '',
+            'list':[
+            	            ]
+        });
+            menu.push({
+            'name': '金融',
+            'enname':'finance',
+            'url': '',
+            'list':[
+            	            ]
+        });
+            menu.push({
+            'name': '股市',
+            'enname':'markets',
+            'url': '',
+            'list':[
+            	            ]
+        });
+            menu.push({
+            'name': '商业',
+            'enname':'business',
+            'url': '',
+            'list':[
+            	            ]
+        });
+            menu.push({
+            'name': '消费',
+            'enname':'consumption',
+            'url': '',
+            'list':[
+            	            ]
+        });
+            menu.push({
+            'name': '科技',
+            'enname':'tech',
+            'url': '',
+            'list':[
+            	            ]
+        });
+            menu.push({
+            'name': '思想',
+            'enname':'opinion',
+            'url': '',
+            'list':[
+            	            ]
+        });
+            menu.push({
+            'name': '人文',
+            'enname':'life',
+            'url': '',
+            'list':[
+            	            ]
+        });
+            menu.push({
+            'name': '财经',
+            'enname':'money',
+            'url': '',
+            'list':[
+            	            ]
+        });
+        serverData.menu = menu;
+
+</script>
+
+</div>
+<div id="Body">
+<div class="body">
+<div class="left">
+<div id="banners">
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=yicai&amp;nid=4991479733538646548&amp;pos=0&amp;layout=2&amp;token=587b3c9d247a91b962cdc7b3af23c64b&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608751.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=yicai&amp;nid=4991479733538646548&amp;pos=0&amp;layout=2&amp;token=587b3c9d247a91b962cdc7b3af23c64b&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608751.html" target="_blank">江西高温气冷堆通过技术评审 内陆核电猜想再起</a>
+</h4>
+<p class="summary">中国核建将联合江西省向国家发改委上报项目建议书，申请将江西瑞金高温气冷堆核电项目列入国家核电规划。<a href="http://media.baidu.com/redirect?source=yicai&amp;nid=4991479733538646548&amp;pos=0&amp;layout=2&amp;token=587b3c9d247a91b962cdc7b3af23c64b&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608751.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/economy">宏观</a></p>
+<span class="author">
+<em>林春挺</em>
+</span>
+<span class="time">04-21 15:00</span>
+</div>
+</div>
+<div class="feed_tegao" data-href="http://media.baidu.com/redirect?source=yicai&amp;nid=5188285631956900864&amp;pos=1&amp;layout=2&amp;token=15e6f78086a12962c3076cefc436d52e&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608745.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=yicai&amp;nid=5188285631956900864&amp;pos=1&amp;layout=2&amp;token=15e6f78086a12962c3076cefc436d52e&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608745.html" target="_blank">热衷港股的你了解香港历史吗？</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=yicai&amp;nid=5188285631956900864&amp;pos=1&amp;layout=2&amp;token=15e6f78086a12962c3076cefc436d52e&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608745.html" target="_blank"><img src="http://cmss.yicai.com/uppics/images/2015/04/iblblo00948110.jpg"/></a></p>
+<p class="summary">那些“占中”神马的都成了浮云，大陆人民和香港人民再次同气连枝，创下了港股历史的N多记录。<a href="http://media.baidu.com/redirect?source=yicai&amp;nid=5188285631956900864&amp;pos=1&amp;layout=2&amp;token=15e6f78086a12962c3076cefc436d52e&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608745.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/money">财经</a></p>
+<span class="author">
+<em>唐涯</em>
+</span>
+<span class="time">04-21 14:37</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=yicai&amp;nid=5262310398308818482&amp;pos=2&amp;layout=2&amp;token=0a487ba0b45b2651436c46231010e73d&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608727.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=yicai&amp;nid=5262310398308818482&amp;pos=2&amp;layout=2&amp;token=0a487ba0b45b2651436c46231010e73d&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608727.html" target="_blank">普利策新闻奖揭晓，关注家庭暴力报道摘公共服务奖</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=yicai&amp;nid=5262310398308818482&amp;pos=2&amp;layout=2&amp;token=0a487ba0b45b2651436c46231010e73d&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608727.html" target="_blank"><img src="http://mmbiz.qpic.cn/mmbiz/CKYhgyUnM1AjiaqC3b1oVfRzruhL0CeXXXmJiamzXFBxjQLKwBzXwa16XNgq6m9UicFcbvBD26MGIy3cujrDnB4lQ/640?wxfmt=jpeg&amp;wxfrom=5"/></a></p>
+<p class="summary">获1946年普利策报道奖。<a href="http://media.baidu.com/redirect?source=yicai&amp;nid=5262310398308818482&amp;pos=2&amp;layout=2&amp;token=0a487ba0b45b2651436c46231010e73d&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608727.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/life">人文</a></p>
+<span class="author">
+<em>新京报书评周刊</em>
+</span>
+<span class="time">04-21 13:54</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=yicai&amp;nid=5102516883066522975&amp;pos=3&amp;layout=2&amp;token=1b5ef8e0b6f9a4332eafb7c6b47e5754&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608724.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=yicai&amp;nid=5102516883066522975&amp;pos=3&amp;layout=2&amp;token=1b5ef8e0b6f9a4332eafb7c6b47e5754&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608724.html" target="_blank">华为谈互联网+：离开了产品谈互联网，就是无稽之谈</a>
+</h4>
+<p class="summary">徐直军表示，传统产业是物理世界和信息技术，更合适的思路应该是传统产业+互联网，而不是互联网+传统企业，互联网只是渠道。<a href="http://media.baidu.com/redirect?source=yicai&amp;nid=5102516883066522975&amp;pos=3&amp;layout=2&amp;token=1b5ef8e0b6f9a4332eafb7c6b47e5754&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608724.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/tech">科技</a></p>
+<span class="author">
+<em>李娜</em>
+</span>
+<span class="time">04-21 13:36</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=yicai&amp;nid=5049252377985757806&amp;pos=4&amp;layout=2&amp;token=785e059cfb279452cb2a4d3f6cc98300&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608723.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=yicai&amp;nid=5049252377985757806&amp;pos=4&amp;layout=2&amp;token=785e059cfb279452cb2a4d3f6cc98300&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608723.html" target="_blank">做体育界的滴滴打车？解说出身黄健翔要玩足球O2O</a>
+</h4>
+<p class="summary">有着熊猫烟花、松辽汽车等大尺度跨界并购案例做铺垫，跨界转型似乎已经是一个不具难度的小动作，特别是在大众创业的大潮流下。<a href="http://media.baidu.com/redirect?source=yicai&amp;nid=5049252377985757806&amp;pos=4&amp;layout=2&amp;token=785e059cfb279452cb2a4d3f6cc98300&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608723.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/tech">科技</a></p>
+<span class="author">
+<em>赵陈婷</em>
+</span>
+<span class="time">04-21 13:36</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=yicai&amp;nid=5246058276404012122&amp;pos=5&amp;layout=2&amp;token=aa3719961449c7d266d9493e7d1cc647&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608717.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=yicai&amp;nid=5246058276404012122&amp;pos=5&amp;layout=2&amp;token=aa3719961449c7d266d9493e7d1cc647&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608717.html" target="_blank">专注做啤酒 华润创业拟280亿港元出售非啤酒业务</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=yicai&amp;nid=5246058276404012122&amp;pos=5&amp;layout=2&amp;token=aa3719961449c7d266d9493e7d1cc647&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608717.html" target="_blank"><img src="http://cmss.yicai.com/uppics/slides/2015/04/635652184541553707.png"/></a></p>
+<p class="summary">华润创业已涨54.93%。<a href="http://media.baidu.com/redirect?source=yicai&amp;nid=5246058276404012122&amp;pos=5&amp;layout=2&amp;token=aa3719961449c7d266d9493e7d1cc647&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608717.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/consumption">消费</a></p>
+<span class="author">
+<em>陆琨倩</em>
+</span>
+<span class="time">04-21 13:19</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=yicai&amp;nid=5123277144337675424&amp;pos=6&amp;layout=2&amp;token=7b08fbff0e0b2fe07808780c709221bc&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608705.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=yicai&amp;nid=5123277144337675424&amp;pos=6&amp;layout=2&amp;token=7b08fbff0e0b2fe07808780c709221bc&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608705.html" target="_blank">国务院发布年度信息公开要点 国企首次纳入公开范围</a>
+</h4>
+<p class="summary">涉及群众住房保障的棚户区改造建设信息公开被明确纳入《工作要点》，要求保障房分配信息公开。<a href="http://media.baidu.com/redirect?source=yicai&amp;nid=5123277144337675424&amp;pos=6&amp;layout=2&amp;token=7b08fbff0e0b2fe07808780c709221bc&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608705.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/economy">宏观</a></p>
+<span class="author">
+<em>王子约</em>
+</span>
+<span class="time">04-21 12:23</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=yicai&amp;nid=5430749433712455043&amp;pos=7&amp;layout=2&amp;token=1e1094f8dfaac73ae8b3bbdfe556385d&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608699.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=yicai&amp;nid=5430749433712455043&amp;pos=7&amp;layout=2&amp;token=1e1094f8dfaac73ae8b3bbdfe556385d&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608699.html" target="_blank">港股还会继续火吗？这些双语术语先学起来！</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=yicai&amp;nid=5430749433712455043&amp;pos=7&amp;layout=2&amp;token=1e1094f8dfaac73ae8b3bbdfe556385d&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608699.html" target="_blank"><img src="http://cmss.yicai.com/uppics/images/2015/04/jiaoyisuo1.jpg"/></a></p>
+<p class="summary">证监会发布《公开募集证券投资基金参与...<a href="http://media.baidu.com/redirect?source=yicai&amp;nid=5430749433712455043&amp;pos=7&amp;layout=2&amp;token=1e1094f8dfaac73ae8b3bbdfe556385d&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608699.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/money">财经</a></p>
+<span class="author">
+<em>一财网综合</em>
+</span>
+<span class="time">04-21 12:05</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=yicai&amp;nid=4951368887985568522&amp;pos=8&amp;layout=2&amp;token=395dd44fc7b12b9d82ddbf5895be7c09&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608690.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=yicai&amp;nid=4951368887985568522&amp;pos=8&amp;layout=2&amp;token=395dd44fc7b12b9d82ddbf5895be7c09&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608690.html" target="_blank">巴基斯坦驻沪总领事法哈特：瓜达尔港是“颠覆游戏规则”的项目</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=yicai&amp;nid=4951368887985568522&amp;pos=8&amp;layout=2&amp;token=395dd44fc7b12b9d82ddbf5895be7c09&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608690.html" target="_blank"><img src="http://cmss.yicai.com/uppics/images/2015/04/%e7%93%9c%e8%be%be%e5%b0%94%e6%b8%af.jpg"/></a></p>
+<p class="summary">时隔9年后，中国国家主席再次踏上巴基...<a href="http://media.baidu.com/redirect?source=yicai&amp;nid=4951368887985568522&amp;pos=8&amp;layout=2&amp;token=395dd44fc7b12b9d82ddbf5895be7c09&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608690.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/world">全球</a></p>
+<span class="author">
+<em>潘寅茹</em>
+</span>
+<span class="time">04-21 12:05</span>
+</div>
+</div>
+<div class="feed_tegao" data-href="http://media.baidu.com/redirect?source=yicai&amp;nid=5307968301646118345&amp;pos=9&amp;layout=2&amp;token=3687efb0bd983aa65478b587b648fbbd&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608687.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=yicai&amp;nid=5307968301646118345&amp;pos=9&amp;layout=2&amp;token=3687efb0bd983aa65478b587b648fbbd&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608687.html" target="_blank">美元去哪儿？</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=yicai&amp;nid=5307968301646118345&amp;pos=9&amp;layout=2&amp;token=3687efb0bd983aa65478b587b648fbbd&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608687.html" target="_blank"><img src="http://cmss.yicai.com/uppics/slides/2015/04/635652133701376411.jpg"/></a></p>
+<p class="summary">如果滤掉1973年指数时间原点附近正负10%以内的有限整理，这一次由下往上的百点破位是美元指数有史以...<a href="http://media.baidu.com/redirect?source=yicai&amp;nid=5307968301646118345&amp;pos=9&amp;layout=2&amp;token=3687efb0bd983aa65478b587b648fbbd&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608687.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/opinion">思想</a></p>
+<span class="author">
+<em>戚自科</em>
+</span>
+<span class="time">04-21 11:44</span>
+</div>
+</div>
+<div class="feed_tegao" data-href="http://media.baidu.com/redirect?source=yicai&amp;nid=5148174786403822838&amp;pos=10&amp;layout=2&amp;token=107f53f2910e718191616539b6a35844&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608684.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=yicai&amp;nid=5148174786403822838&amp;pos=10&amp;layout=2&amp;token=107f53f2910e718191616539b6a35844&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608684.html" target="_blank">A股融资潜力逼近极限</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=yicai&amp;nid=5148174786403822838&amp;pos=10&amp;layout=2&amp;token=107f53f2910e718191616539b6a35844&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608684.html" target="_blank"><img src="http://cmss.yicai.com/uppics/slides/2015/04/635652134274989418.jpg"/></a></p>
+<p class="summary">融资余额快速增长达到了1.72万亿元。<a href="http://media.baidu.com/redirect?source=yicai&amp;nid=5148174786403822838&amp;pos=10&amp;layout=2&amp;token=107f53f2910e718191616539b6a35844&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608684.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/opinion">思想</a></p>
+<span class="author">
+<em>张庭宾</em>
+</span>
+<span class="time">04-21 11:44</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=yicai&amp;nid=5094910281323057669&amp;pos=11&amp;layout=2&amp;token=adb67165847ea8a233177d6b875a412d&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608683.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=yicai&amp;nid=5094910281323057669&amp;pos=11&amp;layout=2&amp;token=adb67165847ea8a233177d6b875a412d&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608683.html" target="_blank">多方司令异动揭市场方向 各大卖方怎么看？</a>
+</h4>
+<p class="summary">沪指报4253.55点，涨0.86%；深成指报14323.75点，涨3.26%；创业板早盘表现强势，截至午盘暴涨4。。<a href="http://media.baidu.com/redirect?source=yicai&amp;nid=5094910281323057669&amp;pos=11&amp;layout=2&amp;token=adb67165847ea8a233177d6b875a412d&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608683.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/markets">股市</a></p>
+<span class="time">04-21 11:44</span>
+</div>
+</div>
+<div class="feed_tegao" data-href="http://media.baidu.com/redirect?source=yicai&amp;nid=4918864644175955802&amp;pos=12&amp;layout=2&amp;token=4082b0c10def6210d4b6c751612282ff&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608670.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=yicai&amp;nid=4918864644175955802&amp;pos=12&amp;layout=2&amp;token=4082b0c10def6210d4b6c751612282ff&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608670.html" target="_blank">真人秀能“拯救”中国的综艺节目吗？</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=yicai&amp;nid=4918864644175955802&amp;pos=12&amp;layout=2&amp;token=4082b0c10def6210d4b6c751612282ff&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608670.html" target="_blank"><img src="http://cmss.yicai.com/uppics/slides/2015/04/635652109566730020.jpg"/></a></p>
+<p class="summary">2014年卫视频道正式引进12档韩国版权节目，占引进节目总数的48%，其中平均收视过1%的有六档。<a href="http://media.baidu.com/redirect?source=yicai&amp;nid=4918864644175955802&amp;pos=12&amp;layout=2&amp;token=4082b0c10def6210d4b6c751612282ff&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608670.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/politics">时政</a></p>
+<span class="author">
+<em>陈汉辞</em>
+</span>
+<span class="time">04-21 11:21</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=yicai&amp;nid=5222199552755740456&amp;pos=13&amp;layout=2&amp;token=c9d1c604296825ef227c4d56fe233929&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608666.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=yicai&amp;nid=5222199552755740456&amp;pos=13&amp;layout=2&amp;token=c9d1c604296825ef227c4d56fe233929&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608666.html" target="_blank">蓝皮书：工业机器人产业“野蛮生长”隐忧显现</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=yicai&amp;nid=5222199552755740456&amp;pos=13&amp;layout=2&amp;token=c9d1c604296825ef227c4d56fe233929&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608666.html" target="_blank"><img src="http://cmss.yicai.com/uppics/slides/2015/04/635652110018662814.jpg"/></a></p>
+<p class="summary">关键零部件进口依存度高，规模化水平低...<a href="http://media.baidu.com/redirect?source=yicai&amp;nid=5222199552755740456&amp;pos=13&amp;layout=2&amp;token=c9d1c604296825ef227c4d56fe233929&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608666.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/politics">时政</a></p>
+<span class="author">
+<em>章轲</em>
+</span>
+<span class="time">04-21 11:21</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=yicai&amp;nid=5062406037513444949&amp;pos=14&amp;layout=2&amp;token=6665df0a3ba39d78e1506300a6b648c2&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608663.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=yicai&amp;nid=5062406037513444949&amp;pos=14&amp;layout=2&amp;token=6665df0a3ba39d78e1506300a6b648c2&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608663.html" target="_blank">天威集团尚未筹到付息资金 首只国企债券违约在即</a>
+</h4>
+<p class="summary">天威集团尚未筹措到付息资金，付息仍存在较大不确定性。<a href="http://media.baidu.com/redirect?source=yicai&amp;nid=5062406037513444949&amp;pos=14&amp;layout=2&amp;token=6665df0a3ba39d78e1506300a6b648c2&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608663.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/finance">金融</a></p>
+<span class="author">
+<em>杨柳晗</em>
+</span>
+<span class="time">04-21 10:58</span>
+</div>
+</div>
+<div class="feed_tegao" data-href="http://media.baidu.com/redirect?source=yicai&amp;nid=5312476441012464434&amp;pos=15&amp;layout=2&amp;token=8218c873e415f8e79b96406b276f4ee5&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608658.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=yicai&amp;nid=5312476441012464434&amp;pos=15&amp;layout=2&amp;token=8218c873e415f8e79b96406b276f4ee5&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608658.html" target="_blank">习近平访巴首日 两国签能源金融大单</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=yicai&amp;nid=5312476441012464434&amp;pos=15&amp;layout=2&amp;token=8218c873e415f8e79b96406b276f4ee5&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608658.html" target="_blank"><img src="http://cmss.yicai.com/uppics/images/2015/04/xipakistan.jpg"/></a></p>
+<p class="summary">国家主席习近平在巴基斯坦首都伊斯兰堡出席巴基斯坦总统侯赛因和总理谢里夫共同举行的欢迎仪式、图片来自网...<a href="http://media.baidu.com/redirect?source=yicai&amp;nid=5312476441012464434&amp;pos=15&amp;layout=2&amp;token=8218c873e415f8e79b96406b276f4ee5&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608658.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/world">全球</a></p>
+<span class="author">
+<em>王琳</em>
+</span>
+<span class="time">04-21 10:58</span>
+</div>
+</div>
+<div class="feed_tegao" data-href="http://media.baidu.com/redirect?source=yicai&amp;nid=5152682925770168927&amp;pos=16&amp;layout=2&amp;token=3dd0c65ee279a98566ce16e1c522a73a&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608655.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=yicai&amp;nid=5152682925770168927&amp;pos=16&amp;layout=2&amp;token=3dd0c65ee279a98566ce16e1c522a73a&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608655.html" target="_blank">丝路基金首秀缘何花落“巴铁”</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=yicai&amp;nid=5152682925770168927&amp;pos=16&amp;layout=2&amp;token=3dd0c65ee279a98566ce16e1c522a73a&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608655.html" target="_blank"><img src="http://cmss.yicai.com/uppics/images/2015/04/4(29).jpg"/></a></p>
+<p class="summary">丝路基金2014年底注册成立后投资的首个项目花落巴基斯坦水电开发项目。<a href="http://media.baidu.com/redirect?source=yicai&amp;nid=5152682925770168927&amp;pos=16&amp;layout=2&amp;token=3dd0c65ee279a98566ce16e1c522a73a&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608655.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/finance">金融</a></p>
+<span class="author">
+<em>周艾琳</em>
+</span>
+<span class="time">04-21 10:58</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=yicai&amp;nid=5046153915608638589&amp;pos=17&amp;layout=2&amp;token=353486958dfe787e0ccf31e22fdd737e&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608653.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=yicai&amp;nid=5046153915608638589&amp;pos=17&amp;layout=2&amp;token=353486958dfe787e0ccf31e22fdd737e&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608653.html" target="_blank">稳增长为何一来就出“重拳”？</a>
+</h4>
+<p class="summary">中国人民银行决定，下调各类存款类金融机构人民币存款准备金率1个百分点。<a href="http://media.baidu.com/redirect?source=yicai&amp;nid=5046153915608638589&amp;pos=17&amp;layout=2&amp;token=353486958dfe787e0ccf31e22fdd737e&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608653.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/economy">宏观</a></p>
+<span class="author">
+<em>王子约</em>
+</span>
+<span class="time">04-21 10:26</span>
+</div>
+</div>
+<div class="feed_tegao noimg" data-href="http://media.baidu.com/redirect?source=yicai&amp;nid=5296224319107658074&amp;pos=18&amp;layout=2&amp;token=a4ceea42b853f6e8833757baf48ef4e3&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608648.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=yicai&amp;nid=5296224319107658074&amp;pos=18&amp;layout=2&amp;token=a4ceea42b853f6e8833757baf48ef4e3&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608648.html" target="_blank">降准为何没有“提振A股”</a>
+</h4>
+<p class="summary">上证综指盘中触及七年新高后“跳水”，最终与深证成指一道下跌超过1%。<a href="http://media.baidu.com/redirect?source=yicai&amp;nid=5296224319107658074&amp;pos=18&amp;layout=2&amp;token=a4ceea42b853f6e8833757baf48ef4e3&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608648.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/economy">宏观</a></p>
+<span class="author">
+<em>王子约</em>
+<em>李隽</em>
+<em>周艾琳</em>
+</span>
+<span class="time">04-21 10:26</span>
+</div>
+</div>
+<div class="feed_tegao" data-href="http://media.baidu.com/redirect?source=yicai&amp;nid=5083166298784597398&amp;pos=19&amp;layout=2&amp;token=aaea552e7e33858628d9477a2494d26e&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608644.html">
+<h4>
+<a href="http://media.baidu.com/redirect?source=yicai&amp;nid=5083166298784597398&amp;pos=19&amp;layout=2&amp;token=aaea552e7e33858628d9477a2494d26e&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608644.html" target="_blank">“互联网+”将再造中国奇迹</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=yicai&amp;nid=5083166298784597398&amp;pos=19&amp;layout=2&amp;token=aaea552e7e33858628d9477a2494d26e&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608644.html" target="_blank"><img src="http://cmss.yicai.com/uppics/slides/2015/04/635652076715412320.jpg"/></a></p>
+<p class="summary">中国经济并不是一片灰暗无光的天空，更多呈现“东边日出西边雨”的景象，在传统产业遭遇困境之时，新产业正...<a href="http://media.baidu.com/redirect?source=yicai&amp;nid=5083166298784597398&amp;pos=19&amp;layout=2&amp;token=aaea552e7e33858628d9477a2494d26e&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608644.html" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/opinion">思想</a></p>
+<span class="author">
+<em>社论</em>
+</span>
+<span class="time">04-21 10:26</span>
+</div>
+</div>
+</div>
+<div class="loading"><img src="/static/newsmedia/widget/mod_page/jm_loading_d04a658.gif"><b>正在加载，请稍候...</b></div>
+<div class="pages">
+<a href="javascript:;" class="btn btnP nodis">上一页</a>
+<div class="page"></div>
+<a href="javascript:;" class="btn btnN">下一页</a>
+</div>
+<div id="Footer" class="wp-footer">
+<p class="top-nav">
+<a href="http://news.baidu.com/" target="_blank">百度新闻</a>|<a href="mailto:media_news%40baidu.com" target="_blank">联系我们：media_news@baidu.com</a>
+<strong class="wp-wrap">百度新闻&第一财经日报联合出品</strong>
+<a href="http://news.baidu.com/"><img src="/static/newsmedia/widget/footer/baidunews_footer_d9a758b.png"></a>
+<a href="http://www.yicai.com" target="_blank"><img src="http://news.baidu.com/resource/r/image/2015-01-19/ae8d4c554c800e60792f18970faad7af.png"></a>
+</p>
+<p class="site-info">
+<i>京公网安备110000000001号</i>
+<a href="http://news.baidu.com/licence.html">互联网新闻信息服务许可</a>
+<span>©2014 Baidu</span>
+<a class="wp-wrap" href="http://www.baidu.com/duty/">使用百度前必读</a>
+<a class="wp-hide" target="_blank" href="http://net.china.cn/chinese/index.htm"><img src="http://gimg.baidu.com/img/net.gif"></a>
+<a class="wp-hide" target="_blank" href="http://www.bj.cyberpolice.cn/index.htm"><img alt="首都网络110报警服务" src="http://gimg.baidu.com/img/110.gif"></a>
+<a class="wp-hide" target="_blank" href="http://www.bjjubao.org/"><img src="http://news.baidu.com/resource/img/report_center.png"></a>
+</p>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?d09fe258c88c7015c3e6f8232ee9a563";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</div>
+</div>
+<div class="right">
+<div class="ap apRecommend">
+<div class="apt">
+<h4>热门文章</h4>
+<p class="entit"><span>HOT ARTICLE</span></p>
+</div>
+<div class="apc">
+<ul class="ulist">
+<li>
+<span class="num top3">1</span>
+<a href="http://media.baidu.com/redirect?source=yicai&amp;nid=5430749433712455043&amp;pos=0&amp;layout=4&amp;token=1e1094f8dfaac73ae8b3bbdfe556385d&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608699.html" title="港股还会继续火吗？这些双语术语先学起来！">港股还会继续火吗？这些双语术语先学起来！</a>
+<span class="tm">04-21 12:05</span>
+</li>
+<li>
+<span class="num top3">2</span>
+<a href="http://media.baidu.com/redirect?source=yicai&amp;nid=5123277144337675424&amp;pos=1&amp;layout=4&amp;token=7b08fbff0e0b2fe07808780c709221bc&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608705.html" title="国务院发布年度信息公开要点 国企首次纳入公开范围">国务院发布年度信息公开要点 国企首次纳入公开范围</a>
+<span class="tm">04-21 12:23</span>
+</li>
+<li>
+<span class="num top3">3</span>
+<a href="http://media.baidu.com/redirect?source=yicai&amp;nid=5062406037513444949&amp;pos=2&amp;layout=4&amp;token=6665df0a3ba39d78e1506300a6b648c2&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608663.html" title="天威集团尚未筹到付息资金 首只国企债券违约在即">天威集团尚未筹到付息资金 首只国企债券违约在即</a>
+<span class="tm">04-21 10:58</span>
+</li>
+<li>
+<span class="num">4</span>
+<a href="http://media.baidu.com/redirect?source=yicai&amp;nid=5011960886411133524&amp;pos=3&amp;layout=4&amp;token=577f86a6c35a8e747ea9c7a7eff44246&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608464.html" title="揭秘一季度公募调仓路径：抛售金融股 抢筹“中国智造”">揭秘一季度公募调仓路径：抛售金融股 抢筹“中国智造”</a>
+<span class="tm">04-20 23:51</span>
+</li>
+<li>
+<span class="num">5</span>
+<a href="http://media.baidu.com/redirect?source=yicai&amp;nid=5225018906734194200&amp;pos=4&amp;layout=4&amp;token=a0302f1461f908ca79f98c65e00192d1&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608468.html" title="“地产一哥”如何玩转互联网金融？绿地携手阿里共谋新棋局">“地产一哥”如何玩转互联网金融？绿地携手阿里共谋新棋局</a>
+<span class="tm">04-20 23:51</span>
+</li>
+<li>
+<span class="num">6</span>
+<a href="http://media.baidu.com/redirect?source=yicai&amp;nid=5327039777529378449&amp;pos=5&amp;layout=4&amp;token=b86e6225c373da7d29d01d8e39cff0e9&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608499.html" title="降准为何没有提振A股：大资金借机出货">降准为何没有提振A股：大资金借机出货</a>
+<span class="tm">04-21 06:53</span>
+</li>
+<li>
+<span class="num">7</span>
+<a href="http://media.baidu.com/redirect?source=yicai&amp;nid=5171754401653429031&amp;pos=6&amp;layout=4&amp;token=81f6999eea4c21f0863e2f46bdd52ffa&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608467.html" title="佳兆业财务冰山浮出水面 低价卖项目疑云丛生">佳兆业财务冰山浮出水面 低价卖项目疑云丛生</a>
+<span class="tm">04-20 23:51</span>
+</li>
+<li>
+<span class="num">8</span>
+<a href="http://media.baidu.com/redirect?source=yicai&amp;nid=5229527046100540289&amp;pos=7&amp;layout=4&amp;token=017ead1eeee72e27b9ec3cbfbaaed90e&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608439.html" title="香港离岸人民币资金池5年破万亿大关">香港离岸人民币资金池5年破万亿大关</a>
+<span class="tm">04-20 23:01</span>
+</li>
+<li>
+<span class="num">9</span>
+<a href="http://media.baidu.com/redirect?source=yicai&amp;nid=5102237774667857502&amp;pos=8&amp;layout=4&amp;token=143af8b37b15c669f2220e01b0a626e5&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608456.html" title="“深V”天量调整 南北车强弩之末？">“深V”天量调整 南北车强弩之末？</a>
+<span class="tm">04-20 23:52</span>
+</li>
+<li>
+<span class="num">10</span>
+<a href="http://media.baidu.com/redirect?source=yicai&amp;nid=5094910281323057669&amp;pos=9&amp;layout=4&amp;token=adb67165847ea8a233177d6b875a412d&amp;url=http%3A%2F%2Fwww.yicai.com%2Fnews%2Fbd%2F2015%2F04%2F4608683.html" title="多方司令异动揭市场方向 各大卖方怎么看？">多方司令异动揭市场方向 各大卖方怎么看？</a>
+<span class="tm">04-21 11:44</span>
+</li>
+</ul>
+</div>
+</div></div>
+</div>
+</div>
+<div id="Footer">
+<p class="top-nav">
+<a href="http://news.baidu.com/" target="_blank">百度新闻</a>|<a href="mailto:media_news%40baidu.com" target="_blank">联系我们：media_news@baidu.com</a>
+<strong class="wp-wrap">百度新闻&第一财经日报联合出品</strong>
+<a href="http://news.baidu.com/"><img src="/static/newsmedia/widget/footer/baidunews_footer_d9a758b.png"></a>
+<a href="http://www.yicai.com" target="_blank"><img src="http://news.baidu.com/resource/r/image/2015-01-19/ae8d4c554c800e60792f18970faad7af.png"></a>
+</p>
+<p class="site-info">
+<i>京公网安备110000000001号</i>
+<a href="http://news.baidu.com/licence.html">互联网新闻信息服务许可</a>
+<span>©2014 Baidu</span>
+<a class="wp-wrap" href="http://www.baidu.com/duty/">使用百度前必读</a>
+<a class="wp-hide" target="_blank" href="http://net.china.cn/chinese/index.htm"><img src="http://gimg.baidu.com/img/net.gif"></a>
+<a class="wp-hide" target="_blank" href="http://www.bj.cyberpolice.cn/index.htm"><img alt="首都网络110报警服务" src="http://gimg.baidu.com/img/110.gif"></a>
+<a class="wp-hide" target="_blank" href="http://www.bjjubao.org/"><img src="http://news.baidu.com/resource/img/report_center.png"></a>
+</p>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?d09fe258c88c7015c3e6f8232ee9a563";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</div>
+</div>
+<div class="mod-sidebar">
+<ul class="menu">
+<li class="toolbar">
+<a class="search" href="/search"><i class="icon-search"></i>搜索</a>
+|<a class="login" href="javascript:;">登录</a>
+<p class="username"></p>
+</li>
+<li class="item">
+<a href="/">首页</a>
+</li>
+<li class="item">
+<a href="/economy">宏观</a>
+</li>
+<li class="item">
+<a href="/politics">时政</a>
+</li>
+<li class="item">
+<a href="/world">全球</a>
+</li>
+<li class="item">
+<a href="/finance">金融</a>
+</li>
+<li class="item">
+<a href="/markets">股市</a>
+</li>
+<li class="item">
+<a href="/business">商业</a>
+</li>
+<li class="item">
+<a href="/consumption">消费</a>
+</li>
+<li class="item">
+<a href="/tech">科技</a>
+</li>
+<li class="item">
+<a href="/opinion">思想</a>
+</li>
+<li class="item">
+<a href="/life">人文</a>
+</li>
+<li class="item">
+<a href="/money">财经</a>
+</li>
+<li class="logo"><a href="http://news.baidu.com"><img src="/static/newsmedia/widget/mod_sidebar/logo-baidu_941ba05.png" height="26px" alt="baidu logo"></a></li>
+</ul>
+</div>
+</body><script type="text/javascript" src="/static/common/js/mod_b818356.js"></script>
+<script type="text/javascript" src="/static/common/js/jquery-1.10.1_77f5e40.js"></script>
+<script type="text/javascript" src="/static/common/pkg/aio_d41d8cd.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/mod_page/mod_page_78338ec.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/ap_ulist/ap_ulist_60537f4.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/header/header_3f34133.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/cover/cover_2e172d2.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/ui/iscroll/iscroll_93ba427.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/ui/velocity/velocity_022bc13.js"></script>
+<script type="text/javascript" src="/static/newsmedia/lessimgindex/lessimgindex_0e2d48b.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/mod_sidebar/mod_sidebar_5cf9d41.js"></script>
+<script type="text/javascript">!function(){    require.async('newsmedia:widget/mod_sidebar/mod_sidebar.js', function(login) {
+      login();
+    })
+  }();
+!function(){    var device = 'pc';
+    // 手机端直接监听每条新闻并跳转
+    if (device !== 'pc') {
+      $(function() {
+        var $banner = $('#banners');
+
+        $banner.delegate('.feed_tegao', 'click', function(ev) {
+          // 判断是否是点击了tag
+          var $target = $(ev.target);
+          if ($target.attr('href') &&
+            /^\/.*/.test($target.attr('href'))) return;
+
+          var $item = $(ev.currentTarget);
+          var href = $item.attr('data-href');
+
+          setTimeout(function() {
+            window.location.href = href;
+          }, 100)
+        });
+      });
+    }
+
+    alog("set", "alias", {
+         monkey: "http://img.baidu.com/hunter/alog/monkey.min.js",
+         element: "http://img.baidu.com/hunter/alog/element.min.js"
+     });
+
+     alog("require", ["monkey", "element"], function(monkey, element){
+         monkey.create({
+             page: "news-yicai",
+             pid: "241",
+             p: "133",
+             hid: "424",
+             postUrl: "http://nsclick.baidu.com/u.gif",
+             reports: {
+                refer: 1,
+                staytime: 1
+             }
+         });
+     });
+
+     alog("monkey.send", "pageview", { now: +new Date });
+  }();</script></html>

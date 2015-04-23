@@ -1,0 +1,1049 @@
+<!DOCTYPE html> 
+<html>
+<head>
+<!--STATUS OK-->
+<meta http-equiv=Content-Type content="text/html; charset=gb2312">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+<link rel="dns-prefetch" href="//ns0.bdstatic.com">
+<link rel="dns-prefetch" href="//ns1.bdstatic.com">
+
+<title>百度新闻搜索——全球最大的中文新闻平台</title>
+<meta name="description" content="百度新闻是包含海量资讯的新闻服务平台，真实反映每时每刻的新闻热点。您可以搜索新闻事件、热点话题、人物动态、产品资讯等，快速了解它们的最新进展。" >
+
+<script type="text/javascript" src="http://news.baidu.com/resource/js/usermonitor.js?v=1.1"></script>
+
+
+<script type="text/javascript" src="http://ns0.bdstatic.com/static/widget/common/base_js_include/base_js_include_07d218e7.js"></script>
+<script type="text/javascript">
+F._fileMap({'http://ns0.bdstatic.com/static/widget/common/framework_static_include/framework_static_include_7256f561.js' : ['/static/common/lib/magic/Background/Background.js',
+'/static/common/lib/magic/Base/Base.js',
+'/static/common/lib/magic/magic.js',
+'/static/common/lib/tangram/base/base.js',
+'/static/common/lib/magic/control/Dialog/Dialog.js',
+'/static/common/lib/magic/control/Layer/Layer.js',
+'/static/common/lib/magic/control/control.js',
+'/static/common/lib/magic/Dialog/Dialog.js',
+'/static/common/lib/magic/Mask/Mask.js',
+'/static/common/lib/magic/control/Tab/Tab.js',
+'/static/common/lib/magic/_query/_query.js',
+'/static/common/lib/magic/setup/setup.js',
+'/static/common/lib/magic/setup/tab/tab.js']});
+</script>
+
+<script type="text/javascript">
+F._fileMap({'http://ns0.bdstatic.com/static/widget/common/module_static_include/module_static_include_8ce41727.js' : ['/static/widget/common/favorite/favorite.js',
+'/static/widget/common/searchbox/searchbox.js',
+'/static/common/ui/jquery/jquery.js',
+'/static/common/ui/vs/ContentPlayer/ContentPlayer.js',
+'/static/common/ui/vs/DynamicList/DynamicList.js',
+'/static/common/ui/vs/ScrollView/ScrollView.js',
+'/static/common/ui/vs/citylist/citylist.js',
+'/static/common/ui/vs/clickMonitor/clickMonitor.js',
+'/static/common/ui/vs/delayload/delayload.js',
+'/static/common/ui/vs/enterState/enterState.js',
+'/static/common/ui/vs/observer/observer.js',
+'/static/common/ui/vs/slider/slider.js',
+'/static/common/ui/vs/suggestion/suggestion.js',
+'/static/common/ui/vs/utils/utils.js',
+'/static/common/ui/vs/vs.js']});
+</script>
+<link type="text/css" rel="stylesheet" href="http://ns1.bdstatic.com/static/widget/common/module_static_include/module_static_include_584ef63f.css"/>
+
+<script type="text/javascript">F._fileMap({'http://ns0.bdstatic.com/static/civilnews/focuscivil/focuscivil/focuscivil_6daaf9bd.js' : ['/static/widget/civilnews/focuscivil/col_local/col_local.js', '__virsul__']});F.use('__virsul__');</script><link href="http://ns1.bdstatic.com/static/civilnews/focuscivil/focuscivil/focuscivil_7c46a01d.css" rel="stylesheet" type="text/css"/>
+
+</head>
+<body>
+    <!--favorite-->
+    
+
+<div id="favoriteTips" style="display: none;"></div>
+<script language="javascript" type="text/javascript">
+F.use("/static/widget/common/favorite/favorite.js", function(favorite) {
+    favorite('favoriteTips');
+});
+</script>
+
+
+
+    <!--events-->
+    <!--userbar-->
+    <div id="usrbar" alog-group="userbar" alog-alias="hunter-userbar-start"></div>
+
+    
+<div id="headerwrapper">
+
+
+	<div id="header" alog-group="header" alog-alias="hunter-header-start">
+  		<!--顶部搜索框-->
+		
+			
+<form action="http://news.baidu.com/ns" name="fbaidu" class="sbox">
+	<table class="sbox" alog-group="search-box">
+		<tr>
+            <td class="logo">
+                <div class="logo">
+                    <a href="http://news.baidu.com/view.html">
+                        <!--ie6下使用带有背景色的logo,其余浏览器使用透明背景的logo-->
+                        <!--[if !IE]><!--><img src="/resource/img/logo_news_276_88.png?date=20150104" alt="百度新闻" height="46px" width="137px"><!--<![endif]-->
+                        <!--[if gt IE 6]><img src="/resource/img/logo_news_276_88.png?date=20150104" alt="百度新闻" height="46px" width="137px"><![endif]-->
+                        <!--[if IE 6]><img src="/resource/img/logo_news_276_88_for_ie6.png" alt="百度新闻" height="46px" width="137px"><![endif]-->
+                    </a>
+                </div>
+                <div class="date"><!--datebegin--><!--dateend--></div>
+            </td>
+            <td class="search">
+				<div class="tab"><span class="cur">新闻</span><a href="http://www.baidu.com/" title='web' mon="col=502&pn=0" onclick="queryTab(this);">网页</a><a href="http://tieba.baidu.com/" title="tieba" mon="col=502&pn=1" onclick="queryTab(this);">贴吧</a><a href="http://zhidao.baidu.com/" title="zhidao" mon="col=502&pn=2" onclick="queryTab(this);">知道</a><a href="http://music.baidu.com/" title="music" mon="col=502&pn=3" onclick="queryTab(this);">音乐</a><a href="http://image.baidu.com/" title="image" mon="col=502&pn=4" onclick="queryTab(this);">图片</a><a href="http://v.baidu.com/" title="video" mon="col=502&pn=5" onclick="queryTab(this);">视频</a><a href="http://map.baidu.com/" title="map" mon="col=502&pn=6" onclick="queryTab(this);">地图</a><a href="http://baike.baidu.com/" title="baike" mon="col=502&pn=7" onclick="queryTab(this);">百科</a><a href="http://wenku.baidu.com/" title="wenku"  mon="col=502&pn=8" onclick="queryTab(this);">文库</a></div>
+				<table>
+                    <tr>
+                        <td class="box"><div id="sugarea"><span class="s_ipt_wr" id="s_ipt_wr"><input class="word" id="ww" name="word" size="42"  maxlength="100" tabindex="1"></span><span class="s_btn_wr"><input class="btn" type="submit" value="百度一下" onmousedown="this.className='btn s_btn_h'" onmouseout="this.className='btn'"></span></div></td>
+                        <td class="help"><a href="http://www.baidu.com/search/news_help.html">帮助</a><span class="sep">|</span><a href="http://news.baidu.com/advanced_news.html">高级搜索</a><span class="sep">|</span><a href="http://news.baidu.com/pianhao.html">设置</a></td>
+                    </tr>
+                </table>
+                <!--ecombegin--><!--ecomend-->
+                <p class="search-radios">
+					<input type="radio" name="tn" value="news" checked="checked" id="news" style="display: none;">
+                    <label for="news" class="checked">新闻全文</label>
+					<input type="radio" name="tn" value="newstitle" id="newstitle" style="display: none;">
+                    <label for="newstitle" class="not-checked">新闻标题</label>
+                </p>
+				<input type="hidden" name="from" value="news">
+                <input type="hidden" name="cl" value="2">
+
+                <input type="hidden" name="rn" value="20">
+                <input type="hidden" name="ct" value="1">
+            </td></tr>
+	</table>
+</form>
+
+<script type="text/javascript">
+    F.use(["/static/common/lib/tangram/base/base.js","/static/widget/common/searchbox/searchbox.js","/static/common/ui/vs/suggestion/suggestion.js"], function(baidu,searchbox,suggestion){
+        baidu.dom.ready(function(){
+            searchbox();
+            if (navigator.cookieEnabled && !/sug?=0/.test(document.cookie)){
+                    suggestion();
+            }
+
+        });
+    });
+</script>
+<script type="text/javascript">F.module('/static/widget/common/searchbox/searchradio.js', function(require, exports){
+/*-----[ /widget/common/searchbox/searchradio.js ]-----*/
+var $ = require('/static/common/ui/jquery/jquery.js');
+
+var searchRadio = function() {
+	$(function() {
+        $('.search-radios').delegate('label', 'click', function() {
+            var $this = $(this);
+
+            if (willChange($this)) {
+                changeBackground($this);
+            }
+            // var checkedId = $(this).attr('for');
+            // var notCheckedId = getNotCheckedId(checkedId);
+
+            // changeCheckedAttr(checkedId, notCheckedId);
+            // changeCheckImg(checkedId, notCheckedId);
+        });
+
+        function willChange($this) {
+            var isChecked = $this.hasClass('checked');
+            var change = false;
+
+            if (!isChecked) {
+                change = true;
+            }
+
+            return change;
+        }
+
+        function changeBackground($this) {
+            var $anotherBtn = getAnotherBtn($this);
+
+            $this
+                .removeClass('not-checked')
+                .addClass('checked');
+
+            $anotherBtn
+                .removeClass('checked')
+                .addClass('not-checked');
+        }
+
+        function getAnotherBtn($this) {
+            var thisRadioId = $this.attr('for');    // label对应的radio的id
+            var $anotherBtn;
+
+            if (thisRadioId.indexOf('newstitle') > -1) {
+                $anotherBtn = $('.search-radios label[for="news"]');   
+            } else {
+                $anotherBtn = $('.search-radios label[for="newstitle"]');
+            }
+
+            return $anotherBtn;
+        }
+
+        // function getNotCheckedId(checkedId) {
+        //     var mark = checkedId.search('newstitle');
+
+        //     if (mark > -1) 
+        //         return 'news';
+        //     else 
+        //         return 'newstitle';
+        // }
+
+        // function changeCheckedAttr(checkedId, notCheckedId) {
+        //     $('#' + checkedId).attr('checked', 'checked');
+        //     $('#' + notCheckedId).removeAttr('checked');
+        // }
+
+        // function changeCheckImg(checkedId, notCheckedId) {
+        //     $('label[for="' + checkedId + '"]').children().eq(0).css('display', '');
+        //     $('label[for="' + checkedId + '"]').children().eq(1).css('display', 'none');
+            
+        //     $('label[for="' + notCheckedId + '"]').children().eq(0).css('display', 'none');
+        //     $('label[for="' + notCheckedId + '"]').children().eq(1).css('display', '');
+        // }
+    });
+};
+
+exports = searchRadio;
+return exports;}, ['/static/common/ui/jquery/jquery.js']);
+F.module('/static/widget/common/searchbox/searchboxActive.js', function(require, exports){
+/*-----[ /widget/common/searchbox/searchboxActive.js ]-----*/
+var $ = require('/static/common/ui/jquery/jquery.js');
+
+// 监听搜索框的focus状态，改变搜索框外层的边框样式
+var searchboxActive = function() {
+
+	var $searchbox = $('#ww');
+	var $searchboxWrap = $('#s_ipt_wr');
+
+	$searchbox
+		.on('focus', function() {
+			$searchboxWrap.addClass('focus-searchbox');
+		})
+		.on('blur', function() {
+			$searchboxWrap.removeClass('focus-searchbox');
+		});
+
+};
+
+exports = searchboxActive;
+
+return exports;}, ['/static/common/ui/jquery/jquery.js']);
+
+    F.use(['/static/widget/common/searchbox/searchradio.js', '/static/widget/common/searchbox/searchboxActive.js'], function(searchRadio, searchboxActive) {
+        searchRadio();
+        searchboxActive();
+    });
+</script>
+
+
+
+		
+		<!--默认首页导航-->
+		
+    
+<div id="menu" alog-group="domestic-menu">
+    <div id="channel-shanghai" class="clearfix"  style="display:none" >
+        <div class="menu-list">
+            <ul>
+                <li ><a href="http://news.baidu.com/view.html">首页</a></li>
+                <li><a href="http://baijia.baidu.com/" id="nav-hot-link" target="_blank">百家</a></li>
+                <li class=" icon-new-wrapper"><a href="http://jian.news.baidu.com/" target="_blank"><div class="icon-new"></div>个性推荐</a></li>
+                <li ><a href="http://sh.news.baidu.com/">上海</a></li>
+                <li ><a href="http://internet.baidu.com/">互联网</a></li>
+                <li ><a href="http://yule.baidu.com/">娱乐</a></li>
+                <li ><a href="http://mil.news.baidu.com/">军事</a></li>
+                <li ><a href="http://finance.baidu.com/">财经</a></li>
+                <li ><a href="http://sports.baidu.com/">体育</a></li>
+                <li  class="current"><a href="http://guonei.news.baidu.com/">国内</a></li>
+                <li ><a href="http://guoji.news.baidu.com/">国际</a></li>
+                <li ><a href="http://shehui.news.baidu.com/">社会</a></li>
+                <li ><a href="http://tech.baidu.com/">科技</a></li>
+                <li ><a href="http://lady.baidu.com/">女人</a></li>
+                <li ><a href="http://auto.baidu.com/">汽车</a></li>
+                <li ><a href="http://fangchan.news.baidu.com/">房产</a></li>
+                <li ><a href="http://youxi.news.baidu.com/">游戏</a></li>
+                <li ><a href="http://jiaoyu.news.baidu.com/">教育</a></li>
+                <li ><a href="http://shipin.news.baidu.com/">视频</a></li>
+            </ul>
+        </div>
+    </div>
+    <div id="channel-all" class="clearfix" >
+        <div class="menu-list">
+            <ul>
+                <li ><a href="http://news.baidu.com/view.html">首页</a></li>
+                <li><a href="http://baijia.baidu.com/" id="nav-hot-link" target="_blank">百家</a></li>
+                <li class=" icon-new-wrapper"><a href="http://jian.news.baidu.com/" target="_blank"><div class="icon-new"></div>个性推荐</a></li>
+                <li ><a href="http://internet.baidu.com/">互联网</a></li>
+                <li ><a href="http://yule.baidu.com/">娱乐</a></li>
+                <li ><a href="http://mil.news.baidu.com/">军事</a></li>
+                <li ><a href="http://finance.baidu.com/">财经</a></li>
+                <li ><a href="http://sports.baidu.com/">体育</a></li>
+                <li  class="current"><a href="http://guonei.news.baidu.com/">国内</a></li>
+                <li ><a href="http://guoji.news.baidu.com/">国际</a></li>
+                <li ><a href="http://shehui.news.baidu.com/">社会</a></li>
+                <li ><a href="http://tech.baidu.com/">科技</a></li>
+                <li ><a href="http://lady.baidu.com/">女人</a></li>
+                <li ><a href="http://auto.baidu.com/">汽车</a></li>
+                <li ><a href="http://fangchan.news.baidu.com/">房产</a></li>
+                <li ><a href="http://youxi.news.baidu.com/">游戏</a></li>
+                <li ><a href="http://jiaoyu.news.baidu.com/">教育</a></li>
+                <li ><a href="http://shipin.news.baidu.com/">视频</a></li>
+            </ul>
+        </div>
+        <div class="menu-ext">
+            <ul>
+                <li><a href="http://news.hao123.com/?src=baidunews_1016" mon="toptab=newssite&resouci=1">名站</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+
+
+	</div>
+    
+</div>
+
+
+	<div id="body" alog-alias="b">
+	<!--主体-->
+	
+    
+    <script type="text/javascript" language="javascript">
+        F.use('/static/common/ui/vs/clickMonitor/clickMonitor.js', function(clickMonitor){
+            clickMonitor.init('ONE_LEVEL_HOT', 'c=civilnews&cy=0');
+        });
+    </script>
+    <script type="text/javascript">
+        void function(e,t,n,a,o,i,m){e.alogObjectName=o,e[o]=e[o]||function(){(e[o].q=e[o].q||[]).push(arguments)},e[o].l=e[o].l||+new Date,i=t.createElement(n),i.asyn=1,i.src=a,m=t.getElementsByTagName(n)[0],m.parentNode.insertBefore(i,m)}(window,document,"script","http://img.baidu.com/hunter/alog.min.js","alog");
+    </script>
+    
+    <!--头部图片轮播-->
+    
+<div class="column clearfix" id="col_toparea">
+    
+    <div class="toparea-carousel" alog-group="focussports-carousel">
+	<div class="imgplayer clearfix" id="imgplayer">
+        <div id="imgplayer-control">
+        <a href="javascript:void(0);" mon="col=carousel&pos=ctr_l&ct=1&pn=0" id="imgplayer-prev"></a>
+        <a href="javascript:void(0);" mon="col=carousel&pos=ctr_r&ct=1&pn=0" id="imgplayer-next"></a>
+        </div>
+		<div class="imgview" id="imgView">
+			<a href="" target="_blank"><img src="http://news.baidu.com/iphone/img/loading_3.gif" class="firstimg" alt=""></a>
+		</div>
+        <div class="imgnav-mask"></div>
+		<div class="imgnav" id="imgNav">
+            			<a class="navbtn" index="3" mon="col=carousel&pos=dots&a=9pn=3" href="javascript:void(0)">3</a>
+            			<a class="navbtn" index="2" mon="col=carousel&pos=dots&a=9pn=2" href="javascript:void(0)">2</a>
+            			<a class="navbtn" index="1" mon="col=carousel&pos=dots&a=9pn=1" href="javascript:void(0)">1</a>
+                    </div>
+		<div class="imgtit" id="imgTitle">
+			<a href="" target="_blank"></a>
+		</div>
+	</div>
+    </div>
+    
+    <script type="text/javascript" language="javascript">
+        F.use(["/static/common/lib/tangram/base/base.js", "/static/common/ui/vs/ContentPlayer/ContentPlayer.js"], function(T, I) {
+        var G = T.dom.g;
+        var on = T.event.on;
+        var imgList = [];
+        var cpOptions_1 = {
+        getBtns: function(){
+            var a, btns; 
+                btns = G('imgNav').getElementsByTagName('a');
+                a = [];
+                for(var i=btns.length - 1; i>=0; i--){
+                    a.push(btns[i]);
+                }
+                return a;
+            },
+            mainViewContainer: G('imgView'),
+            prevBtn: G('imgplayer-prev'),
+            nextBtn: G('imgplayer-next'),
+            changeAction: 'mouseover',
+            subViewContainer: G('imgTitle'),
+            style: {on: 'active', off: ''},
+            mainViewTpl: '<a href="#{url}" target="_blank" mon="col=carousel&pos=img&pn=#{index}"><img src="#{imgUrl}"></a>',
+            subViewTpl: '<a href="#{url}" target="_blank" mon="col=carousel&pos=title&a=9&ct=1&pn=#{index}"><strong>#{title}</strong>#{abs}</a>',
+            curIndex: 0,
+            data: [],
+            interval: 5000
+            };
+        
+                                                    cpOptions_1.data.push({
+            "index": 1,
+                "title": "湖北秭归三峡库区现巨型垃圾漂浮带",
+                "url": "http:\/\/pic.chinadaily.com.cn\/2015-04\/17\/content_20458858.htm",
+                "imgUrl": "http:\/\/pic.chinadaily.com.cn\/img\/attachement\/jpg\/site1\/20150417\/0023ae5d724f169aea7c62.jpg",
+                "abs": "2014年9月24日，湖北秭归，长江２号洪峰过境，三峡水库出现巨型垃圾漂浮带"
+            });
+            imgList.push({"url":"http:\/\/pic.chinadaily.com.cn\/2015-04\/17\/content_20458858.htm"});
+                                                        cpOptions_1.data.push({
+            "index": 2,
+                "title": "湖南父母5年内接力割肝救孩子",
+                "url": "http:\/\/pic.chinadaily.com.cn\/2015-04\/17\/content_20455835.htm",
+                "imgUrl": "http:\/\/pic.chinadaily.com.cn\/img\/attachement\/jpg\/site1\/20150417\/0023ae5d724f169aadd253.jpg",
+                "abs": "4月16日，天津市第一中心医院为5岁儿童小体政进行二次亲体肝移植手术。患儿"
+            });
+            imgList.push({"url":"http:\/\/pic.chinadaily.com.cn\/2015-04\/17\/content_20455835.htm"});
+                                                        cpOptions_1.data.push({
+            "index": 3,
+                "title": "福建沿海盛行修“活人墓”侵占青山",
+                "url": "http:\/\/pic.chinadaily.com.cn\/2015-04\/17\/content_20455252.htm",
+                "imgUrl": "http:\/\/pic.chinadaily.com.cn\/img\/attachement\/jpg\/site1\/20150417\/0023ae5d724f169aa7da5c.jpg",
+                "abs": "福建沿海盛行修“活人墓” 青山被侵占"
+            });
+            imgList.push({"url":"http:\/\/pic.chinadaily.com.cn\/2015-04\/17\/content_20455252.htm"});
+                            
+           var index = 0 ; 
+           var url = location.href.substr(location.href.indexOf("?")+1).split("&");
+           var key ;
+           for(var i = 0 ; i < url.length ; i++){
+               var tmp = url[i].split("=");
+               if(tmp&&tmp.length>0&&tmp[0]=="lb"){
+                   key = tmp[1];
+               }
+               }
+           for(var p in imgList){
+               if(imgList[p].url == key){
+                   index = p ;
+               }
+           }
+           cpOptions_1.curIndex = index;
+           var cp_1 = new I.Model(cpOptions_1);
+
+           on(window, 'load', function(){
+               cp_1.play(index+1);
+           });
+
+           var controlers = baidu.dom.query('#imgNav a');
+           baidu.each(controlers,function(item,i){
+                baidu.on(item,'mouseover',function(e){
+                    UserMonitor.send(e, 6, { col: "carousel", ct: "1", m: "11", pn: 8-i, pos : "dots", ac : "mouseover"});
+                    window.alog && alog("monkey.fire", "record", {
+                        type: "click",
+                        target: item
+                    }); 
+                });
+            });
+        });
+           
+    </script>
+    
+
+
+
+    <div class="l-right-col" alog-group="log-internal-right">
+        <div class="mod" id="internal-aside-video">
+            <div class="hd"><h3><a href="http://guonei.news.baidu.com/n?cmd=4&class=civilnews&pn=1" target="_blank">即时新闻</a><span class="dec">INSTANT NEWS</span></h3></div>
+            <div class="bd">
+                <div id="instant-news">
+                    <ul class="ulist mix-ulist">
+                                                                        <li><a href="http://www.mlr.gov.cn/xwdt/dfdt/201504/t20150421_1348440.htm" class="title" target="_blank" mon="col=18&pn=1">山东省日照市国土资源局矿政管理启示录</a></li>
+                                                                                                <li><a href="http://www.cpnn.com.cn/tpzs/201504/t20150414_795337.html" class="title" target="_blank" mon="col=18&pn=2">固镇供电：志愿者体验蹴球民俗文化</a></li>
+                                                                                                <li><a href="http://www.cpnn.com.cn/tpzs/201504/t20150414_795345.html" class="title" target="_blank" mon="col=18&pn=3">西安供电：暴雨应急抢修高效复电</a></li>
+                                                                                                <li><a href="http://www.cpnn.com.cn/tpzs/201504/t20150414_795340.html" class="title" target="_blank" mon="col=18&pn=4">皋兰供电：全面消缺保春耕可靠供电</a></li>
+                                                                                                <li><a href="http://leaders.people.com.cn/n/2015/0421/c58278-26879008.html" class="title" target="_blank" mon="col=18&pn=5">刘慧:以特事特办的精神加快工程进度 保证工期</a></li>
+                                                                                                <li><a href="http://www.cma.gov.cn/2011xwzx/2011xqxxw/2011xjctz/201504/t20150421_279991.html" class="title" target="_blank" mon="col=18&pn=6">镇沅：提前研判早落实多举措备战汛期服务</a></li>
+                                                                                                <li><a href="http://xm.focus.cn/news/2015-04-21/6200356.html" class="title" target="_blank" mon="col=18&pn=7">台湾1小时内发生三次地震 厦门地区有明显震感</a></li>
+                                                                                                <li><a href="http://www.he.xinhuanet.com/news/2015-04/21/c_1115035088.htm" class="title" target="_blank" mon="col=18&pn=8">[要闻]衡水：2015列为“环保攻坚年” 四大重</a></li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+
+
+    <!-- start 头部焦点-->
+    
+<div class="column clearfix" id="col_focus" alog-group="log-focus">
+        <div class="l-left-col">
+            
+<div class="column-title" >
+            <div class="column-title-border">
+                                    <h2>焦点新闻<span class="cname">FOCAL NEWS</span></h2>
+                
+                                
+            
+            </div>
+    </div>
+
+
+            
+            <div class="b-left" >
+            
+
+<ul class="ulist "  >
+                                    <li class="bold-item">            <a href="http://society.people.com.cn/n/2015/0421/c1008-26878071.html" mon="col=1&amp;a=2&pn=1" target="_blank">江苏南京一乙烯厂乙烯储罐发生爆炸 明火已经扑灭</a></li>
+							    			                        
+                                        <li>            <a href="http://news.gmw.cn/newspaper/2015-04/21/content_106086988.htm" mon="col=1&amp;a=2&pn=2" target="_blank">幸海里社工为老年居民读报 </a></li>
+							    			                        
+                                        <li>            <a href="http://www.chinanews.com/gn/2015/04-20/7220879.shtml" mon="col=1&amp;a=2&pn=3" target="_blank">穗广日集团现“塌方式”腐败 连续五名高管被查 </a></li>
+							    			                        
+                                        <li>            <a href="http://www.chinanews.com/ga/2015/04-20/7219640.shtml" mon="col=1&amp;a=2&pn=4" target="_blank">港媒吁泛民议员顺应民意“放行”普选 </a></li>
+							    			                        
+                                        <li>            <a href="http://www.jfdaily.com/guonei/new/201504/t20150421_1435824.html" mon="col=1&amp;a=2&pn=5" target="_blank">2014年辽宁省受理1562件知识产权案件</a></li>
+							    			                        
+                                        <li>            <a href="http://politics.people.com.cn/n/2015/0420/c70731-26875608.html" mon="col=1&amp;a=2&pn=6" target="_blank">台湾地区一天多震 福建沿海多地震感明显</a></li>
+							    					</ul>
+                    <ul class="ulist " >
+				    			                        
+                                        <li class="bold-item">            <a href="http://www.jfdaily.com/guonei/new/201504/t20150420_1434505.html" mon="col=1&amp;a=2&pn=7" target="_blank">四川江油全川首发“五项清单”晒政府权责</a></li>
+							    			                        
+                                        <li>            <a href="http://tw.people.com.cn/n/2015/0420/c14657-26873716.html" mon="col=1&amp;a=2&pn=8" target="_blank">洪秀柱今领表参选 朱立伦避谈看法（图）</a></li>
+							    			                        
+                                        <li>            <a href="http://news.china.com.cn/live/2015-04/20/content_32363270.htm" mon="col=1&amp;a=2&pn=9" target="_blank">国家安全法草案明确总体国家安全观内涵 </a></li>
+							    			                        
+                                        <li>            <a href="http://estate.caijing.com.cn/20150421/3866055.shtml" mon="col=1&amp;a=2&pn=10" target="_blank">长实和黄并购获批 李嘉诚称仍会不断在内地投资</a></li>
+							    			                        
+                                        <li>            <a href="http://leaders.people.com.cn/n/2015/0421/c58278-26878325.html" mon="col=1&amp;a=2&pn=11" target="_blank">如何为党和政府服务座谈会召开 社会智库关注生态..</a></li>
+							    			                        
+                                        <li>            <a href="http://news.xinhuanet.com/legal/2015-04/21/c_127713851.htm" mon="col=1&amp;a=2&pn=12" target="_blank">深圳地铁一乘客晕倒引踩踏12人轻伤送院(图) </a></li>
+							    			                                    <!--MONITOR CIVILNEWS_FOCUS OK 12 HOTAREA-->
+            
+</ul>
+
+
+
+        </div>
+    
+
+            
+<div class="ilist">
+    <ul>
+                                                            <li><a href="http://www.yangtse.com/nanjing/2015-04-20/502700.html" mon="col=2&amp;a=12&pn=1" target="_blank"><img r_src="http://t3.baidu.com/it/u=http%3A%2F%2Fy0.ifengimg.com%2Fb3011caaee2bce1e%2F2015%2F0420%2Frdn_55342c599bb9b.jpg&amp;fm=30"/><span class="title">南京检方未批捕虐童养母 公安部官员：</span></a></li>
+                            
+
+                                                                    <li><a href="http://news.qq.com/a/20150421/009857.htm" mon="col=2&amp;a=12&pn=2" target="_blank"><img r_src="http://t1.baidu.com/it/u=http%3A%2F%2Fimg1.gtimg.com%2Fnews%2Fpics%2Fhv1%2F233%2F238%2F1824%2F118666523.jpg&amp;fm=30"/><span class="title">新修订《中国共产党巡视工作条例》已“</span></a></li>
+                            
+
+                                                                
+
+                                                                
+
+                    </ul>
+</div>
+
+
+        </div>
+
+        <div class="l-right-col">
+            <div class="mod" id="focus-aside-news">
+                <div class="hd"><h3><a href="http://guonei.news.baidu.com/n?cmd=10&class=vid2civil&pn=1&from=tab" target="_blank">视频新闻</a><span class="dec">VIDEO NEWS</span></h3><a href="http://guonei.news.baidu.com/n?cmd=10&class=vid2civil&pn=1&from=tab" target="_blank" class="more"></a></div>
+                <div class="bd">
+                    <div id="focus-videos">
+                                                                    
+        <div class="topic">
+        <p class="picture"><a href="http://v.china.com.cn/news/2015-04/21/content_35373866.htm" target="_blank" mon=""><img src="http://t2.baidu.com/it/u=604842415,3184025553&fm=20"/><span class="play"></span></a></p>
+        <p class="title"><a href="http://v.china.com.cn/news/2015-04/21/content_35373866.htm" target="_blank" mon="">习近平会见巴基斯坦友好人士和团体代表 并颁发和..</a></p>
+    </div>
+    
+
+                                                                                            
+        <div class="topic">
+        <p class="picture"><a href="http://v.china.com.cn/news/2015-04/21/content_35373874.htm" target="_blank" mon=""><img src="http://t2.baidu.com/it/u=315829997,3551379153&fm=20"/><span class="play"></span></a></p>
+        <p class="title"><a href="http://v.china.com.cn/news/2015-04/21/content_35373874.htm" target="_blank" mon="">习近平与巴基斯坦总理谢里夫种植友谊树</a></p>
+    </div>
+    
+
+                                                                                            
+        <div class="topic">
+        <p class="picture"><a href="http://v.china.com.cn/news/2015-04/21/content_35373996.htm" target="_blank" mon=""><img src="http://t1.baidu.com/it/u=471487375,3965851023&fm=20"/><span class="play"></span></a></p>
+        <p class="title"><a href="http://v.china.com.cn/news/2015-04/21/content_35373996.htm" target="_blank" mon="">习近平同巴基斯坦总理谢里夫举行会谈</a></p>
+    </div>
+    
+
+                                                                                            
+        <div class="topic">
+        <p class="picture"><a href="http://v.china.com.cn/news/2015-04/21/content_35373755.htm" target="_blank" mon=""><img src="http://t3.baidu.com/it/u=3162243139,2281697016&fm=20"/><span class="play"></span></a></p>
+        <p class="title"><a href="http://v.china.com.cn/news/2015-04/21/content_35373755.htm" target="_blank" mon="">央行降准理财收益有所下降 交易量相对平稳</a></p>
+    </div>
+    
+
+                                                                                                                                                                                                                                                                                                                                        </div>
+                </div>
+            </div>
+
+        </div>
+</div>
+
+
+
+    <!-- start 地方新闻-->
+    
+    <div class="column clearfix" id="col_local" alog-group="log-local">
+        <div class="l-left-col">
+            <div class="column-title" alog-group="log-mil-title">
+                <div class="column-title-border">
+                    <h2><span id="city_name"><a href="http://news.baidu.com/n?cmd=6&loc=0&name=%B1%B1%BE%A9&locname=%B1%B1%BE%A9&locid=0" target="_blank"><span>北京</span>新闻</a></span><span class="cname">LOCAL NEWS</span></h2>
+                    <a id="change-city" class="select-btn">更换城市</a>
+                    <span class="more" id="p-more-link"><a href="http://news.baidu.com/n?cmd=6&loc=0&name=%B1%B1%BE%A9&locname=%B1%B1%BE%A9&locid=0" id="more-link" target="_blank">更多</a></span>
+                </div>
+            </div>
+
+            <div class="b-left"  id="localnews-focus">
+
+                <ul class="ulist">
+                                                            <li class="bold-item"><a href="http://bj.people.com.cn/n/2015/0420/c82840-24566781.html" mon="col=23&a=1&pn=1" target="_blank">谷雨天晴 明日高温28℃</a></li>
+                                                            
+                                        <li><a href="http://bj.people.com.cn/n/2015/0421/c82840-24572109.html" mon="col=23&a=1&pn=2" target="_blank">万株杨柳“打针” 公园少飞絮</a></li>
+                                                                                
+                                        <li><a href="http://bj.people.com.cn/n/2015/0421/c82840-24571541.html" mon="col=23&a=1&pn=3" target="_blank">采取压煤控油等硬措施 北京一季度PM2.5浓度下降19%</a></li>
+                                                                                
+                                        <li><a href="http://bj.people.com.cn/n/2015/0421/c82840-24571564.html" mon="col=23&a=1&pn=4" target="_blank">健康城市建设研究报告暨蓝皮书发布 为&quot;城市病&quot;开方</a></li>
+                                                                                
+                                        <li><a href="http://bj.people.com.cn/n/2015/0421/c82840-24571544.html" mon="col=23&a=1&pn=5" target="_blank">70余项“蓝天”课题联手防治大气污染</a></li>
+                                                                                
+                                        <li><a href="http://bj.people.com.cn/n/2015/0421/c364485-24572264.html" mon="col=23&a=1&pn=6" target="_blank">“五一”小长假增开武汉杭州等方向列车</a></li>
+                                                                                
+                                        </ul><ul class="ulist">
+
+                    <li class="bold-item"><a href="http://bj.people.com.cn/n/2015/0420/c82840-24566486.html" mon="col=23&a=1&pn=7" target="_blank">城市道路空气净化系统受测 平均减少PM2.5浓度40%</a></li>
+                                                                                
+                                        <li><a href="http://beijing.qianlong.com/3825/2015/04/21/7044@10279672.htm" mon="col=23&a=1&pn=8" target="_blank">京味文化再牵两岸中华情</a></li>
+                                                                                
+                                        <li><a href="http://bj.people.com.cn/n/2015/0421/c82840-24571738.html" mon="col=23&a=1&pn=9" target="_blank">食品安全法修订草案三审 蔬菜瓜果拟禁用剧毒农药</a></li>
+                                                                                
+                                        <li><a href="http://bj.people.com.cn/n/2015/0421/c82840-24572451.html" mon="col=23&a=1&pn=10" target="_blank">北京3年内推广应用20万新能源车</a></li>
+                                                                                
+                                        <li><a href="http://bj.people.com.cn/n/2015/0420/c82840-24565076.html" mon="col=23&a=1&pn=11" target="_blank">骗钱“引导员”西站门口堵乘客</a></li>
+                                                                                
+                                        <li><a href="http://news.sina.com.cn/s/p/2015-04-20/135931738373.shtml" mon="col=23&a=1&pn=12" target="_blank">大巴车撞限高杆车头顶部被掀开(图)</a></li>
+                                                                            </ul>
+            </div>
+
+            <div class="ilist"  id="local_default">
+                <ul>
+                                                                    <li><a href="http://news.xinhuanet.com/politics/2015-04/21/c_127714121.htm" mon="col=6&a=12&pn=1" target="_blank"><img r_src="http://t3.baidu.com/it/u=http%3A%2F%2Fnews.xinhuanet.com%2Fpolitics%2F2015-04%2F21%2F13435841320368248679_11n.jpg&amp;fm=30"/><span class="title">外交部副部长张业遂会见加拿大外交部助</span></a></li>
+                                                                                            <li><a href="http://news.xinhuanet.com/politics/2015-04/21/c_127711278.htm" mon="col=6&a=12&pn=2" target="_blank"><img r_src="http://t2.baidu.com/it/u=http%3A%2F%2Fnews.xinhuanet.com%2Fpolitics%2F2015-04%2F21%2F127711278_14295182308511n.jpg&amp;fm=30"/><span class="title">县处级干部践行“三严三实”要做到“五</span></a></li>
+                                                            </ul>
+            </div>
+            <div class="ilist"  id="local_current" style="display:none">
+                <ul id="local-picnews"></ul>
+            </div>
+        </div>
+        <div class="l-right-col">
+            <div class="mod">
+                <div class="hd"><h3>热门新闻<span class="dec">HOT NEWS</span></h3></div>
+                <div class="bd">
+                <div id="hot-article">
+                       <ul class="olist">
+                                                                                                                <li class="head-item">
+                                <span class="in-top-item">
+                                    <a class="in-top-item-title" href="http://news.youth.cn/sz/201504/t20150420_6589544.htm" target="_blank" mon="col=25&pn=1">青海省军区原副司令员魏泽刚调任</a>
+                                    <span class="in-top-item-text">4月9日，党政军领导在兰州市南滨河路人与自然广场两侧绿化带参加了义务植树...</span>
+                                    <span class="in-top-item-decorate">01</span>
+                                </span>
+                            </li>
+                                                                                                                                                                                                    <li><span class="listnum ">02</span><a href="http://news.xinhuanet.com/local/2015-04/20/c_1115027894.htm" class="title" target="_blank" mon="col=7&pn=2">北京将对８万株杨柳“节育”抑制飞絮 </a><a href="" class="soure" target="_blank" mon="col=7&pn=2"></a></li>
+                                                                                                                                                                                                    <li><span class="listnum ">03</span><a href="http://news.china.com/focus/taiwan/11165943/20150419/19549363.html" class="title" target="_blank" mon="col=7&pn=3">吕秀莲称大陆明年将&quot;一举解决台湾问题&quot;(</a><a href="" class="soure" target="_blank" mon="col=7&pn=3"></a></li>
+                                                                                                                                                                                                    <li><span class="listnum gray">04</span><a href="http://news.southcn.com/china/content/2015-04/20/content_122622321.htm" class="title" target="_blank" mon="col=7&pn=4">中国反腐停不下来 天价藏獒沦为火锅配菜</a><a href="" class="soure" target="_blank" mon="col=7&pn=4"></a></li>
+                                                                                                                                                                                                    <li><span class="listnum gray">05</span><a href="http://www.sznews.com/news/content/2015-04/20/content_11479510.htm" class="title" target="_blank" mon="col=7&pn=5">深圳20日有大风雨 请做好防御措施！24日</a><a href="" class="soure" target="_blank" mon="col=7&pn=5"></a></li>
+                                                                                                                                                                                                    <li><span class="listnum gray">06</span><a href="http://news.china.com.cn/live/2015-04/20/content_32366839.htm" class="title" target="_blank" mon="col=7&pn=6">山西大同同煤集团姜家湾煤矿透水 24人被</a><a href="" class="soure" target="_blank" mon="col=7&pn=6"></a></li>
+                                                                                                                                                                                                    <li><span class="listnum gray">07</span><a href="http://bj.people.com.cn/n/2015/0420/c82847-24561326.html" class="title" target="_blank" mon="col=7&pn=7">北京地铁2号线信号故障 大批乘客滞留站内</a><a href="" class="soure" target="_blank" mon="col=7&pn=7"></a></li>
+                                                                                                                                                                                                    <li><span class="listnum gray">08</span><a href="http://news.ycwb.com/2015-04/19/content_20111391.htm" class="title" target="_blank" mon="col=7&pn=8">今明广东将迎雷雨大风 “广州将连下10天</a><a href="" class="soure" target="_blank" mon="col=7&pn=8"></a></li>
+                                                        <!--MONITOR CIVILNEWS_RMDJ OK 8  HOTAREA-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+                        </ul>
+                </div>
+                </div>
+            </div>
+
+        </div>
+        <!--div id="city_view_bg" class="view_bg"></div-->
+        <div id="city_view" class="city_view">
+            <div class="city_list"></div>
+            <div id="btn_back" class="btn_back">返回上一层</div>
+            <div id="btn_close" class="btn_close"></div>
+            <div class="up_triangle"></div>
+        </div>
+        <div id="status" class="loading">正在加载，请稍候...</div>
+
+
+</div>
+
+<script type="text/javascript">
+F.use('/static/widget/civilnews/focuscivil/col_local/col_local.js', function(initLocalHotNews){
+    
+    //地方新闻和各地房产新闻共享LocalNewsConfig配置
+    window.LocalNewsConfig = {
+        cookieName: 'LOCALGX',
+        cookieDomain: 'news.baidu.com',
+        defaultFailedLocalCity: '北京',
+        defaultLocalCityID:0,
+        defaultHouseCity: '北京',
+        defaultFailedHouseCity: '各地',
+        htmlTpl: {
+            more_link: '<a target="_blank" href="http://news.baidu.com/n?cmd=6&loc=#{locID}&name=#{city_name}&locname=#{city_name}&locid=#{locID}" id="more-link" style="visibility: visible;">更多</a> ',
+            more_link_sh: '<a target="_blank" href="http://sh.news.baidu.com/" id="more-link" style="visibility: visible;">更多</a> ',
+            city_list: '<a href="javascript:void(0);" mon="col=10&locname=#{city_name}&locid=#{locID}" prop="#{prop}">#{title}</a> ',
+            city_name_link: '<a href="http://news.baidu.com/n?cmd=6&loc=#{locID}&name=#{city_name}&locname=#{city_name}&locid=#{locID}" target="_blank" class="#{class_name}"><b>#{city_name}</b>新闻</a>',
+            city_name_link_sh: '<a href="http://sh.news.baidu.com/" target="_blank" class="#{class_name}"><b>#{city_name}</b>新闻</a>',
+            city_name_no_link: '<b>#{city_name}</b>新闻',
+            focus : '<li><a href="#{url}" mon="c=civilnews&ct=0&a=27&col=8&locname=#{city_name}&locid=#{locID}" target="_blank">#{title}</a></li>',
+            focus_bold : '<li class="bold-item"><a href="#{url}" mon="c=civilnews&ct=0&a=27&col=8&locname=#{city_name}&locid=#{locID}" target="_blank">#{title}</a></li>',
+            pic : '<li><a href="#{url}" mon="col=6&a=12&pn=#{index}" target="_blank"><img src="#{imgUrl}"/><span class="title">#{title}</span></a></li>'
+        },
+        timeout: 5000
+    }
+    initLocalHotNews({
+        pageType: 'TOP',
+        request: {
+            url: '/n?m=rddata&v=index_data&fr=guonei&picn1=2',
+            callback : 'bdNewsJsonCallBack'
+        },
+        //data: city.localCities,
+        triggerLevel: 2,
+        statusID: 'status',
+        cityNameID: 'city_name',
+        pmoreLinkID: 'p-more-link',
+        moreLinkID: 'more-link',
+        cityViewID: 'city_view',
+        cityViewBgID: 'city_view_bg',
+        changeCityID: 'change-city',
+        closeBtnID: 'btn_close',
+        backBtnID: 'btn_back',
+        localNewsID:{
+            focus : 'localnews-focus',
+            pic : 'local-picnews'
+        },
+        maxItemsShown: 10,
+        timeout: LocalNewsConfig.timeout
+
+    });
+
+
+});
+</script>
+
+
+
+
+
+    <!-- start 港澳台-->
+    
+<div class="column clearfix" id="col_gangaotai" alog-group="log-gangaotai">
+    <div class="l-left-col">
+        
+<div class="column-title" >
+            <div class="column-title-border">
+                                    <h2>港澳台<span class="cname">HK,MACAU&amp;TAIWAN</span></h2>
+                
+                                
+            
+            </div>
+    </div>
+
+
+        <div class="b-left">
+        <h4 style="padding:9px 0 10px"><a href="/n?cmd=1&class=taiwan&pn=1" target="_blank">台湾</a></h4>
+        <ul class="ulist">
+                                <li><a href="http://www.taihainet.com/news/twnews/twdnsz/2015-04-21/1399363.html" class="title" target="_blank" mon="col=9&a=2&z=taiwan&pn=1">民进党：若“执政” 10个月内提兵役制检讨</a></li>
+                                            <li><a href="http://www.huaxia.com/jjtw/dnzq/2015/04/4366635.html" class="title" target="_blank" mon="col=9&a=2&z=taiwan&pn=2">蔡英文：全力推动完成两岸监督条例</a></li>
+                                            <li><a href="http://www.chinanews.com/tw/2015/04-21/7221540.shtml" class="title" target="_blank" mon="col=9&a=2&z=taiwan&pn=3">李登辉：蔡英文“大选”路将面临重重困难与考</a></li>
+                                            <li><a href="http://www.huaxia.com/xw/twxw/2015/04/4366629.html" class="title" target="_blank" mon="col=9&a=2&z=taiwan&pn=4">台湾募兵出现缺口 19个月须补近3.6万人</a></li>
+                                            <li><a href="http://msn.huanqiu.com/taiwan/article/2015-04/6242783.html" class="title" target="_blank" mon="col=9&a=2&z=taiwan&pn=5">被点名却按兵不动 国民党谁来选“总统”迷雾</a></li>
+                                                </ul>
+        <h4 style="padding:9px 0 10px"><a href="/n?cmd=1&class=gangaotai&pn=1" target="_blank">港澳</a></h4>
+        <ul class="ulist">
+                                <li><a href="http://news.takungpao.com/hkol/politics/2015-04/2978066.html" class="title" target="_blank" mon="col=10&a=2&z=gangaotai&pn=1">港岛联吁反对派听民意 表决前会继续做民调</a></li>
+                                            <li><a href="http://www.chinanews.com/ga/2015/04-21/7221663.shtml" class="title" target="_blank" mon="col=10&a=2&z=gangaotai&pn=2">港府官员：香港或随时爆发登革热个案 </a></li>
+                                            <li><a href="http://www.chinanews.com/ga/2015/04-21/7221681.shtml" class="title" target="_blank" mon="col=10&a=2&z=gangaotai&pn=3">香港通讯局将于明年撤销亚洲电视的频率 </a></li>
+                                            <li><a href="http://www.chinanews.com/ga/2015/04-21/7221634.shtml" class="title" target="_blank" mon="col=10&a=2&z=gangaotai&pn=4">香港中联办副主任:冀各界共同努力让普选梦想</a></li>
+                                            <li><a href="http://sz.bendibao.com/news/2015421/687629.htm" class="title" target="_blank" mon="col=10&a=2&z=gangaotai&pn=5">深圳出入境征集“一周一行”对深圳人的影响</a></li>
+                                                </ul>
+
+        </div>
+
+        
+<div class="ilist">
+    <ul>
+                                                            <li><a href="http://www.chinadaily.com.cn/micro-reading/china/2015-04-21/content_13576198.html" mon="col=11&amp;a=12&amp;z=taiwan&pn=1" target="_blank"><img r_src="http://t1.baidu.com/it/u=http%3A%2F%2Fnews.youth.cn%2Fgn%2F201504%2FW020150421289589399672.jpg&amp;fm=30"/><span class="title">民进党决定放行《两岸协议监督条例》 </span></a></li>
+                            
+
+                                                                    <li><a href="http://www.huaxia.com/jjtw/dnzq/2015/04/4366586.html" mon="col=11&amp;a=12&amp;z=taiwan&pn=2" target="_blank"><img r_src="http://t1.baidu.com/it/u=http%3A%2F%2Fwww.huaxia.com%2Fjjtw%2Fdnzq%2Fimages%2F20150421%2F652436.jpg&amp;fm=30"/><span class="title">李登辉：蔡英文台湾地区领导人之路 困</span></a></li>
+                            
+
+                    </ul>
+</div>
+
+
+    </div>
+    <div class="l-right-col">
+        <div class="mod" id="gangaitai-aside-news">
+            <div class="hd"><h3><a href="http://guonei.news.baidu.com/n?cmd=4&class=twms&pn=1" target="_blank">台湾民生</a><span class="dec">TAIWAN LIVELIHOOD</span></h3><a href="http://guonei.news.baidu.com/n?cmd=4&class=twms&pn=1" target="_blank" class="more"></a>
+            </div>
+            <div class="bd">
+                <div id="twms-news">
+                    <ul class="ulist mix-ulist"  style="margin-top:-9px">
+                                                                                                                                                                                                    <li><a href="http://news.china.com.cn/live/2015-04/21/content_32374389.htm" class="title" target="_blank" mon="col=12&a=9&z=twms&pn=2">台湾6.3级地震致变电箱起火爆炸 造成1死1伤 </a></li>
+                                                                                                                                                        <li><a href="http://xm.focus.cn/news/2015-04-21/6200356.html" class="title" target="_blank" mon="col=12&a=9&z=twms&pn=3">台湾1小时内发生三次地震 厦门地区有明显震感</a></li>
+                                                                                                                                                        <li><a href="http://weifang.dzwww.com/wfxwn/201504/t20150421_12257775.htm" class="title" target="_blank" mon="col=12&a=9&z=twms&pn=4">2015寿光菜博会首次单独设台湾馆 免费开放</a></li>
+                                                                                                                                                        <li><a href="http://www.chinanews.com/tw/2015/04-21/7221682.shtml" class="title" target="_blank" mon="col=12&a=9&z=twms&pn=5">澎湖海上花火节开场 绚丽烟火让民众惊呼连连</a></li>
+                                                                                                                                                        <li><a href="http://society.cankaoxiaoxi.com/2015/0421/750082.shtml" class="title" target="_blank" mon="col=12&a=9&z=twms&pn=6">台湾嘉宾出席郑州成功财经学院建校十一周年庆</a></li>
+                                                                                                                                                        <li><a href="http://news.china.com.cn/live/2015-04/21/content_32372743.htm" class="title" target="_blank" mon="col=12&a=9&z=twms&pn=7">台湾一天发生四次地震 专家称未来或发生5级左</a></li>
+                                                                                                                                                        <li><a href="http://news.china.com.cn/live/2015-04/20/content_32360522.htm" class="title" target="_blank" mon="col=12&a=9&z=twms&pn=8">今日9时42分 台湾花莲县附近海域6.4级地震 </a></li>
+                                                                                                                                                        <li><a href="http://news.ycwb.com/2015-04/20/content_20116178.htm" class="title" target="_blank" mon="col=12&a=9&z=twms&pn=9">潮汕遭遇天气奇变:上午多地震感强 下午多地冰</a></li>
+                                                                                                                                                        <li><a href="http://politics.people.com.cn/n/2015/0421/c70731-26875932.html" class="title" target="_blank" mon="col=12&a=9&z=twms&pn=10">茶博会将在农业展览馆举办</a></li>
+                                                                                                                                                        <li><a href="http://legal.people.com.cn/n/2015/0421/c188502-26878775.html" class="title" target="_blank" mon="col=12&a=9&z=twms&pn=11">大陆游客参观台北101大楼遇地震 淡定拍照（图</a></li>
+                                                                                            </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+    <!--start 时政要闻-->
+    
+    <div class="column clearfix" id="col_politics" alog-group="log-shizheng">
+        <div class="l-left-col">
+            
+<div class="column-title" >
+            <div class="column-title-border">
+                                                        <h2><a href="/n?cmd=1&class=shizheng&pn=1" target="_blank">时政要闻</a><span class="cname">CURRENT NEWS</span></h2>
+                    <span class="more"><a href="/n?cmd=1&class=shizheng&pn=1" target="_blank">更多</a></span>
+                                    
+                                
+            
+            </div>
+    </div>
+
+
+            
+            <div class="b-left" >
+            
+
+<ul class="ulist "  >
+                                    <li class="bold-item">            <a href="http://legal.people.com.cn/n/2015/0421/c42510-26877020.html" mon="col=14&amp;a=1&amp;z=shizhen&pn=1" target="_blank">南京不批捕虐童案养母引担忧：以后或想管管不了</a></li>
+							    			                        
+                                        <li>            <a href="http://news.xinhuanet.com/legal/2015-04/21/c_127713039.htm" mon="col=14&amp;a=1&amp;z=shizhen&pn=2" target="_blank">2015&quot;天网&quot;行动首战告捷纪实：逃过初一逃不过十五 </a></li>
+							    			                        
+                                        <li>            <a href="http://opinion.people.com.cn/n/2015/0421/c159301-26876629.html" mon="col=14&amp;a=1&amp;z=shizhen&pn=3" target="_blank">老板再大 一个处长都能把你搞死？</a></li>
+							    			                        
+                                        <li>            <a href="http://cyyw.cena.com.cn/2015-04/21/content_272570.htm" mon="col=14&amp;a=1&amp;z=shizhen&pn=4" target="_blank">重庆公布第二批减轻企业负担政策措施目录清单 </a></li>
+							    			                        
+                                        <li>            <a href="http://www.chinanews.com/fz/2015/04-21/7221601.shtml" mon="col=14&amp;a=1&amp;z=shizhen&pn=5" target="_blank">监察部长：对监督责任缺失的派驻机构严肃追究责任 </a></li>
+							    			                        
+                                        <li>            <a href="http://dzwww.com/xinwen/shehuixinwen/201504/t20150421_12257609.htm" mon="col=14&amp;a=1&amp;z=shizhen&pn=6" target="_blank">广东自贸区今挂牌 新自贸区在4个领域改革创新</a></li>
+							    					</ul>
+                    <ul class="ulist " >
+				    			                        
+                                        <li class="bold-item">            <a href="http://news.hexun.com/2015-04-20/175134957.html" mon="col=14&amp;a=1&amp;z=shizhen&pn=7" target="_blank">全国人大审议修订多部法律草案 张德江主持</a></li>
+							    			                        
+                                        <li>            <a href="http://news.fznews.com.cn/fuzhou/20150421/55358e1d47255.shtml" mon="col=14&amp;a=1&amp;z=shizhen&pn=8" target="_blank">中纪委点名道姓曝光112起违反八项规定精神案件</a></li>
+							    			                        
+                                        <li>            <a href="http://politics.people.com.cn/ywkx/n/2015/0421/c363762-26877245.html" mon="col=14&amp;a=1&amp;z=shizhen&pn=9" target="_blank">中纪委通报112起违反中央八项规定精神典型案件</a></li>
+							    			                        
+                                        <li>            <a href="http://www.chinanews.com/fz/2015/04-21/7221500.shtml" mon="col=14&amp;a=1&amp;z=shizhen&pn=10" target="_blank">机关食堂“低调奢华”的实质是把禁令当“耳边风” </a></li>
+							    			                        
+                                        <li>            <a href="http://leaders.people.com.cn/n/2015/0421/c58278-26878818.html" mon="col=14&amp;a=1&amp;z=shizhen&pn=11" target="_blank">陈敏尔会见国务院消防工作考核组一行</a></li>
+							    			                        
+                                        <li>            <a href="http://xjpl.changsha.cn/h/585/20150421/2173449.html" mon="col=14&amp;a=1&amp;z=shizhen&pn=12" target="_blank">唐亦瑭：交“廉政金”不是受贿的“免死金牌”</a></li>
+							    			                                    <!--MONITOR CIVILNEWS_SZYW OK 12 HOTAREA-->
+            
+</ul>
+
+
+
+        </div>
+    
+
+            
+<div class="ilist">
+    <ul>
+                                                                                                                                                            <li><a href="http://news.xinhuanet.com/photo/2015-04/20/c_127711827.htm" mon="col=15&amp;a=12&amp;z=shizheng&pn=3" target="_blank"><img r_src="http://t2.baidu.com/it/u=http%3A%2F%2Fnews.xinhuanet.com%2Fphoto%2F2015-04%2F20%2F127711827_14295348050221n.jpg&amp;fm=30"/><span class="title">国新办就我国四大自贸区最新情况举行新</span></a></li>
+                                                                                                                                            <li><a href="http://politics.gmw.cn/2015-04/20/content_15412224.htm" mon="col=15&amp;a=12&amp;z=shizheng&pn=4" target="_blank"><img r_src="http://t1.baidu.com/it/u=http%3A%2F%2Fimgpolitics.gmw.cn%2Fattachement%2Fjpg%2Fsite2%2F20150420%2F0023ae634f20169e70883f.jpg&amp;fm=30"/><span class="title">媒体：违反八项规定未被点名的省部级官</span></a></li>
+                                                                    </ul>
+</div>
+
+
+        </div>
+        <div class="l-right-col">
+            <div class="mod" id="civil-aside-trends">
+                <div class="hd"><h3><a href="http://guonei.news.baidu.com/n?cmd=4&class=lishi&pn=1" target="_blank">历史档案</a><span class="dec">HISTORICAL NEWS</span></h3><a href="http://guonei.news.baidu.com/n?cmd=4&class=lishi&pn=1" target="_blank" class="more"></a></div>
+                <div class="bd">
+                <div id="historical-news">
+                     <ul class="ulist mix-ulist">
+                                                                        <li><a href="http://www.dfdaily.com/html/8757/2015/4/21/1262083.shtml" class="title" target="_blank" mon="col=13&z=lishi&pn=1">中国1945：一个美国人的视角 </a></li>
+                                                                                                                        <li><a href="http://msn.huanqiu.com/taiwan/article/2015-04/6242737.html" class="title" target="_blank" mon="col=13&z=lishi&pn=2">港媒：朱立伦真的不敢输？民意经不起折腾！</a></li>
+                                                                                                                        <li><a href="http://js.xhby.net/system/2015/04/21/024430197.shtml" class="title" target="_blank" mon="col=13&z=lishi&pn=3">蒋介石与亲信互通密令昨在宁展出</a></li>
+                                                                                                                        <li><a href="http://news.dahe.cn/2015/04-21/104807271.html" class="title" target="_blank" mon="col=13&z=lishi&pn=4">西安事变后蒋介石曾想取消国民党 </a></li>
+                                                                                                                        <li><a href="http://cq.cqnews.net/html/2015-04/20/content_34006000.htm" class="title" target="_blank" mon="col=13&z=lishi&pn=5">孙中山孙女来渝 向中国民主党派历史陈列馆捐赠孙..</a></li>
+                                                                                                                        <li><a href="http://history.huanqiu.com/china/2015-04/6230690.html" class="title" target="_blank" mon="col=13&z=lishi&pn=6">蒋介石左右手陈诚与何应钦的恩怨</a></li>
+                                                                                                                        <li><a href="http://view.news.qq.com/a/20150420/011426.htm" class="title" target="_blank" mon="col=13&z=lishi&pn=7">鲁迅拒绝用真名写文章骂蒋介石</a></li>
+                                                                                                                        <li><a href="http://gx.people.com.cn/n/2015/0420/c344626-24557105.html" class="title" target="_blank" mon="col=13&z=lishi&pn=8">盘点嫁入蒋介石家族的历代媳妇 个个是美女</a></li>
+                        <!--MONITOR CIVILNEWS_LSDA  OK 8  HOTAREA-->                                                                                                <li><a href="http://gx.people.com.cn/n/2015/0420/c344626-24557098.html" class="title" target="_blank" mon="col=13&z=lishi&pn=9">秘闻：张学良曾说宋美龄是他的“保护神”</a></li>
+                                                                                                                        <li><a href="http://gx.people.com.cn/n/2015/0420/c344626-24557095.html" class="title" target="_blank" mon="col=13&z=lishi&pn=10">揭秘张学良赵四台湾幽禁照（组图）</a></li>
+                                                                                                                                                                                                                                                                                                                        
+                    </ul>
+                </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+
+
+    <!--start 最新新闻-->
+    
+<div class="column clearfix" id="col_latest" alog-group="log-latest">
+    
+<div class="column-title" >
+            <div class="column-title-border">
+                                                        <h2><a href="http://guonei.news.baidu.com/n?cmd=4&amp;class=civilnews&amp;pn=1" target="_blank">最新新闻</a><span class="cname">LATEST NEWS</span></h2>
+                    <span class="more"><a href="http://guonei.news.baidu.com/n?cmd=4&amp;class=civilnews&amp;pn=1" target="_blank">更多</a></span>
+                                    
+                                
+            
+            </div>
+    </div>
+
+
+    <div id="latest-news">
+        <ul class="ulist" style="margin-right:150px;">
+                                                                                                                                                                                    <li><a href="http://news.bjx.com.cn/html/20150421/610186.shtml" target="_blank" mon="col=18&pn=9">贵阳市蓝天保护计划（2014—2017年）</a><span class="time">09:34</span></li>
+                                                                                    <li><a href="http://news.enorth.com.cn/system/2015/04/21/030175701.shtml" target="_blank" mon="col=18&pn=10">心酸的浪漫！女生穿婚纱表白宿管阿姨不开门</a><span class="time">09:34</span></li>
+                                                                                    <li><a href="http://leaders.people.com.cn/n/2015/0421/c58278-26878969.html" target="_blank" mon="col=18&pn=11">李建华:创新载体 巩固民族团结宗教和顺的生动局面</a><span class="time">09:34</span></li>
+                                                                                    <li><a href="http://culture.people.com.cn/n/2015/0421/c22219-26878973.html" target="_blank" mon="col=18&pn=12">中国景泰蓝博物馆今夏开放 被盗麒麟年底完成复制</a><span class="time">09:34</span></li>
+                                                                                    <li><a href="http://www.chinanews.com/tw/2015/04-21/7221540.shtml" target="_blank" mon="col=18&pn=13">李登辉：蔡英文“大选”路将面临重重困难与考验 </a><span class="time">09:33</span></li>
+                                                                                    <li><a href="http://gansu.gscn.com.cn/system/2015/04/21/010996553.shtml" target="_blank" mon="col=18&pn=14">定西通渭遭冰雹袭击 短时间覆盖乡村田野</a><span class="time">09:33</span></li>
+                                                                                    <li><a href="http://www.gx.xinhuanet.com/newscenter/2015-04/21/c_1115035145.htm" target="_blank" mon="col=18&pn=15">广西圈定13个优良富硒土壤集中区 面积121.14万亩</a><span class="time">09:33</span></li>
+                                                                                    <li><a href="http://collection.sina.com.cn/cqyw/20150421/0932185448.shtml" target="_blank" mon="col=18&pn=16">农民画发展需跨越三道坎</a><span class="time">09:32</span></li>
+                                                                                    <li><a href="http://www.gx.xinhuanet.com/newscenter/2015-04/21/c_1115034960.htm" target="_blank" mon="col=18&pn=17">巡视即将截止 江南区良庆区群众反映问题需抓紧时间</a><span class="time">09:32</span></li>
+                                                                                    <li><a href="http://www.taihainet.com/news/twnews/twsh/2015-04-21/1399365.html" target="_blank" mon="col=18&pn=18">台专家：420地震能量释放连环震和921大地震不同</a><span class="time">09:32</span></li>
+                                                                        </ul>
+            <ul class="ulist">
+                                    <li><a href="http://news.enorth.com.cn/system/2015/04/21/030175647.shtml" target="_blank" mon="col=18&pn=19">财大女生美国访学与潘石屹坐同桌:他是运动达人</a><span class="time">09:31</span></li>
+                                                                                    <li><a href="http://tangshan.huanbohainews.com.cn/system/2015/04/17/011529339.shtml" target="_blank" mon="col=18&pn=20">乐亭警方多措并举为大棚户生产“保驾” </a><span class="time">09:31</span></li>
+                                                                                    <li><a href="http://www.chinanews.com/fz/2015/04-21/7221740.shtml" target="_blank" mon="col=18&pn=21">广东汕头警方通报：给予少年围殴事件两学生行政..</a><span class="time">09:31</span></li>
+                                                                                    <li><a href="http://www.chinanews.com/ga/2015/04-21/7221736.shtml" target="_blank" mon="col=18&pn=22">香港近七成受访者赞同按“831”决定普选 </a><span class="time">09:31</span></li>
+                                                                                    <li><a href="http://www.ha.xinhuanet.com/ttxw/tttp/2015-04/21/c_1115032821.htm" target="_blank" mon="col=18&pn=23">河南温县：流动科技馆里体验科学魅力</a><span class="time">09:30</span></li>
+                                                                                    <li><a href="http://jsnews.jschina.com.cn/system/2015/04/21/024434206.shtml" target="_blank" mon="col=18&pn=24">无锡市劳动模范人选公示 共301名</a><span class="time">09:30</span></li>
+                                                                                    <li><a href="http://js.xhby.net/system/2015/04/21/024434204.shtml" target="_blank" mon="col=18&pn=25">苏州开通世乒赛绿色通道 场馆附近交通管制</a><span class="time">09:30</span></li>
+                                                                                    <li><a href="http://js.xhby.net/system/2015/04/21/024434203.shtml" target="_blank" mon="col=18&pn=26">驾证被扣光12分 苏州2468名司机未去处理</a><span class="time">09:30</span></li>
+                                                                                    <li><a href="http://www.mlr.gov.cn/xwdt/jrxw/201504/t20150421_1348432.htm" target="_blank" mon="col=18&pn=27">记中铝集团广西分公司平果铝土矿绿色矿山建设</a><span class="time">09:29</span></li>
+                                                                                    <li><a href="http://www.mlr.gov.cn/xwdt/jrxw/201504/t20150421_1348430.htm" target="_blank" mon="col=18&pn=28">地质公园：记录地球成长的印迹</a><span class="time">09:29</span></li>
+                                                                                                                                                <!--MONITOR SPORTNEWS_ZXXW OK 30 HOTAREA-->                        </ul>
+    </div>
+</div>
+
+
+
+
+	</div>
+	<!--页脚-->
+	
+    
+<div id="footerwrapper">
+<div class="bottombar" alog-group="log-footer-bottombar" alog-alias="hunter-start-bottombar">
+    <div class="bottombar-inner clearfix">
+        <div class="bot-left">
+            <h4>热门频道推荐</h4>
+            <div class="bot-left-list">
+                <ul>
+                    <li><a href="http://guonei.news.baidu.com/" target="_blank">国内</a></li>
+                    <li><a href="http://finance.baidu.com/" target="_blank">财经</a></li>
+                    <li><a href="http://shehui.news.baidu.com/" target="_blank">社会</a></li>
+                    <li><a href="http://yule.baidu.com/" target="_blank">娱乐八卦</a></li>
+                    <li><a href="http://guoji.news.baidu.com" target="_blank">国际</a></li>
+                    <li><a href="http://sports.baidu.com/" target="_blank">体育</a></li>
+                    <li><a href="http://auto.baidu.com/" target="_blank">汽车</a></li>
+                    <li><a href="http://lady.baidu.com/" target="_blank">女性时尚</a></li>
+                    <li><a href="http://mil.news.baidu.com/" target="_blank">军事</a></li>
+                    <li><a href="http://tech.baidu.com/" target="_blank">科技</a></li>
+                    <li><a href="http://renwu.baidu.com/" target="_blank">人物</a></li>
+                    <li><a href="http://internet.baidu.com/" target="_blank">互联网事</a></li>
+                    <div style="clear:both"></div>
+                </ul>
+            </div>
+        </div>
+        <div class="bot-center">
+            <h4>相关功能</h4>
+            <div class="bot-center-list">
+                <ul>
+                    <li class="center-01"><a href="http://newsalert.baidu.com/na?cmd=0" target="_blank">邮件新闻订阅</a></li>
+                    <li class="center-02"><a href="http://news.baidu.com/newscode.html" target="_blank">新闻免费代码</a></li>
+                    <li class="center-03"><a href="http://news.baidu.com/n?bypass=lamp&m=pagesother&v=newsgx" target="_blank">个性化新闻</a></li>
+                    <li class="center-04"><a href="http://www.baidu.com/search/rss.html" target="_blank">新闻订阅</a></li>
+                    <li class="center-05"><a href="http://news.baidu.com/history.html" target="_blank">历史新闻</a></li>
+                    <li class="center-06"><a href="http://news.baidu.com/n?cmd=6&loc=0&name=%B1%B1%BE%A9" target="_blank">地区新闻</a></li>
+                    <div style="clear:both"></div>
+                </ul>
+            </div>
+        </div>
+        <div class="bot-right">
+            <h4>百度新闻独家出品</h4>
+            <p class="p1">新闻由机器选取每5分钟自动更新</p>
+            <p class="p2">百度新闻搜索源于互联网新闻网站和频道，系自动分类排列，百度不刊登或转载任何完整的新闻内容</p>
+        </div>
+    </div>
+</div>
+
+<div id="footer" alog-group="log-footer" alog-alias="hunter-start-footer"><a href="http://tousu.baidu.com/news/add">投诉中心</a><span> 京公网安备110000000001号 </span><a href="http://news.baidu.com/licence.html">互联网新闻信息服务许可</a>
+    <span style="color:#7777CC;">&copy;2015 Baidu</span> <a class="cy" href="http://www.baidu.com/duty/">使用百度前必读</a> <a target="_blank" href="http://net.china.cn/chinese/index.htm"><img r_src="http://gimg.baidu.com/img/net.gif"></a> <a target="_blank" href="http://www.bj.cyberpolice.cn/index.htm"><img alt="首都网络110报警服务" src="http://gimg.baidu.com/img/110.gif"></a> <a target="_blank" href="http://www.bjjubao.org/"><img src="http://news.baidu.com/resource/img/report_center.png"></a></div>
+</div>
+
+
+    
+
+<style>#headerwrapper {
+    width:100%;
+}</style>
+<script type="text/javascript" language="javascript">
+    document.write("<img src='/nocache/mp/b.jpg?cmd=1&class=civilnews&cy=0&"+Math.random()+"' style='display:none;'>");
+    document.write("<img id='cgif' src='http://c.baidu.com/c.gif?t=5&p=2&"+Math.random()+"' style='display:none'>");
+</script>
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fe9e114d958ea263de46e080563e254c4' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+<script type="text/javascript">
+F.use('/static/common/lib/tangram/base/base.js',function(baidu){
+    baidu.each(baidu.dom.query('img'),function(item){	
+        if(/eiv.baidu.com\/hmt\/icon/.test(baidu.dom.getAttr(item, 'src'))){
+            item.style.display = 'none';		
+        }
+    });
+});
+</script>
+<script type="text/javascript">
+	 alog("set", "alias", {
+         monkey: "http://img.baidu.com/hunter/alog/monkey.min.js",
+         element: "http://img.baidu.com/hunter/alog/element.min.js"
+     });
+
+     alog("require", ["monkey", "element"], function(monkey, element){
+         monkey.create({
+             page: "news-guonei",
+             pid: "241",
+             p: "133",
+             hid: "424",
+             postUrl: "http://nsclick.baidu.com/u.gif",
+             reports: {
+                refer: 1, 
+                staytime: 1 
+             }
+         });
+     });
+
+     alog("monkey.send", "pageview", { now: +new Date });
+	
+</script>
+
+
+
+
+
+	
+</body>
+</html>
+<!--ecombegin--><script type="text/javascript">F.use("/static/common/ui/vs/enterState/enterState.js", function(enterState){enterState("", "")});</script><!--ecomend-->

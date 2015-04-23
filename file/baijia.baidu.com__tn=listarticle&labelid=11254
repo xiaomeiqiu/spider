@@ -1,0 +1,1065 @@
+<!DOCTYPE html>
+<!--STATUS OK-->
+<html>
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>百度百家--标签列表</title>
+
+	<script src="/static/js/clickMonitor.js?v=20131212"></script>
+	<script type="text/javascript" src="/static/js/usermonitor.js?v=1.1"></script>
+    <script src="/static/js/baiduTemplate.js?v=20131212"></script>
+    <link href="/static/css/all_7f51415.css" type="text/css" rel="stylesheet"/>
+<script src="/static/js/libs/tangram/tangram-1.5.2.2.js?v=20130128" type="text/javascript"></script>
+<script src="/static/js/libs/jquery/jquery.min.js?v=20131212" type="text/javascript"></script>
+<script src="/static/js/libs/jquery/jquery.cookie.js" type="text/javascript"></script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?7fe4ae9e1d0d01bcf748d066979cd2aa";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+
+    <script>
+        var on=baidu.event.on;Fe = baidu;
+        var PAGE_DATA = {
+                page:1,
+                pagesize:20,
+                labelid:'11254',
+                artical_list_num: 18
+             }
+    </script>
+   
+</head>
+<body class="bg">
+<style>
+#menu{height:60px;border-right:none;left:240px;}
+#menu a{color:#333;height:21px;width:70px;line-height:21px;position:relative;top:20px;margin:0 10px;border:0!important;}
+#menu a:hover{background: none;text-decoration: none;color:#2393df;}
+#menu a.current{background:none;color:#2393df;}
+#menu a.current:hover{background:none;text-decoration: none;}
+#menu a span{width:70px;height:1px;display:block;margin:19px auto 0px;_margin-top:-4px;}
+#menu a:hover span,#menu a.current span{border-bottom:4px solid #2393df;}
+.top-main{position:relative;width:982px;margin:0 auto;height:0px;}
+.top-main a{display: block;width:192px;height:68px;background: url(/static/images/03.png) no-repeat;text-decoration: none;top:-62px;left:0px;position:absolute;z-index:9999;}
+.search{position:absolute;right:230px;top:15px;height:30px;}
+.search_box{width:auto;height:100%;padding-right:5px;padding-left:28px;overflow:hidden;}
+.search_form{position: relative;width:195px;height:28px;border:1px solid #ccc;background: #FAFAFA;}
+.search_txt{display:block;position: absolute;top:4px;left:28px;font-size:14px;font-family:"宋体","Hiragino Sans GB";color:#c2c2c2;}
+.search_input{width:100%;height:26px;line-height:26px;display:block;border:none;border-width: 0px;background: #FAFAFA;}
+.search_btn{position: absolute;top: 0px;left: 0px;display:block;width:28px;height:28px;text-align:center;line-height: 24px;}
+.search_submit{background: url(/static/images/header_search_icon.png) no-repeat;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled='true',sizingMethod='scale',src='/static/images/header_search_icon.png');_background:none;width:16px;height:16px;border:none;cursor:pointer;*margin-top:5px;}
+#header{background:#fff;border-bottom:2px solid #EEE;height:60px;}
+#usrbar{top:20px}
+#usrbar .header_baidu,
+#usrbar .header_home,
+#usrbar .header_person{color:#666;display:inline-block;*display:inline;*zoom:1;height:18px;padding: 0 3px; vertical-align: top}
+
+.userbox{position:relative;width:100%;height:0px;left:0px;z-index:9999;}
+.userbox ul{position:absolute;top:0px;right:0px;border: 1px solid #999;width:80px;height:60px;background:#fff;padding:0px;overflow:hidden;*clear:both;}
+.userbox li{width:100%;height:30px;margin:0px;}
+#usrbar li a{height:100%;display:block;line-height:30px;padding:0px 0px 0px 5px;}
+#usrbar li a:hover{background:none repeat scroll 0 0 #ebebeb; text-decoration: none}
+#register{width:26px;}
+#usrbar .header_person:hover,
+#usrbar .header_baidu:hover,
+#usrbar .header_home:hover{color:#2393df;cursor:pointer;}
+
+#login_user{display:inline-block;*display:inline;*zoom:1;position:relative; vertical-align: top;width:100px;margin-right:5px;}
+#loged{width:100px; text-align: right;overflow: hidden;white-space: normal;word-wrap: break-word;word-break: break-all;color:#666;display:block;height:18px;padding: 0 6px!important;}
+</style>
+<script type='text/javascript' src='http://passport.baidu.com/passApi/js/uni_login_wrapper.js?cdnversion=201504221130'></script>
+<div id="header" alog-group="log-header">
+	<div class="header-content">
+        <div id="menu"><a href="http://baijia.baidu.com"  style="border-left:0px;">首页<span></span></a><a href="http://baijia.baidu.com/?tn=listauthor" >作家<span></span></a><a href="http://baijia.baidu.com/?tn=listtopic" >争鸣<span></span></a></div>
+
+<div class="search">
+  <form method="get" action="http://baijia.baidu.com/" class="search_form" onSubmit="return chkForm(this);">
+    <span title="搜索" alt="搜索" class="search_btn">
+      <input type="submit" class="search_submit" value="">
+    </span>
+    <div class="search_box" >
+      <label for="search" class="search_txt" id="search_txt"></label>
+      <input type="hidden" name="tn" value="search">
+      <input type="text" id="search" maxlength="50" name="word" autocomplete="off" class="search_input">
+    </div>
+  </form>
+</div>
+        <div id="usrbar">
+                    <a href="javascript:void(0);" id="login" class="header_person" >登录</a>
+          <a href="http://news.baidu.com" class="header_home" target="_blank">新闻首页</a>
+          <a class="header_baidu" target="_blank" href="http://www.baidu.com">百度</a>
+        </div>
+	</div>
+</div>
+<div class="top-main"><a href="http://baijia.baidu.com" ></a></div>
+<script>
+(function(baidu, undefined) {
+    window.instance = passport.pop.init({
+         apiOpt: {
+             staticPage: 'http://'+location.host+'/static/html/v3Jump.html',
+             product: 'xw1',
+             memberPass: true,
+             charset:'utf-8',
+             u:location.href,
+             safeFlag: 0
+         },
+         authsite:['tsina','renren','qzone','tqq'],
+	       authsiteCfg:{act:'implicit'},
+         tangram: true,
+         onLoginSuccess: function (args) {
+            // 发送统计日志统计pc主动登陆用户UV
+            args.returnValue = false;
+            sendLog({
+                m: 52,
+                a: 0,
+                args: args
+            });
+         },
+         onShow: function () {
+            sendLog({
+                m: 52,
+                a: 2
+            });
+         }
+    });
+    baidu.on('login', 'click', function(event) {
+         baidu.event.preventDefault(event || window.event);
+         sendLog({
+            m: 52,
+            a: 1
+         });
+         instance.show();
+    });
+})(window.baidu);
+
+function sendLog(option) {
+  var url = 'http://nsclick.baidu.com/v.gif?pid=107&m=' + option.m + '&a=' + option.a + '&v=' + new Date().getTime();
+
+  $('<img/>')
+    .one('load', function() {
+        if (option.args){
+            location.href = option.args.rsp.data.u;
+        }
+    })
+    .each(function() {
+      if(this.complete) $(this).load();
+    })
+    .attr('src', url);
+}
+</script>
+<script type="text/javascript">
+	var __search = baidu.g("search") ;
+	__search && baidu.on(__search, 'blur', function(e){
+		if(!__search.value){
+			baidu.show('search_txt');
+		}
+	});
+	__search && baidu.on(__search, 'focus', function(e){
+		baidu.hide('search_txt');
+	});
+	function chkForm(e){
+		if(!__search.value){
+			return false;
+		}
+		return true ;
+	};
+</script>
+<script type="text/javascript">
+	var __login_user = baidu.g("login_user");
+	var __userbox = baidu.g("userbox"),myTimeout;
+  var uid="";
+	__login_user && baidu.on(__login_user,'mouseenter',function(e){
+    if(myTimeout){
+      clearTimeout(myTimeout);
+    }
+		baidu.show("userbox");
+	});
+	__login_user && baidu.on(__login_user,'mouseleave',function(e){
+    myTimeout = setTimeout(function(){
+      baidu.hide("userbox");
+    },500);
+
+	});
+	var __logout = baidu.g("logout");
+	if(__logout){
+    var uhref = encodeURIComponent(location.href) ;
+    if(uhref.indexOf("userinfo") > 0 ){
+      __logout.href="http://passport.rdtest.baidu.com/?logout&u="+encodeURIComponent("http://baijia.baidu.com/");
+    }else{
+      __logout.href="http://passport.rdtest.baidu.com/?logout&u="+uhref;
+    }
+
+  }
+  if(!uid){
+    $('#cmtbox textarea') && $('#cmtbox textarea').val('');
+  }
+
+</script>
+
+
+<div id="body" class="clearfix">
+<style>
+.time_box{position:relative;width:100%;height:0px;}
+.time_box .box{position:absolute;right:0px;top:-60px;height:54px;width:auto;}
+.time_box .time{float:left;padding-right: 10px;}
+.time_box .vline{float:left;height:100%;width:0px;border-right:1px solid #DFDFDF;}
+.time_box .total{float:left;padding-left:10px;}
+.time_box span{display:block;text-align:center;}
+.time_box .num{font-family:"Arial";color:#999;font-size:24px;}
+.time_box .txt{font-family:"Arial";color:#ccc;font-size:10px;}
+.time_box .select{display:block;width:10px;height:6px;background:url(/static/images/label_select.png) no-repeat;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled='true',sizingMethod='scale',src='/static/images/label_select.png');_background:none;position:absolute;top:-40px;left:75px;}
+#page_title{padding:0px;}
+#page_title h1{padding-left:0px;border-left:0px;font-size:30px;color:#333;padding-bottom: 20px;margin-bottom: 0px;border-bottom: 1px solid #DDDDDD;}
+
+
+.l-main-col{border:none;background:none;}
+.l-right-col{border:none;background:none;padding-top:17px;padding-right:0px;}
+.bottomline{border-bottom: 1px solid #e6e6e6;height: 0px;width: 100%;}
+</style>
+    <div class="l-main-col">
+ 		<div id="page_title">
+             <h1>智能硬件</h1>
+             	 	</div>
+        <div class="feeds" id="feeds">
+                  <div class="feeds-item notb" id="item-54307">
+            <div class="feeds-item-detail clearfix hasImg">
+                                <p class="feeds-item-pic"><a href="http://zhangguoren.baijia.baidu.com/article/54307" target="_blank" class="feeds-item-more" mon="col=13&pn=1&a=12"><img src="http://f.hiphotos.baidu.com/news/crop%3D67%2C0%2C833%2C500%3Bw%3D638/sign=dbe34279dfb44aed4d01e4a48e2ab02d/d31b0ef41bd5ad6e803f25d984cb39dbb6fd3c3a.jpg"/></a></p>
+                                <h3><a href="http://zhangguoren.baijia.baidu.com/article/54307" target="_blank" mon="col=13&pn=1">另一个泛滥的硬件:虚拟现实眼镜</a></h3>
+                <p class="feeds-item-text">虚拟现实头盔类产品的门槛也许并没有那么高，也有越来越多的国内团队进入开始深根。但是相比Oculus这样的先行着，如何建立有更多内容商参与的生态，仍然是PK的焦点。<a href="http://zhangguoren.baijia.baidu.com/article/54307" target="_blank" class="feeds-item-more" mon="col=13&pn=1">[详细]</a></p>
+                <div class="feeds-item-info">
+                    <p class="labels">
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=28542" target="_blank">虚拟智能
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=11254" target="_blank">智能硬件
+                        </a>
+                                        </p>
+                                        <a href="http://zhangguoren.baijia.baidu.com" class="feeds-item-author" target="_blank">国仁</a>
+                                        <span class="tm">04-20</span>
+                    <span class="count">阅读（1106）</span>
+                    <a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>
+                </div>
+            </div>
+        </div>
+                  <div class="feeds-item " id="item-53733">
+            <div class="feeds-item-detail clearfix hasImg">
+                                <p class="feeds-item-pic"><a href="http://zhuxiaokun.baijia.baidu.com/article/53733" target="_blank" class="feeds-item-more" mon="col=13&pn=2&a=12"><img src="http://h.hiphotos.baidu.com/news/crop%3D75%2C204%2C1165%2C699%3Bw%3D638/sign=f4c3eced8301a18be4a4480fa3183224/aa18972bd40735fa99da24789a510fb30e2408cc.jpg"/></a></p>
+                                <h3><a href="http://zhuxiaokun.baijia.baidu.com/article/53733" target="_blank" mon="col=13&pn=2">雷军投资后，平衡车想成爆款还缺啥</a></h3>
+                <p class="feeds-item-text">今天Ninebot的发布会上，除了自己家的掌门人高禄峰之外，科技创业圈的男神雷军和沈南鹏也都来了，还一连发布了两大投资消息，但我总是觉得缺点什么，说好的999元呢？<a href="http://zhuxiaokun.baijia.baidu.com/article/53733" target="_blank" class="feeds-item-more" mon="col=13&pn=1">[详细]</a></p>
+                <div class="feeds-item-info">
+                    <p class="labels">
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=11254" target="_blank">智能硬件
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=10147" target="_blank">小米
+                        </a>
+                                        </p>
+                                        <a href="http://zhuxiaokun.baijia.baidu.com" class="feeds-item-author" target="_blank">阿土</a>
+                                        <span class="tm">04-15</span>
+                    <span class="count">阅读（7654）</span>
+                    <a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>
+                </div>
+            </div>
+        </div>
+                  <div class="feeds-item " id="item-53618">
+            <div class="feeds-item-detail clearfix hasImg">
+                                <p class="feeds-item-pic"><a href="http://zhanghefei.baijia.baidu.com/article/53618" target="_blank" class="feeds-item-more" mon="col=13&pn=3&a=12"><img src="http://g.hiphotos.baidu.com/news/crop%3D0%2C5%2C500%2C300%3Bw%3D638/sign=c06cfd6fbd014a9095711cfd94471527/5ab5c9ea15ce36d30b42c1ed3ef33a87e850b1ad.jpg"/></a></p>
+                                <h3><a href="http://zhanghefei.baijia.baidu.com/article/53618" target="_blank" mon="col=13&pn=3"> 联发科，国产硬件的天使与恶魔</a></h3>
+                <p class="feeds-item-text">对于硬件开发者来说，联发科早已成为一个可爱的巨人，却也像一个屠杀市场的恶魔。<a href="http://zhanghefei.baijia.baidu.com/article/53618" target="_blank" class="feeds-item-more" mon="col=13&pn=1">[详细]</a></p>
+                <div class="feeds-item-info">
+                    <p class="labels">
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=19443" target="_blank">联发科
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=11254" target="_blank">智能硬件
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=11253" target="_blank">可穿戴
+                        </a>
+                                        </p>
+                                        <a href="http://zhanghefei.baijia.baidu.com" class="feeds-item-author" target="_blank">Alter</a>
+                                        <span class="tm">04-14</span>
+                    <span class="count">阅读（1万）</span>
+                    <a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>
+                </div>
+            </div>
+        </div>
+                  <div class="feeds-item " id="item-53408">
+            <div class="feeds-item-detail clearfix hasImg">
+                                <p class="feeds-item-pic"><a href="http://liruchao.baijia.baidu.com/article/53408" target="_blank" class="feeds-item-more" mon="col=13&pn=4&a=12"><img src="http://h.hiphotos.baidu.com/news/crop%3D0%2C0%2C500%2C300%3Bw%3D638/sign=afbe02f84534970a533c4a6fa8fafdf8/a8773912b31bb051ff7479ff327adab44bede091.jpg"/></a></p>
+                                <h3><a href="http://liruchao.baijia.baidu.com/article/53408" target="_blank" mon="col=13&pn=4">热钱涌入后，虚拟现实还在瞎闹腾？</a></h3>
+                <p class="feeds-item-text">硬件和内容的双重掣肘，让VR很大程度上还只停留在“概念”层面。而资本市场的过度繁荣，虽然带来了一些利好，但并未解决产业的实质问题。爆发的时刻，可能尚未到来。<a href="http://liruchao.baijia.baidu.com/article/53408" target="_blank" class="feeds-item-more" mon="col=13&pn=1">[详细]</a></p>
+                <div class="feeds-item-info">
+                    <p class="labels">
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=14504" target="_blank">虚拟现实
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=10147" target="_blank">小米
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=11254" target="_blank">智能硬件
+                        </a>
+                                        </p>
+                                        <a href="http://liruchao.baijia.baidu.com" class="feeds-item-author" target="_blank">李儒超</a>
+                                        <span class="tm">04-13</span>
+                    <span class="count">阅读（1437）</span>
+                    <a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>
+                </div>
+            </div>
+        </div>
+                  <div class="feeds-item " id="item-53358">
+            <div class="feeds-item-detail clearfix ">
+                                <h3><a href="http://jiezhisz.baijia.baidu.com/article/53358" target="_blank" mon="col=13&pn=5">心机婊苹果是怎样炼成的</a></h3>
+                <p class="feeds-item-text">Apple Watch这一万众瞩目的新产品终于“千呼万唤始出来”。虽然可穿戴智能设备品类繁多，但苹果的涉足仍被视为是该领域的标志性事件。在过去，苹果的产品瞒天过海，一次又一次超出所有人的期望和预想。<a href="http://jiezhisz.baijia.baidu.com/article/53358" target="_blank" class="feeds-item-more" mon="col=13&pn=1">[详细]</a></p>
+                <div class="feeds-item-info">
+                    <p class="labels">
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=10255" target="_blank">苹果
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=11254" target="_blank">智能硬件
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=21698" target="_blank">Watch
+                        </a>
+                                        </p>
+                                        <a href="http://jiezhisz.baijia.baidu.com" class="feeds-item-author" target="_blank">借智图媒体</a>
+                                        <span class="tm">04-13</span>
+                    <span class="count">阅读（2368）</span>
+                    <a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>
+                </div>
+            </div>
+        </div>
+                  <div class="feeds-item " id="item-53203">
+            <div class="feeds-item-detail clearfix hasImg">
+                                <p class="feeds-item-pic"><a href="http://heshuai.baijia.baidu.com/article/53203" target="_blank" class="feeds-item-more" mon="col=13&pn=6&a=12"><img src="http://g.hiphotos.baidu.com/news/pic/item/a1ec08fa513d269767b6cdb451fbb2fb4216d8f6.jpg"/></a></p>
+                                <h3><a href="http://heshuai.baijia.baidu.com/article/53203" target="_blank" mon="col=13&pn=6">改变，能否助HTC拿下中国市场？</a></h3>
+                <p class="feeds-item-text">中国市场的规模之大，对任何手机厂商来讲都是必争之地，就连一向高冷的苹果都为中国市场再三妥协，何况一直谋求在中国市场重塑辉煌的HTC。<a href="http://heshuai.baijia.baidu.com/article/53203" target="_blank" class="feeds-item-more" mon="col=13&pn=1">[详细]</a></p>
+                <div class="feeds-item-info">
+                    <p class="labels">
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=11269" target="_blank">HTC
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=10180" target="_blank">手机
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=11254" target="_blank">智能硬件
+                        </a>
+                                        </p>
+                                        <a href="http://heshuai.baijia.baidu.com" class="feeds-item-author" target="_blank">小编也疯狂</a>
+                                        <span class="tm">04-11</span>
+                    <span class="count">阅读（2万）</span>
+                    <a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>
+                </div>
+            </div>
+        </div>
+                  <div class="feeds-item " id="item-53148">
+            <div class="feeds-item-detail clearfix hasImg">
+                                <p class="feeds-item-pic"><a href="http://jiaweb.baijia.baidu.com/article/53148" target="_blank" class="feeds-item-more" mon="col=13&pn=7&a=12"><img src="http://c.hiphotos.baidu.com/news/crop%3D1%2C0%2C590%2C354%3Bw%3D638/sign=191ade55d558ccbf0ff3ef7a24e9900e/d01373f082025aaf0ecb092cffedab64024f1a5f.jpg"/></a></p>
+                                <h3><a href="http://jiaweb.baijia.baidu.com/article/53148" target="_blank" mon="col=13&pn=7">苹果智能手表热卖仍有几分悬念</a></h3>
+                <p class="feeds-item-text">过高的售价，过于鸡肋的功能，表现平平的续航，这些都让用户对苹果手表非常失望。加上此前用户希望苹果手表能够带来颠覆性的创新，结果苹果手表与Moto 360和三星Gear S相比并没有实质性的创新。所以<a href="http://jiaweb.baijia.baidu.com/article/53148" target="_blank" class="feeds-item-more" mon="col=13&pn=1">[详细]</a></p>
+                <div class="feeds-item-info">
+                    <p class="labels">
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=10255" target="_blank">苹果
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=10248" target="_blank">智能手表
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=11254" target="_blank">智能硬件
+                        </a>
+                                        </p>
+                                        <a href="http://jiaweb.baijia.baidu.com" class="feeds-item-author" target="_blank">贾敬华</a>
+                                        <span class="tm">04-10</span>
+                    <span class="count">阅读（15万）</span>
+                    <a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>
+                </div>
+            </div>
+        </div>
+                  <div class="feeds-item " id="item-52986">
+            <div class="feeds-item-detail clearfix hasImg">
+                                <p class="feeds-item-pic"><a href="http://ganjianying.baijia.baidu.com/article/52986" target="_blank" class="feeds-item-more" mon="col=13&pn=8&a=12"><img src="http://e.hiphotos.baidu.com/news/crop%3D0%2C0%2C220%2C132%3Bw%3D638/sign=87cacbd05eafa40f2889949d96542f7f/9922720e0cf3d7ca8ff14394f61fbe096a63a9c9.jpg"/></a></p>
+                                <h3><a href="http://ganjianying.baijia.baidu.com/article/52986" target="_blank" mon="col=13&pn=8">IT男“过劳死”与智能硬件乱象！</a></h3>
+                <p class="feeds-item-text">随着越来越多的人对于健康的关注，真正将“科技以人为本”理念在产品上践行的创业者，既能取得财富上的成功，也能获得社会更多的尊敬，请这方面的从业人员，带着敬畏和尊重的心态去创业吧！<a href="http://ganjianying.baijia.baidu.com/article/52986" target="_blank" class="feeds-item-more" mon="col=13&pn=1">[详细]</a></p>
+                <div class="feeds-item-info">
+                    <p class="labels">
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=15574" target="_blank">过劳死
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=11254" target="_blank">智能硬件
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=28183" target="_blank">以人为本
+                        </a>
+                                        </p>
+                                        <a href="http://ganjianying.baijia.baidu.com" class="feeds-item-author" target="_blank">笨手蛇</a>
+                                        <span class="tm">04-09</span>
+                    <span class="count">阅读（2万）</span>
+                    <a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>
+                </div>
+            </div>
+        </div>
+                  <div class="feeds-item " id="item-52884">
+            <div class="feeds-item-detail clearfix hasImg">
+                                <p class="feeds-item-pic"><a href="http://luochao.baijia.baidu.com/article/52884" target="_blank" class="feeds-item-more" mon="col=13&pn=9&a=12"><img src="http://h.hiphotos.baidu.com/news/crop%3D0%2C27%2C550%2C330%3Bw%3D638/sign=6f8c3a2a553d26973a9c521d68cb9ec9/8b82b9014a90f603bced9ba73d12b31bb151edf5.jpg"/></a></p>
+                                <h3><a href="http://luochao.baijia.baidu.com/article/52884" target="_blank" mon="col=13&pn=9">平庸的小米智能秤能大卖吗？</a></h3>
+                <p class="feeds-item-text">多一个小米没什么，这是一个大市场，没有一家能过做完，我们重点把产品做好，小米市场教育能力有目共睹，对我们是好事<a href="http://luochao.baijia.baidu.com/article/52884" target="_blank" class="feeds-item-more" mon="col=13&pn=1">[详细]</a></p>
+                <div class="feeds-item-info">
+                    <p class="labels">
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=10147" target="_blank">小米
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=28146" target="_blank">电子秤
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=11254" target="_blank">智能硬件
+                        </a>
+                                        </p>
+                                        <a href="http://luochao.baijia.baidu.com" class="feeds-item-author" target="_blank">罗超</a>
+                                        <span class="tm">04-09</span>
+                    <span class="count">阅读（1万）</span>
+                    <a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>
+                </div>
+            </div>
+        </div>
+                  <div class="feeds-item " id="item-52194">
+            <div class="feeds-item-detail clearfix hasImg">
+                                <p class="feeds-item-pic"><a href="http://zhangguoren.baijia.baidu.com/article/52194" target="_blank" class="feeds-item-more" mon="col=13&pn=10&a=12"><img src="http://b.hiphotos.baidu.com/news/crop%3D0%2C36%2C639%2C383%3Bw%3D638/sign=f8e274855d82b2b7b3d063840c9de7dc/58ee3d6d55fbb2fb1ab0b4934b4a20a44723dc9c.jpg"/></a></p>
+                                <h3><a href="http://zhangguoren.baijia.baidu.com/article/52194" target="_blank" mon="col=13&pn=10">2015一季度智能硬件重磅产品盘点</a></h3>
+                <p class="feeds-item-text">时间走入2015年4月份点时候，第一季度已经过去。智东西今天盘点，过去这一个季度里，智能硬件行业里出现的重磅智能硬件产品。<a href="http://zhangguoren.baijia.baidu.com/article/52194" target="_blank" class="feeds-item-more" mon="col=13&pn=1">[详细]</a></p>
+                <div class="feeds-item-info">
+                    <p class="labels">
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=11254" target="_blank">智能硬件
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=27966" target="_blank">重磅产品
+                        </a>
+                                        </p>
+                                        <a href="http://zhangguoren.baijia.baidu.com" class="feeds-item-author" target="_blank">国仁</a>
+                                        <span class="tm">04-03</span>
+                    <span class="count">阅读（1203）</span>
+                    <a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>
+                </div>
+            </div>
+        </div>
+                  <div class="feeds-item " id="item-52191">
+            <div class="feeds-item-detail clearfix hasImg">
+                                <p class="feeds-item-pic"><a href="http://zhangguoren.baijia.baidu.com/article/52191" target="_blank" class="feeds-item-more" mon="col=13&pn=11&a=12"><img src="http://d.hiphotos.baidu.com/news/crop%3D0%2C38%2C599%2C359%3Bw%3D638/sign=70f366ad8301a18be4a4480fa31f2b3b/a5c27d1ed21b0ef4e0f278dfd9c451da81cb3e1d.jpg"/></a></p>
+                                <h3><a href="http://zhangguoren.baijia.baidu.com/article/52191" target="_blank" mon="col=13&pn=11">自行车会是智能硬件下一个风口吗？</a></h3>
+                <p class="feeds-item-text">嗯，过去的这几周，智东西已经陆陆续续接触了好几个智能自行车的团队，仿佛扎堆露头似的。<a href="http://zhangguoren.baijia.baidu.com/article/52191" target="_blank" class="feeds-item-more" mon="col=13&pn=1">[详细]</a></p>
+                <div class="feeds-item-info">
+                    <p class="labels">
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=11254" target="_blank">智能硬件
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=17429" target="_blank">自行车
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=27527" target="_blank">风口
+                        </a>
+                                        </p>
+                                        <a href="http://zhangguoren.baijia.baidu.com" class="feeds-item-author" target="_blank">国仁</a>
+                                        <span class="tm">04-03</span>
+                    <span class="count">阅读（16万）</span>
+                    <a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>
+                </div>
+            </div>
+        </div>
+                  <div class="feeds-item " id="item-52163">
+            <div class="feeds-item-detail clearfix ">
+                                <h3><a href="http://aoxiaobai.baijia.baidu.com/article/52163" target="_blank" mon="col=13&pn=12">BAT们为何抢做智能硬件？</a></h3>
+                <p class="feeds-item-text">巨头们不再亲力亲为做智能硬件产品，而是采用投资和平台支持方式，支持众多的创业者来做。<a href="http://aoxiaobai.baijia.baidu.com/article/52163" target="_blank" class="feeds-item-more" mon="col=13&pn=1">[详细]</a></p>
+                <div class="feeds-item-info">
+                    <p class="labels">
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=10950" target="_blank">BAT
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=11254" target="_blank">智能硬件
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=11514" target="_blank">众筹
+                        </a>
+                                        </p>
+                                        <a href="http://aoxiaobai.baijia.baidu.com" class="feeds-item-author" target="_blank">敖小白</a>
+                                        <span class="tm">04-02</span>
+                    <span class="count">阅读（467）</span>
+                    <a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>
+                </div>
+            </div>
+        </div>
+                  <div class="feeds-item " id="item-52153">
+            <div class="feeds-item-detail clearfix hasImg">
+                                <p class="feeds-item-pic"><a href="http://liruchao.baijia.baidu.com/article/52153" target="_blank" class="feeds-item-more" mon="col=13&pn=13&a=12"><img src="http://c.hiphotos.baidu.com/news/crop%3D0%2C0%2C500%2C300%3Bw%3D638/sign=d305f24d5666d0166a56c468aa1bf837/a1ec08fa513d2697b33079dd51fbb2fb4216d84b.jpg"/></a></p>
+                                <h3><a href="http://liruchao.baijia.baidu.com/article/52153" target="_blank" mon="col=13&pn=13">乐视自行车，真要为“信仰”而生？</a></h3>
+                <p class="feeds-item-text">在三十出头的乐视体育副总裁李大龙眼中，超级自行车与一般产品不同，是一款为“信仰”而生的产品。也许，“信仰”将是概念牌打上瘾的乐视，继“生态”后的下一个关键词。<a href="http://liruchao.baijia.baidu.com/article/52153" target="_blank" class="feeds-item-more" mon="col=13&pn=1">[详细]</a></p>
+                <div class="feeds-item-info">
+                    <p class="labels">
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=10144" target="_blank">乐视
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=10147" target="_blank">小米
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=11254" target="_blank">智能硬件
+                        </a>
+                                        </p>
+                                        <a href="http://liruchao.baijia.baidu.com" class="feeds-item-author" target="_blank">李儒超</a>
+                                        <span class="tm">04-02</span>
+                    <span class="count">阅读（21万）</span>
+                    <a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>
+                </div>
+            </div>
+        </div>
+                  <div class="feeds-item " id="item-52103">
+            <div class="feeds-item-detail clearfix hasImg">
+                                <p class="feeds-item-pic"><a href="http://luochao.baijia.baidu.com/article/52103" target="_blank" class="feeds-item-more" mon="col=13&pn=14&a=12"><img src="http://h.hiphotos.baidu.com/news/crop%3D18%2C0%2C468%2C281%3Bw%3D638/sign=e4a004eb47a98226ac8e7167b7b3812d/d000baa1cd11728b48740abcccfcc3cec2fd2cd6.jpg"/></a></p>
+                                <h3><a href="http://luochao.baijia.baidu.com/article/52103" target="_blank" mon="col=13&pn=14">Apple Watch不是可穿戴设备的全部</a></h3>
+                <p class="feeds-item-text">智能珠环带来的启发是，智能手表是当前最被看好的产品形态，不过它并非终极形态。更时尚的、模块化的可穿戴设备还有机会。谁能解决电池续航和输入输出等问题或将开辟一条新路。<a href="http://luochao.baijia.baidu.com/article/52103" target="_blank" class="feeds-item-more" mon="col=13&pn=1">[详细]</a></p>
+                <div class="feeds-item-info">
+                    <p class="labels">
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=21829" target="_blank">苹果手表
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=11253" target="_blank">可穿戴
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=11254" target="_blank">智能硬件
+                        </a>
+                                        </p>
+                                        <a href="http://luochao.baijia.baidu.com" class="feeds-item-author" target="_blank">罗超</a>
+                                        <span class="tm">04-02</span>
+                    <span class="count">阅读（6万）</span>
+                    <a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>
+                </div>
+            </div>
+        </div>
+                  <div class="feeds-item " id="item-52049">
+            <div class="feeds-item-detail clearfix hasImg">
+                                <p class="feeds-item-pic"><a href="http://zhangguoren.baijia.baidu.com/article/52049" target="_blank" class="feeds-item-more" mon="col=13&pn=15&a=12"><img src="http://e.hiphotos.baidu.com/news/crop%3D0%2C0%2C497%2C298%3Bw%3D638/sign=258e4e76b2fd5266b36466549628bb1b/b999a9014c086e06b9d07dd606087bf40ad1cb37.jpg"/></a></p>
+                                <h3><a href="http://zhangguoren.baijia.baidu.com/article/52049" target="_blank" mon="col=13&pn=15">从Gartner报告看透智能硬件未来5年</a></h3>
+                <p class="feeds-item-text">就像人们屏息等待新年，当钟声响起，最先反应过来的往往是充满活力的年轻一代，随后将是全民狂欢。<a href="http://zhangguoren.baijia.baidu.com/article/52049" target="_blank" class="feeds-item-more" mon="col=13&pn=1">[详细]</a></p>
+                <div class="feeds-item-info">
+                    <p class="labels">
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=11254" target="_blank">智能硬件
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=11253" target="_blank">可穿戴
+                        </a>
+                                        </p>
+                                        <a href="http://zhangguoren.baijia.baidu.com" class="feeds-item-author" target="_blank">国仁</a>
+                                        <span class="tm">04-02</span>
+                    <span class="count">阅读（2万）</span>
+                    <a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>
+                </div>
+            </div>
+        </div>
+                  <div class="feeds-item " id="item-52044">
+            <div class="feeds-item-detail clearfix hasImg">
+                                <p class="feeds-item-pic"><a href="http://zhangguoren.baijia.baidu.com/article/52044" target="_blank" class="feeds-item-more" mon="col=13&pn=16&a=12"><img src="http://g.hiphotos.baidu.com/news/crop%3D18%2C0%2C575%2C345%3Bw%3D638/sign=135f2b2fb6b7d0a26f865eddf6de4e25/503d269759ee3d6deb90c05647166d224e4adedd.jpg"/></a></p>
+                                <h3><a href="http://zhangguoren.baijia.baidu.com/article/52044" target="_blank" mon="col=13&pn=16">智能硬件如何从0到1？</a></h3>
+                <p class="feeds-item-text">国仁主持的一个沙龙单元主题为“智能硬件如何从0到1”，这是个既契合热点，又很有意思的话题，这里凭着记忆，聊聊参与的几位的观点、经验分享和我自己的一些看法。<a href="http://zhangguoren.baijia.baidu.com/article/52044" target="_blank" class="feeds-item-more" mon="col=13&pn=1">[详细]</a></p>
+                <div class="feeds-item-info">
+                    <p class="labels">
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=11254" target="_blank">智能硬件
+                        </a>
+                                        </p>
+                                        <a href="http://zhangguoren.baijia.baidu.com" class="feeds-item-author" target="_blank">国仁</a>
+                                        <span class="tm">04-02</span>
+                    <span class="count">阅读（417）</span>
+                    <a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>
+                </div>
+            </div>
+        </div>
+                  <div class="feeds-item " id="item-51725">
+            <div class="feeds-item-detail clearfix hasImg">
+                                <p class="feeds-item-pic"><a href="http://haoxiaoliang.baijia.baidu.com/article/51725" target="_blank" class="feeds-item-more" mon="col=13&pn=17&a=12"><img src="http://a.hiphotos.baidu.com/news/crop%3D1%2C17%2C639%2C383%3Bw%3D638/sign=1bcd66e147a98226ac8e7167b7b39530/f9dcd100baa1cd11828296b4bd12c8fcc3ce2d6a.jpg"/></a></p>
+                                <h3><a href="http://haoxiaoliang.baijia.baidu.com/article/51725" target="_blank" mon="col=13&pn=17">如何用智能撬动百亿情趣用品市场？</a></h3>
+                <p class="feeds-item-text">在决定打造一款"令人尖叫"的情趣用品之前，首先应该想清楚情趣用品是否真的有必要实现智能化的问题。倘若为了顺应智能硬件的潮流为了智能而智能，将众多新奇的功能叠加到产品之上，反而会影响用户的使用体验。<a href="http://haoxiaoliang.baijia.baidu.com/article/51725" target="_blank" class="feeds-item-more" mon="col=13&pn=1">[详细]</a></p>
+                <div class="feeds-item-info">
+                    <p class="labels">
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=11254" target="_blank">智能硬件
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=16308" target="_blank">情趣用品
+                        </a>
+                                        </p>
+                                        <a href="http://haoxiaoliang.baijia.baidu.com" class="feeds-item-author" target="_blank">郝小亮</a>
+                                        <span class="tm">03-31</span>
+                    <span class="count">阅读（4391）</span>
+                    <a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>
+                </div>
+            </div>
+        </div>
+                  <div class="feeds-item " id="item-51554">
+            <div class="feeds-item-detail clearfix hasImg">
+                                <p class="feeds-item-pic"><a href="http://jiezhisz.baijia.baidu.com/article/51554" target="_blank" class="feeds-item-more" mon="col=13&pn=18&a=12"><img src="http://b.hiphotos.baidu.com/news/pic/item/c2fdfc039245d68815308e34a0c27d1ed21b246b.jpg"/></a></p>
+                                <h3><a href="http://jiezhisz.baijia.baidu.com/article/51554" target="_blank" mon="col=13&pn=18">十张图读懂Apple Watch的堪忧</a></h3>
+                <p class="feeds-item-text">华为Watch震撼发布的风头还未过去 ，苹果在春季发布会上重磅推出Apple Watch的新闻又再一次刷屏。可穿戴设备市场到底有何魔力能让巨头们纷纷入场？Apple Watch能否重现iPhone光<a href="http://jiezhisz.baijia.baidu.com/article/51554" target="_blank" class="feeds-item-more" mon="col=13&pn=1">[详细]</a></p>
+                <div class="feeds-item-info">
+                    <p class="labels">
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=13003" target="_blank">Apple
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=11254" target="_blank">智能硬件
+                        </a>
+                                            <a href="http://baijia.baidu.com/?tn=listarticle&labelid=12630" target="_blank">智能穿戴
+                        </a>
+                                        </p>
+                                        <a href="http://jiezhisz.baijia.baidu.com" class="feeds-item-author" target="_blank">借智图媒体</a>
+                                        <span class="tm">03-30</span>
+                    <span class="count">阅读（1万）</span>
+                    <a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>
+                </div>
+            </div>
+        </div>
+                </div>
+                <div class="feeds-more" id="feeds_more"><a href="javascript:void(0)"><span>加载更多</span></a></div>
+            </div>
+    <div class="l-right-col">
+                <div class="mod" id="author_list" alog-group="log-recommend">
+<div class="hd">
+    <div class="title_box" ><div class="title_container"><span class="title">相关作家</span><span class="sub_title">AUTHORS</span><div class="line"><div class="left"></div><div class="right"></div></div></div></div>
+</div>
+<div class="bd">
+<div class="author-m notb">
+    <div class="author-pic">
+    	<a href="http://zhangguoren.baijia.baidu.com" mon="name=recommend&pos=pic&pn=1" target="_blank">
+    		<img src="http://f.hiphotos.baidu.com/news/pic/item/d1a20cf431adcbef6bcd1f4daeaf2edda2cc9ffb.jpg">
+    	</a>
+    </div>
+    <div class="author-name">
+    	<a href="http://zhangguoren.baijia.baidu.com" mon="name=recommend&pos=name&pn=1" target="_blank">国仁</a>
+    </div>
+    <div class="author-text">智东西联合创始人/总编辑</div>
+    <div class="author-artical"><a href="http://zhangguoren.baijia.baidu.com/article/54307" mon="name=recommend&pos=title&pn=1" target="_blank">另一个泛滥的硬件:虚拟现实眼镜</a></div>
+</div>
+<div class="author-m ">
+    <div class="author-pic">
+    	<a href="http://zhuxiaokun.baijia.baidu.com" mon="name=recommend&pos=pic&pn=2" target="_blank">
+    		<img src="http://h.hiphotos.baidu.com/news/pic/item/6a600c338744ebf8ed890038daf9d72a6059a739.jpg">
+    	</a>
+    </div>
+    <div class="author-name">
+    	<a href="http://zhuxiaokun.baijia.baidu.com" mon="name=recommend&pos=name&pn=2" target="_blank">阿土</a>
+    </div>
+    <div class="author-text">个人视角的互联网创新和创业</div>
+    <div class="author-artical"><a href="http://zhuxiaokun.baijia.baidu.com/article/53733" mon="name=recommend&pos=title&pn=2" target="_blank">雷军投资后，平衡车想成爆款还缺啥</a></div>
+</div>
+<div class="author-m ">
+    <div class="author-pic">
+    	<a href="http://zhanghefei.baijia.baidu.com" mon="name=recommend&pos=pic&pn=3" target="_blank">
+    		<img src="http://g.hiphotos.baidu.com/news/pic/item/ac4bd11373f08202e4368a1a48fbfbedab641b6a.jpg">
+    	</a>
+    </div>
+    <div class="author-name">
+    	<a href="http://zhanghefei.baijia.baidu.com" mon="name=recommend&pos=name&pn=3" target="_blank">Alter</a>
+    </div>
+    <div class="author-text">通俗易懂，不是砖家</div>
+    <div class="author-artical"><a href="http://zhanghefei.baijia.baidu.com/article/53618" mon="name=recommend&pos=title&pn=3" target="_blank"> 联发科，国产硬件的天使与恶魔</a></div>
+</div>
+<div class="author-m ">
+    <div class="author-pic">
+    	<a href="http://liruchao.baijia.baidu.com" mon="name=recommend&pos=pic&pn=4" target="_blank">
+    		<img src="http://d.hiphotos.baidu.com/news/pic/item/10dfa9ec8a13632751b903b3958fa0ec09fac7de.jpg">
+    	</a>
+    </div>
+    <div class="author-name">
+    	<a href="http://liruchao.baijia.baidu.com" mon="name=recommend&pos=name&pn=4" target="_blank">李儒超</a>
+    </div>
+    <div class="author-text">媒体记者</div>
+    <div class="author-artical"><a href="http://liruchao.baijia.baidu.com/article/53408" mon="name=recommend&pos=title&pn=4" target="_blank">热钱涌入后，虚拟现实还在瞎闹腾？</a></div>
+</div>
+</div>
+</div>
+
+        <div class="mod" id="artical" alog-group="log-hotartical-num">
+    <div class="hd">
+        <div class="title_box" ><div class="title_container"><span class="title">文章排行</span><span class="sub_title">TOP ARTICLES</span><div class="line"><div class="left"></div><div class="right"></div></div></div></div>
+    </div>
+    <div class="bd">
+                <ul class="artical-top-num" id="topArtical">
+                                                                            <li class="top-1">
+                        <span class="num">01</span>
+                        <p class="title"><a href="http://zhangguoren.baijia.baidu.com/article/54307" mon="name=bjhotarticle" target="_blank">另一个泛滥的硬件:虚拟现实眼镜</a></p>
+                                                <p class="desc">虚拟现实头盔类产品的门槛也许并没有那么高，也有越来越多的国内团...</p>
+                                            </li>
+                                                                                                                            <li class="top-2">
+                        <span class="nm"></span>
+                        <span class="num">02</span>
+                        <p class="title"><a href="http://zhanghefei.baijia.baidu.com/article/53618" mon="name=bjhotarticle" target="_blank"> 联发科，国产硬件的天使与恶魔</a></p>
+                    </li>
+                                                                                                                            <li class="top-3">
+                        <span class="nm"></span>
+                        <span class="num">03</span>
+                        <p class="title"><a href="http://luochao.baijia.baidu.com/article/7927" mon="name=bjhotarticle" target="_blank">你应该关注的十个智能硬件中文网站</a></p>
+                    </li>
+                                                                                                        <li>
+                        <span class="nm"></span>
+                        <span class="num">04</span>
+                        <p class="title"><a href="http://luochao.baijia.baidu.com/article/10774" mon="name=bjhotarticle"  target="_blank">价值5亿美金的“大疆”无人机</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm"></span>
+                        <span class="num">05</span>
+                        <p class="title"><a href="http://luochao.baijia.baidu.com/article/11257" mon="name=bjhotarticle"  target="_blank">4K电视，请放慢你的脚步</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm"></span>
+                        <span class="num">06</span>
+                        <p class="title"><a href="http://ganjianying.baijia.baidu.com/article/52986" mon="name=bjhotarticle"  target="_blank">IT男“过劳死”与智能硬件乱象！</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm"></span>
+                        <span class="num">07</span>
+                        <p class="title"><a href="http://zhangjiangjian.baijia.baidu.com/article/43016" mon="name=bjhotarticle"  target="_blank">2015平衡车成智能硬件下一个风口？</a></p>
+                    </li>
+                                                                                    <li>
+                        <span class="nm"></span>
+                        <span class="num">08</span>
+                        <p class="title"><a href="http://zhangguoren.baijia.baidu.com/article/52191" mon="name=bjhotarticle"  target="_blank">自行车会是智能硬件下一个风口吗？</a></p>
+                    </li>
+                                            </ul>
+            </div>
+</div>
+
+<script type="text/javascript">
+;$(function(){
+    if($('#artical').find('.tab').length){
+        $('#artical').find('.tab').on('click',switchTab);
+    }
+    
+
+    function switchTab(e){
+        var $e=$(this),
+            tabId = $e.data('id');
+
+        $.each($('#artical').find('.artical-top-num'),function(i,e){
+            $(e).hide();
+        });
+        $.each($('#artical').find('.tab'),function(i,e){
+            $(e).removeClass('on');
+        });
+
+        $e.addClass('on');
+        $('#'+tabId).show();
+    }
+});
+</script>
+    </div>
+</div>
+
+<style>
+#footer{width:100%;background:#f0f0f0;height:249px;}
+#footer .site-nav{margin-top:34px;}
+#footer .site-nav a{background:#fff;display: inline-block;border: 1px solid #ececec;padding: 0 22px;margin: 0 5px;height: 30px;line-height: 30px;color: #666;vertical-align: bottom;}
+#footer .site-nav a.bottom-logo{background:none;border: 0;height: 38px;}
+</style>
+<div id="footer" alog-group="log-footer">
+<p class="site-nav"><a href="http://baijia.baidu.com/" target="_blank" class="bottom-logo"><img src="/static/images/baijia_logo_color.png"/></a><a href="http://baijia.baidu.com/?tn=listarticle&labelid=2" target="_blank">互联网</a><a href="http://baijia.baidu.com/?tn=listarticle&labelid=3" target="_blank">文化</a><a href="http://baijia.baidu.com/?tn=listarticle&labelid=4" target="_blank">娱乐</a><a href="http://baijia.baidu.com/?tn=listarticle&labelid=5" target="_blank">体育</a><a href="http://baijia.baidu.com/?tn=listarticle&labelid=6" target="_blank">财经</a><a href="http://baijia.baidu.com/?tn=listarticle&labelid=1" target="_blank">热点</a>
+</p>
+<p class="top-nav">
+<a href="http://baijia.baidu.com/" target="_blank">百家首页</a>|
+<a href="http://news.baidu.com/" target="_blank">百度新闻</a>|
+<a href="mailto:Baijia@baidu.com" target="_blank">联系我们：Baijia@baidu.com</a>
+<strong> 百度新闻独家出品</strong>
+</p>
+<p class="site-info">
+京公网安备110000000001号 <a href="http://news.baidu.com/licence.html">互联网新闻信息服务许可</a><span>&copy;2015 Baidu</span><a href="http://www.baidu.com/duty/">使用百度前必读</a><a target="_blank" href="http://net.china.cn/chinese/index.htm"><img src="http://gimg.baidu.com/img/net.gif"></a><a target="_blank" href="http://www.bj.cyberpolice.cn/index.htm"><img alt="首都网络110报警服务" src="http://gimg.baidu.com/img/110.gif"></a><a target="_blank" href="http://www.bjjubao.org/"><img src="http://news.baidu.com/resource/img/report_center.png"></a> 
+</p>
+</div>
+
+<script type="text/template" id="new-feed-tmp">
+
+    <%var data = data.list%>
+    <%for(var i=0; i<data.length;i++){%>
+    <div class="feeds-item" id="item-<%=data[i]['ID']%>">
+        <h3 style="position:relative;"><a href="<%=data[i]['m_display_url']%>" target="_blank" mon="col=13&pn=<%=PAGE_DATA.artical_list_num+i+1%>"><%=baidu.string.subByte(data[i]['m_title'],46)%></a><span class="feeds-item-time"><%=data[i]['m_create_time']%></span></h3>
+    <%if(i == data.length-1){%>
+        <div class="feeds-item-detail clearfix white-bdr">
+    <%}else{%>
+        <div class="feeds-item-detail clearfix">
+    <%}%>
+            <%if (data[i]['m_image_url']){%>
+            <p class="feeds-item-pic"><a href="<%=data[i]['m_display_url']%>" target="_blank" class="feeds-item-more" mon="col=13&pn=<%=PAGE_DATA.artical_list_num+i+1%>&a=12"><img src="<%=data[i]['m_image_url']%>"/></a></p>
+            <%}%>
+            <p class="feeds-item-text"><%=baidu.string.subByte(data[i]['m_summary'],200,'...')%><a href="<%=data[i]['m_display_url']%>" target="_blank" class="feeds-item-more" mon="col=13&pn=<%=PAGE_DATA.artical_list_num+i+1%>">[详细]</a></p>
+            <p class="feeds-item-info">
+            <%if(!data.isAuthor){%><span><a href="<%=data[i]['m_writer_url']%>" class="feeds-item-author" target="_blank"><%=data[i]['m_writer_name']%></a></span><%}%><span>阅读（<%=data[i].hotcount%>）</span>
+            <span><a href="javascript:void(0)" class="share-article">分享</a></span>
+            <%var label = data[i]['m_label_names']%>
+            <%for(var j=0; j<label.length;j++){%>
+                <%if (label.length == j+1){%>
+                    <a href="http://baijia.baidu.com/?tn=listarticle&labelid=<%=label[j].m_id%>"><%=label[j].m_name%></a>
+                <%}else{%>
+                    <a href="http://baijia.baidu.com/?tn=listarticle&labelid=<%=label[j].m_id%>"><%=label[j].m_name%></a>|
+                <%}%>
+            <%}%>
+            </p>
+        </div>
+    </div>
+    <%}%>
+
+</script>
+
+<!-- Baidu Button BEGIN -->
+<div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare" style="float:right;display:none" data='{}'>
+<span class="bds_more" style="background:#fff!important;padding:0; display:none">分享到：</span>
+<a class="bds_tsina"></a>
+<a class="bds_qzone"></a>
+<a class="bds_tqq"></a>
+<a class="bds_renren"></a>
+<a class="bds_t163"></a>
+<a class="shareCount" style="display:none"></a>
+</div>
+<script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=0" ></script>
+<script type="text/javascript" id="bdshell_js"></script>
+<script type="text/javascript">
+document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000)
+</script>
+<!-- Baidu Button END -->
+
+
+<script type="text/javascript">
+baidu.dom.ready(function(){
+    function render(data){
+        var _html = []; 
+        for(var i=0; i<data.length;i++){
+            _html.push('<div class="feeds-item" id="item-'+data[i]['ID']+'">');
+
+            if (data[i]['m_image_url']){
+                _html.push('<div class="feeds-item-detail hasImg">');
+                _html.push('<p class="feeds-item-pic"><a href="'+data[i]['m_display_url']+'" target="_blank" mon="col=13&pn=&a=12"><img src="'+data[i]['m_image_url']+'"/></a></p>');
+            }else{
+                _html.push('<div class="feeds-item-detail">');
+            }
+            _html.push('<h3><a href="'+data[i]['m_display_url']+'" target="_blank" mon="col=13&pn=">'+data[i]['m_title']+'</a></h3>');
+            _html.push('<p class="feeds-item-text">'+data[i]['m_summary']+'<a href="'+data[i]['m_display_url']+'" target="_blank" class="feeds-item-more" mon="col=13&pn=">[详细]</a></p>');
+            _html.push('<div class="feeds-item-info">');
+            _html.push('<p class="labels">');
+                var label = data[i]['m_label_names'];
+                for(var j=0; j<label.length;j++){
+                    _html.push('<a href="http://baijia.baidu.com/?tn=listarticle&labelid='+label[j].m_id+'" target="_blank">'+label[j].m_name+'</a>');
+                }
+            _html.push('</p>');
+            if(!data.isAuthor){
+                _html.push('<a href="'+data[i]['m_writer_url']+'" class="feeds-item-author" target="_blank">'+data[i]['m_writer_name']+'</a>');
+            }
+            _html.push('<span class="tm">'+data[i]['m_create_time']+'</span>');
+            _html.push('<span class="count">阅读（'+data[i]['hotcount']+'）</span>');
+            _html.push('<a href="javascript:;" class="share-article"><i class="i ishare"></i>分享</a>');
+            _html.push('</div></div></div>');
+        }
+        return _html.join('');
+    }
+    var __el = baidu.g('feeds_more'), __parent = baidu.g('feeds'),disable=false,mytimeout;
+        __el && baidu.on(__el, 'click', function(e){
+            var previd = baidu.dom.last('feeds').id.match(/\d.*/)[0];
+			if(disable == false){
+				disable = true;
+                __el.innerHTML='<a href="javascript:void(0)"><span class="feeds-loading"><i class="i"></i>正在加载</span></a>';
+                baidu.ajax.get("/ajax/labellatestarticle?page="+(PAGE_DATA.page+1)+"&pagesize="+PAGE_DATA.pagesize+"&labelid="+PAGE_DATA.labelid+'&prevarticalid='+previd,function(h,r){
+                    var req = baidu.json.parse(r);
+                        if(req.errno == 0 && req.data.total > 0){
+                            var tpl=render(req.data.list);
+                            //var tpl=baidu.template('new-feed-tmp', req.data);
+                                baidu.dom.insertHTML(__parent,'beforeEnd',tpl);
+                                PAGE_DATA.artical_list_num += req.data.list.length+1;
+                                if(PAGE_DATA.artical_list_num >= req.data.total){
+                                    __el.innerHTML='<a href="javascript:void(0)"><span>没有了，亲！</span></a>';
+                                }else{
+                                    __el.innerHTML='<a href="javascript:void(0)"><span>加载更多</span></a>';
+                                }
+                                PAGE_DATA.page+=1;
+                                disable = false;
+                        }else{
+                            __el.innerHTML='<a href="javascript:void(0)"><span>没有了，亲！</span></a>';
+                        }
+                });
+            }
+       });
+       baidu.on('feeds','mouseover',function(e){
+             var target = baidu.event.getTarget(e);
+             if(/share-article/.test(target.className)){
+                if(mytimeout){
+                        clearTimeout(mytimeout);
+                    }
+                var pos = baidu.dom.getPosition(target),
+                    _parent = baidu.dom.getAncestorByClass(target, 'feeds-item'),
+                    _item = baidu.dom.query('h3 a', _parent)[0];
+                    title =baidu.dom.getText(_item),
+                    url = baidu.dom.getAttr(_item, 'href'), 
+                    _pic =  baidu.dom.query('img', _parent).length ? baidu.dom.query('img', _parent)[0].src : 'http://baijia.baidu.com/static/images/baijia_weibopic.jpg';
+                    _text = baidu.dom.setAttr('bdshare','data','{"text" : "一篇好文,推荐之-【'+ title +'】（来自:百度百家）","url":"'+url+'","pic":"'+_pic+'"}');
+                    baidu.show('bdshare');
+                    baidu.dom.setStyles('bdshare',{position:'absolute',top:pos.top-4, left: pos.left+50});
+             }
+       });
+       baidu.on('feeds','mouseout',function(e){
+            if(/share-article/.test(baidu.event.getTarget(e).className)){
+                mytimeout = setTimeout(function(){
+                    baidu.hide('bdshare');
+                },500);
+            }
+       });
+       baidu.on('bdshare', 'mouseover' , function(e){
+            if(mytimeout){
+                clearTimeout(mytimeout);
+            }
+            baidu.show(this);
+       });
+       baidu.on('bdshare', 'mouseout' , function(e){
+            baidu.hide(this);
+       });
+
+       //$('#tags').on('click','.btnM',tagRss);
+
+        function tagRss(){
+            if(!$("#login").is(":hidden")){
+                baidu.g("login").click();
+                return false;
+            }
+            var $e = $(this),
+                txt = $e.find('b').text(),
+                mid = $e.closest('li').find('.tagnm').data('mid'),
+                changeTxt,changeClass,status;
+            if(txt == '取消'){
+                status = 2;
+                changeTxt = '关注';
+                changeClass = 'i iadd';
+            }else if(txt == '关注'){
+                status = 1;
+                changeTxt = '取消';
+                changeClass = 'i iminus';
+            }
+
+            $.ajaxSetup({ cache: false });
+            $.ajax({
+                url: "/ajax/subscribe?uid="+uid+"&mid="+mid+"&type=1&status="+status,
+                type: 'GET',
+                dataType: 'json',
+                success: function(res){
+                    if(res.errno == '0'){
+                        $e.find('.b').text(changeTxt);
+                        $e.find('.i').removeClass().addClass(changeClass);
+                    }
+                }
+            });
+        }
+
+});
+</script>
+<style>
+#bj_erweima {
+    bottom:115px;
+    margin-left:512px;
+    position:fixed;
+    _position:absolute;
+    left:50%;
+    width:128px;
+    _top:expression(eval(document.documentElement.scrollTop || document.body.scrollTop) +eval(document.documentElement.clientHeight || document.body.clientHeight) -295 +'px');
+    z-index:998;
+}
+</style>
+<div id="bj_erweima">
+    <a class="box" href="http://app.news.baidu.com/?src=erweima" target="_blank">
+        <img src="/static/images/baijia_erweima.jpg" >
+    </a>
+</div>
+<link href="/static/js/libs/magic/resources/default/magic.control.Dialog/magic.control.Dialog.css?v=20131212" rel="stylesheet" type="text/css"></link>
+<!--用户反馈-->
+<div id="goTop" >
+    <div class="feedback" id="feedbackbtn"><a href="javascript:;">用户反馈</a></div>
+    <div class="gotop"><a id="gotop_btn" style="display:none" onclick="window.scroll(0, 0)"></a></div>
+</div>
+<style>
+#goTop {
+    position:fixed;
+    width:54px;
+    left:50%;
+    margin-left:512px;
+    bottom:10px;
+    *+bottom:10px;
+    _position:absolute;
+    _top:expression(eval(document.documentElement.scrollTop || document.body.scrollTop) +eval(document.documentElement.clientHeight || document.body.clientHeight) -110+'px');
+    z-index:998;
+}
+#goTop div {
+    height:48px;
+    margin-top:3px;
+    position:relative;
+    width:48px;
+}
+#goTop div a,#goTop div a:link {
+    display:inline-block;
+    height  :18px;
+    width:100%;
+    color:#fff;
+    background:#b7c5ca url(http://news.baidu.com/resource/img/gotop.png) no-repeat;
+    font-size:12px;
+    line-height:14px;
+    text-align:center;
+    text-decoration:none;
+    padding-top:30px;
+}
+#goTop div.feedback a {
+    padding:10px;
+    height:28px;
+    width:28px;
+    line-height:14px;
+    background:#b7c5ca;
+}
+#goTop .feedback a:hover {
+    background:#59a9c6;
+}
+#goTop div.gotop a {
+    background-position:-147px -48px;
+}
+#goTop .gotop a:hover {
+    background-position:-147px 0;
+}
+/*UI控件*/
+.tang-dialog{position:fixed;top:100px;_position:absolute;_top:100px;_bottom:100px;}
+.tang-dialog .tang-title{background:#fff;border:none;}
+.tang-dialog .tang-title span{color:#fff;height:35px;line-height: 35px;background:#fff;}
+.tang-dialog .tang-body{border:none;background:#fff;}
+.tang-dialog .tang-body .content{color:#666;font-family: "微软雅黑";}
+.tang-dialog .tang-title .buttons a{background: transparent url(http://baijia.baidu.com/static/js/libs/magic/resources/default/magic.control.Dialog/btns.gif) no-repeat;}
+.tang-dialog .tang-title .buttons a:hover{background: transparent url(http://baijia.baidu.com/static/js/libs/magic/resources/default/magic.control.Dialog/btns.gif) no-repeat;}
+/*用户反馈*/
+.feed_describe{font: 16px "微软雅黑",arial,tahoma;color: #666;font-weight: bold;margin-bottom:10px;float:left;margin-left:20px;_margin-left:10px;}
+.feed_describe span{font: 30px arial;color: #377cca;font-style: italic;margin-right: 8px;}
+.feed_content{width: 630px;_width:630px;height: 170px;resize:none;overflow:auto;font-size:16px;border: 1px solid #ddd;padding-left:10px;font-family: "微软雅黑",arial,tahoma;margin-left:20px;float:left;}
+.feed_contact{clear:left;width:630px;height:40px;margin-left:20px;*margin-left:10px;}
+.feed_contact_txt{width: 286px;height: 32px;overflow: hidden;border: 1px solid #ddd;float: left;margin-right: 10px;padding-left:10px;font:16px/32px "微软雅黑",arial,tahoma;}
+.feed_contact_comment{font-size:16px;line-height:32px;color:#bbb;display: block;float:left;}
+.feed_contact_button{width:120px;height:35px;display:block;margin:15px auto 0px;background: #3F88D2;color: #fff;font-size: 16px;border: 1px solid #3F88D2;*+margin-top:8px;}
+</style>
+<script>var on=baidu.event.on;Fe = baidu;</script>
+<script src="/static/js/libs/magic/magic.js?v=20131212" type="text/javascript"></script>
+<script src="/static/js/utils.js?v=20131212" type="text/javascript"></script>
+<script type="text/javascript">
+    baidu.on(window,'load', function(){
+        var eleTop = baidu.g("gotop_btn");
+        baidu.on(window, 'scroll', function(){
+            baidu.page.getScrollTop() >= 200 ? baidu.show(eleTop) : baidu.hide(eleTop);
+            if(baidu.browser.ie&&baidu.browser.ie < 7){
+                var scrolltop = baidu.page.getScrollTop(),
+                    viewheight = baidu.page.getViewHeight(),
+                    pageheight = baidu.page.getHeight();
+                baidu.dom.setStyle('goTop','top',(scrolltop+viewheight-110));
+            }
+        });
+        var feedback = baidu.g("feedbackbtn");
+        var feedbackDialog = null , feedactionDialog = null ;
+        baidu.on(feedback , "click",function(e){
+            if(!feedbackDialog){
+                feedbackDialog = ZMT.notice({title:'用户反馈',content:'<h2 class="feed_describe"><span>1</span>请描述您遇到的问题或您的意见、建议：</h2><textarea type="text" class="feed_content" id="feed_content"></textarea><h2 class="feed_describe"><span>2</span>请留下联系方式，您将有机会获得精美礼品</h2><div class="feed_contact"><input type="text" class="feed_contact_txt" id="feed_content_txt" value="" placeholder="QQ/邮箱/电话"><span class="feed_contact_comment">(可选)</span></div><input id="submit_feed" type="button" class="feed_contact_button" value="提交反馈">',height:430,width:700});
+                setTimeout(function(){
+                    baidu.on(baidu.g("submit_feed"),"click",function(){
+                        var browser = "";
+                        var content = baidu.g("feed_content").value;
+                        var contactway = baidu.g("feed_content_txt").value; 
+                        if(!content){return false;}
+                        for(var p in baidu.browser){
+                            if(baidu.browser[p]){
+                                browser += " "+p+":"+baidu.browser[p] ;
+                            }
+                        }
+                        var url = 'mid=baijia_pc&content='+content+'&contactway='+contactway+'&browse='+browser; 
+                        baidu.ajax.post('/ajax/feedback',url,function(h,r){
+                            var req = baidu.json.parse(r);
+                            if(req.errno == 0){
+                                feedbackDialog.hide();
+                                feedactionDialog = ZMT.notice({content:'<div style="width:100%;height:100%;text-align:center;">提交成功！</div>',autohide:true});
+                                feedactionDialog.setPosition({top:100});
+                            }
+                        });
+                    });
+                },500);
+                feedbackDialog.setPosition({top:100});
+            }else{
+                baidu.g("feed_content").value = "";
+                baidu.g("feed_content_txt").value = ""; 
+                feedbackDialog.show();
+            }
+        });
+    });
+</script>
+</body>
+</html>

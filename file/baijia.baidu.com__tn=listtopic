@@ -1,0 +1,536 @@
+<!DOCTYPE html>
+<!--STATUS OK-->
+<html>
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>争鸣--百度百家</title>
+	<script src="/static/js/clickMonitor.js?v=20131212"></script>
+    <script type="text/javascript" src="/static/js/usermonitor.js?v=20131212"></script>
+	<script src="/static/js/baiduTemplate.js?v=20131212"></script>
+    <link href="/static/css/all_7f51415.css" type="text/css" rel="stylesheet"/>
+<script src="/static/js/libs/tangram/tangram-1.5.2.2.js?v=20130128" type="text/javascript"></script>
+<script src="/static/js/libs/jquery/jquery.min.js?v=20131212" type="text/javascript"></script>
+<script src="/static/js/libs/jquery/jquery.cookie.js" type="text/javascript"></script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?7fe4ae9e1d0d01bcf748d066979cd2aa";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+
+    <script>var on=baidu.event.on;Fe = baidu;</script>
+</head>
+<body>
+<script type="text/javascript" language="javascript">
+        clickMonitor.init('BAIJIA_PAGE', 'c=zhenglineglist');
+</script>
+<style>
+#menu{height:60px;border-right:none;left:240px;}
+#menu a{color:#333;height:21px;width:70px;line-height:21px;position:relative;top:20px;margin:0 10px;border:0!important;}
+#menu a:hover{background: none;text-decoration: none;color:#2393df;}
+#menu a.current{background:none;color:#2393df;}
+#menu a.current:hover{background:none;text-decoration: none;}
+#menu a span{width:70px;height:1px;display:block;margin:19px auto 0px;_margin-top:-4px;}
+#menu a:hover span,#menu a.current span{border-bottom:4px solid #2393df;}
+.top-main{position:relative;width:982px;margin:0 auto;height:0px;}
+.top-main a{display: block;width:192px;height:68px;background: url(/static/images/03.png) no-repeat;text-decoration: none;top:-62px;left:0px;position:absolute;z-index:9999;}
+.search{position:absolute;right:230px;top:15px;height:30px;}
+.search_box{width:auto;height:100%;padding-right:5px;padding-left:28px;overflow:hidden;}
+.search_form{position: relative;width:195px;height:28px;border:1px solid #ccc;background: #FAFAFA;}
+.search_txt{display:block;position: absolute;top:4px;left:28px;font-size:14px;font-family:"宋体","Hiragino Sans GB";color:#c2c2c2;}
+.search_input{width:100%;height:26px;line-height:26px;display:block;border:none;border-width: 0px;background: #FAFAFA;}
+.search_btn{position: absolute;top: 0px;left: 0px;display:block;width:28px;height:28px;text-align:center;line-height: 24px;}
+.search_submit{background: url(/static/images/header_search_icon.png) no-repeat;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled='true',sizingMethod='scale',src='/static/images/header_search_icon.png');_background:none;width:16px;height:16px;border:none;cursor:pointer;*margin-top:5px;}
+#header{background:#fff;border-bottom:2px solid #EEE;height:60px;}
+#usrbar{top:20px}
+#usrbar .header_baidu,
+#usrbar .header_home,
+#usrbar .header_person{color:#666;display:inline-block;*display:inline;*zoom:1;height:18px;padding: 0 3px; vertical-align: top}
+
+.userbox{position:relative;width:100%;height:0px;left:0px;z-index:9999;}
+.userbox ul{position:absolute;top:0px;right:0px;border: 1px solid #999;width:80px;height:60px;background:#fff;padding:0px;overflow:hidden;*clear:both;}
+.userbox li{width:100%;height:30px;margin:0px;}
+#usrbar li a{height:100%;display:block;line-height:30px;padding:0px 0px 0px 5px;}
+#usrbar li a:hover{background:none repeat scroll 0 0 #ebebeb; text-decoration: none}
+#register{width:26px;}
+#usrbar .header_person:hover,
+#usrbar .header_baidu:hover,
+#usrbar .header_home:hover{color:#2393df;cursor:pointer;}
+
+#login_user{display:inline-block;*display:inline;*zoom:1;position:relative; vertical-align: top;width:100px;margin-right:5px;}
+#loged{width:100px; text-align: right;overflow: hidden;white-space: normal;word-wrap: break-word;word-break: break-all;color:#666;display:block;height:18px;padding: 0 6px!important;}
+</style>
+<script type='text/javascript' src='http://passport.baidu.com/passApi/js/uni_login_wrapper.js?cdnversion=201504211126'></script>
+<div id="header" alog-group="log-header">
+	<div class="header-content">
+        <div id="menu"><a href="http://baijia.baidu.com"  style="border-left:0px;">首页<span></span></a><a href="http://baijia.baidu.com/?tn=listauthor" >作家<span></span></a><a href="http://baijia.baidu.com/?tn=listtopic" class="current">争鸣<span></span></a></div>
+
+<div class="search">
+  <form method="get" action="http://baijia.baidu.com/" class="search_form" onSubmit="return chkForm(this);">
+    <span title="搜索" alt="搜索" class="search_btn">
+      <input type="submit" class="search_submit" value="">
+    </span>
+    <div class="search_box" >
+      <label for="search" class="search_txt" id="search_txt"></label>
+      <input type="hidden" name="tn" value="search">
+      <input type="text" id="search" maxlength="50" name="word" autocomplete="off" class="search_input">
+    </div>
+  </form>
+</div>
+        <div id="usrbar">
+                    <a href="javascript:void(0);" id="login" class="header_person" >登录</a>
+          <a href="http://news.baidu.com" class="header_home" target="_blank">新闻首页</a>
+          <a class="header_baidu" target="_blank" href="http://www.baidu.com">百度</a>
+        </div>
+	</div>
+</div>
+<div class="top-main"><a href="http://baijia.baidu.com" ></a></div>
+<script>
+(function(baidu, undefined) {
+    window.instance = passport.pop.init({
+         apiOpt: {
+             staticPage: 'http://'+location.host+'/static/html/v3Jump.html',
+             product: 'xw1',
+             memberPass: true,
+             charset:'utf-8',
+             u:location.href,
+             safeFlag: 0
+         },
+         authsite:['tsina','renren','qzone','tqq'],
+	       authsiteCfg:{act:'implicit'},
+         tangram: true,
+         onLoginSuccess: function (args) {
+            // 发送统计日志统计pc主动登陆用户UV
+            args.returnValue = false;
+            sendLog({
+                m: 52,
+                a: 0,
+                args: args
+            });
+         },
+         onShow: function () {
+            sendLog({
+                m: 52,
+                a: 2
+            });
+         }
+    });
+    baidu.on('login', 'click', function(event) {
+         baidu.event.preventDefault(event || window.event);
+         sendLog({
+            m: 52,
+            a: 1
+         });
+         instance.show();
+    });
+})(window.baidu);
+
+function sendLog(option) {
+  var url = 'http://nsclick.baidu.com/v.gif?pid=107&m=' + option.m + '&a=' + option.a + '&v=' + new Date().getTime();
+
+  $('<img/>')
+    .one('load', function() {
+        if (option.args){
+            location.href = option.args.rsp.data.u;
+        }
+    })
+    .each(function() {
+      if(this.complete) $(this).load();
+    })
+    .attr('src', url);
+}
+</script>
+<script type="text/javascript">
+	var __search = baidu.g("search") ;
+	__search && baidu.on(__search, 'blur', function(e){
+		if(!__search.value){
+			baidu.show('search_txt');
+		}
+	});
+	__search && baidu.on(__search, 'focus', function(e){
+		baidu.hide('search_txt');
+	});
+	function chkForm(e){
+		if(!__search.value){
+			return false;
+		}
+		return true ;
+	};
+</script>
+<script type="text/javascript">
+	var __login_user = baidu.g("login_user");
+	var __userbox = baidu.g("userbox"),myTimeout;
+  var uid="";
+	__login_user && baidu.on(__login_user,'mouseenter',function(e){
+    if(myTimeout){
+      clearTimeout(myTimeout);
+    }
+		baidu.show("userbox");
+	});
+	__login_user && baidu.on(__login_user,'mouseleave',function(e){
+    myTimeout = setTimeout(function(){
+      baidu.hide("userbox");
+    },500);
+
+	});
+	var __logout = baidu.g("logout");
+	if(__logout){
+    var uhref = encodeURIComponent(location.href) ;
+    if(uhref.indexOf("userinfo") > 0 ){
+      __logout.href="http://passport.rdtest.baidu.com/?logout&u="+encodeURIComponent("http://baijia.baidu.com/");
+    }else{
+      __logout.href="http://passport.rdtest.baidu.com/?logout&u="+uhref;
+    }
+
+  }
+  if(!uid){
+    $('#cmtbox textarea') && $('#cmtbox textarea').val('');
+  }
+
+</script>
+
+<style>
+
+.page-titlebar{
+    height:40px;
+    }
+.page-titlebar h1{
+    float:left;
+    background:none;
+    border-left:5px solid #3877BC;
+    padding-left:15px;
+    font:normal 22px/28px "微软雅黑";
+    color:#146fb8;
+    height:28px;
+}
+.past-list{
+    padding-top:10px;
+    width:1022px;
+}
+.past-list-item{
+    float:left;
+    position:relative;
+    height:190px;
+    width:470px;
+    margin-right:40px;
+    margin-bottom:50px;
+    overflow:hidden;
+    display:inline;
+}
+.past-list-item .title:link,
+.past-list-item .title:visited{
+    position:absolute;
+    top:0;
+    right:0;
+    padding:10px;
+    width:110px;
+    background:url(/static/images/baijia_zm_list_arr.png) #000 no-repeat center 200px;
+    height:170px;
+    opacity:.7;
+    filter:alpha(opacity=70);
+    color:#fff;
+    font-family:"微软雅黑","Hiragino Sans GB";
+}
+
+.past-list-item .title:hover{
+    text-decoration:none;
+    opacity:1;
+    filter:alpha(opacity=100);
+}
+.past-list-item .title span{
+    display:block;
+}
+.past-list-item .title .item-num{
+    font-size:18px;
+    color:#666;
+}
+
+.past-list-item .title .item-title{
+    font-size:22px;
+    color;#fff;
+    }
+.past-list-item .title .item-btn{
+    position:absolute;
+    top:130px;
+    left:50%;
+    margin-left:-20px;
+    height:40px;
+    width:40px;
+    background:url(/static/images/baijia_zm_list_arr.png) no-repeat center;
+    border:2px solid #6d6d6f;
+    border-width:1px\9;
+    border-radius:100%;
+    }
+
+/*首部*/
+#body{margin-top:30px;}
+#ahead{width:100%;margin:0;height:254px;padding-top:24px;border-bottom:1px solid #eaeaea;
+    filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#f0f0f0', endColorstr='#f5f5f5'); 
+    -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#f0f0f0', endColorstr='#f5f5f5')"; 
+    background:-moz-linear-gradient(top, #f0f0f0, #f5f5f5);  
+    background:-webkit-gradient(linear, 0 0, 0 bottom, from(#f0f0f0), to(#f5f5f5));  
+    background:-o-linear-gradient(top, #f0f0f0,#f5f5f5); 
+}
+.arguehead {height:230px;width:982px;margin:15px auto 0px;}
+.arguehead_mark {float:left;width:466px;height:200px;position: relative;overflow: hidden;}
+.arguehead_mark img {width:100%}
+.arguehead .subtitle{position: absolute;bottom:30px; left:0px;height:50px;line-height:50px;color:#fff;font:26px/50px "微软雅黑","Hiragino Sans GB";width: auto;padding: 0 10px;background-color: rgba(0,0,0,.5);filter: progid:DXImageTransform.Microsoft.gradient(enabled = 'true',startColorstr = '#50000000',endColorstr = '#50000000');text-decoration: none;}
+.arguehead_detail {float:left;width:496px;margin-left:20px;padding-top:5px;}
+.arguehead_detail .title{font:bold 38px/30px "微软雅黑","Hiragino Sans GB";color:#036;padding-bottom: 20px;margin-bottom:10px;border-bottom: 1px dotted #aaa;background: url(/static/images/baijia_list_head_arrow.png) no-repeat right 12px;padding-right: 100px;position: relative;}
+.arguehead_detail .title .enter_zhuanti{float:right;font-size: 20px ;line-height: 50px;color:#146fb8;position:absolute;right:30px;font-weight:normal;}
+.arguehead_detail .title .zhuanti_title{color:#146fb8;line-height:38px;font-weight:normal;font-size:34px;}
+.arguehead_detail .content{font:18px/26px "微软雅黑","Hiragino Sans GB";color:#666;text-align: left;}
+.ahead_titlebar{height: 30px;width: 982px;margin: 0 auto 17px;}
+.ahead_titlebar h1{float: left;padding-left: 35px;background: url(/static/images/baijia_list_head_title.png) no-repeat left center;font: normal 28px/30px 微软雅黑;color: #369;}
+/*查看更多*/
+#more_article{border: 1px solid #f0f0f0;text-align: center;width: 480px;height: 50px;font: 18px/50px "微软雅黑","Hiragino Sans GB";color: #369;margin: 0 auto;clear: both;background: #fbfbfb;display:block;text-decoration: none;*margin-top:30px;}
+#more_article:hover{background:#fafafa;text-decoration: none;}
+</style>
+<div id="ahead">
+    <div class="arguehead">
+        <div class="arguehead_mark">
+            <a href="/?tn=topic&topicid=x16a5clp" target="_blank">
+                <img src="http://f.hiphotos.baidu.com/news/q=100/sign=ab9581cb79d98d1070d40831113fb807/cdbf6c81800a19d83976933236fa828ba61e468b.jpg">
+            </a>
+        </div>
+        <div class="arguehead_detail">
+            <h1 class="title"><a class="enter_zhuanti" href="/?tn=topic&topicid=x16a5clp" target="_blank" >进入专题</a><a href="/?tn=topic&topicid=x16a5clp" target="_blank" class="zhuanti_title">苹果入局中国光伏</a></h1>
+            <div class="content">苹果近日宣布将通过注资四川晟天新能源，首度在中国建设光伏电站。曾经陷入产能过剩危机的光伏产业，能否借此迎来“第二春”？能源互联网又会否成为下一个风口？</div>
+        </div>
+    </div>
+</div>
+<div id="body" class="clearfix">
+<div class="page-titlebar">
+<h1 style="font-family:微软雅黑,Hiragino Sans GB;">历期争鸣<span style="font-size:18px;color:#999;">（共261期）</span></h1>
+</div>
+<div class="past-list" id="past-list">
+
+<div class="past-list-item">
+    <a href="/?tn=topic&topicid=x46ba9sp" target="_blank"><img src="http://h.hiphotos.baidu.com/news/q=100/sign=c950b1b00a2442a7a80ef9a5e143ad95/9f2f070828381f30be25069aac014c086e06f0c1.jpg"/></a>
+    <a href="/?tn=topic&topicid=x46ba9sp" class="title" target="_blank"><span class="item-num">第262期</span><span class="item-title">微软挑战中国移动市场</span><span class="item-btn"></span></a>
+</div>
+<div class="past-list-item">
+    <a href="/?tn=topic&topicid=x63923kp" target="_blank"><img src="http://e.hiphotos.baidu.com/news/q=100/sign=418d1132d5c8a786b82a4e0e5708c9c7/d833c895d143ad4bb581f70886025aafa50f064e.jpg"/></a>
+    <a href="/?tn=topic&topicid=x63923kp" class="title" target="_blank"><span class="item-num">第261期</span><span class="item-title">京东全球购能走多远</span><span class="item-btn"></span></a>
+</div>
+<div class="past-list-item">
+    <a href="/?tn=topic&topicid=xd947bdp" target="_blank"><img src="http://c.hiphotos.baidu.com/news/q=100/sign=b36023a09c22720e7dcee6fa4bca0a3a/5882b2b7d0a20cf48b3a781d72094b36adaf994e.jpg"/></a>
+    <a href="/?tn=topic&topicid=xd947bdp" class="title" target="_blank"><span class="item-num">第260期</span><span class="item-title">58赶集合并会怎样</span><span class="item-btn"></span></a>
+</div>
+<div class="past-list-item">
+    <a href="/?tn=topic&topicid=x4734bOp" target="_blank"><img src="http://e.hiphotos.baidu.com/news/q=100/sign=69e920fd4d540923ac69677ea259d1dc/8694a4c27d1ed21beaacf03ba96eddc450da3f83.jpg"/></a>
+    <a href="/?tn=topic&topicid=x4734bOp" class="title" target="_blank"><span class="item-num">第259期</span><span class="item-title">乐视手机生态梦</span><span class="item-btn"></span></a>
+</div>
+<div class="past-list-item">
+    <a href="/?tn=topic&topicid=x7a614Mp" target="_blank"><img src="http://e.hiphotos.baidu.com/news/q=100/sign=88ad15b2c8bf6c81f13728e88c3fb1d7/80cb39dbb6fd5266c439cdceaf18972bd50736dd.jpg"/></a>
+    <a href="/?tn=topic&topicid=x7a614Mp" class="title" target="_blank"><span class="item-num">第258期</span><span class="item-title">互联网医疗何去何从</span><span class="item-btn"></span></a>
+</div>
+<div class="past-list-item">
+    <a href="/?tn=topic&topicid=x7f100Lp" target="_blank"><img src="http://f.hiphotos.baidu.com/news/q=100/sign=cf1395968fd4b31cf63c90bbb7d4276f/d6ca7bcb0a46f21f3bf7d086f2246b600d33ae20.jpg"/></a>
+    <a href="/?tn=topic&topicid=x7f100Lp" class="title" target="_blank"><span class="item-num">第257期</span><span class="item-title">百视通合并有何影响</span><span class="item-btn"></span></a>
+</div>
+
+</div>
+    <a class="more_article" id="more_article" href="javascript:void(0);">点击查看更多专题</a>
+</div>
+<style>
+#footer{width:100%;background:#f0f0f0;height:249px;}
+#footer .site-nav{margin-top:34px;}
+#footer .site-nav a{background:#fff;display: inline-block;border: 1px solid #ececec;padding: 0 22px;margin: 0 5px;height: 30px;line-height: 30px;color: #666;vertical-align: bottom;}
+#footer .site-nav a.bottom-logo{background:none;border: 0;height: 38px;}
+</style>
+<div id="footer" alog-group="log-footer">
+<p class="site-nav"><a href="http://baijia.baidu.com/" target="_blank" class="bottom-logo"><img src="/static/images/baijia_logo_color.png"/></a><a href="http://baijia.baidu.com/?tn=listarticle&labelid=2" target="_blank">互联网</a><a href="http://baijia.baidu.com/?tn=listarticle&labelid=3" target="_blank">文化</a><a href="http://baijia.baidu.com/?tn=listarticle&labelid=4" target="_blank">娱乐</a><a href="http://baijia.baidu.com/?tn=listarticle&labelid=5" target="_blank">体育</a><a href="http://baijia.baidu.com/?tn=listarticle&labelid=6" target="_blank">财经</a><a href="http://baijia.baidu.com/?tn=listarticle&labelid=1" target="_blank">热点</a>
+</p>
+<p class="top-nav">
+<a href="http://baijia.baidu.com/" target="_blank">百家首页</a>|
+<a href="http://news.baidu.com/" target="_blank">百度新闻</a>|
+<a href="mailto:Baijia@baidu.com" target="_blank">联系我们：Baijia@baidu.com</a>
+<strong> 百度新闻独家出品</strong>
+</p>
+<p class="site-info">
+京公网安备110000000001号 <a href="http://news.baidu.com/licence.html">互联网新闻信息服务许可</a><span>&copy;2015 Baidu</span><a href="http://www.baidu.com/duty/">使用百度前必读</a><a target="_blank" href="http://net.china.cn/chinese/index.htm"><img src="http://gimg.baidu.com/img/net.gif"></a><a target="_blank" href="http://www.bj.cyberpolice.cn/index.htm"><img alt="首都网络110报警服务" src="http://gimg.baidu.com/img/110.gif"></a><a target="_blank" href="http://www.bjjubao.org/"><img src="http://news.baidu.com/resource/img/report_center.png"></a> 
+</p>
+</div>
+
+<script type="text/javascript">
+   baidu.dom.ready(function(){
+
+    //点击查看更多文章
+    function renderItem(item){
+        var _html = []  ;  
+        _html.push( '<div class="past-list-item">',
+                        '<a href="/?tn=topic&topicid='+item.ID+'" target="_blank"><img src="'+item.m_image_url+'"/></a>',
+                        '<a href="/?tn=topic&topicid='+item.ID+'" class="title" target="_blank"><span class="item-num">'+item.m_title2+'</span><span class="item-title">'+item.m_title+'</span><span class="item-btn"></span></a>',
+                    '</div>');
+        return _html.join("");
+    }
+
+    var __more = baidu.g("more_article");
+    var __list = baidu.g("past-list");
+    var __moreId = 2 ; 
+    __more && baidu.event.on(__more,'click',function(e){
+        baidu.ajax.get("/ajax/topiclist?firstid=x16a5clp&pagesize=6&page="+__moreId,function(h,r){ 
+            var req = baidu.json.parse(r);
+            var html = "" ;
+            if(req.errno == 0){
+                for(var i = 0 ;i < req.data.list.length ;i++ ){
+                    html += renderItem(req.data.list[i]);
+                }
+                baidu.dom.insertHTML(__list,'beforeEnd',html);
+                if(__moreId * 6  > req.data.total ){
+                    baidu.setStyle(__more,"display","none");
+                }
+                __moreId++ ; 
+            }else{
+                
+            }
+        });
+    });
+
+   });
+</script>
+<style>
+#bj_erweima {
+    bottom:115px;
+    margin-left:512px;
+    position:fixed;
+    _position:absolute;
+    left:50%;
+    width:128px;
+    _top:expression(eval(document.documentElement.scrollTop || document.body.scrollTop) +eval(document.documentElement.clientHeight || document.body.clientHeight) -295 +'px');
+    z-index:998;
+}
+</style>
+<div id="bj_erweima">
+    <a class="box" href="http://app.news.baidu.com/?src=erweima" target="_blank">
+        <img src="/static/images/baijia_erweima.jpg" >
+    </a>
+</div>
+<link href="/static/js/libs/magic/resources/default/magic.control.Dialog/magic.control.Dialog.css?v=20131212" rel="stylesheet" type="text/css"></link>
+<!--用户反馈-->
+<div id="goTop" >
+    <div class="feedback" id="feedbackbtn"><a href="javascript:;">用户反馈</a></div>
+    <div class="gotop"><a id="gotop_btn" style="display:none" onclick="window.scroll(0, 0)"></a></div>
+</div>
+<style>
+#goTop {
+    position:fixed;
+    width:54px;
+    left:50%;
+    margin-left:512px;
+    bottom:10px;
+    *+bottom:10px;
+    _position:absolute;
+    _top:expression(eval(document.documentElement.scrollTop || document.body.scrollTop) +eval(document.documentElement.clientHeight || document.body.clientHeight) -110+'px');
+    z-index:998;
+}
+#goTop div {
+    height:48px;
+    margin-top:3px;
+    position:relative;
+    width:48px;
+}
+#goTop div a,#goTop div a:link {
+    display:inline-block;
+    height  :18px;
+    width:100%;
+    color:#fff;
+    background:#b7c5ca url(http://news.baidu.com/resource/img/gotop.png) no-repeat;
+    font-size:12px;
+    line-height:14px;
+    text-align:center;
+    text-decoration:none;
+    padding-top:30px;
+}
+#goTop div.feedback a {
+    padding:10px;
+    height:28px;
+    width:28px;
+    line-height:14px;
+    background:#b7c5ca;
+}
+#goTop .feedback a:hover {
+    background:#59a9c6;
+}
+#goTop div.gotop a {
+    background-position:-147px -48px;
+}
+#goTop .gotop a:hover {
+    background-position:-147px 0;
+}
+/*UI控件*/
+.tang-dialog{position:fixed;top:100px;_position:absolute;_top:100px;_bottom:100px;}
+.tang-dialog .tang-title{background:#fff;border:none;}
+.tang-dialog .tang-title span{color:#fff;height:35px;line-height: 35px;background:#fff;}
+.tang-dialog .tang-body{border:none;background:#fff;}
+.tang-dialog .tang-body .content{color:#666;font-family: "微软雅黑";}
+.tang-dialog .tang-title .buttons a{background: transparent url(http://baijia.baidu.com/static/js/libs/magic/resources/default/magic.control.Dialog/btns.gif) no-repeat;}
+.tang-dialog .tang-title .buttons a:hover{background: transparent url(http://baijia.baidu.com/static/js/libs/magic/resources/default/magic.control.Dialog/btns.gif) no-repeat;}
+/*用户反馈*/
+.feed_describe{font: 16px "微软雅黑",arial,tahoma;color: #666;font-weight: bold;margin-bottom:10px;float:left;margin-left:20px;_margin-left:10px;}
+.feed_describe span{font: 30px arial;color: #377cca;font-style: italic;margin-right: 8px;}
+.feed_content{width: 630px;_width:630px;height: 170px;resize:none;overflow:auto;font-size:16px;border: 1px solid #ddd;padding-left:10px;font-family: "微软雅黑",arial,tahoma;margin-left:20px;float:left;}
+.feed_contact{clear:left;width:630px;height:40px;margin-left:20px;*margin-left:10px;}
+.feed_contact_txt{width: 286px;height: 32px;overflow: hidden;border: 1px solid #ddd;float: left;margin-right: 10px;padding-left:10px;font:16px/32px "微软雅黑",arial,tahoma;}
+.feed_contact_comment{font-size:16px;line-height:32px;color:#bbb;display: block;float:left;}
+.feed_contact_button{width:120px;height:35px;display:block;margin:15px auto 0px;background: #3F88D2;color: #fff;font-size: 16px;border: 1px solid #3F88D2;*+margin-top:8px;}
+</style>
+<script>var on=baidu.event.on;Fe = baidu;</script>
+<script src="/static/js/libs/magic/magic.js?v=20131212" type="text/javascript"></script>
+<script src="/static/js/utils.js?v=20131212" type="text/javascript"></script>
+<script type="text/javascript">
+    baidu.on(window,'load', function(){
+        var eleTop = baidu.g("gotop_btn");
+        baidu.on(window, 'scroll', function(){
+            baidu.page.getScrollTop() >= 200 ? baidu.show(eleTop) : baidu.hide(eleTop);
+            if(baidu.browser.ie&&baidu.browser.ie < 7){
+                var scrolltop = baidu.page.getScrollTop(),
+                    viewheight = baidu.page.getViewHeight(),
+                    pageheight = baidu.page.getHeight();
+                baidu.dom.setStyle('goTop','top',(scrolltop+viewheight-110));
+            }
+        });
+        var feedback = baidu.g("feedbackbtn");
+        var feedbackDialog = null , feedactionDialog = null ;
+        baidu.on(feedback , "click",function(e){
+            if(!feedbackDialog){
+                feedbackDialog = ZMT.notice({title:'用户反馈',content:'<h2 class="feed_describe"><span>1</span>请描述您遇到的问题或您的意见、建议：</h2><textarea type="text" class="feed_content" id="feed_content"></textarea><h2 class="feed_describe"><span>2</span>请留下联系方式，您将有机会获得精美礼品</h2><div class="feed_contact"><input type="text" class="feed_contact_txt" id="feed_content_txt" value="" placeholder="QQ/邮箱/电话"><span class="feed_contact_comment">(可选)</span></div><input id="submit_feed" type="button" class="feed_contact_button" value="提交反馈">',height:430,width:700});
+                setTimeout(function(){
+                    baidu.on(baidu.g("submit_feed"),"click",function(){
+                        var browser = "";
+                        var content = baidu.g("feed_content").value;
+                        var contactway = baidu.g("feed_content_txt").value; 
+                        if(!content){return false;}
+                        for(var p in baidu.browser){
+                            if(baidu.browser[p]){
+                                browser += " "+p+":"+baidu.browser[p] ;
+                            }
+                        }
+                        var url = 'mid=baijia_pc&content='+content+'&contactway='+contactway+'&browse='+browser; 
+                        baidu.ajax.post('/ajax/feedback',url,function(h,r){
+                            var req = baidu.json.parse(r);
+                            if(req.errno == 0){
+                                feedbackDialog.hide();
+                                feedactionDialog = ZMT.notice({content:'<div style="width:100%;height:100%;text-align:center;">提交成功！</div>',autohide:true});
+                                feedactionDialog.setPosition({top:100});
+                            }
+                        });
+                    });
+                },500);
+                feedbackDialog.setPosition({top:100});
+            }else{
+                baidu.g("feed_content").value = "";
+                baidu.g("feed_content_txt").value = ""; 
+                feedbackDialog.show();
+            }
+        });
+    });
+</script>
+</body>
+</html>

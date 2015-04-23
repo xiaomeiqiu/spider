@@ -1,0 +1,420 @@
+<!DOCTYPE html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>百度新闻  传媒</title>
+<link rel="stylesheet" type="text/css" href="/resource/css/media.css?t=201310111600"/>
+</head>
+<body>
+    <div id="header">
+        <h1 id="logo"><a href="http://news.baidu.com/n?cmd=1&class=media" title="百度新闻  传媒">百度新闻  传媒</a></h1>
+        <ul id="header_nav">
+            <li data-click="media_filter"><a href="http://news.baidu.com/n?cmd=1&class=media">全部传媒</a></li>
+        </ul>
+        <div id="search">
+            <form target="_blank" action="http://news.baidu.com/ns" method="get">
+                <input name="word" value="" maxlength="100" autocomplete="off" type="text" class="input" />
+                <input name="tn" type="hidden" value="news"/>
+                <input name="from" type="hidden" value="news"/>
+                <input name="cl" type="hidden" value="2"/>
+                <input name="rn" type="hidden" value="20"/>
+                <input name="ct" type="hidden" value="1"/>
+                <input name="ie" type="hidden" value="utf-8"/>
+                <button type="submit"></button>
+            </form>
+        </div>
+        <ul id="header_link">
+            <li><a href="http://news.baidu.com">百度新闻</a></li>
+            <li><a href="http://news.baidu.com/n?cmd=1&class=reci">热搜词</a></li>
+        </ul>
+    </div>
+    <div id="wrapper">
+        <div id="media_func">
+            <a href="javascript:;" class="prev" data-click="media_page" data-p="-1">前一个</a>
+            <a href="javascript:;" class="prevcover" data-click="media_page" data-p="-1" data-role="media_page">前一个</a>
+            <a href="javascript:;" class="next" data-click="media_page" data-p="1">后一个</a>
+            <a href="javascript:;" class="nextcover" data-click="media_page" data-p="1" data-role="media_page">后一个</a>
+        </div>
+        <div id="media_list">
+            <div class="media_item"></div>
+            <div class="media_item"></div>
+            <div class="media_item"></div>
+            <div class="media_item"></div>
+            <div class="media_item"></div>
+        </div>
+    </div>
+    <div id="footer">
+        <div id="channel">
+            <!--ul class="tab">
+                <li class="cur" data-recommend="0" data-click="media_tab">传媒列表</li>
+                <li data-recommend="1" data-click="media_tab">推荐传媒</li>
+            </ul-->
+            <p class="pager"></p>
+            <p class="func">
+                <!--a href="javascript:;" class="refresh" data-click="refresh" title="刷新">刷新</a-->
+                <a href="javascript:;" class="hide" data-click="foot_hide" title="收起">收起</a>
+                <a href="javascript:;" class="show" data-click="foot_show" title="展开" style="display:none;">展开</a>
+            </p>
+        </div>
+        <div id="channel_nav">
+            <a href="javascript:;" class="prev" title="前一页" data-click="thumb" data-p="-1">前一页</a>
+            <ul data-p="0">
+            </ul>
+            <a href="javascript:;" class="next" title="后一页" data-click="thumb" data-p="1">后一页</a>
+        </div>
+    </div>
+    <script id="tpl_0" type="text/html">
+    <div class="media_cont layout0">
+        <div class="header">
+            <p class="time"><%=MediaRender.date()%></p>
+            <% if(logo){ %>
+            <p class="logo">
+                <% if(url){ %>
+                <a href="<%=url%>" target="_blank">
+                <% } %>
+                    <img src="<%=logo%>" alt="" />
+                <% if(url){ %>
+                </a>
+                <% } %>
+            </p>
+            <% } %>
+            <p class="share">
+                <a href="javascript:;" data-click="share" data-type="weibo" class="share_weibo" title="分享到新浪微博"></a>
+                <a href="javascript:;" data-click="share" data-type="qweibo" class="share_qweibo" title="分享到腾讯微博"></a>
+                <a href="javascript:;" data-click="share" data-type="douban" class="share_douban" title="分享到豆瓣"></a>
+                <a href="javascript:;" data-click="share" data-type="qzone" class="share_qzone" title="分享到qq空间"></a>
+                <a href="javascript:;" data-click="share" data-type="renren" class="share_renren" title="分享到人人网"></a>
+            </p>
+        </div>
+        <div class="content">
+            <% if(data.list && data.list[0]){ %>
+            <dl class="headline">
+                <dt><a href="<%=data.list[0].url%>" target="_blank"><%-MediaRender.cut(data.list[0].title,60)%></a></dt>
+                <dd><%-MediaRender.cut(data.list[0].desc,120)%></dd>
+            </dl>
+            <% } %>
+            <div class="block_b">
+                <% if(data.image && data.image[0]){ %>
+                <dl class="img">
+                    <dt><a href="<%=data.image[0].url%>" title="<%-data.image[0].title%>" target="_blank"><img src="<%=data.image[0].image%>" height="180" width="290" alt="" /></a></dt>
+                    <dd class="title"><a href="<%=data.image[0].url%>" target="_blank"><%-MediaRender.cut(data.image[0].title,40)%></a></dd>
+                    <dd class="brief"><%-MediaRender.cut(data.image[0].desc,90)%></dd>
+                </dl>
+                <% } %>
+                <ul class="list">
+                <% if(data.list){ %>
+                <% for(var i=13;i<16;i++){ %>
+                    <% if(data.list[i]){ %>
+                    <li>·<a href="<%=data.list[i].url%>" target="_blank"><%-MediaRender.cut(data.list[i].title,38)%></a></li>
+                    <% } %>
+                <% } %>
+                <% } %>
+                </ul>
+            </div>
+            <div class="block_a">
+                <% if(data.image && data.image[1]){ %>
+                <dl class="img">
+                    <dt><a href="<%=data.image[1].url%>" title="<%-data.image[1].title%>" target="_blank"><img src="<%=data.image[1].image%>" height="114" width="163" alt="" /></a></dt>
+                    <dd><a href="<%=data.image[1].url%>" target="_blank"><%-MediaRender.cut(data.image[1].title,50)%></a></dd>
+                </dl>
+                <% } %>
+                <ul class="list">
+                <% if(data.list){ %>
+                <% for(var i=1;i<7;i++){ %>
+                    <% if(data.list[i]){ %>
+                    <li>·
+                        <% if(i==1){ %>
+                        <b>
+                        <a href="<%=data.list[i].url%>" target="_blank"><%-MediaRender.cut(data.list[i].title,40)%></a>
+                        </b>
+                        <% }else{ %>
+                        <a href="<%=data.list[i].url%>" target="_blank"><%-MediaRender.cut(data.list[i].title,44)%></a>
+                        <% } %>
+                    </li>
+                    <% } %>
+                <% } %>
+                <% } %>
+                </ul>
+            </div>
+            <div class="block_a">
+                <% if(data.image && data.image[2]){ %>
+                <dl class="img">
+                    <dt><a href="<%=data.image[2].url%>" title="<%-data.image[2].title%>" target="_blank"><img src="<%=data.image[2].image%>" height="114" width="163" alt="" /></a></dt>
+                    <dd><a href="<%=data.image[2].url%>" target="_blank"><%-MediaRender.cut(data.image[2].title,50)%></a></dd>
+                </dl>
+                <% } %>
+                <ul class="list">
+                <% if(data.list){ %>
+                <% for(var i=7;i<13;i++){ %>
+                    <% if(data.list[i]){ %>
+                    <li>·
+                        <% if(i==7){ %>
+                        <b>
+                        <a href="<%=data.list[i].url%>" target="_blank"><%-MediaRender.cut(data.list[i].title,40)%></a>
+                        </b>
+                        <% }else{ %>
+                        <a href="<%=data.list[i].url%>" target="_blank"><%-MediaRender.cut(data.list[i].title,44)%></a>
+                        <% } %>
+                    </li>
+                    <% } %>
+                <% } %>
+                <% } %>
+                </ul>
+            </div>
+        </div>
+    </div>
+    </script>
+    <script id="tpl_1" type="text/html">
+    <div class="media_cont layout1">
+        <div class="header">
+            <p class="time"><%=MediaRender.date()%></p>
+            <% if(logo){ %>
+            <p class="logo">
+                <% if(url){ %>
+                <a href="<%=url%>" target="_blank">
+                <% } %>
+                    <img src="<%=logo%>" alt="" />
+                <% if(url){ %>
+                </a>
+                <% } %>
+            </p>
+            <% } %>
+            <p class="share">
+                <a href="javascript:;" data-click="share" data-type="weibo" class="share_weibo" title="分享到新浪微博"></a>
+                <a href="javascript:;" data-click="share" data-type="qweibo" class="share_qweibo" title="分享到腾讯微博"></a>
+                <a href="javascript:;" data-click="share" data-type="douban" class="share_douban" title="分享到豆瓣"></a>
+                <a href="javascript:;" data-click="share" data-type="qzone" class="share_qzone" title="分享到qq空间"></a>
+                <a href="javascript:;" data-click="share" data-type="renren" class="share_renren" title="分享到人人网"></a>
+            </p>
+        </div>
+        <div class="content">
+            <div class="block_a">
+                <% if(data.image && data.image[0]){ %>
+                <dl class="headline">
+                    <dt><a href="<%=data.image[0].url%>" title="<%-data.image[0].title%>" target="_blank"><img src="<%=data.image[0].image%>" height="180" width="290" alt="" /></a></dt>
+                    <dd class="title"><a href="<%=data.image[0].url%>" target="_blank"><%-MediaRender.cut(data.image[0].title,40)%></a></dd>
+                    <dd class="brief"><%-MediaRender.cut(data.image[0].desc,90)%></dd>
+                </dl>
+                <% } %>
+                <ul class="list">
+                <% if(data.list){ %>
+                <% for(var i=0;i<9;i++){ %>
+                    <% if(data.list[i]){ %>
+                    <li>·
+                        <% if(i==0){ %>
+                        <b>
+                        <a href="<%=data.list[i].url%>" target="_blank"><%-MediaRender.cut(data.list[i].title,42)%></a>
+                        </b>
+                        <% }else{ %>
+                        <a href="<%=data.list[i].url%>" target="_blank"><%-MediaRender.cut(data.list[i].title,46)%></a>
+                        <% } %>
+                    </li>
+                    <% } %>
+                <% } %>
+                <% } %>
+                </ul>
+                <div class="img">
+                <% if(data.image){ %>
+                <% for(var i=1;i<4;i++){ %>
+                    <% if(data.image[i]){ %>
+                    <dl<% if(i==1){ %> class="first"<% } %>>
+                        <dt><a href="<%=data.image[i].url%>" title="<%-data.image[i].title%>" target="_blank"><img src="<%=data.image[i].image%>" height="114" width="183" alt="" /></a></dt>
+                        <dd><a href="<%=data.image[i].url%>" target="_blank"><%-MediaRender.cut(data.image[i].title,58)%></a></dd>
+                    </dl>
+                    <% } %>
+                <% } %>
+                <% } %>
+                </div>
+            </div>
+            <div class="block_b">
+                <dl>
+                    <dt>新闻热搜词</dt>
+                    <dd>
+                    <% if(data.hot_word){ %>
+                    <% for(var i=0;i<14;i++){ %>
+                        <% if(data.hot_word[i]){ %>
+                        <p>·<a href="<%=MediaRender.hotword(decodeURIComponent(data.hot_word[i].query_word))%>" target="_blank"><%-MediaRender.cut(data.hot_word[i].title,17)%></a></p>
+                        <% } %>
+                    <% } %>
+                    <% } %>
+                    </dd>
+                </dl>
+            </div>
+        </div>
+    </div>
+    </script>
+    <script id="tpl_2" type="text/html">
+    <div class="media_cont layout2">
+        <div class="header">
+            <p class="time"><%=MediaRender.date()%></p>
+            <% if(logo){ %>
+            <p class="logo">
+                <% if(url){ %>
+                <a href="<%=url%>" target="_blank">
+                <% } %>
+                    <img src="<%=logo%>" alt="" />
+                <% if(url){ %>
+                </a>
+                <% } %>
+            </p>
+            <% } %>
+            <p class="share">
+                <a href="javascript:;" data-click="share" data-type="weibo" class="share_weibo" title="分享到新浪微博"></a>
+                <a href="javascript:;" data-click="share" data-type="qweibo" class="share_qweibo" title="分享到腾讯微博"></a>
+                <a href="javascript:;" data-click="share" data-type="douban" class="share_douban" title="分享到豆瓣"></a>
+                <a href="javascript:;" data-click="share" data-type="qzone" class="share_qzone" title="分享到qq空间"></a>
+                <a href="javascript:;" data-click="share" data-type="renren" class="share_renren" title="分享到人人网"></a>
+            </p>
+        </div>
+        <div class="content">
+            <div class="block_a">
+                <% if(data.image && data.image[0]){ %>
+                <dl class="headline">
+                    <dt><a href="<%=data.image[0].url%>" title="<%-data.image[0].title%>" target="_blank"><img src="<%=data.image[0].image%>" height="114" width="183" alt="" /></a></dt>
+                    <dd class="title"><a href="<%=data.image[0].url%>" target="_blank"><%-MediaRender.cut(data.image[0].title,44)%></a></dd>
+                    <dd class="brief"><%-MediaRender.cut(data.image[0].desc,90)%></dd>
+                </dl>
+                <% } %>
+                <ul class="list">
+                <% if(data.list){ %>
+                <% for(var i=0;i<4;i++){ %>
+                    <% if(data.list[i]){ %>
+                    <li>·<a href="<%=data.list[i].url%>" target="_blank"><%-MediaRender.cut(data.list[i].title,46)%></a></li>
+                    <% } %>
+                <% } %>
+                <% } %>
+                </ul>
+            </div>
+            <div class="block_b">
+                <ul class="list">
+                <% if(data.list){ %>
+                <% for(var i=4;i<9;i++){ %>
+                    <% if(data.list[i]){ %>
+                    <li>·
+                        <% if(i==4){ %>
+                        <b>
+                        <a href="<%=data.list[i].url%>" target="_blank"><%-MediaRender.cut(data.list[i].title,44)%></a>
+                        </b>
+                        <% }else{ %>
+                        <a href="<%=data.list[i].url%>" target="_blank"><%-MediaRender.cut(data.list[i].title,48)%></a>
+                        <% } %>
+                    </li>
+                    <% } %>
+                <% } %>
+                <% } %>
+                </ul>
+                <ul class="list">
+                <% if(data.list){ %>
+                <% for(var i=9;i<14;i++){ %>
+                    <% if(data.list[i]){ %>
+                    <li>·
+                        <% if(i==9){ %>
+                        <b>
+                        <a href="<%=data.list[i].url%>" target="_blank"><%-MediaRender.cut(data.list[i].title,44)%></a>
+                        </b>
+                        <% }else{ %>
+                        <a href="<%=data.list[i].url%>" target="_blank"><%-MediaRender.cut(data.list[i].title,48)%></a>
+                        <% } %>
+                    </li>
+                    <% } %>
+                <% } %>
+                <% } %>
+                </ul>
+            </div>
+            <div class="block_c">
+                <div class="img">
+                <% if(data.image){ %>
+                <% for(var i=1;i<5;i++){ %>
+                    <% if(data.image[i]){ %>
+                    <dl<% if(i==2 || i==4){ %> class="back"<% } %>>
+                        <dt><a href="<%=data.image[i].url%>" title="<%-data.image[i].title%>" target="_blank"><img src="<%=data.image[i].image%>" height="114" width="183" alt="" /></a></dt>
+                        <dd><a href="<%=data.image[i].url%>" target="_blank"><%-MediaRender.cut(data.image[i].title,30)%></a></dd>
+                    </dl>
+                    <% } %>
+                <% } %>
+                <% } %>
+                </div>
+            </div>
+        </div>
+    </div>
+    </script>
+    <script id="tpl_3" type="text/html">
+    <div class="media_cont layout3">
+        <div class="header">
+            <p class="time"><%=MediaRender.date()%></p>
+            <% if(logo){ %>
+            <p class="logo">
+                <% if(url){ %>
+                <a href="<%=url%>" target="_blank">
+                <% } %>
+                    <img src="<%=logo%>" alt="" />
+                <% if(url){ %>
+                </a>
+                <% } %>
+            </p>
+            <% } %>
+            <p class="share">
+                <a href="javascript:;" data-click="share" data-type="weibo" class="share_weibo" title="分享到新浪微博"></a>
+                <a href="javascript:;" data-click="share" data-type="qweibo" class="share_qweibo" title="分享到腾讯微博"></a>
+                <a href="javascript:;" data-click="share" data-type="douban" class="share_douban" title="分享到豆瓣"></a>
+                <a href="javascript:;" data-click="share" data-type="qzone" class="share_qzone" title="分享到qq空间"></a>
+                <a href="javascript:;" data-click="share" data-type="renren" class="share_renren" title="分享到人人网"></a>
+            </p>
+        </div>
+        <div class="content">
+            <div class="block_a">
+                <% if(data.image && data.image[0]){ %>
+                <dl class="img">
+                    <dt><a href="<%=data.image[0].url%>" title="<%-data.image[0].title%>" target="_blank"><img src="<%=data.image[0].image%>" height="200" width="350" alt="" /></a></dt>
+                    <dd class="title"><a href="<%=data.image[0].url%>" target="_blank"><%-MediaRender.cut(data.image[0].title,46)%></a></dd>
+                    <dd class="brief"><%-MediaRender.cut(data.image[0].desc,110)%></dd>
+                </dl>
+                <% } %>
+                <% if(data.list && data.list[0]){ %>
+                <dl class="headline">
+                    <dt><a href="<%=data.list[0].url%>" target="_blank"><%-MediaRender.cut(data.list[0].title,50)%></a></dt>
+                    <dd><%-MediaRender.cut(data.list[0].desc,140)%></dd>
+                </dl>
+                <% } %>
+                <% if(data.list && data.list[1]){ %>
+                <dl class="headline">
+                    <dt><a href="<%=data.list[1].url%>" target="_blank"><%-MediaRender.cut(data.list[1].title,50)%></a></dt>
+                    <dd><%-MediaRender.cut(data.list[1].desc,140)%></dd>
+                </dl>
+                <% } %>
+                <ul class="list">
+                <% if(data.list){ %>
+                <% for(var i=2;i<6;i++){ %>
+                    <% if(data.list[i]){ %>
+                    <li>·<a href="<%=data.list[i].url%>" target="_blank"><%-MediaRender.cut(data.list[i].title,60)%></a></li>
+                    <% } %>
+                <% } %>
+                <% } %>
+                </ul>
+            </div>
+            <div class="block_b">
+                <dl class="img">
+                    <dt>图片新闻</dt>
+                    <dd>
+                    <% if(data.image){ %>
+                    <% for(var i=1;i<5;i++){ %>
+                        <% if(data.image[i]){ %>
+                        <p<% if(i===1){ %> class="first"<% } %>>
+                            <a href="<%=data.image[i].url%>" title="<%-data.image[i].title%>" target="_blank">
+                                <img src="<%=data.image[i].image%>" height="134" width="183" alt="" />
+                                <span class="title"><%-MediaRender.cut(data.image[i].title,28)%></span>
+                            </a>
+                        </p>
+                        <% } %>
+                    <% } %>
+                    <% } %>
+                    </dd>
+                </dl>
+            </div>
+        </div>
+    </div>
+    </script>
+    <script type="text/javascript" src="/resource/js/jquery-1.8.3.min.js" ></script>
+    <script type="text/javascript" src="/resource/js/underscore-min.js" ></script>
+    <script type="text/javascript" src="/resource/js/media.js?t=201310111600" ></script>
+</body>
+</html>

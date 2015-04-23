@@ -1,0 +1,627 @@
+<!doctype html>
+<html>
+<head>
+<!--STATUS OK-->
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+<title>南方周末_百度传媒</title>
+
+<link rel="dns-prefetch" href="//ns0.bdstatic.com">
+<link rel="dns-prefetch" href="//ns1.bdstatic.com">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="" >
+
+
+
+
+<script>
+  var serverData = {
+    maxseg : '3',
+    total : '543',
+    hasMore : '1',
+    rn : '60',
+    lastNid : '10153528715513838363',
+    logowidth : '144',
+    logoheight : '40',
+    coverlogoheight : '70',
+    menuCount : 6,
+    subscribename : 'infzm',
+    terms : '',
+    menu : [],
+    channelname : '',
+    device: 'pc'
+  }
+  if(!''){
+    serverData.channelname = 'index';
+  }else{
+    serverData.channelname = '';
+  }
+
+  // hunter统计
+  void function(e,t,n,a,o,i,m){e.alogObjectName=o,e[o]=e[o]||function(){(e[o].q=e[o].q||[]).push(arguments)},e[o].l=e[o].l||+new Date,i=t.createElement(n),i.asyn=1,i.src=a,m=t.getElementsByTagName(n)[0],m.parentNode.insertBefore(i,m)}(window,document,"script","http://img.baidu.com/hunter/alog.min.js","alog");
+    </script>
+
+<link rel="stylesheet" type="text/css" href="/static/common/pkg/aio_ec06920.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/css/all_e472514.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/skin/red_6957012.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/mod_page/mod_page_aac155e.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/ap_ulist/ap_ulist_c1b4057.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/header/header_6c174ae.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/cover/cover_1a2721a.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/mod_banner/mod_banner_b7ecfb4.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/footer/footer_1ef9d4d.css"/><link rel="stylesheet" type="text/css" href="/static/newsmedia/widget/mod_sidebar/mod_sidebar_cb6d93e.css"/></head>
+<body>
+
+<style>
+  body{padding-top:0}
+  #Header{position: relative;}
+</style>
+
+
+<div class="wrap">
+<div id="Cover" class="mod-cover">
+<div class="cover">
+<div class="coverbg"></div>
+<div class="coverlogo"><img src="http://news.baidu.com/resource/r/image/2014-12-11/7bf75d38ad062866795ca712d9e5e315.png"></div>
+<div class="coverslogan">
+<p class="ll"></p>
+<span>在这里，读懂中国</span>
+<p class="rl"></p>
+</div>
+</div>
+</div><div id="Header">
+<div class="header">
+<h1 class="test"></h1>
+<div class="logo" style="width:144px;"><a href="/" target="_blank" ><img src="http://news.baidu.com/resource/r/image/2015-02-12/b77bf969267dbf2c4886590dd3376185.png" style="height:40px"/></a></div>
+<div class="menulist large" style="margin:0 144px">
+<ul></ul>
+</div>
+<div class="menulist medium" style="margin:0 144px">
+<ul></ul>
+</div>
+<div class="headerSearch">
+<p class="searchbar">
+<a href="javascript:;" class="searchA"><i class="i"></i></a>
+<i class="txt"><i class="i nodis"></i><input type="text" class="nodis"></i>
+</p>
+<p class="sub-menu"><i class="icon-submenu"></i></p>
+<p class="baiduLogo"><a href="http://news.baidu.com/" target="_blank"><img src="/static/newsmedia/widget/header/baidu_logo_46a3f92.png"></a></p>
+</div>
+</div>
+
+<script type="text/javascript">
+var menu = [];
+
+            menu.push({
+            'name': '首页',
+            'enname':'',
+            'url': '',
+            'list':[
+            	            ]
+        });
+            menu.push({
+            'name': '社会',
+            'enname':'society',
+            'url': '',
+            'list':[
+            	            ]
+        });
+            menu.push({
+            'name': '时局',
+            'enname':'politics',
+            'url': '',
+            'list':[
+            	            ]
+        });
+            menu.push({
+            'name': '评论',
+            'enname':'review',
+            'url': '',
+            'list':[
+            	            ]
+        });
+            menu.push({
+            'name': '文化',
+            'enname':'culture',
+            'url': '',
+            'list':[
+            	            ]
+        });
+            menu.push({
+            'name': '经济',
+            'enname':'economy',
+            'url': '',
+            'list':[
+            	            ]
+        });
+        serverData.menu = menu;
+
+</script>
+
+</div>
+<div id="Body">
+<div class="body">
+<div class="left">
+<div id="banners">
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=infzm&amp;nid=10156706647750880301&amp;pos=0&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10156706647750880301">
+<h4>
+<a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10156706647750880301&amp;pos=0&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10156706647750880301" target="_blank">国土部：一季度房地产用地供应同比降近四成 </a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10156706647750880301&amp;pos=0&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10156706647750880301" target="_blank"><img src="http://images.infzm.com/medias/2015/0421/90306.jpeg@660x440"/></a></p>
+<p class="summary">全国国有建设用地供应9.48万公顷，...<a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10156706647750880301&amp;pos=0&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10156706647750880301" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/economy">经济</a></p>
+<span class="author">
+<em>综合</em>
+</span>
+<span class="time">04-21 17:54</span>
+</div>
+</div>
+<div class="feed_tegao" data-href="http://media.baidu.com/redirect?source=infzm&amp;nid=10650746200391252488&amp;pos=1&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10650746200391252488">
+<h4>
+<a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10650746200391252488&amp;pos=1&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10650746200391252488" target="_blank">德州扑克比赛涉赌 体育总局回应从未立项</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10650746200391252488&amp;pos=1&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10650746200391252488" target="_blank"><img src="http://images.infzm.com/medias/2015/0421/90305.jpeg@660x440"/></a></p>
+<p class="summary">江苏省南京市，2015中国扑克锦标赛南京站，汪峰参加德州扑克慈善赛。<a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10650746200391252488&amp;pos=1&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10650746200391252488" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/society">社会</a></p>
+<span class="author">
+<em>综合</em>
+</span>
+<span class="time">04-21 17:39</span>
+</div>
+</div>
+<div class="feed_tegao" data-href="http://media.baidu.com/redirect?source=infzm&amp;nid=10594675904824899305&amp;pos=2&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10594675904824899305">
+<h4>
+<a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10594675904824899305&amp;pos=2&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10594675904824899305" target="_blank">医疗肯定会让人痛恨美国</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10594675904824899305&amp;pos=2&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10594675904824899305" target="_blank"><img src="http://images.infzm.com/medias/2015/0421/90302.jpeg@660x440"/></a></p>
+<p class="summary">在美国田纳西州阿尔塔蒙特的教堂峡谷诊所，布里翁·哈波尔特医生为自己诊治了29年的老病人芭芭拉·基尔戈...<a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10594675904824899305&amp;pos=2&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10594675904824899305" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/society">社会</a></p>
+<span class="author">
+<em>商群</em>
+</span>
+<span class="time">04-21 17:04</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=infzm&amp;nid=10595735215570579951&amp;pos=3&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10595735215570579951">
+<h4>
+<a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10595735215570579951&amp;pos=3&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10595735215570579951" target="_blank">深圳一警车撞宾利，副局长肇事逃逸后自首</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10595735215570579951&amp;pos=3&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10595735215570579951" target="_blank"><img src="http://images.infzm.com/medias/2015/0421/90304.jpeg@660x440"/></a></p>
+<p class="summary">据深圳公安森林分局工作人员介绍，涉事...<a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10595735215570579951&amp;pos=3&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10595735215570579951" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/society">社会</a></p>
+<span class="author">
+<em>综合</em>
+</span>
+<span class="time">04-21 16:48</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=infzm&amp;nid=10540724230749907414&amp;pos=4&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10540724230749907414">
+<h4>
+<a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10540724230749907414&amp;pos=4&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10540724230749907414" target="_blank">2014年10家上市白酒企业净利润同比下降</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10540724230749907414&amp;pos=4&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10540724230749907414" target="_blank"><img src="http://images.infzm.com/medias/2014/1121/86600.jpeg@660x440"/></a></p>
+<p class="summary">目前，包括五粮液在内，目前已发布20...<a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10540724230749907414&amp;pos=4&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10540724230749907414" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/economy">经济</a></p>
+<span class="author">
+<em>综合</em>
+</span>
+<span class="time">04-21 16:30</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=infzm&amp;nid=10430702261108562340&amp;pos=5&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10430702261108562340">
+<h4>
+<a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10430702261108562340&amp;pos=5&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10430702261108562340" target="_blank">广东自贸区今日挂牌 四大自贸区方案将如何改变生活</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10430702261108562340&amp;pos=5&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10430702261108562340" target="_blank"><img src="http://images.infzm.com/medias/2015/0421/90298.jpeg@660x440"/></a></p>
+<p class="summary">从2013版上海自贸区负面清单开始，...<a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10430702261108562340&amp;pos=5&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10430702261108562340" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/economy">经济</a></p>
+<span class="author">
+<em>综合</em>
+</span>
+<span class="time">04-21 14:06</span>
+</div>
+</div>
+<div class="feed_tegao" data-href="http://media.baidu.com/redirect?source=infzm&amp;nid=10320680291467217266&amp;pos=6&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10320680291467217266">
+<h4>
+<a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10320680291467217266&amp;pos=6&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10320680291467217266" target="_blank">佳兆业出现美元债务违约</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10320680291467217266&amp;pos=6&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10320680291467217266" target="_blank"><img src="http://images.infzm.com/medias/2015/0421/90296.jpeg@660x440"/></a></p>
+<p class="summary">创始人郭英成闪电回归、因未支付两笔票据利息出现债务违约、低价卖项目疑转移资产……佳兆业近期的状况有如...<a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10320680291467217266&amp;pos=6&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10320680291467217266" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/economy">经济</a></p>
+<span class="author">
+<em>综合</em>
+</span>
+<span class="time">04-21 14:06</span>
+</div>
+</div>
+<div class="feed_tegao" data-href="http://media.baidu.com/redirect?source=infzm&amp;nid=10375691276287889803&amp;pos=7&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10375691276287889803">
+<h4>
+<a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10375691276287889803&amp;pos=7&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10375691276287889803" target="_blank">穗广日集团连续五名高管被查</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10375691276287889803&amp;pos=7&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10375691276287889803" target="_blank"><img src="http://images.infzm.com/medias/2015/0421/90297.jpeg@660x440"/></a></p>
+<p class="summary">广日集团前董事长潘胜燊已于今年初落马，之后广日集团3名副总经理白文、林峰、胡梓实先后落马，黄升伟是广...<a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10375691276287889803&amp;pos=7&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10375691276287889803" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/politics">时局</a></p>
+<span class="author">
+<em>综合</em>
+</span>
+<span class="time">04-21 14:06</span>
+</div>
+</div>
+<div class="feed_tegao" data-href="http://media.baidu.com/redirect?source=infzm&amp;nid=10484653935183554231&amp;pos=8&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10484653935183554231">
+<h4>
+<a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10484653935183554231&amp;pos=8&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10484653935183554231" target="_blank">证券法修订草案取消股票发行审核制</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10484653935183554231&amp;pos=8&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10484653935183554231" target="_blank"><img src="http://images.infzm.com/medias/2015/0420/90293.jpeg@660x440"/></a></p>
+<p class="summary">拟取消股票发行审核委员会制度。<a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10484653935183554231&amp;pos=8&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10484653935183554231" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/economy">经济</a></p>
+<span class="author">
+<em>综合</em>
+</span>
+<span class="time">04-20 18:03</span>
+</div>
+</div>
+<div class="feed_tegao" data-href="http://media.baidu.com/redirect?source=infzm&amp;nid=10649686889645571842&amp;pos=9&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10649686889645571842">
+<h4>
+<a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10649686889645571842&amp;pos=9&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10649686889645571842" target="_blank">从“前总统”到“未来的第一先生”</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10649686889645571842&amp;pos=9&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10649686889645571842" target="_blank"><img src="http://images.infzm.com/medias/2015/0420/90294.jpeg@660x440"/></a></p>
+<p class="summary">有知识；要八卦，有内幕。<a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10649686889645571842&amp;pos=9&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10649686889645571842" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/politics">时局</a></p>
+<span class="author">
+<em>郭丝露</em>
+</span>
+<span class="time">04-20 17:27</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=infzm&amp;nid=10374631965542209157&amp;pos=10&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10374631965542209157">
+<h4>
+<a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10374631965542209157&amp;pos=10&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10374631965542209157" target="_blank">横店“圆明新园”惹争议 圆明园：如侵权将维权</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10374631965542209157&amp;pos=10&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10374631965542209157" target="_blank"><img src="http://images.infzm.com/medias/2015/0420/90292.jpeg@660x440"/></a></p>
+<p class="summary">圆明园管理处一旦发现横店影视城的‘圆...<a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10374631965542209157&amp;pos=10&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10374631965542209157" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/society">社会</a></p>
+<span class="author">
+<em>综合</em>
+</span>
+<span class="time">04-20 17:43</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=infzm&amp;nid=10429642950362881694&amp;pos=11&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10429642950362881694">
+<h4>
+<a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10429642950362881694&amp;pos=11&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10429642950362881694" target="_blank">电商“撕逼”聚美炮轰唯品会抄袭售假 唯品会否认</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10429642950362881694&amp;pos=11&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10429642950362881694" target="_blank"><img src="http://images.infzm.com/medias/2014/0730/81683.jpeg@660x440"/></a></p>
+<p class="summary">除了指责对方抄袭文案设计之外，聚美优...<a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10429642950362881694&amp;pos=11&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10429642950362881694" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/economy">经济</a></p>
+<span class="author">
+<em>综合</em>
+</span>
+<span class="time">04-20 17:12</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=infzm&amp;nid=10319620980721536620&amp;pos=12&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10319620980721536620">
+<h4>
+<a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10319620980721536620&amp;pos=12&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10319620980721536620" target="_blank">央行下调存款准备金率1个百分点 释放资金过万亿</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10319620980721536620&amp;pos=12&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10319620980721536620" target="_blank"><img src="http://images.infzm.com/medias/2015/0420/90291.jpeg@660x440"/></a></p>
+<p class="summary">中国人民银行宣布，自20日起下调各类...<a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10319620980721536620&amp;pos=12&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10319620980721536620" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/economy">经济</a></p>
+<span class="author">
+<em>综合</em>
+</span>
+<span class="time">04-20 18:04</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=infzm&amp;nid=10264609995900864083&amp;pos=13&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10264609995900864083">
+<h4>
+<a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10264609995900864083&amp;pos=13&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10264609995900864083" target="_blank">三菱今日起在华召回近8.5万辆“问题车”</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10264609995900864083&amp;pos=13&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10264609995900864083" target="_blank"><img src="http://images.infzm.com/medias/2015/0420/90290.jpeg@660x440"/></a></p>
+<p class="summary">据国家质检总局消息，三菱汽车销售有限...<a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10264609995900864083&amp;pos=13&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10264609995900864083" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/economy">经济</a></p>
+<span class="author">
+<em>综合</em>
+</span>
+<span class="time">04-20 15:39</span>
+</div>
+</div>
+<div class="feed_tegao" data-href="http://media.baidu.com/redirect?source=infzm&amp;nid=10154588026259519009&amp;pos=14&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10154588026259519009">
+<h4>
+<a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10154588026259519009&amp;pos=14&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10154588026259519009" target="_blank">南京检方对虐童养母作出不批捕决定</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10154588026259519009&amp;pos=14&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10154588026259519009" target="_blank"><img src="http://images.infzm.com/medias/2015/0420/90287.jpeg@400x600"/></a></p>
+<p class="summary">据网友微博爆料，父母南京某区人，男童于6岁合法收养，虐待行为自去年被校方发现，最初以为是偶尔情况没好...<a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10154588026259519009&amp;pos=14&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10154588026259519009" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/society">社会</a></p>
+<span class="author">
+<em>综合</em>
+</span>
+<span class="time">04-20 14:29</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=infzm&amp;nid=10209599011080191546&amp;pos=15&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10209599011080191546">
+<h4>
+<a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10209599011080191546&amp;pos=15&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10209599011080191546" target="_blank">3月楼市回暖明显 70城房价环比上涨城市增至12个</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10209599011080191546&amp;pos=15&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10209599011080191546" target="_blank"><img src="http://images.infzm.com/medias/2014/0224/76904.jpeg@660x440"/></a></p>
+<p class="summary">在二手住宅方面，价格环比下降的城市有...<a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10209599011080191546&amp;pos=15&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10209599011080191546" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/economy">经济</a></p>
+<span class="author">
+<em>综合</em>
+</span>
+<span class="time">04-20 14:29</span>
+</div>
+</div>
+<div class="feed_tegao" data-href="http://media.baidu.com/redirect?source=infzm&amp;nid=10428583639617201048&amp;pos=16&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10428583639617201048">
+<h4>
+<a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10428583639617201048&amp;pos=16&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10428583639617201048" target="_blank">江浙沪千名儿童58%尿检出抗生素</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10428583639617201048&amp;pos=16&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10428583639617201048" target="_blank"><img src="http://images.infzm.com/medias/2011/1216/49790.jpeg@660x440"/></a></p>
+<p class="summary">58%检出1种抗生素，1/4检出逾2种抗生素，有些样本甚至有6种抗生素。<a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10428583639617201048&amp;pos=16&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10428583639617201048" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/society">社会</a></p>
+<span class="author">
+<em>综合</em>
+</span>
+<span class="time">04-17 17:37</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=infzm&amp;nid=10263550685155183437&amp;pos=17&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10263550685155183437">
+<h4>
+<a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10263550685155183437&amp;pos=17&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10263550685155183437" target="_blank">广西一运钞车起火11箱钞票被烧 保险公司赔付</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10263550685155183437&amp;pos=17&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10263550685155183437" target="_blank"><img src="http://images.infzm.com/medias/2015/0417/90254.jpeg@660x440"/></a></p>
+<p class="summary">一辆运钞车途径广西六钦高速久隆收费站...<a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10263550685155183437&amp;pos=17&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10263550685155183437" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/society">社会</a></p>
+<span class="author">
+<em>综合</em>
+</span>
+<span class="time">04-17 17:35</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=infzm&amp;nid=10318561669975855974&amp;pos=18&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10318561669975855974">
+<h4>
+<a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10318561669975855974&amp;pos=18&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10318561669975855974" target="_blank">欧盟正式指控谷歌搜索涉嫌垄断 将调查安卓系统</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10318561669975855974&amp;pos=18&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10318561669975855974" target="_blank"><img src="http://images.infzm.com/medias/2015/0417/90253.jpeg@660x440"/></a></p>
+<p class="summary">值得注意的是，在欧洲市场占据90%搜...<a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10318561669975855974&amp;pos=18&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10318561669975855974" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/economy">经济</a></p>
+<span class="author">
+<em>综合</em>
+</span>
+<span class="time">04-17 15:39</span>
+</div>
+</div>
+<div class="feed_tegao long" data-href="http://media.baidu.com/redirect?source=infzm&amp;nid=10153528715513838363&amp;pos=19&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10153528715513838363">
+<h4>
+<a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10153528715513838363&amp;pos=19&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10153528715513838363" target="_blank">一季度财政收入增长乏力 增值税出现负增长</a>
+</h4>
+<p class="picture"><a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10153528715513838363&amp;pos=19&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10153528715513838363" target="_blank"><img src="http://images.infzm.com/medias/2015/0417/90252.jpeg@660x440"/></a></p>
+<p class="summary">全国政府性基金预算收入8719亿元，...<a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10153528715513838363&amp;pos=19&amp;layout=2&amp;url=http://infzm.media.baidu.com/article/10153528715513838363" class="more" target="_blank">[详情]</a></p>
+<div class="infos">
+<p class="type"><a href="/economy">经济</a></p>
+<span class="author">
+<em>综合</em>
+</span>
+<span class="time">04-17 14:54</span>
+</div>
+</div>
+</div>
+<div class="loading"><img src="/static/newsmedia/widget/mod_page/jm_loading_d04a658.gif"><b>正在加载，请稍候...</b></div>
+<div class="pages">
+<a href="javascript:;" class="btn btnP nodis">上一页</a>
+<div class="page"></div>
+<a href="javascript:;" class="btn btnN">下一页</a>
+</div>
+<div id="Footer" class="wp-footer">
+<p class="top-nav">
+<a href="http://news.baidu.com/" target="_blank">百度新闻</a>|<a href="mailto:media_news%40baidu.com" target="_blank">联系我们：media_news@baidu.com</a>
+<strong class="wp-wrap">百度新闻&南方周末联合出品</strong>
+<a href="http://news.baidu.com/"><img src="/static/newsmedia/widget/footer/baidunews_footer_d9a758b.png"></a>
+<a href="http://www.infzm.com" target="_blank"><img src="http://news.baidu.com/resource/r/image/2014-12-11/dc33e6b53a8d53bd1c0c9e04a02f18b9.png"></a>
+</p>
+<p class="site-info">
+<i>京公网安备110000000001号</i>
+<a href="http://news.baidu.com/licence.html">互联网新闻信息服务许可</a>
+<span>©2014 Baidu</span>
+<a class="wp-wrap" href="http://www.baidu.com/duty/">使用百度前必读</a>
+<a class="wp-hide" target="_blank" href="http://net.china.cn/chinese/index.htm"><img src="http://gimg.baidu.com/img/net.gif"></a>
+<a class="wp-hide" target="_blank" href="http://www.bj.cyberpolice.cn/index.htm"><img alt="首都网络110报警服务" src="http://gimg.baidu.com/img/110.gif"></a>
+<a class="wp-hide" target="_blank" href="http://www.bjjubao.org/"><img src="http://news.baidu.com/resource/img/report_center.png"></a>
+</p>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?d09fe258c88c7015c3e6f8232ee9a563";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</div>
+</div>
+<div class="right">
+<div class="ap apRecommend">
+<div class="apt">
+<h4>热门文章</h4>
+<p class="entit"><span>HOT ARTICLE</span></p>
+</div>
+<div class="apc">
+<ul class="ulist">
+<li>
+<span class="num top3">1</span>
+<a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10428583639617201048&amp;pos=0&amp;layout=4&amp;url=http://infzm.media.baidu.com/article/10428583639617201048" title="江浙沪千名儿童58%尿检出抗生素">江浙沪千名儿童58%尿检出抗生素</a>
+<span class="tm">04-17 17:37</span>
+</li>
+<li>
+<span class="num top3">2</span>
+<a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10318561669975855974&amp;pos=1&amp;layout=4&amp;url=http://infzm.media.baidu.com/article/10318561669975855974" title="欧盟正式指控谷歌搜索涉嫌垄断 将调查安卓系统">欧盟正式指控谷歌搜索涉嫌垄断 将调查安卓系统</a>
+<span class="tm">04-17 15:39</span>
+</li>
+<li>
+<span class="num top3">3</span>
+<a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10263550685155183437&amp;pos=2&amp;layout=4&amp;url=http://infzm.media.baidu.com/article/10263550685155183437" title="广西一运钞车起火11箱钞票被烧 保险公司赔付">广西一运钞车起火11箱钞票被烧 保险公司赔付</a>
+<span class="tm">04-17 17:35</span>
+</li>
+<li>
+<span class="num">4</span>
+<a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10418070714912121667&amp;pos=3&amp;layout=4&amp;url=http://infzm.media.baidu.com/article/10418070714912121667" title="【三言两语】申报不实，休想提拔">【三言两语】申报不实，休想提拔</a>
+<span class="tm">04-17 09:53</span>
+</li>
+<li>
+<span class="num">5</span>
+<a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10692066328269803706&amp;pos=4&amp;layout=4&amp;url=http://infzm.media.baidu.com/article/10692066328269803706" title="【地缘脉动】“唐僧”再西行，如何“降妖伏魔”？构筑“一带一路”安全网需国际合作">【地缘脉动】“唐僧”再西行，如何“降妖伏魔”？构筑“一带一路”安全网需国际合作</a>
+<span class="tm">04-17 09:53</span>
+</li>
+<li>
+<span class="num">6</span>
+<a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10647568268154210550&amp;pos=5&amp;layout=4&amp;url=http://infzm.media.baidu.com/article/10647568268154210550" title="湖北省政协原副主席陈柏槐一审被判17年">湖北省政协原副主席陈柏槐一审被判17年</a>
+<span class="tm">04-17 12:53</span>
+</li>
+<li>
+<span class="num">7</span>
+<a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10527033373807786095&amp;pos=6&amp;layout=4&amp;url=http://infzm.media.baidu.com/article/10527033373807786095" title="《纸牌屋》和美国第一夫人们">《纸牌屋》和美国第一夫人们</a>
+<span class="tm">04-17 09:50</span>
+</li>
+<li>
+<span class="num">8</span>
+<a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10472022388987113558&amp;pos=7&amp;layout=4&amp;url=http://infzm.media.baidu.com/article/10472022388987113558" title="下届美国总统是她？">下届美国总统是她？</a>
+<span class="tm">04-17 09:53</span>
+</li>
+<li>
+<span class="num">9</span>
+<a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10363059730091449130&amp;pos=8&amp;layout=4&amp;url=http://infzm.media.baidu.com/article/10363059730091449130" title="海外生意： 国家开发银行如何成为开发国家银行">海外生意： 国家开发银行如何成为开发国家银行</a>
+<span class="tm">04-17 09:50</span>
+</li>
+<li>
+<span class="num">10</span>
+<a href="http://media.baidu.com/redirect?source=infzm&amp;nid=10208539700334510900&amp;pos=9&amp;layout=4&amp;url=http://infzm.media.baidu.com/article/10208539700334510900" title="四高管落马后 南方电网再通报一批干部违纪">四高管落马后 南方电网再通报一批干部违纪</a>
+<span class="tm">04-18 11:11</span>
+</li>
+</ul>
+</div>
+</div></div>
+</div>
+</div>
+<div id="Footer">
+<p class="top-nav">
+<a href="http://news.baidu.com/" target="_blank">百度新闻</a>|<a href="mailto:media_news%40baidu.com" target="_blank">联系我们：media_news@baidu.com</a>
+<strong class="wp-wrap">百度新闻&南方周末联合出品</strong>
+<a href="http://news.baidu.com/"><img src="/static/newsmedia/widget/footer/baidunews_footer_d9a758b.png"></a>
+<a href="http://www.infzm.com" target="_blank"><img src="http://news.baidu.com/resource/r/image/2014-12-11/dc33e6b53a8d53bd1c0c9e04a02f18b9.png"></a>
+</p>
+<p class="site-info">
+<i>京公网安备110000000001号</i>
+<a href="http://news.baidu.com/licence.html">互联网新闻信息服务许可</a>
+<span>©2014 Baidu</span>
+<a class="wp-wrap" href="http://www.baidu.com/duty/">使用百度前必读</a>
+<a class="wp-hide" target="_blank" href="http://net.china.cn/chinese/index.htm"><img src="http://gimg.baidu.com/img/net.gif"></a>
+<a class="wp-hide" target="_blank" href="http://www.bj.cyberpolice.cn/index.htm"><img alt="首都网络110报警服务" src="http://gimg.baidu.com/img/110.gif"></a>
+<a class="wp-hide" target="_blank" href="http://www.bjjubao.org/"><img src="http://news.baidu.com/resource/img/report_center.png"></a>
+</p>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?d09fe258c88c7015c3e6f8232ee9a563";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</div>
+</div>
+<div class="mod-sidebar">
+<ul class="menu">
+<li class="toolbar">
+<a class="search" href="/search"><i class="icon-search"></i>搜索</a>
+|<a class="login" href="javascript:;">登录</a>
+<p class="username"></p>
+</li>
+<li class="item">
+<a href="/">首页</a>
+</li>
+<li class="item">
+<a href="/society">社会</a>
+</li>
+<li class="item">
+<a href="/politics">时局</a>
+</li>
+<li class="item">
+<a href="/review">评论</a>
+</li>
+<li class="item">
+<a href="/culture">文化</a>
+</li>
+<li class="item">
+<a href="/economy">经济</a>
+</li>
+<li class="logo"><a href="http://news.baidu.com"><img src="/static/newsmedia/widget/mod_sidebar/logo-baidu_941ba05.png" height="26px" alt="baidu logo"></a></li>
+</ul>
+</div>
+</body><script type="text/javascript" src="/static/common/js/mod_b818356.js"></script>
+<script type="text/javascript" src="/static/common/js/jquery-1.10.1_77f5e40.js"></script>
+<script type="text/javascript" src="/static/common/pkg/aio_d41d8cd.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/mod_page/mod_page_78338ec.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/ap_ulist/ap_ulist_60537f4.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/header/header_3f34133.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/cover/cover_2e172d2.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/ui/iscroll/iscroll_93ba427.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/ui/velocity/velocity_022bc13.js"></script>
+<script type="text/javascript" src="/static/newsmedia/lessimgindex/lessimgindex_0e2d48b.js"></script>
+<script type="text/javascript" src="/static/newsmedia/widget/mod_sidebar/mod_sidebar_5cf9d41.js"></script>
+<script type="text/javascript">!function(){    require.async('newsmedia:widget/mod_sidebar/mod_sidebar.js', function(login) {
+      login();
+    })
+  }();
+!function(){    var device = 'pc';
+    // 手机端直接监听每条新闻并跳转
+    if (device !== 'pc') {
+      $(function() {
+        var $banner = $('#banners');
+
+        $banner.delegate('.feed_tegao', 'click', function(ev) {
+          // 判断是否是点击了tag
+          var $target = $(ev.target);
+          if ($target.attr('href') &&
+            /^\/.*/.test($target.attr('href'))) return;
+
+          var $item = $(ev.currentTarget);
+          var href = $item.attr('data-href');
+
+          setTimeout(function() {
+            window.location.href = href;
+          }, 100)
+        });
+      });
+    }
+
+    alog("set", "alias", {
+         monkey: "http://img.baidu.com/hunter/alog/monkey.min.js",
+         element: "http://img.baidu.com/hunter/alog/element.min.js"
+     });
+
+     alog("require", ["monkey", "element"], function(monkey, element){
+         monkey.create({
+             page: "news-infzm",
+             pid: "241",
+             p: "133",
+             hid: "424",
+             postUrl: "http://nsclick.baidu.com/u.gif",
+             reports: {
+                refer: 1,
+                staytime: 1
+             }
+         });
+     });
+
+     alog("monkey.send", "pageview", { now: +new Date });
+  }();</script></html>
